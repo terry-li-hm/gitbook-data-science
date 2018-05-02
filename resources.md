@@ -1,5 +1,7 @@
 # Resources
 
+
+
 {% embed data="{\"url\":\"https://www.coursera.org/specializations/aml\",\"type\":\"link\",\"title\":\"Advanced Machine Learning \| Coursera\",\"description\":\"Advanced Machine Learning from National Research University Higher School of Economics. This specialization gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian methods. Top ...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/icon-194x194.png\",\"width\":194,\"height\":194,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://d15cw65ipctsrr.cloudfront.net/44/571ff08f2211e7b065b9a1d29b8277/General.png\",\"width\":1500,\"height\":430,\"aspectRatio\":0.2866666666666667}}" %}
 
 {% embed data="{\"url\":\"http://mlwhiz.com/blog/2017/12/26/How\_to\_win\_a\_data\_science\_competition/\",\"type\":\"link\",\"title\":\"Using XGBoost for time series prediction tasks\",\"description\":\"Recently Kaggle master Kazanova along with some of his friends released a coursera course. The Course involved a final project which itself was a time series prediction problem. Here I will describe how I got a top 10 position as of writing this article.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://mlwhiz.github.io/favicon.png\",\"aspectRatio\":0}}" %}
