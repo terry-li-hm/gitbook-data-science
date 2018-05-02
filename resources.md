@@ -2,7 +2,7 @@
 
 ## Inbox
 
-
+[A Guide to Sequence Prediction using Compact Prediction Tree \(with codes in Python\)](https://www.analyticsvidhya.com/blog/2018/04/guide-sequence-prediction-using-compact-prediction-tree-python/)
 
 ## 
 
