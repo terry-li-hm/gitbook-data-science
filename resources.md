@@ -4,11 +4,9 @@
 
 [A Guide to Sequence Prediction using Compact Prediction Tree \(with codes in Python\)](https://www.analyticsvidhya.com/blog/2018/04/guide-sequence-prediction-using-compact-prediction-tree-python/)
 
-## 
-
 ## Decision trees
 
-{% embed data="{\"url\":\"https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236\",\"type\":\"link\",\"title\":\"Introduction to Decision Tree Learning\",\"description\":\"From Kaggle to classrooms, one of the first lessons in machine learning involves decision trees.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*Ctcvx33DP415DmqrjubU1Q.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1200/1\*CEXGIOLSH11NUcmvQpk\_yw.png\",\"width\":1200,\"height\":800,\"aspectRatio\":0.6666666666666666}}" %}
+[Introduction to Decision Tree Learning](https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236)
 
 
 
@@ -75,6 +73,8 @@
 {% embed data="{\"url\":\"https://blog.godatadriven.com/fairness-in-ml\",\"type\":\"link\",\"title\":\"GoDataDrivenBlog\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blog.godatadriven.com/theme/img/apple-touch-icon-144x144.png\",\"width\":144,\"height\":144,\"aspectRatio\":1}}" %}
 
 {% embed data="{\"url\":\"https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/\",\"type\":\"link\",\"title\":\"6 Easy Steps to Learn Naive Bayes Algorithm \(with code in Python\)\",\"description\":\"This article describes the basic principle behind Naive Bayes algorithm, its application, pros & cons, along with its implementation in Python and R\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo\_square\_v2.jpg\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/09/14091053/cube-six-gambling-play-37524.jpeg\",\"width\":640,\"height\":478,\"aspectRatio\":0.746875}}" %}
+
+
 
 {% embed data="{\"url\":\"http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/\",\"type\":\"link\",\"title\":\"How a Kalman filter works, in pictures \| Bzarg\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.bzarg.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
@@ -236,7 +236,7 @@
 
 {% embed data="{\"url\":\"https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7\",\"type\":\"link\",\"title\":\"Introduction to Bayesian Linear Regression\",\"description\":\"An explanation of the Bayesian approach to linear modeling\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*F0LADxTtsKOgmPa-\_7iUEQ.jpeg\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1200/1\*uW8VVFJtCjrbPu9P0q0Iog.jpeg\",\"width\":1200,\"height\":461,\"aspectRatio\":0.38416666666666666}}" %}
 
-
+[The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 
 
 
