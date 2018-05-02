@@ -40,6 +40,10 @@
 
 ## Seems quite useful
 
+[Getting Started With MachineLearning \(all in one\)\_V0.91](https://www.dropbox.com/s/qh48dkbkq0qtdpa/Getting%20Started%20With%20MachineLearning%20%28all%20in%20one%29_V0.91.pdf?dl=0)
+
+[Ubuntu + Deep Learning Software Installation Guide](https://towardsdatascience.com/ubuntu-deep-learning-software-installation-guide-fdae09f79903)
+
 {% embed data="{\"url\":\"https://www.analyticsvidhya.com/blog/2018/04/winning-solutions-codes-from-avs-signature-hackathon-lord-of-the-machines/\",\"type\":\"link\",\"title\":\"Winning Solutions & Codes from AV\'s Signature Hackathon - Lord of the Machines\",\"description\":\"This article features the top three winning solutions, along with the code links, for Analytics Vidhya\'s signature hackathon - Lord of the Machines.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo\_square\_v2.jpg\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/04/LOTM1.png\",\"width\":441,\"height\":252,\"aspectRatio\":0.5714285714285714}}" %}
 
 {% embed data="{\"url\":\"https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection\",\"type\":\"link\",\"title\":\"Unsupervised Anomaly Detection\",\"description\":\"Using data from Numenta Anomaly Benchmark \(NAB\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.kaggle.com/content/v/d420a040e581/kaggle/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://kaggle2.blob.core.windows.net/datasets-images/110/240/38e592a161de4399322783743f6a6d34/dataset-thumbnail.png\",\"width\":120,\"height\":120,\"aspectRatio\":1}}" %}
@@ -91,6 +95,8 @@
 {% embed data="{\"url\":\"https://zhuanlan.zhihu.com/p/25742261\",\"type\":\"link\",\"title\":\"Kaggle 入门指南\",\"description\":\"这是我去年 4 月份参加完第一次 Kaggle 比赛并拿到前 5% 的成绩后写的总结。本文的英文版当时还被 Kaggle 的官方推特转发推荐。一年过去了，Kaggle 的赛制和积分体系等都发生了一些变化，不过本文中描述的依然是行…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.zhihu.com/static/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://pic4.zhimg.com/v2-52af8e306a7881809410785995fa7aa6\_r.jpg\",\"width\":650,\"height\":350,\"aspectRatio\":0.5384615384615384}}" %}
 
 {% embed data="{\"url\":\"http://datapigtechnologies.com/blog/index.php/highlighting-outliers-in-your-data-with-the-tukey-method/\",\"type\":\"link\",\"title\":\"Highlighting Outliers in your Data with the Tukey Method – Bacon Bits\"}" %}
+
+[The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 
 {% embed data="{\"url\":\"https://panx.asia/archives/53209\",\"type\":\"link\",\"title\":\"3 分鐘搞懂深度學習到底在深什麼 - PanX 泛科技\",\"description\":\"深度學習其實跟 VR 很像，他們都不是全新的概念，卻在這幾年因為硬體進步而死灰復燃。深度學習是機器學習的一種方式，也可以說是目前人工智慧的主流，今年擊敗世界棋王的 Google AlphaGo，2011 年奪得益智問答比賽大獎的 IBM Watson 都是最佳代言。  要設計出比天才還厲害的電腦，一定是天才還聰明的人囉？答案是：不，建構一套深度學習的網路，其實沒有想像中困難，只要看完這篇文章，就能夠有基本的了解，再搭配網路資源自學一下，甚至就可以開始建立自己的深度學習網路。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://panx.asia/wp-content/uploads/2016/01/footer\_llogox2.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://panx.asia/wp-content/uploads/2016/07/340.jpg\",\"width\":2750,\"height\":1833,\"aspectRatio\":0.6665454545454546}}" %}
 
@@ -235,10 +241,6 @@
 ## Read once and good to bookmark
 
 {% embed data="{\"url\":\"https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7\",\"type\":\"link\",\"title\":\"Introduction to Bayesian Linear Regression\",\"description\":\"An explanation of the Bayesian approach to linear modeling\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*F0LADxTtsKOgmPa-\_7iUEQ.jpeg\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1200/1\*uW8VVFJtCjrbPu9P0q0Iog.jpeg\",\"width\":1200,\"height\":461,\"aspectRatio\":0.38416666666666666}}" %}
-
-[The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
-
-
 
 ##  Books purchased from [O'Reilly Media](https://members.oreilly.com/account/emedia/index) 
 
