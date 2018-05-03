@@ -3,6 +3,7 @@
 * [Machine Learning Yearning](README.md)
 * [Inbox](inbox.md)
 * [To Read](to-read.md)
+* [Machine Learning Yearning](machine-learning-yearning.md)
 * [For new position](for-new-position.md)
 * [Resources](resources.md)
 * [My Server](my-server.md)

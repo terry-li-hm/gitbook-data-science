@@ -6,6 +6,10 @@
 
 [Why so many data scientists are leaving their jobs – Towards Data Science](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
 
+## Read on Mobile
+
+[Sizing the potential value of AI and advanced analytics \| McKinsey & Company](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
+
 ## Inbox
 
 [Hyperparameters tuning with Polyaxon – Polyaxon – Medium](https://medium.com/polyaxon/hyperparameters-tuning-with-polyaxon-9403f8ea85be)
@@ -54,6 +58,16 @@
 
 [How to Get the Most From Your Machine Learning Data](https://machinelearningmastery.com/how-to-get-the-most-from-your-machine-learning-data/)
 
+[The Model Performance Mismatch Problem \(and what to do about it\)](https://machinelearningmastery.com/the-model-performance-mismatch-problem/)
+
+[Building & Improving a K-Nearest Neighbors Algorithm in Python](https://towardsdatascience.com/building-improving-a-k-nearest-neighbors-algorithm-in-python-3b6b5320d2f8)
+
+[An Overview of Regularization Techniques in Deep Learning \(with Python code\)](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
+
+[Introducing TensorFlow Probability – TensorFlow – Medium](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
+
+[An Introduction to Graph Theory and Network Analysis \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
+
 ## Course
 
 [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
@@ -62,25 +76,57 @@
 
 [Foundations of Data Science: Inferential Thinking by Resampling](https://www.edx.org/course/foundations-data-science-inferential-uc-berkeleyx-data8-2x)
 
-## GAN
 
-[這些資源你肯定需要！超全的GAN PyTorch+Keras實現集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-24-7)
 
-## Reinforcement Learning
+## Book
 
-[Monte Carlo method in Python – Harder Choices](https://harderchoices.com/2018/04/04/monte-carlo-method-in-python/)
+[joaoventura/full-speed-python: Full Speed Python: a book for self-learners](https://github.com/joaoventura/full-speed-python)
+
+## Data Warehouse
+
+[Choosing Between Modern Data Warehouses \| Statsbot Blog](https://statsbot.co/blog/modern-data-warehouse/)
+
+## 
+
+## Python
+
+[Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
 
 ## Jupyter Notebook
 
 [IPython Cookbook - IPython Cookbook, Second Edition \(2018\)](https://ipython-books.github.io/)
 
+## Statistics
 
+[A \(very\) friendly introduction to Confidence Intervals](https://towardsdatascience.com/a-very-friendly-introduction-to-confidence-intervals-9add126e714)
+
+[Explaining Maximum Likelihood, Maximum a Posteriori, and Bayesian Parameter Estimation](https://medium.com/@amatsukawa/maximum-likelihood-maximum-a-priori-and-bayesian-parameter-estimation-d99a23a0519f)
+
+## Mathematics
+
+[Basic Linear Algebra for Deep Learning – Towards Data Science](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)
+
+[从入门到高阶，读懂机器学习需要哪些数学知识（附网盘） \| 机器之心](https://www.jiqizhixin.com/articles/2018-04-12-4)
+
+## Long sequence modeling
+
+[Visualizing LSTM Networks. Part I. – Acta Schola Automata Polonica – Medium](https://medium.com/asap-report/visualizing-lstm-networks-part-i-f1d3fa6aace7)
+
+[The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 
 ## Deep Learning
 
 [NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
 
 [Data Augmentation \| How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
+
+[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+[jiqizhixin/ML-Tutorial-Experiment: Coding the Machine Learning Tutorial for Learning to Learn](https://github.com/jiqizhixin/ML-Tutorial-Experiment)
+
+[How to start a Deep Learning project? – Jonathan Hui – Medium](https://medium.com/@jonathan_hui/how-to-start-a-deep-learning-project-d9e1db90fa72)
+
+[Another data science student's blog – The 1cycle policy](https://sgugger.github.io/the-1cycle-policy.html)
 
 ### Keras
 
@@ -92,7 +138,41 @@
 
 ### CapsuleNets
 
+[Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
+
 [Essentials of Deep Learning: Getting to know CapsuleNets \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/essentials-of-deep-learning-getting-to-know-capsulenets/)
+
+### GAN
+
+[GAN with Keras: Application to Image Deblurring – Sicara’s blog](https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5)
+
+## NLP
+
+[NLP — Building a Question Answering model – Towards Data Science](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54)
+
+[Entity extraction using Deep Learning based on Guillaume Genthial work on NER](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
+
+## Computer Vision
+
+[Going deep into image classification – Towards Data Science](https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b)
+
+[GitHub新項目：輕鬆使用多種預訓練卷積網絡抽取圖像特徵 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-16-3)
+
+[An Overview of ResNet and its Variants – Towards Data Science](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+
+## GAN
+
+[這些資源你肯定需要！超全的GAN PyTorch+Keras實現集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-24-7)
+
+## Reinforcement Learning
+
+[Monte Carlo method in Python – Harder Choices](https://harderchoices.com/2018/04/04/monte-carlo-method-in-python/)
+
+[Monte Carlo Tree Search - beginners guide - Machine learning blog Machine learning blog](https://int8.io/monte-carlo-tree-search-beginners-guide/)
+
+[CS 294 Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
+
+[通過 Q-learning 深入理解強化學習 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-17-3)
 
 
 
