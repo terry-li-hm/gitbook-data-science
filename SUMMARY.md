@@ -10,6 +10,7 @@
 * [Rossmann](rossmann.md)
 * [New York City Taxi Trip Duration](new-york-city-taxi-trip-duration.md)
 * [Gene](gene.md)
+* [DBS](dbs.md)
 * [Notes](notes.md)
 * [Visualization](visualization.md)
 * [Python](python.md)
@@ -26,5 +27,4 @@
 * [Resume Projects](resume-projects.md)
 * [NLP](untitled-4.md)
 * [Website](website.md)
-* [DBS](dbs.md)
 
