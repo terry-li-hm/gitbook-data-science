@@ -22,5 +22,7 @@
 
 {% embed data="{\"url\":\"https://github.com/bstriner/keras-tqdm\#key-features\",\"type\":\"link\",\"title\":\"bstriner/keras-tqdm\",\"description\":\"keras-tqdm - Keras integration with TQDM progress bars\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/12462956?s=400&v=4\",\"width\":372,\"height\":372,\"aspectRatio\":1}}" %}
 
+[Comet.ml \| Supercharging Machine Learning](https://www.comet.ml/)
 
+[Prodicode/ann-visualizer: A python library for visualizing Artificial Neural Networks \(ANN\)](https://github.com/Prodicode/ann-visualizer)
 
