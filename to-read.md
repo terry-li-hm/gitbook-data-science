@@ -40,6 +40,20 @@
 
 [Featuretools \| An open source framework for automated feature engineering Quick Start](https://www.featuretools.com/)
 
+[Slow Growth is Becoming a Human Trend Too](https://github.com/axibase/atsd-use-cases/tree/master/Chart_of_the_Day/life-expectancy)
+
+[Machine Learning Development Environment](https://machinelearningmastery.com/machine-learning-development-environment/)
+
+[mm-mansour/Fast-Pandas: Benchmark for different operations in pandas against various dataframe sizes.](https://github.com/mm-mansour/Fast-Pandas)
+
+[Analytical vs Numerical Solutions in Machine Learning](https://machinelearningmastery.com/analytical-vs-numerical-solutions-in-machine-learning/)
+
+[Introducing Listing Embeddings – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+
+[A Must-Read Introduction to Sequence Modelling \(with use cases\)](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/)
+
+[How to Get the Most From Your Machine Learning Data](https://machinelearningmastery.com/how-to-get-the-most-from-your-machine-learning-data/)
+
 ## Course
 
 [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
@@ -60,11 +74,25 @@
 
 [IPython Cookbook - IPython Cookbook, Second Edition \(2018\)](https://ipython-books.github.io/)
 
-## Keras
+
+
+## Deep Learning
+
+[NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
+
+[Data Augmentation \| How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
+
+### Keras
 
 [How to Make Predictions with Keras](https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/)
 
+### Tensorflow
 
+[tensorflow/hub: A library for transfer learning by reusing parts of TensorFlow models.](https://github.com/tensorflow/hub)
+
+### CapsuleNets
+
+[Essentials of Deep Learning: Getting to know CapsuleNets \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/essentials-of-deep-learning-getting-to-know-capsulenets/)
 
 
 
