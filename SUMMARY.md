@@ -21,10 +21,10 @@
 * [AWS](aws.md)
 * [Commands](untitled-1.md)
 * [DS Bookmarks](ds-bookmarks.md)
-* [DS Todo](untitled-2.md)
 * [Fast.ai](fast.ai.md)
 * [Use Cases](untitled-3.md)
 * [Resume Projects](resume-projects.md)
 * [NLP](untitled-4.md)
 * [Website](website.md)
+* [Bookmarks](untitled-2.md)
 

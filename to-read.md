@@ -8,6 +8,8 @@
 
 [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) \(11.3k clap!\)
 
+[An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+
 ## 
 
 ## Inbox
@@ -76,6 +78,10 @@
 
 [Markov Chain Monte Carlo in Python – Towards Data Science](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
 
+[Online Learning Guide with Text Classification using Vowpal Wabbit \(VW\)](https://www.analyticsvidhya.com/blog/2018/01/online-learning-guide-text-classification-vowpal-wabbit-vw/)
+
+
+
 ## Curation
 
 [教程那麼多，你……看完了嗎？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-02-07-3)
@@ -84,7 +90,9 @@
 
 [Recommended Resources - Practical Business Python](http://pbpython.com/pages/resources.html)
 
+[donnemartin/data-science-ipython-notebooks: Data science Python notebooks: Deep learning \(TensorFlow, Theano, Caffe, Keras\), scikit-learn, Kaggle, big data \(Spark, Hadoop MapReduce, HDFS\), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+[josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Course
 
@@ -104,11 +112,17 @@
 
 
 
+## Overview
+
+[Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
+
 ## Data Warehouse
 
 [Choosing Between Modern Data Warehouses \| Statsbot Blog](https://statsbot.co/blog/modern-data-warehouse/)
 
-## 
+## Command Line
+
+[Command Line Tricks For Data Scientists – Kade Killary – Medium](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 
 ## Python
 
@@ -119,6 +133,10 @@
 [Python Basics for Data Science – Towards Data Science](https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755)
 
 [Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python](https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924)
+
+[Python For Loops Explained \(Python for Data Science Basics \#5\)](https://data36.com/python-for-loops-explained-data-science-basics-5/)
+
+
 
 ## Jupyter Notebook
 
@@ -160,7 +178,7 @@
 
 [Data Visualization Hackathon Style – Towards Data Science](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
 
-
+[ContextLab/hypertools: A Python toolbox for gaining geometric insights into high-dimensional data](https://github.com/ContextLab/hypertools)
 
 ## Statistics
 
@@ -186,7 +204,13 @@
 
 [從最大似然估計開始，你需要打下的機器學習基石 \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-09-6)
 
+[A Gentle Introduction to the Law of Large Numbers in Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/)
 
+[A Gentle Introduction to the Central Limit Theorem for Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/)
+
+## Machine Learning
+
+[hangtwenty/dive-into-machine-learning: Dive into Machine Learning with Python Jupyter notebook and scikit-learn!](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Decision Trees
 
@@ -219,6 +243,10 @@
 [Learning Curves for Machine Learning](https://www.dataquest.io/blog/learning-curves-machine-learning/)
 
 [Overfitting vs. Underfitting: A Conceptual Explanation](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
+
+[How \(and why\) to create a good validation set · fast.ai](http://www.fast.ai/2017/11/13/validation-sets/)
+
+
 
 ### Metrics
 
@@ -255,6 +283,12 @@
 [Deep Learning A-Z™: Hands-On Artificial Neural Networks \| Udemy](https://www.udemy.com/deeplearning/?siteID=QZaBth_yPOQ-yCbCBqQJOu918gLAuLj5uQ&LSNPUBID=QZaBth/yPOQ)
 
 [From Perceptron to Deep Neural Nets – Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
+
+[10 Audio Processing Projects to start with Deep Learning Applications](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
+
+[Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+
+
 
 ### Keras
 
@@ -315,6 +349,10 @@
 ## GAN
 
 [這些資源你肯定需要！超全的GAN PyTorch+Keras實現集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-24-7)
+
+[An Intuitive Introduction to Generative Adversarial Networks \| No Free Hunch](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
+
+
 
 ## Reinforcement Learning
 
