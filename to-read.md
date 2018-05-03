@@ -12,6 +12,10 @@
 
 [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 
+## GAN
+
+[這些資源你肯定需要！超全的GAN PyTorch+Keras實現集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-24-7)
+
 
 
 
