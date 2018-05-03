@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Machine Learning Yearning](README.md)
+* [Cover](README.md)
 * [Inbox](inbox.md)
 * [To Read](to-read.md)
 * [Machine Learning Yearning](machine-learning-yearning.md)

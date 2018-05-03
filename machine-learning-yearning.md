@@ -71,3 +71,9 @@
 > * The Eyeball dev set should be big enough so that your algorithm misclassifies enough   examples for you to analyze. A Blackbox dev set of 1,000-10,000 examples is sufficient   for many applications.
 > * If your dev set is not big enough to split this way, just use an Eyeball dev set for manual   error analysis, model selection, and hyperparameter tuning.
 
+[Ng\_MLY01.pdf](https://www.dropbox.com/s/98cxhqe4uvdjz51/Ng_MLY01.pdf?dl=0)
+
+[Ng\_MLY02.pdf](https://www.dropbox.com/s/jowspahz8w6j6w2/Ng_MLY02.pdf?dl=0)
+
+[Ng\_MLY03.pdf](https://www.dropbox.com/s/u9y9j64htoz79gi/Ng_MLY03.pdf?dl=0)
+

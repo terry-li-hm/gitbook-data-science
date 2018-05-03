@@ -6,9 +6,7 @@
 
 [Why so many data scientists are leaving their jobs – Towards Data Science](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
 
-## Read on Mobile
-
-[Sizing the potential value of AI and advanced analytics \| McKinsey & Company](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
+## 
 
 ## Inbox
 
