@@ -156,6 +156,8 @@
 
 [Guide to Encoding Categorical Values in Python - Practical Business Python](http://pbpython.com/categorical-encoding.html)
 
+[How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+
 
 
 ## Visualization
