@@ -1,9 +1,5 @@
 # DBS
 
-[A Gentle Introduction to Concept Drift in Machine Learning](https://machinelearningmastery.com/gentle-introduction-concept-drift-machine-learning/)
-
-
-
 [SMU-16-0023\_\_DBS\_Analytics\_.pdf](https://www.dropbox.com/s/luqh3twjdhleovn/SMU-16-0023__DBS_Analytics_.pdf?dl=0)
 
 [SMU-17-0018\_\_DBS\_Agile\_Auditing\_.pdf](https://www.dropbox.com/s/zxfskuvf9ocpnap/SMU-17-0018__DBS_Agile_Auditing_.pdf?dl=0)
