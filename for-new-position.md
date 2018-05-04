@@ -29,5 +29,5 @@ Abnormally detection should be the key Kate for data science for audit.
 
 
 
-
+[Data Cleaning Challenge: Cleaning numeric columns \| Kaggle](https://www.kaggle.com/rtatman/data-cleaning-challenge-cleaning-numeric-columns)
 
