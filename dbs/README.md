@@ -1,7 +1,5 @@
 # DBS
 
-[Introduction to Markov Chains – Towards Data Science](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
-
 [A Gentle Introduction to Concept Drift in Machine Learning](https://machinelearningmastery.com/gentle-introduction-concept-drift-machine-learning/)
 
 

@@ -1,5 +1,11 @@
 # Notes
 
+## Potential Problems to Consider
+
+Concept drift
+
+## 
+
 ## Correlation
 
 > It is important to discover and quantify the degree to which variables in your dataset are dependent upon each other. This knowledge can help you better prepare your data to meet the expectations of machine learning algorithms, such as linear regression, whose performance will degrade with the presence of these interdependencies.
