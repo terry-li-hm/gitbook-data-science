@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Cover](README.md)
+* [DBS](dbs/README.md)
+  * [JD](dbs/jd.md)
 * [Inbox](inbox.md)
 * [To Read](to-read.md)
 * [Machine Learning Yearning](machine-learning-yearning.md)
@@ -10,7 +12,6 @@
 * [Rossmann](rossmann.md)
 * [New York City Taxi Trip Duration](new-york-city-taxi-trip-duration.md)
 * [Gene](gene.md)
-* [DBS](dbs.md)
 * [Notes](notes.md)
 * [Visualization](visualization.md)
 * [Python](python.md)
