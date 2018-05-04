@@ -1,6 +1,8 @@
 # My Server
 
 ```text
+218.250.221.14
+
 ssh terry@192.168.1.110
 jupyter notebook --no-browser --port=8888
 ssh -f terry@192.168.1.110 -L 8888:localhost:8888 -N
