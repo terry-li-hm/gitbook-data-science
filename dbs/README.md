@@ -8,7 +8,7 @@
 
 [The Future of Auditing at DBS - YouTube](https://www.youtube.com/watch?v=kS9pZWdje7U)
 
-{% embed data="{\"url\":\"https://www.dropbox.com/s/o0v12unthsnyzab/IIA%20HK%20Annual%20Conference\_RonnieIp.pdf?dl=0\",\"type\":\"link\",\"title\":\"IIA HK Annual Conference\_RonnieIp.pdf\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cfl.dropboxstatic.com/static/images/icons128/page\_white\_acrobat.png\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
+[IIA HK Annual Conference\_RonnieIp.pdf](https://www.dropbox.com/s/o0v12unthsnyzab/IIA%20HK%20Annual%20Conference_RonnieIp.pdf?dl=0)
 
 [shonali-release-version-160803084631-160929163608.pdf](https://www.dropbox.com/s/gennmdm441ew150/shonali-release-version-160803084631-160929163608.pdf?dl=0)
 
