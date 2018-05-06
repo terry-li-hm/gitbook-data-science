@@ -28,4 +28,5 @@
 * [NLP](untitled-4.md)
 * [Website](website.md)
 * [Bookmarks](untitled-2.md)
+* [Thinking](thinking.md)
 

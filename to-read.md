@@ -248,7 +248,14 @@
 
 [How \(and why\) to create a good validation set · fast.ai](http://www.fast.ai/2017/11/13/validation-sets/)
 
+### Feature engineering
 
+[target encoding for categorical features](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)  
+
+
+[Python target encoding for categorical features \| Kaggle](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
+
+[如何有效處理特徵範圍差異大且類型不一的數據？ - 知乎](https://www.zhihu.com/question/42341851/answer/207949804)
 
 ### Metrics
 
@@ -328,6 +335,8 @@
 
 [Building a FAQ Chatbot in Python – The Future of Information Searching](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
 
+[Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?)
+
 ### Text Classification
 
 [A Comprehensive Guide to Understand and Implement Text Classification in Python](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
@@ -383,6 +392,10 @@
 [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers: aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;\)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 [Bayes’ Rule Applied – Towards Data Science](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
+
+
+
+
 
 
 

@@ -1,5 +1,9 @@
 # For new position
 
+[https://github.com/aakashtandel/misc\_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.ipynb](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.ipynb)
+
+
+
 I should focus more on engineering to compliment Guo Lin, who is strong in academic  
 
 
