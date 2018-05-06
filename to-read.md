@@ -261,6 +261,8 @@
 
 [如何有效處理特徵範圍差異大且類型不一的數據？ - 知乎](https://www.zhihu.com/question/42341851/answer/207949804)
 
+[An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+
 ### Metrics
 
 [Beyond Accuracy: Precision and Recall – Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
