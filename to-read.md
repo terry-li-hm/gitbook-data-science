@@ -14,6 +14,20 @@
 
 [JPM - Big Data and AI Strategies.pdf](https://www.dropbox.com/s/1kk702wur687ti4/JPM%20-%20Big%20Data%20and%20AI%20Strategies.pdf?dl=0)
 
+{% embed data="{\"url\":\"https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning\",\"type\":\"link\",\"title\":\"Notes from the AI frontier: Applications and value of deep learning\",\"description\":\"An analysis of more than 400 use cases across 19 industries and nine business functions highlights the broad use and significant economic potential of advanced AI techniques.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Artificial%20Intelligence/Notes%20from%20the%20AI%20frontier%20Applications%20and%20value%20of%20deep%20learning/MGI-AI-Frontier-Tableau-v2\_1536x1536.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai\",\"type\":\"link\",\"title\":\"An executive’s guide to AI\",\"description\":\"To stay at the forefront of the accelerating artificial-intelligence race, business executives can study up on the ABCs of AI using this interactive.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/An%20executives%20guide%20to%20AI/ExecutivesGuideToAI-I\_b\_1536x1536.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business\",\"type\":\"link\",\"title\":\"What AI can and can’t do \(yet\) for your business\",\"description\":\"Artificial intelligence is a moving target. Here&rsquo;s how to take better aim.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/What%20AI%20can%20and%20cant%20do%20yet%20for%20your%20business/3DBrainTEAL-Hero-1536x1536.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.mckinsey.com/featured-insights/artificial-intelligence/how-artificial-intelligence-and-data-add-value-to-businesses\",\"type\":\"link\",\"title\":\"How artificial intelligence and data add value to businesses\",\"description\":\"Artificial intelligence will transform many companies and create completely new types of businesses. The cofounder of Coursera, AI Fund, and Landing.AI shares how businesses can benefit.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Artificial%20Intelligence/How%20artificial%20intelligence%20and%20data%20add%20value%20to%20businesses/Andrew-Ng-on-building-AI-enabled-companies-001\_vstill\_1536x1536.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+
+
+{% embed data="{\"url\":\"https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence\",\"type\":\"link\",\"title\":\"The real-world potential and limitations of artificial intelligence\",\"description\":\"Artificial intelligence has the potential to create trillions of dollars of value across the economy--if business leaders work to understand what AI can and cannot do.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Artificial%20Intelligence/The%20real%20world%20potential%20and%20limitations%20of%20artificial%20intelligence/AIRealWorldPodcast-1536x1536-100.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+
+
 ## 
 
 ## Inbox
@@ -98,6 +112,8 @@
 
 [josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 
+[https://towardsdatascience.com/the-best-data-science-learning-resources-out-there-and-my-journey-into-data-science-81c5a6ec67bc](https://towardsdatascience.com/the-best-data-science-learning-resources-out-there-and-my-journey-into-data-science-81c5a6ec67bc)
+
 ## Course
 
 [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
@@ -120,6 +136,16 @@
 
 [Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
 
+## Strategy
+
+{% embed data="{\"url\":\"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-economics-of-artificial-intelligence?utm\_campaign=Data%2BPrism&utm\_medium=email&utm\_source=Data\_Prism\_26\",\"type\":\"link\",\"title\":\"The economics of artificial intelligence\",\"description\":\"Rotman School of Management professor Ajay Agrawal explains how AI changes the cost of prediction and what this means for business.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/The%20economics%20of%20artificial%20intelligence/hero-economics-of-artificial-intelligence.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning\",\"type\":\"link\",\"title\":\"Notes from the AI frontier: Applications and value of deep learning\",\"description\":\"An analysis of more than 400 use cases across 19 industries and nine business functions highlights the broad use and significant economic potential of advanced AI techniques.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-180x180.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Artificial%20Intelligence/Notes%20from%20the%20AI%20frontier%20Applications%20and%20value%20of%20deep%20learning/MGI-AI-Frontier-Tableau-v2\_1536x1536.ashx\",\"width\":1536,\"height\":1536,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://medium.com/indeed-data-science/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64\",\"type\":\"link\",\"title\":\"Qualitative before Quantitative: How Qualitative Methods Support Better Data Science\",\"description\":\"Co-authored with Vicky Zhang\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*gx0tiXCC4F\_t1Y\_KnxakRQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1200/0\*q9zHJEIi5ncNUc6B.\",\"width\":1200,\"height\":544,\"aspectRatio\":0.4533333333333333}}" %}
+
+
+
 ## Data Warehouse
 
 [Choosing Between Modern Data Warehouses \| Statsbot Blog](https://statsbot.co/blog/modern-data-warehouse/)
@@ -127,6 +153,8 @@
 ## Command Line
 
 [Command Line Tricks For Data Scientists – Kade Killary – Medium](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
+
+[https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 
 ## Python
 
@@ -162,7 +190,7 @@
 
 [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
 
-
+[https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 
 ## Visualization
 
@@ -232,7 +260,7 @@
 
 [Hyperparameter Tuning the Random Forest in Python – Towards Data Science](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
-
+[https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 ## Long sequence modeling
 
@@ -268,6 +296,8 @@
 [Beyond Accuracy: Precision and Recall – Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 
 [Unintended Consequences and Goodhart’s Law – Towards Data Science](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+
+[https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 
 ### Ensembles
 
