@@ -10,6 +10,10 @@
 
 [An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
 
+[JPM - An Investors' Guide to Artificial Intelligence.pdf](https://www.dropbox.com/s/7vd1zz31kunk9aj/JPM%20-%20An%20Investors%27%20Guide%20to%20Artificial%20Intelligence.pdf?dl=0)
+
+[JPM - Big Data and AI Strategies.pdf](https://www.dropbox.com/s/1kk702wur687ti4/JPM%20-%20Big%20Data%20and%20AI%20Strategies.pdf?dl=0)
+
 ## 
 
 ## Inbox
