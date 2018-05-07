@@ -102,6 +102,8 @@
 
 [Qix/dl2.md at master · ty4z2008/Qix](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
 
+[hangtwenty/dive-into-machine-learning: Dive into Machine Learning with Python Jupyter notebook and scikit-learn!](https://github.com/hangtwenty/dive-into-machine-learning)
+
 ## Course
 
 [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
