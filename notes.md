@@ -4,7 +4,32 @@
 
 Concept drift
 
-## 
+
+
+## Example of some Pandas techniques
+
+```python
+import pandas as pd
+path = '~/.kaggle/competitions/msk-redefining-cancer-treatment/'
+
+df_labels_test = pd.read_csv(path + 'stage1_solution_filtered.csv')
+df_labels_test.head(2)
+```
+
+|  | ID | class1 | class2 | class3 | class4 | class5 | class6 | class7 | class8 | class9 |
+| --- | --- | --- |
+| 0 | 12 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 19 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+```python
+df_labels_test['Class'] = pd.to_numeric(df_labels_test.drop('ID', axis=1).idxmax(axis=1).str[5:])
+df_labels_test.head(2)
+```
+
+|  | ID | class1 | class2 | class3 | class4 | class5 | class6 | class7 | class8 | class9 | Class |
+| --- | --- | --- |
+| 0 | 12 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 1 | 19 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
 
 ## Correlation
 
