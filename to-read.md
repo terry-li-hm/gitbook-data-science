@@ -16,6 +16,20 @@
 
 [12 Useful Things to Know about Machine Learning – James Le – Medium](https://medium.com/@james_aka_yale/12-useful-things-to-know-about-machine-learning-c599be92c98d) \(cited 1034 times!\)
 
+[Designing great data products - O'Reilly Media](https://www.oreilly.com/ideas/drivetrain-approach-data-products)
+
+[HR Analytics: Using Machine Learning to Predict Employee Turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
+
+[How Does Spotify Know You So Well? – Member Feature Stories – Medium](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+
+[Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
+
+[Applying deep learning to real-world problems – merantix – Medium](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
+
+[Predict Employee Turnover With Python – Towards Data Science](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
+
+[評估品牌對大眾的曝光程度，深度學習方案可解決這一問題 - 雲+社區 - 騰訊雲](https://cloud.tencent.com/developer/article/1051111)
+
 ## 
 
 ## Inbox
@@ -120,7 +134,7 @@
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 
-
+[ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
 
 ## Overview
 
@@ -260,6 +274,12 @@
 
 [How \(and why\) to create a good validation set · fast.ai](http://www.fast.ai/2017/11/13/validation-sets/)
 
+### Imbalanced data
+
+[Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
+
+[How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
+
 ### Feature engineering
 
 [target encoding for categorical features](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)  
@@ -315,7 +335,7 @@
 
 [Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 
-
+[Applied Deep Learning - Part 2: Real World Case Studies](https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
 
 ### Keras
 
@@ -341,6 +361,10 @@
 
 ## NLP
 
+[Data Science 101 \(Getting started in NLP\): Tokenization tutorial \| No Free Hunch](http://blog.kaggle.com/2017/08/25/data-science-101-getting-started-in-nlp-tokenization-tutorial/)
+
+[Vector Representations of Words  \|  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) \(highly recommneded by Jeremey\)
+
 [NLP — Building a Question Answering model – Towards Data Science](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54)
 
 [Entity extraction using Deep Learning based on Guillaume Genthial work on NER](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
@@ -354,6 +378,14 @@
 [Building a FAQ Chatbot in Python – The Future of Information Searching](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
 
 [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?)
+
+[Improving Airbnb Yield Prediction with Text Mining – Towards Data Science](https://towardsdatascience.com/improving-airbnb-yield-prediction-with-text-mining-9472c0181731)
+
+### Sentiment Analysis
+
+[Perform sentiment analysis with LSTMs, using TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
+
+[Data Science 101: Sentiment Analysis in R Tutorial \| No Free Hunch](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
 
 ### Text Classification
 
