@@ -14,6 +14,10 @@
 
 [Reimagining\_Audit.pdf](https://www.dropbox.com/s/pezb73pta80gsia/Reimagining_Audit.pdf?dl=0)
 
+[1.UsingDataAnalyticsforPredictiveAuditing\(FINAL\).pdf](https://www.dropbox.com/s/a3bit6ytv35h46f/1.UsingDataAnalyticsforPredictiveAuditing%28FINAL%29.pdf?dl=0)
+
+[3.ContinuousAuditingbyDBSGroupAudit\(FINAL\).pdf](https://www.dropbox.com/s/b0gwdhebs322hnc/3.ContinuousAuditingbyDBSGroupAudit%28FINAL%29.pdf?dl=0)
+
 ## PIITSStop
 
 [PIITSSTOP.mp4](https://www.dropbox.com/s/g3ymh5uor18eale/PIITSSTOP.mp4?dl=0)
