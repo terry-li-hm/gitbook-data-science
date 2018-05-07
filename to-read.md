@@ -146,6 +146,8 @@
 
 [Pandas tips and tricks – Towards Data Science](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9)
 
+[joaoventura/full-speed-python: Full Speed Python: a book for self-learners](https://github.com/joaoventura/full-speed-python)
+
 ## Jupyter Notebook
 
 [IPython Cookbook - IPython Cookbook, Second Edition \(2018\)](https://ipython-books.github.io/)
