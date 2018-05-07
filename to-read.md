@@ -277,6 +277,10 @@
 
 [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/)
 
+[Kaggle Ensembling Guide \| MLWave](https://mlwave.com/kaggle-ensembling-guide/)
+
+[Introduction to Ensembling/Stacking in Python \| Kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python/notebook)
+
 ## Regression
 
 [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
