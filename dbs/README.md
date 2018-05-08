@@ -14,8 +14,8 @@
 >
 > Andrew has worked in the treasury business for over 25 years. Prior to joining DBS, he was Executive Director at Canadian Imperial Bank of Commerce from 1995 to 1999. In that role, he set up CIBC’s trading platform and derivative capabilities on Asian currencies. Between 1986 and 1995, Andrew was Head of North Asia Trading and Treasurer of Chase Manhattan Bank in Taipei.
 
-> ### [Our Business Areas](https://www.dbs.com/careers/take-your-career/our-business-units/default.page)
->
+### [Our Business Areas](https://www.dbs.com/careers/take-your-career/our-business-units/default.page)
+
 > A banking career offers endless possibilities. And at DBS, we lay them all at your feet. Our business areas: Capital Markets, Consumer Banking, Institutional Banking, and Treasury & Markets, provide some of the most wide-ranging financial solutions in Asia. To you, that means a wealth of opportunities to make your mark – whichever path you take.
 >
 > All of them present a chance for you to become a star in the banking world. In fact many of our products and services have already been proven beyond compare. Whether in Singapore or in the rest of Asia, we are always the headline act, the best performers in our businesses.
@@ -42,7 +42,29 @@
 >
 > DBS Treasury & Markets is an Asian leader in treasury and offers a broad range of treasury products and services to individuals, companies and financial institutions. We offer cash and derivative products in foreign exchange, interest rates, equities, commodities and fixed income securities. We are the acknowledged leader in Singapore, with dominance in the Singapore dollar market across various asset classes. We are experts in Asia, committed to extending our leadership in market making, product structuring, distribution and fixed income origination capabilities in Asian currencies. Our nimbleness in structuring products for customers in response to changing market conditions sets us apart from competitors.
 
+### [Vice President/Assistant Vice President, Treasury & Markets Operations](https://hk.jobsdb.com/hk/en/job/vice-president-assistant-vice-president-treasury-markets-operations-100003006076555)
 
+> **Responsibilities**
+>
+> * Oversee and supervise the HK Treasury & Market Operation processing team
+> * Daily processing/settlement control and monitoring
+> * Ensure queries and issues are attended to and resolved timely
+> * Investigate, follow up and monitor outstanding items, eg GL break, confirmation...etc
+> * Participate in New Product and/or New System implementation working group for smoothly rolling-out to the team.
+> * Monitor and follow up HK Trade Repository post implementation and on-going issues
+> * Familiar with the compliance requirements, rules and regulations governing the Treasury & Markets
+> * People development
+>
+> **Requirement**
+>
+> * Degree holder
+> * Minimum 8 years of relevant work experience
+> * Good understanding of end to end Treasury Business and Operations support functions related products and services
+> * Understanding of and passionate for the innovation and technology
+> * Exposure in Investment Banking or Treasury & Market space, with good understanding of Industry development and regulatory development
+> * Excellent relationship and stakeholder management skills
+> * Strong influencing skills; strategic thinker; hands-on and delivery focused
+> * Strong communication, presentation and writing skills
 
 
 
