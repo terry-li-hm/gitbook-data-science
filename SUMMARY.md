@@ -40,4 +40,6 @@
   * [Time Series](topics/time-series.md)
   * [Applications](topics/applications.md)
   * R
+  * [Bayesian](topics/bayesian.md)
+  * [GAN](topics/gan.md)
 
