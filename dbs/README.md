@@ -160,6 +160,47 @@
 >
 > Others encompass a range of activities from corporate decisions and include income and expenses not attributed to other business segments, including capital and balance sheet management, funding and liquidity. DBS Vickers Securities and The Islamic Bank of Asia are also included in this segment.
 
+> Andrew Ng - Treasury & Markets
+>
+> Andrew joined DBS in 2000 and has over 32 years of experience in the treasury business. Prior to joining DBS, he was Executive Director at Canadian Imperial Bank of Commerce \(CIBC\) from 1995 to 1999. He set up CIBC’s trading platform and derivative capabilities on Asian currencies. Between 1986 and 1995, Andrew was Head of North Asia Trading and Treasurer of Chase Manhattan Bank in Taipei. He is currently President of ACI Singapore – The Financial Markets Association and Chairman of Asia Securities Industry & Financial Markets Association \(ASIFMA\).
+
+#### [DBS Corporate Banking](https://www.dbs.com.hk/corporate/treasury/derivatives.page)
+
+* Cash \(Accounts & Payments\)
+* Trade \(Import & Export\)
+* Financing \(Business Loans\)
+* Treasury \(Hedging and Growth\)
+  * Derivatives
+    * Interest Rate Derivatives
+    * FX Derivatives
+  * Foreign Exchange \(FX\)
+  * Fixed Income
+  * Structured Debt
+* Advisory \(Capital Markets\)
+* Research \(With Asian Insights\)
+
+#### [DBS SME Banking](https://www.dbs.com.hk/sme/treasury/foreign-exchange.page)
+
+* BusinessClass \(Tools & Insights\)
+* Day to Day \(Accounts and Payments\)
+* Trade \(Import and Export\)
+* Financing \(Business Loans\)
+* Treasury \(Hedging and Growth\)
+  * Foreign Exchange
+    * Spot FX
+    * FX Value Today
+    * FX Option
+    * FX Forward
+    * Online FX Trading - DealOnline
+  * Interests Rates
+    * Interest Rate Swap
+    * Cross-Currency Swap
+  * Structured Debt
+  * RMB Capabilities
+  * Investment
+* Services \(Insurance & Advisory\)
+* Research \(With Asian Insights\)
+
 ## Inbox
 
 [SMU-16-0023\_\_DBS\_Analytics\_.pdf](https://www.dropbox.com/s/luqh3twjdhleovn/SMU-16-0023__DBS_Analytics_.pdf?dl=0)
