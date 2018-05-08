@@ -8,11 +8,5 @@
 
 [CFTC fines Citi for Libor, Isdafix rate fixing - Business Insider](http://uk.businessinsider.com/citi-fined-cftc-libor-isdafix-rate-fixing-evidence-chat-logs-transcripts-2016-5)
 
-https://terryli.gitbook.io/data-science/~/edit/primary/topics/anomaly-detection
 
-{% embed data="{\"url\":\"https://terryli.gitbook.io/data-science/~/edit/primary/dbs/1st-engagement\",\"type\":\"link\",\"title\":\"Sign in to GitBook - GitBook\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.gitbook.com/public/images/b1c4c86ca817a71628d2debe73be9a64.ico\",\"aspectRatio\":0}}" %}
-
-
-
-[https://terryli.gitbook.io/data-science/topics/anomaly-detection](https://terryli.gitbook.io/data-science/topics/anomaly-detection)
 

@@ -8,9 +8,9 @@
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
 * Topics
+  * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
   * [Visualization](topics/visualization.md)
-  * [Anomaly Detection](topics/anomaly-detection.md)
   * [Tabular Data](topics/tabular-data.md)
   * [NLP](topics/untitled-4.md)
   * [Python](topics/python.md)
