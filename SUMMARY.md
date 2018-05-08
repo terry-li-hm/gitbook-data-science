@@ -45,5 +45,4 @@
   * [Artificial data synthesis](topics/artificial-data-synthesis.md)
   * [Scraping](topics/scraping.md)
   * [Regular Expression](topics/regular-expression.md)
-  * [Visualisation](topics/visualisation.md)
 
