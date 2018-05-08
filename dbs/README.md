@@ -13,6 +13,34 @@
 >
 > Andrew has worked in the treasury business for over 25 years. Prior to joining DBS, he was Executive Director at Canadian Imperial Bank of Commerce from 1995 to 1999. In that role, he set up CIBC’s trading platform and derivative capabilities on Asian currencies. Between 1986 and 1995, Andrew was Head of North Asia Trading and Treasurer of Chase Manhattan Bank in Taipei.
 
+> ## [Our Business Areas](https://www.dbs.com/careers/take-your-career/our-business-units/default.page)
+>
+> A banking career offers endless possibilities. And at DBS, we lay them all at your feet. Our business areas: Capital Markets, Consumer Banking, Institutional Banking, and Treasury & Markets, provide some of the most wide-ranging financial solutions in Asia. To you, that means a wealth of opportunities to make your mark – whichever path you take.
+>
+> All of them present a chance for you to become a star in the banking world. In fact many of our products and services have already been proven beyond compare. Whether in Singapore or in the rest of Asia, we are always the headline act, the best performers in our businesses.
+>
+> Our capital markets unit topped the league table for raising the most funds for initial public offerings on the Singapore Exchange – for nine years in a row. Our institutional banking group is a leader in syndicated finance, equipment financing and factoring, with a presence in 17 markets in the Asia-Pacific. In our treasury and markets business, few – if any – can claim to have the expertise we do in the Singapore dollar market and other regional products.
+>
+> And as for consumer banking, well, there’s a reason why nearly every Singaporean chooses to bank with us.
+>
+> It’s because we’re the best.
+>
+> ### Capital Markets
+>
+> An award-winning team, we are a market leader for equity fund raising in Singapore and a pioneering force behind the listing of REITs and Business Trusts in Singapore, having launched the first REIT in 2002. We are also widely regarded as the best equity house in Singapore, and were the only bank to be awarded the SGX 10th Anniversary Special Achievement Award for promoting Singapore as a key fund-raising centre.
+>
+> ### Consumer Banking Group
+>
+> As the leading bank in Asia, DBS Consumer Banking Group is in a unique position to help our customers realise their dreams and ambitions. As a market leader in the consumer banking business, DBS has a full spectrum of products and services, including deposits, investments, insurance, mortgages, credit cards and personal loans, to help our customers realise their dreams and aspirations at every life stage. Our financial solutions are not only the best in the business – they were made just right for you.
+>
+> ### Institutional Banking Group
+>
+> DBS Institutional Banking Group provides customised solutions for every business, from large corporates and institutional clients, to small and medium-sized enterprises. We are leaders in the areas of syndicated finance, strategic advisory and have a foothold in 17 markets across Asia. Including our Corporate and Investment Banking, SME Banking, and Global Transaction Services, our comprehensive suite of financing solutions will help you build your business and beat the competition – in Singapore and the rest of Asia.
+>
+> ### Treasury & Markets
+>
+> DBS Treasury & Markets is an Asian leader in treasury and offers a broad range of treasury products and services to individuals, companies and financial institutions. We offer cash and derivative products in foreign exchange, interest rates, equities, commodities and fixed income securities. We are the acknowledged leader in Singapore, with dominance in the Singapore dollar market across various asset classes. We are experts in Asia, committed to extending our leadership in market making, product structuring, distribution and fixed income origination capabilities in Asian currencies. Our nimbleness in structuring products for customers in response to changing market conditions sets us apart from competitors.
+
 
 
 
