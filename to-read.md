@@ -142,6 +142,12 @@
 
 [Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
 
+## 
+
+## Artificial data synthesis
+
+[Getting Lots of Data and Artificial Data \| Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/K0XQT/getting-lots-of-data-and-artificial-data)
+
 ## Data Warehouse
 
 [Choosing Between Modern Data Warehouses \| Statsbot Blog](https://statsbot.co/blog/modern-data-warehouse/)
