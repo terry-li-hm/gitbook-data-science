@@ -66,7 +66,101 @@
 > * Strong influencing skills; strategic thinker; hands-on and delivery focused
 > * Strong communication, presentation and writing skills
 
+### [Vice President, Trading, Treasury and Markets - \(1800012R\)](https://dbs.taleo.net/careersection/dbs_professional_hires_career_section/jobdetail.ftl?job=1800012R&tz=GMT%2B08%3A00)
 
+> **Responsibilities**   
+>
+>
+> * Provide up-to-standard services to facilitate marketing units to meet sales team’s need in plain vanilla derivative transactions
+> * Warehouse and manage FX, IR Derivatives and Fixed Income positions, both market-making and support value-added customer business
+> * Understand and execute operational procedures in accordance with the bank’s guidelines and regulatory requirement to prevent breaching of law
+> * Price products for customer transactions accurately
+> * Provide market update to sales team
+> * Make prices in broker-market actively
+> * Quote the competitive prices to marketers in response to customers’ inquiries
+> * Promote to sales team once market opportunities are identified
+> * Accurately access the FX, money, derivative and capital markets information to identify valuable opportunities which create profits, new business, or expands existing businesses
+>
+> **Requirements**  
+>
+>
+> * Bachelor degree holder or above \(preferably with a Master Degree\) with at least 7 years experience in treasury markets
+> * Good knowledge of treasury products and relevant regulatory requirements
+> * Have a sense of general FX and IR market outlook and macro economic environment
+> * Familiar with other treasury markets globally to identify potential business
+> * Good communication and interpersonal skills
+> * Strong, fast and accurate decision skills
+> * Proficiency in English, Cantonese and Mandarin
+
+### DBS banks on AWS; may shift 50% of workload to cloud
+
+> One of the first use cases for AWS is in DBS’ Treasury and Markets \(T&M\) business. The bank will leverage AWS for the purpose of pricing and valuing financial instruments for risk management as this requires extensive computing power.
+>
+> AWS gives DBS the flexibility to rapidly scale the capacity of its computing grid up or down, without having to make provisions for permanent overcapacity. In the T&M case, it will allow the bank to have a quick and yet cost-effective way of handling short term surges in trading volumes such as those recently caused by Brexit.
+>
+> Over the last five years, DBS has made significant investments in strategic technology initiatives to weave banking into the everyday life of its customers so that they can spend more time on people or things that they care about. This includes initiating a comprehensive re-architecture of the bank’s technology as well as catalyzing a change in culture within the bank to one that is more “[FinTech](http://cw.com.hk/tag/fintech)-like” in nature.
+
+### DBS TO INVEST SGD 250 MILLION TO GROW TREASURY & MARKETS BUSINESS IN ASIA
+
+> **Move underscores T&M’s ambition to be leading Asian currency and fixed income house; follows exponential growth underpinned increasingly by customer flows**
+>
+> SINGAPORE, 23 September 2010 - DBS Bank, which has seen its Treasury and Markets \(T&M\) business grow exponentially over the last decade, today announced that it will be investing SGD 250 million to fuel the franchise’s next phase of expansion in order to become a leading Asian currency and fixed income house. This is in line with DBS’ strategic roadmap unveiled by CEO Piyush Gupta in February, in which one of the bank’s stated priorities is to build out its T&M capabilities across the region.
+>
+> The investment, to be made over the next five years, will enable the bank to ramp up its T&M capabilities in key Asia growth markets and to capture new opportunities especially in China and India. In particular, with the increasing internationalisation of the RMB, DBS is focused on leveraging its Greater China franchise to build a strong RMB business spanning foreign exchange, bonds, structured products and hedging solutions. DBS was one of the first few banks to offer RMB structured deposits in Hong Kong last month. In India, where DBS has the largest network of a Singapore bank, with 12 branches, the bank intends to set up a debt capital markets business to help Indian corporates access an alternative source of funding.   
+>
+> Plans are also underway to develop an enhanced FX online platform which will enable corporate customers, including SMEs across the region, to access foreign exchange rates for a comprehensive suite of Asian currencies 24/7 and on a real-time basis.  
+>
+> In Singapore, where DBS has one of the largest SGD trading books and is also the most active market maker for USD/SGD, SGD bonds, SGD rates, SGD money markets and SGD derivatives, the bank will continue to entrench its leadership position. For example, when DBS relocates its headquarters to the Marina Bay Financial Centre in 2013, the T&M team will operate out of a dealing room which is 40% larger than its current premises at Shenton Way.
+>
+> Said Andrew Ng, Head of DBS Treasury and Markets at DBS: “Asia is our backyard and we want to fully leverage our homeground advantage to establish a leading Asian currency and fixed income franchise. Over the last 10 years, T&M has enjoyed significant growth but with this being Asia’s decade, there are many opportunities to further partner our clients.  As we invest to enhance our regional T&M capabilities and scale up across Asia, by 2013, we expect more than 55% of T&M’s revenues to come from outside Singapore, up from 35% currently, and just over 10% in 2000.”
+>
+> In 2000, DBS signalled its commitment to being a serious player in the Asian T&M space with the establishment of the USD100 million DBS Asia Treasury Centre. This Centre supports the trading of foreign exchange, interest rates, equity, credit, fixed income instruments and the provision of investment and risk advisory services.
+>
+> Over the last decade, DBS’ T&M franchise has enjoyed tremendous success, with total revenues up by approximately five times, underpinned increasingly by customer flows.
+>
+> T&M is a specialist and a leading participant in Asian currencies. In Singapore, DBS today is one of the largest players in both SGD money markets as well as SGD related interest rate flows. In the SGD-bond market, year to date, DBS is the leader with a 39.1% market share, up from 21.3% in 2000. DBS is among the top three market makers in regional currency swaps.     
+>
+> Over the last 10 years, DBS T&M has also increased its geographic presence in Asia. In 2000, it had a presence in two markets – Singapore and Hong Kong. Today, this has expanded to seven markets, including China, Taiwan, India, Indonesia and South Korea.
+>
+> DBS is consistently recognised for the strength of its T&M franchise. The bank was named “Best FX Provider, Regional Winner \(South East Asia\)” in Global Finance’s Annual Survey for the last three years. Accolades won in 2010 include “Best Derivatives House in Singapore” by The Asset, “Best Debt House in Singapore” by Euromoney and “Best Foreign Exchange Bank in Singapore” by FinanceAsia. Last year, in Asiamoney’s Poll of Polls, DBS was voted as the “Best local/ domestic FX bank in Singapore since 1991”.
+
+### Annual Report 2017
+
+> **Our businesses**
+>
+> We have three core business segments:
+>
+> * Institutional Banking
+> * Consumer Banking/ Wealth Management
+> * Treasury Markets
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+#### Segment Reporting
+
+> The business segment results are prepared based on the Group’s internal management reporting which reflects the organisation management structure. As the activities of the Group are highly integrated, internal allocation has been made in preparing the segment information. Amounts for each business segment are shown after the allocation of certain centralised costs, funding income and the application of transfer pricing, where appropriate. Transactions between segments are recorded within the segment as if they are third party transactions and are eliminated on consolidation.
+>
+> The Group’s various business segments are described below.
+>
+> #### Consumer Banking/Wealth Management
+>
+> Consumer Banking/Wealth Management provides individual customers with a diverse range of banking and related financial services. The products and services available to customers include current and savings accounts, fixed deposits, loans and home finance, cards, payments, investment and insurance products.
+>
+> #### Institutional Banking
+>
+> Institutional Banking provides financial services and products to institutional clients including bank and non-bank financial institutions, government-linked companies, large corporates and small and mediumsized businesses. The business focuses on broadening and deepening customer relationships. Products and services comprise the full range of credit facilities from short-term working capital financing to specialised lending. It also provides global transactional services such as cash management, trade finance and securities and fiduciary services, treasury and markets products, corporate finance and advisory banking as well as capital markets solutions.
+>
+> #### Treasury Markets
+>
+> Treasury Markets’ activities primarily include structuring, market-making and trading across a broad range of treasury products.
+>
+> Income from sale of treasury products offered to customers of Consumer Banking/Wealth Management and Institutional Banking is not reflected in the Treasury Markets segment, but in the respective customer segments.
+>
+> #### Others
+>
+> Others encompass a range of activities from corporate decisions and include income and expenses not attributed to other business segments, including capital and balance sheet management, funding and liquidity. DBS Vickers Securities and The Islamic Bank of Asia are also included in this segment.
+
+## Inbox
 
 [SMU-16-0023\_\_DBS\_Analytics\_.pdf](https://www.dropbox.com/s/luqh3twjdhleovn/SMU-16-0023__DBS_Analytics_.pdf?dl=0)
 
