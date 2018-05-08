@@ -42,4 +42,5 @@
   * R
   * [Bayesian](topics/bayesian.md)
   * [GAN](topics/gan.md)
+  * [Artificial data synthesis](topics/artificial-data-synthesis.md)
 

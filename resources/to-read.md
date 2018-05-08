@@ -156,11 +156,7 @@
 
 ## 
 
-## Artificial data synthesis
-
-[Getting Lots of Data and Artificial Data \| Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/K0XQT/getting-lots-of-data-and-artificial-data)
-
-[Using Synthetic Data Modeling to Enhance Machine Learning](https://engineering.salesforce.com/using-synthetic-data-modeling-to-enhance-machine-learning-675175beed45)
+## 
 
 ## Data Warehouse
 
