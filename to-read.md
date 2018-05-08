@@ -381,6 +381,8 @@
 
 [Improving Airbnb Yield Prediction with Text Mining – Towards Data Science](https://towardsdatascience.com/improving-airbnb-yield-prediction-with-text-mining-9472c0181731)
 
+[Machine Learning with Text in scikit-learn \(PyCon 2016\) - YouTube](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
+
 ### Sentiment Analysis
 
 [Perform sentiment analysis with LSTMs, using TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
