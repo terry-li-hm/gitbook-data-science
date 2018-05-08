@@ -1,5 +1,7 @@
 # Notes
 
+[An executive’s guide to AI \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
+
 ## Views
 
 [How artificial intelligence and data add value to businesses \| Andrew Ng](https://www.mckinsey.com/featured-insights/artificial-intelligence/how-artificial-intelligence-and-data-add-value-to-businesses)

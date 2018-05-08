@@ -32,6 +32,14 @@
 
 [Learn \| Kaggle](https://www.kaggle.com/learn/overview)
 
+[How artificial intelligence and data add value to businesses \| McKinsey & Company](https://www.mckinsey.com/featured-insights/artificial-intelligence/how-artificial-intelligence-and-data-add-value-to-businesses)
+
+[AI is the new electricity. - Andrew Ng \(Coursera\) - YouTube](https://www.youtube.com/watch?v=NQK4ZY_gwKI)
+
+[AI is the new electricity. - Andrew Ng \(Coursera\) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA \[Video\]](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video315023.html)
+
+[Andrew Ng: Artificial Intelligence is the New Electricity - YouTube](https://www.youtube.com/watch?v=21EiKfQYZXc&t=1s)
+
 ## 
 
 ## Inbox
