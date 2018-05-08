@@ -30,7 +30,7 @@
 * [Website](website.md)
 * [Bookmarks](untitled-2.md)
 * [Thinking](thinking.md)
-* Topics
+* [Topics](topics/README.md)
   * [Methodology](topics/methodology.md)
   * [Visualization](topics/visualization.md)
   * [Anomaly Detection](topics/anomaly-detection.md)
