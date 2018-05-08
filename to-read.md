@@ -2,6 +2,8 @@
 
 ## Top
 
+[Class Central • \#1 Search Engine for Free Online Courses & MOOCs](https://www.class-central.com/)
+
 [How machine learning creates new professions — and problems](https://www.ft.com/content/49e81ebe-cbc3-11e7-8536-d321d0d897a3)
 
 [Why so many data scientists are leaving their jobs – Towards Data Science](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
