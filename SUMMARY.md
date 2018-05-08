@@ -51,4 +51,6 @@
   * [Stats](topics/stats.md)
 * [Best Practices](best-practices.md)
 * [Learning Resources](learning-resources.md)
+* [Best Resources](best-resources.md)
+* [Semi-Supervised](untitled-4.md)
 
