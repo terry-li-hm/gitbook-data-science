@@ -30,7 +30,7 @@
 * [Website](website.md)
 * [Bookmarks](untitled-2.md)
 * [Thinking](thinking.md)
-* [Topics](topics/README.md)
+* Topics
   * [Methodology](topics/methodology.md)
   * [Visualization](topics/visualization.md)
   * [Anomaly Detection](topics/anomaly-detection.md)
@@ -45,4 +45,5 @@
   * [Artificial data synthesis](topics/artificial-data-synthesis.md)
   * [Scraping](topics/scraping.md)
   * [Regular Expression](topics/regular-expression.md)
+* [Best Practices](best-practices.md)
 
