@@ -1,5 +1,22 @@
 # DBS
 
+## Treasury and Markets
+
+> * Andrew Ng
+> * 伍維洪
+> * Group Executive Treasury and Markets
+> * Wholesale Banking
+>
+> Mr Andrew Ng is Group Executive of DBS & Head of Treasury and Markets. He joined DBS in 2000 and was named Managing Director and Regional Head of Trading in 2005.
+>
+> Since 2006, Andrew has been instrumental in leading DBS Treasury and Market’s expansion in the region. In addition, he helped build a pan-Asia trading platform on different asset classes and established a region-wide local currencies derivative capability for the bank. He has also expanded DBS’ capabilities in generic and exotic derivatives.
+>
+> Andrew has worked in the treasury business for over 25 years. Prior to joining DBS, he was Executive Director at Canadian Imperial Bank of Commerce from 1995 to 1999. In that role, he set up CIBC’s trading platform and derivative capabilities on Asian currencies. Between 1986 and 1995, Andrew was Head of North Asia Trading and Treasurer of Chase Manhattan Bank in Taipei.
+
+
+
+
+
 [SMU-16-0023\_\_DBS\_Analytics\_.pdf](https://www.dropbox.com/s/luqh3twjdhleovn/SMU-16-0023__DBS_Analytics_.pdf?dl=0)
 
 [SMU-17-0018\_\_DBS\_Agile\_Auditing\_.pdf](https://www.dropbox.com/s/zxfskuvf9ocpnap/SMU-17-0018__DBS_Agile_Auditing_.pdf?dl=0)
