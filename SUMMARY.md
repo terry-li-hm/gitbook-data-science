@@ -30,4 +30,5 @@
 * [Bookmarks](untitled-2.md)
 * [Thinking](thinking.md)
 * [Top](top.md)
+* [Anomaly Detection](anomaly-detection.md)
 
