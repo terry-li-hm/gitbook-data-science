@@ -25,13 +25,7 @@ Abnormally detection should be the key Kate for data science for audit.
 
 {% embed data="{\"url\":\"https://www.codingame.com/training\",\"type\":\"link\",\"title\":\"Practice coding with fun programming challenges\",\"description\":\"Want to practice coding? Try to solve these programming puzzles \(25+ languages supported\).\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.codingame.com/assets/apple-touch-icon-152x152-precomposed.2271ef33.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://files.codingame.com/codingame/codingame\_share\_pics.jpg\",\"width\":1200,\"height\":675,\"aspectRatio\":0.5625}}" %}
 
-{% embed data="{\"url\":\"https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls?utm\_medium=email&utm\_source=mailchimp&utm\_campaign=5DDC-data-cleaning-R\",\"type\":\"link\",\"title\":\"Data Cleaning Challenge: .json, .txt and .xls\",\"description\":\"Using data from multiple data sources\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.kaggle.com/content/v/d420a040e581/kaggle/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.kaggle.com/static/images/multiple-datasource.png\",\"width\":220,\"height\":220,\"aspectRatio\":1}}" %}
-
-{% embed data="{\"url\":\"https://www.kaggle.com/rtatman/data-cleaning-challenge-imputing-missing-values/?utm\_medium=email&utm\_source=mailchimp&utm\_campaign=5DDC-data-cleaning-R\",\"type\":\"link\",\"title\":\"Data Cleaning Challenge: Imputing missing values\",\"description\":\"Using data from multiple data sources\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.kaggle.com/content/v/d420a040e581/kaggle/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.kaggle.com/static/images/multiple-datasource.png\",\"width\":220,\"height\":220,\"aspectRatio\":1}}" %}
-
-{% embed data="{\"url\":\"https://www.kaggle.com/rtatman/data-cleaning-challenge-outliers/\",\"type\":\"link\",\"title\":\"Data Cleaning Challenge: Outliers\",\"description\":\"Using data from Brazil\'s House of Deputies Reimbursements\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.kaggle.com/content/v/d420a040e581/kaggle/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://kaggle2.blob.core.windows.net/datasets-images/699/1318/66caf5c4ffc85bb4e3c5fa430a2a388d/dataset-thumbnail.jpg\",\"width\":120,\"height\":120,\"aspectRatio\":1}}" %}
 
 
-
-[Data Cleaning Challenge: Cleaning numeric columns \| Kaggle](https://www.kaggle.com/rtatman/data-cleaning-challenge-cleaning-numeric-columns)
+[List of 5-Day Challenges \| Kaggle](https://www.kaggle.com/rtatman/list-of-5-day-challenges/)
 

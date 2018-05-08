@@ -30,6 +30,8 @@
 
 [評估品牌對大眾的曝光程度，深度學習方案可解決這一問題 - 雲+社區 - 騰訊雲](https://cloud.tencent.com/developer/article/1051111)
 
+[Learn \| Kaggle](https://www.kaggle.com/learn/overview)
+
 ## 
 
 ## Inbox
@@ -184,7 +186,7 @@
 
 [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
 
-
+[Video series: Easier data analysis in Python using the pandas library](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 ## Visualization
 
@@ -239,6 +241,8 @@
 ## Machine Learning
 
 [hangtwenty/dive-into-machine-learning: Dive into Machine Learning with Python Jupyter notebook and scikit-learn!](https://github.com/hangtwenty/dive-into-machine-learning)
+
+[Introduction to machine learning in Python with scikit-learn \(video series\)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 
 ## Decision Trees
 
