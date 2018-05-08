@@ -134,7 +134,7 @@
 > * Consumer Banking/ Wealth Management
 > * Treasury Markets
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image.png)
 
 #### Segment Reporting
 

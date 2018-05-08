@@ -9,6 +9,7 @@
 * [Inbox](inbox.md)
 * [Resources](resources/README.md)
   * [To Read](resources/to-read.md)
+  * [Top To Read](resources/top-to-read.md)
 * [Notes](notes/README.md)
   * [Machine Learning Yearning](notes/machine-learning-yearning.md)
   * [Fast.ai](notes/fast.ai.md)
@@ -30,9 +31,13 @@
 * [Bookmarks](untitled-2.md)
 * [Thinking](thinking.md)
 * Topics
+  * [Methodology](topics/methodology.md)
   * [Visualization](topics/visualization.md)
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Tabular Data](topics/tabular-data.md)
   * [NLP](topics/untitled-4.md)
   * [Python](topics/python.md)
+  * [Time Series](topics/time-series.md)
+  * [Applications](topics/applications.md)
+  * R
 
