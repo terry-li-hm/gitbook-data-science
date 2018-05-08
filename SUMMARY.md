@@ -45,5 +45,10 @@
   * [Artificial data synthesis](topics/artificial-data-synthesis.md)
   * [Scraping](topics/scraping.md)
   * [Regular Expression](topics/regular-expression.md)
+  * [RNN](topics/rnn.md)
+  * [Tree](topics/tree.md)
+  * [Unsupervised](topics/unsupervised.md)
+  * [Stats](topics/stats.md)
 * [Best Practices](best-practices.md)
+* [Learning Resources](learning-resources.md)
 
