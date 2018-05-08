@@ -18,6 +18,8 @@
 
 [How artificial intelligence can deliver real value to companies \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/how-artificial-intelligence-can-deliver-real-value-to-companies)
 
+[13 Tips to make you awesome at Data Science / Analytics Jobs](https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/)
+
 
 
 
