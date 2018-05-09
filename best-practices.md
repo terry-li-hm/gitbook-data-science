@@ -12,3 +12,7 @@
 
 [drivendata/cookiecutter-data-science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.](https://github.com/drivendata/cookiecutter-data-science)
 
+![](.gitbook/assets/image%20%284%29.png)
+
+
+
