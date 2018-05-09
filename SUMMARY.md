@@ -19,6 +19,7 @@
   * [Time Series](topics/time-series.md)
   * [Applications](topics/applications/README.md)
     * [NLP](topics/applications/untitled-4.md)
+    * [Object Detection](topics/applications/object-detection.md)
   * R
   * [Bayesian](topics/bayesian.md)
   * [Artificial data synthesis](topics/artificial-data-synthesis.md)

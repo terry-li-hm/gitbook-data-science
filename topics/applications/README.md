@@ -8,3 +8,5 @@
 
 [Sales Analytics: How to Use Machine Learning to Predict and Optimize Product Backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html)
 
+[用深度學習（CNN RNN Attention）解決大規模文本分類問題 - 綜述和實踐](https://zhuanlan.zhihu.com/p/25928551)
+
