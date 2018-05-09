@@ -1,5 +1,11 @@
 # NLP
 
+[fastText/pretrained-vectors.md at master · facebookresearch/fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+
+[Kyubyong/nlp\_tasks: Natural Language Processing Tasks and References](https://github.com/Kyubyong/nlp_tasks)
+
+[xiamx/awesome-sentiment-analysis: 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤](https://github.com/xiamx/awesome-sentiment-analysis)
+
 [The Essential NLP Guide for data scientists \(codes for top 10 NLP tasks\)](https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
 
 [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
