@@ -8,3 +8,5 @@
 
 [A Beginner’s Guide to AI/ML 🤖👶 – Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
+[Chris Albon](https://chrisalbon.com/)
+
