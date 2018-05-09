@@ -4,6 +4,8 @@
 
 
 
+[5 Reasons “Logistic Regression” should be the first thing you learn when becoming a Data Scientist](https://towardsdatascience.com/5-reasons-logistic-regression-should-be-the-first-thing-you-learn-when-become-a-data-scientist-fcaae46605c4)
+
 ## To be categorized
 
 [Udacity Career Development resources](https://docs.google.com/document/d/1Bf1jEkKlCYJJdUoyBSROxPS5FsZlAaZ8cZ35GsHhpYU/pub?embedded=true)
