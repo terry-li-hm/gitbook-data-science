@@ -1,5 +1,9 @@
 # FS
 
+[機器學習如何應用於金融領域？ \| 雷鋒網](https://www.leiphone.com/news/201607/aMUYZKBhHpAkDaJ5.html)
+
+[人工智能和機器學習會逐漸取代金融和數據分析師嗎？ - 知乎](https://www.zhihu.com/question/24089451)
+
 [J.P. Morgan is hiring PhDs who can master machine learning](https://news.efinancialcareers.com/us-en/297540/j-p-morgan-wants-to-hire-phds-who-can-master-machine-learning-and-markets)
 
 [Barclays' guide to AI and big data jobs in hedge funds](https://news.efinancialcareers.com/us-en/287300/barclays-machine-learning-ai-and-big-data-jobs-in-hedge-funds/)

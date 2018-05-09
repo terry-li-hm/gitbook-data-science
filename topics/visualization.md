@@ -1,5 +1,9 @@
 # Visualization
 
+[The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/)
+
+[Exploring Histograms](https://tinlizzie.org/histograms/)
+
 [Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 
 ![](../.gitbook/assets/image%20%2810%29.png)
@@ -18,4 +22,6 @@
 * [Simple Binary Data Visualization](http://martin.varela.fi/post/simple-binary-data-visualization/)
 * [The Art of Story Telling in Data Science and how to create data stories?](https://www.analyticsvidhya.com/blog/2017/10/art-story-telling-data-science/)
 * [How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js](https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5)
+
+[Data Viz Project \| Collection of data visualizations to get inspired and finding the right type.](http://datavizproject.com/)
 

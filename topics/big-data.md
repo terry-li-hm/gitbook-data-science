@@ -22,3 +22,5 @@
 * Apache Spark 最吸引人的地方就是內建了許多 Machine Learning Library \(MLlib\)，一些基本的演算法與分類器可以不用自己寫囉。
 * [大规模机器学习框架的四重境界](https://zhuanlan.zhihu.com/p/29968773)
 
+[10分鐘弄懂大數據框架Hadoop和Spark的差異 — TibaMe Blog](http://blog.tibame.com/?p=1752)
+

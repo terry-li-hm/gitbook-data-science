@@ -11,3 +11,7 @@ print("Nulls in Oil columns: {0} => {1}".format(oil.columns.values,oil.isnull().
 lastdate = train.iloc[train.shape[0]-1].date
 ```
 
+[PyFormat: Using % and .format\(\) for great good!](https://pyformat.info/)
+
+[Python strftime reference](http://strftime.org/)
+

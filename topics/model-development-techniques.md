@@ -25,6 +25,7 @@
 * [Hyper-parameter Optimization with keras?](https://github.com/fchollet/keras/issues/1591)
 * [Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization](https://github.com/maxpumperla/hyperas)
 * [Effectively running thousands of experiments: Hyperopt with Sacred](https://gab41.lab41.org/effectively-running-thousands-of-experiments-hyperopt-with-sacred-dfa53b50f1ec)
+* [Hyperopt tutorial for Optimizing Neural Networks' Hyperparameters - Vooban](https://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
 
 ### Cross-validation
 

@@ -50,3 +50,7 @@
 * [Everything you need to know about Neural Networks](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
 * [Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 
+[Epoch vs Batch Size vs Iterations – Towards Data Science](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
+
+[My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
+

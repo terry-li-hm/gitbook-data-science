@@ -1,5 +1,9 @@
 # Anomaly Detection
 
+* 对于非平衡样本问题，用PR曲线能有效的看出模型性能。
+
+
+
 [What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
 
 [Introduction to Anomaly Detection: Concepts and Techniques \| My views of the World and Systems](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)

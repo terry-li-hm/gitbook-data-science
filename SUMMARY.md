@@ -47,6 +47,7 @@
     * [Tree](topics/traditional-algorithms/tree.md)
   * [Model Development Techniques](topics/model-development-techniques.md)
   * [Scraping](topics/scraping-1.md)
+  * [XGBoost](topics/xgboost.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
@@ -65,7 +66,6 @@
 * [FS](fs.md)
 * [Codes](codes.md)
 * [Commands](untitled-1.md)
-* [DS Bookmarks](ds-bookmarks.md)
 * [Use Cases](untitled-3.md)
 * [Website](website.md)
 * [Bookmarks](untitled-2.md)

@@ -1,5 +1,7 @@
 # NLP
 
+[The Essential NLP Guide for data scientists \(codes for top 10 NLP tasks\)](https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
+
 [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
