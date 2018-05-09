@@ -10,3 +10,5 @@
 
 [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)
 
+[drivendata/cookiecutter-data-science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.](https://github.com/drivendata/cookiecutter-data-science)
+

@@ -6,3 +6,5 @@
 
 [Kernels \| Kaggle](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
 
+[Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/?authuser=0)
+

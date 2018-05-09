@@ -10,7 +10,7 @@
 * Topics
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
-  * Deep Learning
+  * [Deep Learning](topics/deep-learning/README.md)
     * [Tabular Data](topics/deep-learning/tabular-data.md)
     * [GAN](topics/deep-learning/gan.md)
     * [RNN](topics/deep-learning/rnn.md)
@@ -32,6 +32,7 @@
   * [Strategy](topics/untitled.md)
   * [Pandas](topics/pandas.md)
   * [EDA](topics/eda.md)
+  * [Comparing Algorithms](topics/comparing-algorithms.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
