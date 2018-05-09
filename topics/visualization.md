@@ -12,3 +12,10 @@
 
 
 
+* [Dots vs. polygons: How I choose the right visualization](https://blog.mapbox.com/right-way-visualize-data-945d6010fab0)
+* [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots)
+* [Data Visualization for Social Science](http://socviz.co/)
+* [Simple Binary Data Visualization](http://martin.varela.fi/post/simple-binary-data-visualization/)
+* [The Art of Story Telling in Data Science and how to create data stories?](https://www.analyticsvidhya.com/blog/2017/10/art-story-telling-data-science/)
+* [How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js](https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5)
+
