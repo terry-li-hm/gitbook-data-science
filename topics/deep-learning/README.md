@@ -8,7 +8,7 @@
 
 [Notes from Coursera Deep Learning courses by Andrew Ng by Tess Ferrandez](https://www.dropbox.com/s/up1iifq2uvgg0zb/paper-180305120451.pdf?dl=0)
 
-
+[Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
 
 
 

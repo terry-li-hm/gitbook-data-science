@@ -1,5 +1,11 @@
 # FS
 
+[J.P. Morgan is hiring PhDs who can master machine learning](https://news.efinancialcareers.com/us-en/297540/j-p-morgan-wants-to-hire-phds-who-can-master-machine-learning-and-markets)
+
+[Barclays' guide to AI and big data jobs in hedge funds](https://news.efinancialcareers.com/us-en/287300/barclays-machine-learning-ai-and-big-data-jobs-in-hedge-funds/)
+
+[Why the buy-side is winning the battle for the hottest machine learning talent](https://news.efinancialcareers.com/us-en/282177/hedge-funds-and-prop-trading-firms-outpacing-big-banks-in-hiring-systematic-traders/)
+
 [Robots Are Coming for These Wall Street Jobs](https://www.bloomberg.com/graphics/2017-wall-street-robots/)
 
 [How Banks & Regulators are Applying Machine Learning](https://gomedici.com/how-banks-regulators-are-applying-machine-learning/)

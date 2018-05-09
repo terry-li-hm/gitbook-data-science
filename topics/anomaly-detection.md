@@ -1,5 +1,7 @@
 # Anomaly Detection
 
+[What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
+
 [Introduction to Anomaly Detection: Concepts and Techniques \| My views of the World and Systems](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
 
 [anomalize: Tidy Anomaly Detection](http://www.business-science.io/code-tools/2018/04/08/introducing-anomalize.html)
@@ -66,4 +68,6 @@
 > Consider testing under-sampling when you have an a lot data \(tens- or hundreds of thousands of instances or more\)Consider testing over-sampling when you don’t have a lot of data \(tens of thousands of records or less\)Consider testing random and non-random \(e.g. stratified\) sampling schemes.Consider testing different resampled ratios \(e.g. you don’t have to target a 1:1 ratio in a binary classification problem, try other ratios
 
 [Imbalanced Data Classification \| An Explorer of Things](https://chih-ling-hsu.github.io/2017/07/25/Imbalanced-Data-Classification)
+
+[Dealing with unbalanced data in machine learning](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
 

@@ -4,7 +4,7 @@
 
 [Time Series Deep Learning: Forecasting Sunspots With Keras Stateful LSTM In R](http://www.business-science.io/timeseries-analysis/2018/04/18/keras-lstm-sunspots-time-series-prediction.html)
 
-
+[A Guide For Time Series Prediction Using Recurrent Neural Networks \(LSTMs\)](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
 
 
 

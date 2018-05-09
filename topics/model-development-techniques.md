@@ -24,6 +24,7 @@
 * [BayesianOptimization/sklearn\_example.py](https://github.com/fmfn/BayesianOptimization/blob/master/examples/sklearn_example.py)
 * [Hyper-parameter Optimization with keras?](https://github.com/fchollet/keras/issues/1591)
 * [Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization](https://github.com/maxpumperla/hyperas)
+* [Effectively running thousands of experiments: Hyperopt with Sacred](https://gab41.lab41.org/effectively-running-thousands-of-experiments-hyperopt-with-sacred-dfa53b50f1ec)
 
 ### Cross-validation
 
@@ -34,4 +35,6 @@
 
 * [Ensemble Learning to Improve Machine Learning Results](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
 * [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+
 

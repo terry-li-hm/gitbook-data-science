@@ -73,4 +73,6 @@
 * [Best Practices](best-practices.md)
 * [Learning Resources](learning-resources.md)
 * [Best Resources](best-resources.md)
+* [Identifying Opportunities](identifying-opportunities.md)
+* [Math](math.md)
 

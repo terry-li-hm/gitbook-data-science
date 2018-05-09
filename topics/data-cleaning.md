@@ -4,3 +4,7 @@
 
 [Handy Python Libraries for Formatting and Cleaning Data](https://blog.modeanalytics.com/python-data-cleaning-libraries/)
 
+[A programmer’s cleaning guide for messy sensor data \| Opensource.com](https://opensource.com/article/17/9/messy-sensor-data)
+
+[Simple approach to handle missing values \| Kaggle](https://www.kaggle.com/kostya17/simple-approach-to-handle-missing-values)
+

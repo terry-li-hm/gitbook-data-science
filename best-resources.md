@@ -18,3 +18,5 @@
 
 [Machine Learning Flashcards](https://store.chrisalbon.com/dashboard)
 
+[No Free Hunch \| The Official Blog of Kaggle.com](http://blog.kaggle.com/)
+
