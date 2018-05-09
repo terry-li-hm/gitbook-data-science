@@ -31,6 +31,7 @@
   * [AUC](topics/auc.md)
   * [Strategy](topics/untitled.md)
   * [Pandas](topics/pandas.md)
+  * [EDA](topics/eda.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
