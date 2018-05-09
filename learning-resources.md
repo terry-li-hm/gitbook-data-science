@@ -4,5 +4,5 @@
 
 [Key Algorithms and Statistical Models for Aspiring Data Scientists](https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspiring-data-scientists.html)
 
-[Data ScienceTutorial for Beginners \| Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+[Kernels \| Kaggle](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
 
