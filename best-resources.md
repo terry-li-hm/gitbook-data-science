@@ -10,3 +10,5 @@
 
 [Chris Albon](https://chrisalbon.com/)
 
+[Machine Learning Flashcards](https://store.chrisalbon.com/dashboard)
+
