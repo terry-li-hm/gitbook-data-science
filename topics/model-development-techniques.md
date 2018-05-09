@@ -1,11 +1,14 @@
 # Model Development Techniques
 
+[How to unit test machine learning code. – Chase Roberts – Medium](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 
+[Top 6 errors novice machine learning engineers make](https://medium.com/ai³-theory-practice-business/top-6-errors-novice-machine-learning-engineers-make-e82273d394db)
 
 ### Feature engineering
 
 * [Feature Engineering 相關文章推薦](https://medium.com/@drumrick/feature-engineering-%E7%9B%B8%E9%97%9C%E6%96%87%E7%AB%A0%E6%8E%A8%E8%96%A6-b4c2aaffe93d)
 * [Feature Engineering 特徵工程中常見的方法](https://vinta.ws/code/feature-engineering.html)
+* [Feature Engineering - Handling Cyclical Features](http://blog.davidkaleko.com/feature-engineering-cyclical-features.html)
 
 ### Hyperparameter tuning
 

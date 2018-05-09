@@ -12,7 +12,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 
 [Awesome-Chinese-NLP: A curated list of resources for Chinese NLP 中文自然語言處理相關資料](https://github.com/crownpku/Awesome-Chinese-NLP)
 
-
+[Natural Language Processing Key Terms, Explained](https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html)
 
 
 

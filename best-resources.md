@@ -1,5 +1,11 @@
 # Best Resources
 
+## Great Introduction
+
+[Machine Learning is Fun! – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+
+
 [Statistics Books for Machine Learning](https://machinelearningmastery.com/statistics-books-for-machine-learning/)
 
 [An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
