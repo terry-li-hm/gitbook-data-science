@@ -1,5 +1,7 @@
 # Tools
 
+[An Introduction to VisiData](https://jsvine.github.io/intro-to-visidata/)
+
 {% embed data="{\"url\":\"https://regex101.com\",\"type\":\"link\",\"title\":\"Regex101 - online regex editor and debugger\",\"description\":\"Regex101 allows you to create, debug, test and have your expressions explained for PHP, PCRE, Python, Golang and JavaScript. The website also features a community where you can share useful expressions.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://regex101.com/android-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//regex101.com/preview.png\",\"width\":3680,\"height\":1532,\"aspectRatio\":0.41630434782608694}}" %}
 
 {% embed data="{\"url\":\"https://plot.ly\",\"type\":\"link\",\"title\":\"Modern Visualization for the Data Era\",\"description\":\"Plotly creates leading open source tools for composing, editing, and sharing interactive data visualization via the Web.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://plot.ly/favicon.ico?v=2\",\"aspectRatio\":0}}" %}

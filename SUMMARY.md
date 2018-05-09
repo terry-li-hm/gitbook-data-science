@@ -10,19 +10,20 @@
 * Topics
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
+  * Deep Learning
+    * [Tabular Data](topics/deep-learning/tabular-data.md)
+    * [GAN](topics/deep-learning/gan.md)
+    * [RNN](topics/deep-learning/rnn.md)
   * [Visualization](topics/visualization.md)
-  * [Tabular Data](topics/tabular-data.md)
-  * [NLP](topics/untitled-4.md)
   * [Python](topics/python.md)
   * [Time Series](topics/time-series.md)
-  * [Applications](topics/applications.md)
+  * [Applications](topics/applications/README.md)
+    * [NLP](topics/applications/untitled-4.md)
   * R
   * [Bayesian](topics/bayesian.md)
-  * [GAN](topics/gan.md)
   * [Artificial data synthesis](topics/artificial-data-synthesis.md)
   * [Scraping](topics/scraping.md)
   * [Regular Expression](topics/regular-expression.md)
-  * [RNN](topics/rnn.md)
   * [Tree](topics/tree.md)
   * [Unsupervised](topics/unsupervised.md)
   * [Stats](topics/stats.md)
@@ -30,7 +31,6 @@
   * [AUC](topics/auc.md)
   * [Strategy](topics/untitled.md)
   * [Pandas](topics/pandas.md)
-  * [Bayesian](topics/untitled-1.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
