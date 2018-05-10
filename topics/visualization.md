@@ -1,5 +1,11 @@
 # Visualization
 
+[9 popular ways to perform Data Visualization in Python](https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/)
+
+[Guide For Data Exploration In Python Using NumPy, Matplotlib, Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+
+[Data Visualization Course - D3.js Visualization \| Udacity](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+
 [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
 
 [PAIR-code/facets: Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)

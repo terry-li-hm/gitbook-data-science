@@ -9,6 +9,8 @@
 * [Feature Engineering 相關文章推薦](https://medium.com/@drumrick/feature-engineering-%E7%9B%B8%E9%97%9C%E6%96%87%E7%AB%A0%E6%8E%A8%E8%96%A6-b4c2aaffe93d)
 * [Feature Engineering 特徵工程中常見的方法](https://vinta.ws/code/feature-engineering.html)
 * [Feature Engineering - Handling Cyclical Features](http://blog.davidkaleko.com/feature-engineering-cyclical-features.html)
+* [使用sklearn做單機特徵工程 - jasonfreak - 博客園](http://www.cnblogs.com/jasonfreak/p/5448385.html)
+* [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 
 ### Hyperparameter tuning
 

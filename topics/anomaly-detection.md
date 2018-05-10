@@ -1,5 +1,11 @@
 # Anomaly Detection
 
+[Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection)
+
+[How to choose machine learning algorithms \| Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice)
+
+[Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
+
 [2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html)
 
 [Comparing anomaly detection algorithms for outlier detection on toy datasets — scikit-learn 0.20.dev0 documentation](http://scikit-learn.org/dev/auto_examples/plot_anomaly_comparison.html)

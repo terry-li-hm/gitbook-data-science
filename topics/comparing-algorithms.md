@@ -8,6 +8,8 @@
 
 [Which machine learning algorithm should I use? - Subconscious Musings](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 
+[How to choose machine learning algorithms \| Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice)
+
 
 
 Advantage of Naive Bayes
