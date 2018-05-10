@@ -1,6 +1,6 @@
 # Analysing Problem
 
-
+[Qualitative before Quantitative: How Qualitative Methods Support Better Data Science](https://medium.com/indeed-data-science/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)
 
 > 機器學習是解決問題的方法一種，但首先必須要理解你的問題本身  
 > 如果你要預測航班到點時間，你要怎麼做呢？  
