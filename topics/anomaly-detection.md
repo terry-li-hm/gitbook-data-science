@@ -105,3 +105,9 @@
 
 [\[1702.05809\] Network-based Anomaly Detection for Insider Trading](https://arxiv.org/abs/1702.05809)
 
+
+
+> **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
+
+![](../.gitbook/assets/image%20%286%29.png)
+

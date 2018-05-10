@@ -42,7 +42,7 @@
   * [Semi-Supervised](topics/untitled-4-1.md)
   * [Strategy](topics/untitled.md)
   * [Pandas](topics/pandas.md)
-  * [Which Algorithm to Try](topics/comparing-algorithms.md)
+  * [Which Estimator to Try](topics/comparing-algorithms.md)
   * [Data Cleaning](topics/data-cleaning.md)
   * [Metrics](topics/evaluating-models/README.md)
     * [AUC](topics/evaluating-models/auc.md)
@@ -53,6 +53,7 @@
     * [K-means Clustering](topics/traditional-algorithms/k-means-clustering.md)
   * [Model Development Techniques](topics/model-development-techniques/README.md)
     * [Hyperparameter tuning](topics/model-development-techniques/hyperparameter-tuning.md)
+    * [Automated Machine Learning](topics/model-development-techniques/automated-machine-learning.md)
   * [Scraping](topics/scraping-1.md)
   * [XGBoost](topics/xgboost.md)
   * [Regular Expression](topics/regular-expression-1.md)
@@ -89,4 +90,5 @@
 * [Identifying Opportunities](identifying-opportunities.md)
 * [Mathematics](math.md)
 * [Analysing Problem](analysing-problem.md)
+* [Process](process.md)
 

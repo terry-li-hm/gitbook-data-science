@@ -24,3 +24,7 @@
 
 [10分鐘弄懂大數據框架Hadoop和Spark的差異 — TibaMe Blog](http://blog.tibame.com/?p=1752)
 
+
+
+![](../.gitbook/assets/image%20%282%29.png)
+

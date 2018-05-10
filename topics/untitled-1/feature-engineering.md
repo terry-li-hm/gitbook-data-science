@@ -12,4 +12,5 @@
 * [Python target encoding for categorical features \| Kaggle](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
 * [如何有效處理特徵範圍差異大且類型不一的數據？ - 知乎](https://www.zhihu.com/question/42341851/answer/207949804)
 * [An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+* [How to deal with Features having high cardinality](https://www.kaggle.com/general/16927)
 
