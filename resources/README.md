@@ -1,30 +1,8 @@
 # Resources
 
-## Inbox
-
-[A Guide to Sequence Prediction using Compact Prediction Tree \(with codes in Python\)](https://www.analyticsvidhya.com/blog/2018/04/guide-sequence-prediction-using-compact-prediction-tree-python/)
-
-## Decision trees
-
-[Introduction to Decision Tree Learning](https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236)
-
-
-
 ## Statistics
 
 {% embed data="{\"url\":\"https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/\",\"type\":\"link\",\"title\":\"How to Use Correlation to Understand the Relationship Between Variables\",\"description\":\"There may be complex and unknown relationships between the variables in your dataset. It is important to discover and quantify the degree to which variables in your dataset are dependent upon each other. This knowledge can help you better prepare your data to meet the expectations of machine learning algorithms, such as linear regression, whose …\",\"icon\":{\"type\":\"icon\",\"url\":\"https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Scatter-plot-of-the-test-correlation-dataset.png\",\"width\":1280,\"height\":960,\"aspectRatio\":0.75}}" %}
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

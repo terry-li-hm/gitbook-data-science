@@ -1,5 +1,9 @@
 # Data Processing
 
+Numpy array can only contain one data type.
+
+In a simplified sense, you can think of series as a 1D labelled array.
+
 [Introduction to Numpy -1 : An absolute beginners guide to Machine Learning and Data science.](https://hackernoon.com/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-science-5d87f13f0d51)
 
 [How to Index, Slice and Reshape NumPy Arrays for Machine Learning in Python](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)

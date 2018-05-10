@@ -1,12 +1,14 @@
 # Table of contents
 
 * [Cover](README.md)
-* [Inbox](inbox.md)
 * [Top](top.md)
 * [DBS](dbs/README.md)
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
+* [Resources](resources/README.md)
+  * [To Read](resources/to-read.md)
+  * [Top To Read](resources/top-to-read.md)
 * Topics
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
@@ -54,6 +56,7 @@
   * [Politics](topics/politics.md)
   * [Opinions](topics/opinions.md)
   * [Jupyter Notebook](topics/jupyter-notebook.md)
+  * [Sequence Modelling](topics/sequence-modelling.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
@@ -61,9 +64,6 @@
   * [Resume Projects](untitled-5/resume-projects.md)
   * [My Projects](untitled-5/my-projects.md)
   * [AWS](untitled-5/aws.md)
-* [Resources](resources/README.md)
-  * [To Read](resources/to-read.md)
-  * [Top To Read](resources/top-to-read.md)
 * [Notes](notes/README.md)
   * [Machine Learning Yearning](notes/machine-learning-yearning.md)
   * [Fast.ai](notes/fast.ai.md)

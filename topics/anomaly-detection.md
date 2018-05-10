@@ -1,6 +1,10 @@
 # Anomaly Detection
 
-* 对于非平衡样本问题，用PR曲线能有效的看出模型性能。
+[2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html)
+
+[Comparing anomaly detection algorithms for outlier detection on toy datasets — scikit-learn 0.20.dev0 documentation](http://scikit-learn.org/dev/auto_examples/plot_anomaly_comparison.html)
+
+对于非平衡样本问题，用PR曲线能有效的看出模型性能。
 
 > a fraud detection model may use anomaly detection scores as an extra generated feature going into the supervised learning algorithm.
 
