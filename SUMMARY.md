@@ -53,6 +53,7 @@
     * [K-means Clustering](topics/traditional-algorithms/k-means-clustering.md)
   * [Model Development Techniques](topics/model-development-techniques/README.md)
     * [Hyperparameter tuning](topics/model-development-techniques/hyperparameter-tuning.md)
+    * [Ensemble](topics/model-development-techniques/ensemble.md)
     * [Automated Machine Learning](topics/model-development-techniques/automated-machine-learning.md)
   * [Scraping](topics/scraping-1.md)
   * [XGBoost](topics/xgboost.md)

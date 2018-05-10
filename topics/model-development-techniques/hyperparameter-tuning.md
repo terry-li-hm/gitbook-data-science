@@ -22,4 +22,5 @@
 * [Scikit-Optimize](https://scikit-optimize.github.io/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-3/#hyper)
 * [Hyperparameters tuning with Polyaxon – Polyaxon – Medium](https://medium.com/polyaxon/hyperparameters-tuning-with-polyaxon-9403f8ea85be)
+* [zygmuntz/hyperband: Tuning hyperparams fast with Hyperband](https://github.com/zygmuntz/hyperband)
 

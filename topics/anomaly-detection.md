@@ -1,5 +1,17 @@
 # Anomaly Detection
 
+[Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
+
+[Identifying Outages with Argos - Uber Engineering Blog](https://eng.uber.com/argos/)
+
+[Time Series Anomaly Detection Algorithms – Stats and Bots](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
+
+[How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+
+[Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
+
+[反欺詐\(Fraud Detection\)中所用到的機器學習模型有哪些？ - 知乎](https://www.zhihu.com/question/30508773/answer/205831957)
+
 [Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
 
 [How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)

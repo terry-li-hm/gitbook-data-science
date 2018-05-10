@@ -1,5 +1,9 @@
 # Data Processing
 
+[Pandas Concatenation Tutorial](https://www.dataquest.io/blog/pandas-concatenation-tutorial/)
+
+[Pendulum - Python datetimes made easy](https://pendulum.eustace.io/)
+
 [Common Excel Tasks Demonstrated in Pandas - Practical Business Python](http://pbpython.com/excel-pandas-comp.html)
 
 [Pandas Pivot Table Explained - Practical Business Python](http://pbpython.com/pandas-pivot-table-explained.html)

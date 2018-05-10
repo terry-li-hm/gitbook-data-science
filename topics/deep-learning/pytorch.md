@@ -6,3 +6,7 @@
 
 [L1aoXingyu/pytorch-beginner: pytorch tutorial for beginners](https://github.com/L1aoXingyu/pytorch-beginner)
 
+[dnouri/skorch: A scikit-learn compatible neural network library that wraps pytorch](https://github.com/dnouri/skorch)
+
+[A practitioner's guide to PyTorch – Towards Data Science](https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040)
+
