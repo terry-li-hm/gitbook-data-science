@@ -11,6 +11,7 @@
 * [Feature Engineering - Handling Cyclical Features](http://blog.davidkaleko.com/feature-engineering-cyclical-features.html)
 * [使用sklearn做單機特徵工程 - jasonfreak - 博客園](http://www.cnblogs.com/jasonfreak/p/5448385.html)
 * [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+* [机器学习中，有哪些特征选择的工程方法？ - 知乎](https://www.zhihu.com/question/28641663)
 
 ### Hyperparameter tuning
 
