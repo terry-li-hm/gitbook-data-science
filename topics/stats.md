@@ -1,5 +1,7 @@
 # Stats
 
+Median is better than mean as median is not affected severely by outliers.
+
 [Skewness vs Kurtosis – The Robust Duo](https://www.kdnuggets.com/2018/05/skewness-vs-kurtosis-robust-duo.html)
 
 [Statistics Books for Machine Learning](https://machinelearningmastery.com/statistics-books-for-machine-learning/)

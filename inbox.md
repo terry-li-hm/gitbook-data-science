@@ -1,96 +1,5 @@
 # Inbox
 
-
-
-
-
-#### a introduction of Naive Bayes Theorem
-
-> Bayes theorem is one of the earliest probabilistic inference algorithms developed by Reverend Bayes \(which he used to try and infer the existence of God no less\) and still performs extremely well for certain use cases.
->
-> It's best to understand this theorem using an example. Let's say you are a member of the Secret Service and you have been deployed to protect the Democratic presidential nominee during one of his/her campaign speeches. Being a public event that is open to all, your job is not easy and you have to be on the constant lookout for threats. So one place to start is to put a certain threat-factor for each person. So based on the features of an individual, like the age, sex, and other smaller factors like is the person carrying a bag?, does the person look nervous? etc. you can make a judgement call as to if that person is viable threat.
->
-> If an individual ticks all the boxes up to a level where it crosses a threshold of doubt in your mind, you can take action and remove that person from the vicinity. The Bayes theorem works in the same way as we are computing the probability of an event\(a person being a threat\) based on the probabilities of certain related events\(age, sex, presence of bag or not, nervousness etc. of the person\).
->
-> One thing to consider is the independence of these features amongst each other. For example if a child looks nervous at the event then the likelihood of that person being a threat is not as much as say if it was a grown man who was nervous. To break this down a bit further, here there are two features we are considering, age AND nervousness. Say we look at these features individually, we could design a model that flags ALL persons that are nervous as potential threats. However, it is likely that we will have a lot of false positives as there is a strong chance that minors present at the event will be nervous. Hence by considering the age of a person along with the 'nervousness' feature we would definitely get a more accurate result as to who are potential threats and who aren't.
->
-> This is the 'Naive' bit of the theorem where it considers each feature to be independant of each other which may not always be the case and hence that can affect the final judgement.
->
-> In short, the Bayes theorem calculates the probability of a certain event happening\(in our case, a message being spam\) based on the joint probabilistic distributions of certain other events\(in our case, a message being classified as spam\). We will dive into the workings of the Bayes theorem later in the mission, but first, let us understand the data we are going to work with.
-
-#### a introduction of bag of words
-
-> What we have here in our data set is a large collection of text data \(5,572 rows of data\). Most ML algorithms rely on numerical data to be fed into them as input, and email/sms messages are usually text heavy.
->
-> Here we'd like to introduce the Bag of Words\(BoW\) concept which is a term used to specify the problems that have a 'bag of words' or a collection of text data that needs to be worked with. The basic idea of BoW is to take a piece of text and count the frequency of the words in that text. It is important to note that the BoW concept treats each word individually and the order in which the words occur does not matter.
->
-> Using a process which we will go through now, we can covert a collection of documents to a matrix, with each document being a row and each word\(token\) being the column, and the corresponding \(row,column\) values being the frequency of occurrance of each word or token in that document.
->
-> Lets break this down and see how we can do this conversion using a small set of documents.
->
-> To handle this, we will be using sklearns[count vectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html#sklearn.feature_extraction.text.CountVectorizer) method which does the following:
->
-> * It tokenizes the string\(separates the string into individual words\) and gives an integer ID to each token.
-> * It counts the occurrance of each of those tokens.
->
-> \*\* Please Note: \*\*
->
-> * The CountVectorizer method automatically converts all tokenized words to their lower case form so that it does not treat words like 'He' and 'he' differently. It does this using the `lowercase` parameter which is by default set to `True`.
-> * It also ignores all punctuation so that words followed by a punctuation mark \(for example: 'hello!'\) are not treated differently than the same words not prefixed or suffixed by a punctuation mark \(for example: 'hello'\). It does this using the `token_pattern` parameter which has a default regular expression which selects tokens of 2 or more alphanumeric characters.
-> * The third parameter to take note of is the `stop_words` parameter. Stop words refer to the most commonly used words in a language. They include words like 'am', 'an', 'and', 'the' etc. By setting this parameter value to `english`, CountVectorizer will automatically ignore all words\(from our input text\) that are found in the built in list of english stop words in scikit-learn. This is extremely helpful as stop words can skew our calculations when we are trying to find certain key words that are indicative of spam.
->
-> We will dive into the application of each of these into our model in a later step, but for now it is important to be aware of such preprocessing techniques available to us when dealing with textual data.
-
-Contain the implementation of the Bag of Words process from scratch
-
-Potential issues of Bags of Words and the solutions:
-
-> One potential issue that can arise from using this method out of the box is the fact that if our dataset of text is extremely large\(say if we have a large collection of news articles or email data\), there will be certain values that are more common that others simply due to the structure of the language itself. So for example words like 'is', 'the', 'an', pronouns, grammatical contructs etc could skew our matrix and affect our analyis.
->
-> There are a couple of ways to mitigate this. One way is to use the `stop_words` parameter and set its value to `english`. This will automatically ignore all words\(from our input text\) that are found in a built in list of English stop words in scikit-learn.
->
-> Another way of mitigating this is by using the [tfidf](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extraction.text.TfidfVectorizer) method. This method is out of scope for the context of this lesson.
-
-What does the term 'Naive' in 'Naive Bayes' mean?
-
-> The term 'Naive' in Naive Bayes comes from the fact that the algorithm considers the features that it is using to make the predictions to be independent of each other, which may not always be the case. So in our Diabetes example, we are considering only one feature, that is the test result. Say we added another feature, 'exercise'. Let's say this feature has a binary value of `0` and `1`, where the former signifies that the individual exercises less than or equal to 2 days a week and the latter signifies that the individual exercises greater than or equal to 3 days a week. If we had to use both of these features, namely the test result and the value of the 'exercise' feature, to compute our final probabilities, Bayes' theorem would fail. Naive Bayes' is an extension of Bayes' theorem that assumes that all the features are independent of each other.
-
-Naive Bayes: multinomial vs Gaussian
-
-> Specifically, we will be using the multinomial Naive Bayes implementation. This particular classifier is suitable for classification with discrete features \(such as in our case, word counts for text classification\). It takes in integer word counts as its input. On the other hand Gaussian Naive Bayes is better suited for continuous data as it assumes that the input data has a Gaussian\(normal\) distribution.
-
-Model evaluation:
-
-> \*\* Accuracy \*\* measures how often the classifier makes the correct prediction. It’s the ratio of the number of correct predictions to the total number of predictions \(the number of test data points\).
->
-> \*\* Precision \*\* tells us what proportion of messages we classified as spam, actually were spam.It is a ratio of true positives\(words classified as spam, and which are actually spam\) to all positives\(all words classified as spam, irrespective of whether that was the correct classification\), in other words it is the ratio of
->
-> `[True Positives/(True Positives + False Positives)]`
->
-> \*\* Recall\(sensitivity\)\*\* tells us what proportion of messages that actually were spam were classified by us as spam.It is a ratio of true positives\(words classified as spam, and which are actually spam\) to all the words that were actually spam, in other words it is the ratio of
->
-> `[True Positives/(True Positives + False Negatives)]`
->
-> For classification problems that are skewed in their classification distributions like in our case, for example if we had a 100 text messages and only 2 were spam and the rest 98 weren't, accuracy by itself is not a very good metric. We could classify 90 messages as not spam\(including the 2 that were spam but we classify them as not spam, hence they would be false negatives\) and 10 as spam\(all 10 false positives\) and still get a reasonably good accuracy score. For such cases, precision and recall come in very handy. These two metrics can be combined to get the F1 score, which is weighted average of the precision and recall scores. This score can range from 0 to 1, with 1 being the best possible F1 score.We will be using all 4 metrics to make sure our model does well. For all 4 metrics whose values can range from 0 to 1, having a score as close to 1 as possible is a good indicator of how well our model is doing.
->
-> We will be using all 4 metrics to make sure our model does well. For all 4 metrics whose values can range from 0 to 1, having a score as close to 1 as possible is a good indicator of how well our model is doing.
->
-> ```python
-> from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-> print('Accuracy score: ', format(accuracy_score(y_test, predictions)))
-> print('Precision score: ', format(precision_score(y_test, predictions)))
-> print('Recall score: ', format(recall_score(y_test, predictions)))
-> print('F1 score: ', format(f1_score(y_test, predictions)))
-> ```
-
-Advantage of Naive Bayes
-
-> One of the major advantages that Naive Bayes has over other classification algorithms is its ability to handle an extremely large number of features. In our case, each word is treated as a feature and there are thousands of different words. Also, it performs well even with the presence of irrelevant features and is relatively unaffected by them. The other major advantage it has is its relative simplicity. Naive Bayes' works well right out of the box and tuning it's parameters is rarely ever necessary, except usually in cases where the distribution of the data is known. It rarely ever overfits the data. Another important advantage is that its model training and prediction times are very fast for the amount of data it can handle. All in all, Naive Bayes' really is a gem of an algorithm!
-
-prerequisite statistics courses:[https://www.udacity.com/course/intro-to-inferential-statistics--ud201](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)[https://www.udacity.com/course/intro-to-descriptive-statistics--ud827](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-
-median is better than mean as median is not affected severely by outliers.
-
 Bessel's correction is the use of n − 1 instead of n in the formula for the sample variance and sample standard deviation, where n is the number of observations in a sample. This method corrects the bias in the estimation of the population variance \(the sample variance and sample standard deviation tends to be higher if divided by n as the samples will probably nearly the mean\). It also partially corrects the bias in the estimation of the population standard deviation. However, the correction often increases the mean squared error in these estimations.
 
 Label Encoder vs One-hot Encoder:
@@ -195,12 +104,6 @@ What you need to remember:Common steps for pre-processing a new dataset are:
 * Reshape the datasets such that each example is now a vector of size \(num\_px \* num\_px \* 3, 1\)
 * "Standardize" the data
 
-> ## FORWARD PROPAGATION \(FROM X TO COST\)
->
-> ## BACKWARD PROPAGATION \(TO FIND GRAD\)
-
-> A = None \# compute activationSo A is the activation?
-
 ## 
 
 ## Log Loss
@@ -294,37 +197,7 @@ Using Log Loss in your models is relatively simple. [XGBoost](https://github.com
 
 > The first `[.9, .1]` in `y_pred` denotes 90% probability that the first sample has label 0. The log loss is non-negative.
 
-## Idea
-
-In the [TED talk](https://www.ted.com/talks/mallory_soldner_your_company_s_data_could_end_world_hunger/) filmed September 2016, Mallory Soldner, UPS's advanced analytics manager, talked about how can companies do [data philanthropy](https://www.wikiwand.com/en/Data_philanthropy) and why.
-
-### Donating Data
-
-As Mallory said:
-
-> Companies today, they collect mountains of data, so the first thing they can do is start donating that data. Some companies are already doing it. Take, for example, a major telecom company. They opened up their data in Senegal and the Ivory Coast and researchers discovered that if you look at the patterns in the pings to the cell phone towers, you can see where people are traveling. And that can tell you things like where malaria might spread, and you can make predictions with it. Or take for example an innovative satellite company. They opened up their data and donated it, and with that data you could track how droughts are impacting food production. With that you can actually trigger aid funding before a crisis can happen.
-
-### Donating Decision Scientists
-
-As Mallory said:
-
-> But even if the floodgates opened up, and even if all companies donated their data to academics, to NGOs, to humanitarian organizations, it wouldn't be enough to harness that full impact of data for humanitarian goals. Why? To unlock insights in data, you need decision scientists. Decision scientists are people like me. They take the data, they clean it up, transform it and put it into a useful algorithm that's the best choice to address the business need at hand. In the world of humanitarian aid, there are very few decision scientists. Most of them work for companies. So that's the second thing that companies need to do.
-
-### Donating Technology to Gather New Source of Data
-
-As Mallory said:
-
-> Right now, Syrian refugees are flooding into Greece, and the UN refugee agency, they have their hands full. The current system for tracking people is paper and pencil, and what that means is that when a mother and her five children walk into the camp, headquarters is essentially blind to this moment. That's all going to change in the next few weeks, thanks to private sector collaboration. There's going to be a new system based on donated package tracking technology from the logistics company that I work for. With this new system, there will be a data trail, so you know exactly the moment when that mother and her children walk into the camp. And even more, you know if she's going to have supplies this month and the next. Information visibility drives efficiency. For companies, using technology to gather important data, it's like bread and butter. They've been doing it for years, and it's led to major operational efficiency improvements. Just try to imagine your favorite beverage company trying to plan their inventory and not knowing how many bottles were on the shelves. It's absurd. Data drives better decisions.
-
-### Why Companies Should Do These
-
-As Mallory said:
-
-> Well for one thing, beyond the good PR, humanitarian aid is a 24-billion-dollar sector, and there's over five billion people, maybe your next customers, that live in the developing world.
-
-> Further, companies that are engaging in data philanthropy, they're finding new insights locked away in their data. Take, for example, a credit card company that's opened up a center that functions as a hub for academics, for NGOs and governments, all working together. They're looking at information in credit card swipes and using that to find insights about how households in India live, work, earn and spend. For the humanitarian world, this provides information about how you might bring people out of poverty. But for companies, it's providing insights about your customers and potential customers in India. It's a win all around.
-
-> Now, for me, what I find exciting about data philanthropy — donating data, donating decision scientists and donating technology — it's what it means for young professionals like me who are choosing to work at companies. Studies show that the next generation of the workforce care about having their work make a bigger impact. We want to make a difference, and so through data philanthropy, companies can actually help engage and retain their decision scientists. And that's a big deal for a profession that's in high demand.
+## 
 
 ## Python
 
