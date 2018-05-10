@@ -1,32 +1,6 @@
 # Resources
 
-## 
-
-## Seems quite useful
-
-[Getting Started With MachineLearning \(all in one\)\_V0.91](https://www.dropbox.com/s/qh48dkbkq0qtdpa/Getting%20Started%20With%20MachineLearning%20%28all%20in%20one%29_V0.91.pdf?dl=0)
-
-[Ubuntu + Deep Learning Software Installation Guide](https://towardsdatascience.com/ubuntu-deep-learning-software-installation-guide-fdae09f79903)
-
-{% embed data="{\"url\":\"https://www.analyticsvidhya.com/blog/2018/04/winning-solutions-codes-from-avs-signature-hackathon-lord-of-the-machines/\",\"type\":\"link\",\"title\":\"Winning Solutions & Codes from AV\'s Signature Hackathon - Lord of the Machines\",\"description\":\"This article features the top three winning solutions, along with the code links, for Analytics Vidhya\'s signature hackathon - Lord of the Machines.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo\_square\_v2.jpg\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/04/LOTM1.png\",\"width\":441,\"height\":252,\"aspectRatio\":0.5714285714285714}}" %}
-
-{% embed data="{\"url\":\"https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection\",\"type\":\"link\",\"title\":\"Unsupervised Anomaly Detection\",\"description\":\"Using data from Numenta Anomaly Benchmark \(NAB\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.kaggle.com/content/v/d420a040e581/kaggle/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://kaggle2.blob.core.windows.net/datasets-images/110/240/38e592a161de4399322783743f6a6d34/dataset-thumbnail.png\",\"width\":120,\"height\":120,\"aspectRatio\":1}}" %}
-
-{% embed data="{\"url\":\"https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4\",\"type\":\"link\",\"title\":\"How To Become A Machine Learning Engineer: Learning Path\",\"description\":\"We will walk you through all the aspects of machine learning from simple linear regressions to the latest neural networks, and you will…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*eS2eqLWF85ZrshsKZ5etSQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1200/1\*XZud2LX7hDGWMbGk4ukQfg.png\",\"width\":1200,\"height\":600,\"aspectRatio\":0.5}}" %}
-
-{% embed data="{\"url\":\"https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice\",\"type\":\"link\",\"title\":\"How to choose machine learning algorithms\",\"description\":\"How to choose Azure Machine Learning algorithms for supervised and unsupervised learning in clustering, classification, or regression experiments.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://docs.microsoft.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://docs.microsoft.com/\_themes/docs.theme/master/en-us/\_themes/images/microsoft-header.png\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
-
-{% embed data="{\"url\":\"https://www.datascience.com/blog/python-anomaly-detection?hs\_amp=true\",\"type\":\"link\",\"title\":\"Introduction to Anomaly Detection\",\"description\":\"In this article, Data Scientist Pramit Choudhary provides an introduction to statistical and machine learning-based approaches to anomaly detection in Python.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.datascience.com/favicon.ico\",\"aspectRatio\":0}}" %}
-
-{% embed data="{\"url\":\"http://www.cnblogs.com/jasonfreak/p/5448385.html\",\"type\":\"link\",\"title\":\"使用sklearn做单机特征工程 - jasonfreak - 博客园\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cnblogs.com/favicon.ico\",\"aspectRatio\":0}}" %}
-
-{% embed data="{\"url\":\"https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/\",\"type\":\"link\",\"title\":\"Discover Feature Engineering, How to Engineer Features and How to Get Good at It\",\"description\":\"Feature engineering is an informal topic, but one that is absolutely known and agreed to be key to success in applied machine learning. In creating this guide I went wide and deep and synthesized all of the material I could. You will discover what feature engineering is, what problem it solves, why it matters, how …\",\"icon\":{\"type\":\"icon\",\"url\":\"https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/feature-engineering-is-hard.jpg\",\"width\":640,\"height\":480,\"aspectRatio\":0.75}}" %}
-
-{% embed data="{\"url\":\"https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/\",\"type\":\"link\",\"title\":\"The most comprehensive Data Science learning plan for 2017\",\"description\":\"This article features a year long learning path for aspiring data scientist, intermediate & transitioner to progress in data science industry for R & Python\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo\_square\_v2.jpg\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/01/16025714/startup-photos.jpg\",\"width\":1280,\"height\":853,\"aspectRatio\":0.66640625}}" %}
-
-
-
-## Good to learn but not top priority
+od to learn but not top priority
 
 {% embed data="{\"url\":\"https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection\",\"type\":\"link\",\"title\":\"Unsupervised Anomaly Detection\",\"description\":\"Using data from Numenta Anomaly Benchmark \(NAB\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.kaggle.com/content/v/d420a040e581/kaggle/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://kaggle2.blob.core.windows.net/datasets-images/110/240/38e592a161de4399322783743f6a6d34/dataset-thumbnail.png\",\"width\":120,\"height\":120,\"aspectRatio\":1}}" %}
 

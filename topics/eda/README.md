@@ -23,3 +23,5 @@ When handling image classification problems, try to answer the following questio
 * What are the distributions of image types?
 * Are the images in the same dimension?
 
+[How to Use Correlation to Understand the Relationship Between Variables](https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/)
+
