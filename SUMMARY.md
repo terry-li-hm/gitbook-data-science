@@ -9,6 +9,8 @@
 * Resources
   * [To Read](resources/to-read.md)
   * [Top To Read](resources/top-to-read.md)
+* [Industry](industry/README.md)
+  * [FS](industry/fs.md)
 * Topics
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
@@ -75,7 +77,6 @@
   * [Fast.ai](notes/fast.ai.md)
   * [My Server](notes/my-server.md)
 * [Tools](untitled.md)
-* [FS](fs.md)
 * [Codes](codes.md)
 * [Commands](untitled-1.md)
 * [Use Cases](untitled-3.md)

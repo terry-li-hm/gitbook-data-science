@@ -12,6 +12,8 @@
 
 [Using Machine Learning to help Refugees find Employment](https://www.analyticsvidhya.com/blog/2018/01/machine-learning-refugees-find-employment/)
 
+[Predict Employee Turnover With Python](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
+
 ## Classification
 
 [Winning Solutions & Codes from AV's Signature Hackathon - Lord of the Machines](https://www.analyticsvidhya.com/blog/2018/04/winning-solutions-codes-from-avs-signature-hackathon-lord-of-the-machines/)

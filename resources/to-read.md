@@ -1,49 +1,5 @@
 # To Read
 
-## Top
-
-[Class Central • \#1 Search Engine for Free Online Courses & MOOCs](https://www.class-central.com/)
-
-[How machine learning creates new professions — and problems](https://www.ft.com/content/49e81ebe-cbc3-11e7-8536-d321d0d897a3)
-
-[Why so many data scientists are leaving their jobs – Towards Data Science](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4)
-
-[How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) \(11.3k clap!\)
-
-[An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
-
-[JPM - An Investors' Guide to Artificial Intelligence.pdf](https://www.dropbox.com/s/7vd1zz31kunk9aj/JPM%20-%20An%20Investors%27%20Guide%20to%20Artificial%20Intelligence.pdf?dl=0)
-
-[JPM - Big Data and AI Strategies.pdf](https://www.dropbox.com/s/1kk702wur687ti4/JPM%20-%20Big%20Data%20and%20AI%20Strategies.pdf?dl=0)
-
-[12 Useful Things to Know about Machine Learning – James Le – Medium](https://medium.com/@james_aka_yale/12-useful-things-to-know-about-machine-learning-c599be92c98d) \(cited 1034 times!\)
-
-[Designing great data products - O'Reilly Media](https://www.oreilly.com/ideas/drivetrain-approach-data-products)
-
-[HR Analytics: Using Machine Learning to Predict Employee Turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
-
-[How Does Spotify Know You So Well? – Member Feature Stories – Medium](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
-
-[Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
-
-[Applying deep learning to real-world problems – merantix – Medium](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
-
-[Predict Employee Turnover With Python – Towards Data Science](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
-
-[評估品牌對大眾的曝光程度，深度學習方案可解決這一問題 - 雲+社區 - 騰訊雲](https://cloud.tencent.com/developer/article/1051111)
-
-[Learn \| Kaggle](https://www.kaggle.com/learn/overview)
-
-[How artificial intelligence and data add value to businesses \| McKinsey & Company](https://www.mckinsey.com/featured-insights/artificial-intelligence/how-artificial-intelligence-and-data-add-value-to-businesses)
-
-[AI is the new electricity. - Andrew Ng \(Coursera\) - YouTube](https://www.youtube.com/watch?v=NQK4ZY_gwKI)
-
-[AI is the new electricity. - Andrew Ng \(Coursera\) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA \[Video\]](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video315023.html)
-
-[Andrew Ng: Artificial Intelligence is the New Electricity - YouTube](https://www.youtube.com/watch?v=21EiKfQYZXc&t=1s)
-
-## 
-
 ## Inbox
 
 [So, You are Working on a Machine Learning Problem...](https://machinelearningmastery.com/working-machine-learning-problem/)

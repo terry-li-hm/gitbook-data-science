@@ -1,6 +1,6 @@
 # Tabular Data
 
-[An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+[**An Introduction to Deep Learning for Tabular Data · fast.ai**](http://www.fast.ai/2018/04/29/categorical-embeddings/)
 
 [Using Word2Vec for Better Embeddings of Categorical Features - Taboola Tech Blog](http://engineering.taboola.com/using-word2vec-better-embeddings-categorical-features/)
 
@@ -19,4 +19,6 @@
 [Using Deep Learning for Structured Data with Entity Embeddings](https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088)
 
 [Deep Learning \#4: Why You Need to Start Using Embedding Layers](https://towardsdatascience.com/deep-learning-4-embedding-layers-f9a02d55ac12)
+
+
 

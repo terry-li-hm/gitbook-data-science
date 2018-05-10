@@ -1,5 +1,7 @@
 # FS
 
+[JPM - Big Data and AI Strategies.pdf](https://www.dropbox.com/s/1kk702wur687ti4/JPM%20-%20Big%20Data%20and%20AI%20Strategies.pdf)
+
 [Where can Machine Learning be Applied to Improve Banking Performance? - Accenture](https://financeandriskblog.accenture.com/analytics/where-can-machine-learning-be-applied-to-improve-banking-performance)
 
 [機器學習如何應用於金融領域？ \| 雷鋒網](https://www.leiphone.com/news/201607/aMUYZKBhHpAkDaJ5.html)

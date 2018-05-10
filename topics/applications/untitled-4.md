@@ -1,5 +1,7 @@
 # NLP
 
+[How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+
 [Data Analysis & XGBoost Starter \(0.35460 LB\) \| Kaggle](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb)
 
 [Bag of Words Meets Bags of Popcorn \| Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial#description)
