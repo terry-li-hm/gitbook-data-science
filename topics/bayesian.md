@@ -8,3 +8,5 @@
 
 [Markov Chains explained visually](http://setosa.io/ev/markov-chains/)
 
+[Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+
