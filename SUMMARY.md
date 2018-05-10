@@ -40,7 +40,7 @@
     * [Dimensionality Reduction](topics/eda/dimensionality-reduction.md)
   * [Comparing Algorithms](topics/comparing-algorithms.md)
   * [Data Cleaning](topics/data-cleaning.md)
-  * [Evaluating Models](topics/evaluating-models/README.md)
+  * [Metrics](topics/evaluating-models/README.md)
     * [AUC](topics/evaluating-models/auc.md)
   * [Big Data](topics/big-data.md)
   * [Traditional Algorithms](topics/traditional-algorithms/README.md)
@@ -48,6 +48,7 @@
   * [Model Development Techniques](topics/model-development-techniques.md)
   * [Scraping](topics/scraping-1.md)
   * [XGBoost](topics/xgboost.md)
+  * [Regular Expression](topics/regular-expression-1.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)

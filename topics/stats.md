@@ -1,5 +1,7 @@
 # Stats
 
+[Skewness vs Kurtosis – The Robust Duo](https://www.kdnuggets.com/2018/05/skewness-vs-kurtosis-robust-duo.html)
+
 [Statistics Books for Machine Learning](https://machinelearningmastery.com/statistics-books-for-machine-learning/)
 
 [Hierachical Models](http://mfviz.com/hierarchical-models/)

@@ -2,7 +2,7 @@
 
 [kjw0612/awesome-rnn: Recurrent Neural Network - A curated list of resources dedicated to RNN](https://github.com/kjw0612/awesome-rnn)
 
-
+[The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0?mkt_tok=eyJpIjoiTldZNU9UZzNNRGd6TlRSaCIsInQiOiJSaUkxS3JNTHBFTVhXRENBMnpMSkVHczUyaXRjaHFDOXY4a1RcL1RMM3FCUXBQbVBBXC96eVlQVERWY1JQMko5ejc5RWk5WVpBMENrXC9oNGFiOXU2SUM4Uzg3SzVqQVhUN1MwVU43UjViRE5cL3g5VUVnSU5GRHR0T3BYWEtxRGZ3VzIifQ)
 
 
 

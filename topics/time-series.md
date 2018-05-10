@@ -6,7 +6,7 @@
 
 [A Guide For Time Series Prediction Using Recurrent Neural Networks \(LSTMs\)](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
 
-
+[Forecasting Methods : Part I – Taposh Dutta-Roy – Medium](https://medium.com/@taposhdr/forecasting-methods-part-i-9440e27466ab)
 
 * [https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python)/
 * [如何基于TensorFlow使用LSTM和CNN实现时序分类任务](https://www.jiqizhixin.com/articles/2017-09-12-5)
