@@ -1,5 +1,9 @@
 # NLP
 
+[Bag of Words Meets Bags of Popcorn \| Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial#description)
+
+[Working With Text Data — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+
 [sloria/TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.](https://github.com/sloria/textblob)
 
 [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)

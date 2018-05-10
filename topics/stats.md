@@ -6,7 +6,7 @@
 
 [Hierachical Models](http://mfviz.com/hierarchical-models/)
 
-
+[Seeing Theory](http://students.brown.edu/seeing-theory/)
 
 * [How not to be biased?](https://data36.com/how-not-to-be-biased)
 * [6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
