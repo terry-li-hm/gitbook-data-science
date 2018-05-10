@@ -2,10 +2,6 @@
 
 od to learn but not top priority
 
-{% embed data="{\"url\":\"http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/UdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf\",\"type\":\"rich\",\"embed\":{\"type\":\"reader\",\"url\":\"https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2F1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2014%2F12%2FUdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf\",\"html\":\"<div style=\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\"><iframe src=\\"https://docs.google.com/viewer?embedded=true&amp;url=http%3A%2F%2F1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2014%2F12%2FUdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf\\" style=\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
-
-{% embed data="{\"url\":\"www.openintro.org/\",\"type\":\"link\",\"title\":\"OpenIntro\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.openintro.org/img/brand/favicon.ico\",\"aspectRatio\":0}}" %}
-
 {% embed data="{\"url\":\"https://www.dropbox.com/s/1q1hppdhq058kzp/CB-Insights\_State-of-Artificial-Intelligence-2018.pdf?dl=0\",\"type\":\"link\",\"title\":\"CB-Insights\_State-of-Artificial-Intelligence-2018.pdf\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/twitter-card-glyph\_m1@2x-vflrCAzPX.png\",\"width\":320,\"height\":320,\"aspectRatio\":1}}" %}
 
 
