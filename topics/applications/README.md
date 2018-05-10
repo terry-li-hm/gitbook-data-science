@@ -10,7 +10,7 @@
 
 [用深度學習（CNN RNN Attention）解決大規模文本分類問題 - 綜述和實踐](https://zhuanlan.zhihu.com/p/25928551)
 
-
+[Using Machine Learning to help Refugees find Employment](https://www.analyticsvidhya.com/blog/2018/01/machine-learning-refugees-find-employment/)
 
 ## Classification
 

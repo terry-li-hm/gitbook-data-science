@@ -12,3 +12,11 @@
 
 [Think Bayes](https://www.dropbox.com/s/i9begmuqbyh7tb2/Think%20Bayes%20-%20Bayesian%20Statistics%20Made%20Simple.pdf?dl=0)
 
+[Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 2](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
+
+[Introduction to Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+
+[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers: aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;\)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+[Bayes’ Rule Applied – Towards Data Science](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
+

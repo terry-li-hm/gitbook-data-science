@@ -84,6 +84,6 @@
 * [Learning Resources](learning-resources.md)
 * [Best Resources](best-resources.md)
 * [Identifying Opportunities](identifying-opportunities.md)
-* [Math](math.md)
+* [Mathematics](math.md)
 * [Analysing Problem](analysing-problem.md)
 

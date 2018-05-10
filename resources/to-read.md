@@ -202,25 +202,9 @@
 
 
 
-## Statistics
+## 
 
 
-
-
-
-## Mathematics
-
-[Basic Linear Algebra for Deep Learning – Towards Data Science](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)
-
-[从入门到高阶，读懂机器学习需要哪些数学知识（附网盘） \| 机器之心](https://www.jiqizhixin.com/articles/2018-04-12-4)
-
-[A Gentle Introduction to Linear Algebra](https://machinelearningmastery.com/gentle-introduction-linear-algebra/)
-
-[從最大似然估計開始，你需要打下的機器學習基石 \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-09-6)
-
-[A Gentle Introduction to the Law of Large Numbers in Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/)
-
-[A Gentle Introduction to the Central Limit Theorem for Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/)
 
 ## Machine Learning
 
@@ -228,27 +212,15 @@
 
 [Introduction to machine learning in Python with scikit-learn \(video series\)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 
-## Decision Trees
+## 
 
-[Introduction to Random Forest - All About Analytics](https://analyticsdefined.com/introduction-random-forests/)
 
-[Improving the Random Forest in Python Part 1 – Towards Data Science](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
-
-[Random Forest Simple Explanation – William Koehrsen – Medium](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d)
-
-[Random Forest in Python – Towards Data Science](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
-
-[Improving the Random Forest in Python Part 1 – Towards Data Science](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
-
-[Hyperparameter Tuning the Random Forest in Python – Towards Data Science](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 
 
 ## Long sequence modeling
 
-[Visualizing LSTM Networks. Part I. – Acta Schola Automata Polonica – Medium](https://medium.com/asap-report/visualizing-lstm-networks-part-i-f1d3fa6aace7)
 
-[The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 
 ### Time Series
 
@@ -279,19 +251,7 @@
 
 [An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
 
-### Metrics
 
-[Beyond Accuracy: Precision and Recall – Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
-
-[Unintended Consequences and Goodhart’s Law – Towards Data Science](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
-
-### Ensembles
-
-[Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/)
-
-[Kaggle Ensembling Guide \| MLWave](https://mlwave.com/kaggle-ensembling-guide/)
-
-[Introduction to Ensembling/Stacking in Python \| Kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python/notebook)
 
 ## Regression
 
@@ -302,12 +262,6 @@
 
 
 ## Deep Learning
-
-
-
-### Keras
-
-[How to Make Predictions with Keras](https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/)
 
 ### Tensorflow
 
@@ -320,36 +274,6 @@
 [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
 
 [Essentials of Deep Learning: Getting to know CapsuleNets \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/essentials-of-deep-learning-getting-to-know-capsulenets/)
-
-
-
-
-
-## 
-
-
-
-## 
-
-## For Good
-
-[Using Machine Learning to help Refugees find Employment](https://www.analyticsvidhya.com/blog/2018/01/machine-learning-refugees-find-employment/)
-
-
-
-## Bayesian {#6015}
-
-[Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 2](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
-
-[Introduction to Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
-
-[CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers: aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;\)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-
-[Bayes’ Rule Applied – Towards Data Science](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
-
-
-
-
 
 
 

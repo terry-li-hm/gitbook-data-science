@@ -38,3 +38,9 @@ This is the default scoring method for regression learners in scikit-learn.
 
 [What is Log Loss? \| Kaggle](https://www.kaggle.com/dansbecker/what-is-log-loss/notebook)
 
+
+
+[Beyond Accuracy: Precision and Recall – Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+
+[Unintended Consequences and Goodhart’s Law – Towards Data Science](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+

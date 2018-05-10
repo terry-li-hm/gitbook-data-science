@@ -104,3 +104,9 @@ class Ensemble(object):
 
 > Prize winners usually have larger and much more complicated ensembles. For beginner, implementing a correct 5-fold stacking is good enough.
 
+[Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/)
+
+[Kaggle Ensembling Guide \| MLWave](https://mlwave.com/kaggle-ensembling-guide/)
+
+[Introduction to Ensembling/Stacking in Python \| Kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python/notebook)
+
