@@ -1,5 +1,7 @@
 # Visualization
 
+[PAIR-code/facets: Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
+
 [The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/)
 
 [Exploring Histograms](https://tinlizzie.org/histograms/)

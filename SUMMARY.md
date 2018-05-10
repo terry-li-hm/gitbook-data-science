@@ -49,6 +49,9 @@
   * [Scraping](topics/scraping-1.md)
   * [XGBoost](topics/xgboost.md)
   * [Regular Expression](topics/regular-expression-1.md)
+  * [Explaning Model](topics/explaning-model.md)
+  * [Data Processing](topics/untitled-1.md)
+  * [Politics](topics/politics.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)

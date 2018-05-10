@@ -22,3 +22,5 @@
 
 [No Free Hunch \| The Official Blog of Kaggle.com](http://blog.kaggle.com/)
 
+[Machine Learning Glossary  \|  Google Developers](https://developers.google.com/machine-learning/glossary/)
+

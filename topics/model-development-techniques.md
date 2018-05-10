@@ -26,6 +26,11 @@
 * [Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization](https://github.com/maxpumperla/hyperas)
 * [Effectively running thousands of experiments: Hyperopt with Sacred](https://gab41.lab41.org/effectively-running-thousands-of-experiments-hyperopt-with-sacred-dfa53b50f1ec)
 * [Hyperopt tutorial for Optimizing Neural Networks' Hyperparameters - Vooban](https://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
+* [hyperopt\_experiments.py](https://github.com/Lab41/pythia/blob/master/experiments/hyperopt_experiments.py)
+* [Spearmint](https://github.com/HIPS/Spearmint)
+* [GPyOpt](https://sheffieldml.github.io/GPyOpt/) a Python open-source library for Bayesian Optimization
+* [Scikit-Optimize](https://scikit-optimize.github.io/)
+* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-3/#hyper)
 
 ### Cross-validation
 

@@ -1,5 +1,7 @@
 # NLP
 
+[sloria/TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.](https://github.com/sloria/textblob)
+
 [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
 
 [How I lost a silver medal in Kaggle’s Mercari Price Suggestion Challenge using CNNs and Tensorflow](https://medium.com/unstructured/how-i-lost-a-silver-medal-in-kaggles-mercari-price-suggestion-challenge-using-cnns-and-tensorflow-4013660fcded)

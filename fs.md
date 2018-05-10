@@ -1,5 +1,7 @@
 # FS
 
+[Where can Machine Learning be Applied to Improve Banking Performance? - Accenture](https://financeandriskblog.accenture.com/analytics/where-can-machine-learning-be-applied-to-improve-banking-performance)
+
 [機器學習如何應用於金融領域？ \| 雷鋒網](https://www.leiphone.com/news/201607/aMUYZKBhHpAkDaJ5.html)
 
 [人工智能和機器學習會逐漸取代金融和數據分析師嗎？ - 知乎](https://www.zhihu.com/question/24089451)

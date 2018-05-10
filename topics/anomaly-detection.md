@@ -2,7 +2,9 @@
 
 * 对于非平衡样本问题，用PR曲线能有效的看出模型性能。
 
+> a fraud detection model may use anomaly detection scores as an extra generated feature going into the supervised learning algorithm.
 
+[Entity Embedding-Based Anomaly Detection for Heterogeneous Categorical Events - Google 搜尋](https://www.google.com.hk/search?q=Entity+Embedding-Based+Anomaly+Detection+for+Heterogeneous+Categorical+Events&oq=Entity+Embedding-Based+Anomaly+Detection+for+Heterogeneous+Categorical+Events&aqs=chrome..69i57.315j0j1&sourceid=chrome&ie=UTF-8)
 
 [What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
 
@@ -74,4 +76,10 @@
 [Imbalanced Data Classification \| An Explorer of Things](https://chih-ling-hsu.github.io/2017/07/25/Imbalanced-Data-Classification)
 
 [Dealing with unbalanced data in machine learning](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
+
+[Anomaly detection - Wikipedia](https://en.m.wikipedia.org/wiki/Anomaly_detection)
+
+[Fraudsters, Outliers and Big Data \| Mawazo](https://pkghosh.wordpress.com/2012/01/02/fraudsters-outliers-and-big-data-2/)
+
+[\[1702.05809\] Network-based Anomaly Detection for Insider Trading](https://arxiv.org/abs/1702.05809)
 
