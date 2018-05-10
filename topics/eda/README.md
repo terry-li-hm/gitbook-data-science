@@ -1,6 +1,6 @@
 # EDA
 
-
+[scipy/scipy: Scipy library main repository](https://github.com/scipy/scipy)
 
 [statsmodels/statsmodels: Statsmodels: statistical modeling and econometrics in Python](https://github.com/statsmodels/statsmodels)
 
