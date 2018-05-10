@@ -1,5 +1,9 @@
 # EDA
 
+
+
+[statsmodels/statsmodels: Statsmodels: statistical modeling and econometrics in Python](https://github.com/statsmodels/statsmodels)
+
 [Python Data Visualizations \| Kaggle](https://www.kaggle.com/benhamner/python-data-visualizations)
 
 > Some common practices:
