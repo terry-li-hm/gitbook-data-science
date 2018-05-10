@@ -48,6 +48,7 @@
   * [Traditional Algorithms](topics/traditional-algorithms/README.md)
     * [Tree](topics/traditional-algorithms/tree.md)
     * [Naive Bayes](topics/traditional-algorithms/naive-bayes.md)
+    * [K-means Clustering](topics/traditional-algorithms/k-means-clustering.md)
   * [Model Development Techniques](topics/model-development-techniques.md)
   * [Scraping](topics/scraping-1.md)
   * [XGBoost](topics/xgboost.md)
