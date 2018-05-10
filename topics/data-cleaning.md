@@ -10,3 +10,5 @@
 
 [vi3k6i5/flashtext: Extract Keywords from sentence or Replace keywords in sentences.](https://github.com/vi3k6i5/flashtext)
 
+[Fixing Typos \| Kaggle](https://www.kaggle.com/steubk/fixing-typos)
+

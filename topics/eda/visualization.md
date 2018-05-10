@@ -1,5 +1,7 @@
 # Visualization
 
+[Visualizing Time Series Data of Stock Prices \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](http://byteacademy.co/blog/time-series-python)
+
 [9 popular ways to perform Data Visualization in Python](https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/)
 
 [Guide For Data Exploration In Python Using NumPy, Matplotlib, Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
@@ -21,7 +23,7 @@
 
 [Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 
 

@@ -1,10 +1,19 @@
 # EDA
 
+[Python Data Visualizations \| Kaggle](https://www.kaggle.com/benhamner/python-data-visualizations)
+
+> Some common practices:
+>
+> * Inspect the distribution of target variable. Depending on what scoring metric is used, **an **[**imbalanced**](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5128907)** distribution of target variable might harm the model’s performance**.
+> * For **numerical variables**, use **box plot** and **scatter plot** to inspect their distributions and check for outliers.
+> * For classification tasks, plot the data with points colored according to their labels. This can help with feature engineering.
+> * Make pairwise distribution plots and examine their correlations.
+
 [How to Approach Data: Tabular Data – Apteo – Medium](https://medium.com/apteo/how-to-approach-data-tabular-data-326c94f0f274)
 
 [HVF/franchise: 🍟 a notebook sql client. what you get when have a lot of sequels.](https://github.com/hvf/franchise)
 
-
+[Python Data Visualizations \| Kaggle](https://www.kaggle.com/benhamner/python-data-visualizations)
 
 * [Analyzing Ethereum, Bitcoin, and 1200+ other Cryptocurrencies using PostgreSQL](https://blog.timescale.com/analyzing-ethereum-bitcoin-and-1200-cryptocurrencies-using-postgresql-3958b3662e51)
 * [The Next Wave: Predicting the future of coffee in New York City](https://medium.com/topos-ai/the-next-wave-predicting-the-future-of-coffee-in-new-york-city-23a0c5d62000)

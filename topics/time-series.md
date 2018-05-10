@@ -1,5 +1,7 @@
 # Time Series
 
+[Time Series Analysis in Python: An Introduction – Towards Data Science](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
+
 [MaxBenChrist/awesome\_time\_series\_in\_python: This curated list contains python packages for time series analysis](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 [Forecasting Time Series Data with Convolutional Neural Networks - Machine Learning Applications](http://intelligentonlinetools.com/blog/2017/05/14/time-series-prediction-with-convolutional-neural-networks/)

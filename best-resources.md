@@ -24,3 +24,5 @@
 
 [Machine Learning Glossary  \|  Google Developers](https://developers.google.com/machine-learning/glossary/)
 
+[Learn \| Kaggle](https://www.kaggle.com/learn/overview)
+
