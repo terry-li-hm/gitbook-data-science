@@ -1,5 +1,7 @@
 # NLP
 
+[Data Analysis & XGBoost Starter \(0.35460 LB\) \| Kaggle](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb)
+
 [Bag of Words Meets Bags of Popcorn \| Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial#description)
 
 [Working With Text Data — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)

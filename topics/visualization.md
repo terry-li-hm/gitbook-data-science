@@ -1,10 +1,17 @@
 # Visualization
 
+[Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
+
 [PAIR-code/facets: Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
 
 [The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/)
 
-[Exploring Histograms](https://tinlizzie.org/histograms/)
+### [Exploring Histograms](https://tinlizzie.org/histograms/)
+
+* histograms is very sensitive to parameter choices
+* it can be used to mislead people with carefully chosen parameters, including bin offset, bin width
+
+
 
 [Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 

@@ -11,3 +11,15 @@
 * [Humble Intro to Analysis with Pandas and Seaborn](https://www.kaggle.com/crawford/humble-intro-to-analysis-with-pandas-and-seaborn/)
 * [This Is Where Hate Crimes Don’t Get Reported](http://projects.propublica.org/graphics/hatecrime-map)
 
+
+
+* Plot a word cloud to find out what are the most common words.
+* Semantic Analysis: Check the usage of different punctuations in dataset.
+
+
+
+When handling image classification problems, try to answer the following questions:
+
+* What are the distributions of image types?
+* Are the images in the same dimension?
+

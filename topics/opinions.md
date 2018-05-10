@@ -2,7 +2,9 @@
 
 [5 Reasons “Logistic Regression” should be the first thing you learn when becoming a Data Scientist](https://towardsdatascience.com/5-reasons-logistic-regression-should-be-the-first-thing-you-learn-when-become-a-data-scientist-fcaae46605c4)
 
+### Automated Machine Learning
 
+> When asked if they are on track to put themselves out of a job, Le and Zoph laugh, though. Right now the technique is too expensive to be widely used. The pair’s experiments tied up 800 powerful graphics processors for multiple weeks—racking up the kind of power bill few companies could afford for speculative research.
 
 ## JPM
 

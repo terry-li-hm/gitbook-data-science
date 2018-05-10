@@ -10,3 +10,5 @@
 
 [Choosing the Right Metric for Evaluating ML Models — Part 1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
 
+> \[Log Loss\] looks at the probabilities themselves and not just the order of the predictions like AUC.
+

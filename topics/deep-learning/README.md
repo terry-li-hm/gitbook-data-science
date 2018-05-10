@@ -54,3 +54,13 @@
 
 [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
 
+
+
+#### What to do with overfitting per fast.ai
+
+1. Add more data
+2. Use data augmentation
+3. Use architectures that generalize well
+4. Add regularization
+5. Reduce architecture complexity
+
