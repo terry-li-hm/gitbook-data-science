@@ -269,11 +269,7 @@
 
 [Complete Guide to TensorFlow for Deep Learning with Python \| Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/?siteID=QZaBth_yPOQ-10PIV8JtPxYvOSP6BolxNg&LSNPUBID=QZaBth/yPOQ)
 
-### CapsuleNets
-
-[Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
-
-[Essentials of Deep Learning: Getting to know CapsuleNets \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/essentials-of-deep-learning-getting-to-know-capsulenets/)
+### 
 
 
 
