@@ -26,3 +26,5 @@ Median is better than mean as median is not affected severely by outliers.
 * [Statistical Bias Types explained – part2 \(with examples\)](https://data36.com/statistical-bias-types-examples-part2/)
 * [Monte Carlo Simulation with Categorical Values](https://www.samueltaylor.org/articles/monte-carlo-categorical.html)
 
+[A Gentle Introduction to Calculating Normal Summary Statistics](https://machinelearningmastery.com/a-gentle-introduction-to-calculating-normal-summary-statistics/)
+

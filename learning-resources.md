@@ -8,3 +8,5 @@
 
 [Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/?authuser=0)
 
+[Advanced Machine Learning \| Coursera](https://www.coursera.org/specializations/aml)
+
