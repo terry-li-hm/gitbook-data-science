@@ -1,17 +1,5 @@
 # Resources
 
-od to learn but not top priority
-
-
-
-
-
-## Curation
-
-
-
-
-
 ## Deep Learning
 
 {% embed data="{\"url\":\"https://www.zhihu.com/question/26006703\",\"type\":\"link\",\"title\":\"深度学习如何入门？ - 知乎\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.zhihu.com/static/favicon.ico\",\"aspectRatio\":0}}" %}
