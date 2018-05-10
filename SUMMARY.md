@@ -52,6 +52,8 @@
   * [Explaning Model](topics/explaning-model.md)
   * [Data Processing](topics/untitled-1.md)
   * [Politics](topics/politics.md)
+  * [Opinions](topics/opinions.md)
+  * [Jupyter Notebook](topics/jupyter-notebook.md)
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
