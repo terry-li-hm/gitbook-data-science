@@ -1,5 +1,9 @@
 # Anomaly Detection
 
+[Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
+
+[How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
+
 [Amazon.com: Outlier Analysis eBook: Charu C. Aggarwal: Kindle Store](https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal-ebook/dp/B06XG1BQJJ/ref=mt_kindle?_encoding=UTF8&me=)
 
 [A Brief Overview of Outlier Detection Techniques – Towards Data Science](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561)

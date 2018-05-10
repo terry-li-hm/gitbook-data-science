@@ -1,5 +1,21 @@
 # Data Processing
 
+[Common Excel Tasks Demonstrated in Pandas - Practical Business Python](http://pbpython.com/excel-pandas-comp.html)
+
+[Pandas Pivot Table Explained - Practical Business Python](http://pbpython.com/pandas-pivot-table-explained.html)
+
+[Overview of Pandas Data Types - Practical Business Python](http://pbpython.com/pandas_dtypes.html)
+
+[Understanding the Transform Function in Pandas - Practical Business Python](http://pbpython.com/pandas_transform.html)
+
+[Guide to Encoding Categorical Values in Python - Practical Business Python](http://pbpython.com/categorical-encoding.html)
+
+[How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+
+[Video series: Easier data analysis in Python using the pandas library](http://www.dataschool.io/easier-data-analysis-with-pandas/)
+
+
+
 Numpy array can only contain one data type.
 
 In a simplified sense, you can think of series as a 1D labelled array.

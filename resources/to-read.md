@@ -186,19 +186,7 @@
 
 ## Data Processing
 
-[Common Excel Tasks Demonstrated in Pandas - Practical Business Python](http://pbpython.com/excel-pandas-comp.html)
 
-[Pandas Pivot Table Explained - Practical Business Python](http://pbpython.com/pandas-pivot-table-explained.html)
-
-[Overview of Pandas Data Types - Practical Business Python](http://pbpython.com/pandas_dtypes.html)
-
-[Understanding the Transform Function in Pandas - Practical Business Python](http://pbpython.com/pandas_transform.html)
-
-[Guide to Encoding Categorical Values in Python - Practical Business Python](http://pbpython.com/categorical-encoding.html)
-
-[How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
-
-[Video series: Easier data analysis in Python using the pandas library](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 
 
@@ -211,14 +199,6 @@
 [hangtwenty/dive-into-machine-learning: Dive into Machine Learning with Python Jupyter notebook and scikit-learn!](https://github.com/hangtwenty/dive-into-machine-learning)
 
 [Introduction to machine learning in Python with scikit-learn \(video series\)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
-
-## 
-
-
-
-
-
-## Long sequence modeling
 
 
 
@@ -234,25 +214,6 @@
 
 [How \(and why\) to create a good validation set · fast.ai](http://www.fast.ai/2017/11/13/validation-sets/)
 
-### Imbalanced data
-
-[Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
-
-[How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
-
-### Feature engineering
-
-[target encoding for categorical features](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)  
-
-
-[Python target encoding for categorical features \| Kaggle](https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features)
-
-[如何有效處理特徵範圍差異大且類型不一的數據？ - 知乎](https://www.zhihu.com/question/42341851/answer/207949804)
-
-[An Introduction to Deep Learning for Tabular Data · fast.ai](http://www.fast.ai/2018/04/29/categorical-embeddings/)
-
-
-
 ## Regression
 
 [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
@@ -260,16 +221,6 @@
 [How to Predict Stock Prices Easily - Intro to Deep Learning \#7 - YouTube](https://www.youtube.com/watch?v=ftMq5ps503w)
 
 
-
-## Deep Learning
-
-### Tensorflow
-
-[tensorflow/hub: A library for transfer learning by reusing parts of TensorFlow models.](https://github.com/tensorflow/hub)
-
-[Complete Guide to TensorFlow for Deep Learning with Python \| Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/?siteID=QZaBth_yPOQ-10PIV8JtPxYvOSP6BolxNg&LSNPUBID=QZaBth/yPOQ)
-
-### 
 
 
 
