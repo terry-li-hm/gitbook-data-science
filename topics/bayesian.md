@@ -10,3 +10,5 @@
 
 [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
 
+[Think Bayes](https://www.dropbox.com/s/i9begmuqbyh7tb2/Think%20Bayes%20-%20Bayesian%20Statistics%20Made%20Simple.pdf?dl=0)
+

@@ -32,3 +32,5 @@ Median is better than mean as median is not affected severely by outliers.
 
 [Amazon.com: Practical Statistics for Data Scientists: 50 Essential Concepts \(9781491952962\): Peter Bruce, Andrew Bruce: Books](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_1?s=books&ie=UTF8&qid=1504141720&sr=1-1&keywords=practical+statistics+for+data+science)
 
+
+

@@ -6,7 +6,7 @@
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
-* [Resources](resources/README.md)
+* Resources
   * [To Read](resources/to-read.md)
   * [Top To Read](resources/top-to-read.md)
 * Topics

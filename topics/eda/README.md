@@ -1,5 +1,7 @@
 # EDA
 
+[https://www.dropbox.com/s/ayfg33w3cgn5hjl/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf?dl=0](https://www.dropbox.com/s/ayfg33w3cgn5hjl/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf?dl=0)
+
 [scipy/scipy: Scipy library main repository](https://github.com/scipy/scipy)
 
 [statsmodels/statsmodels: Statsmodels: statistical modeling and econometrics in Python](https://github.com/statsmodels/statsmodels)
