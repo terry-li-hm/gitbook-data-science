@@ -64,3 +64,25 @@
 4. Add regularization
 5. Reduce architecture complexity
 
+[NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
+
+[Data Augmentation \| How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
+
+[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+[jiqizhixin/ML-Tutorial-Experiment: Coding the Machine Learning Tutorial for Learning to Learn](https://github.com/jiqizhixin/ML-Tutorial-Experiment)
+
+[How to start a Deep Learning project? – Jonathan Hui – Medium](https://medium.com/@jonathan_hui/how-to-start-a-deep-learning-project-d9e1db90fa72)
+
+[Another data science student's blog – The 1cycle policy](https://sgugger.github.io/the-1cycle-policy.html)
+
+[Deep Learning A-Z™: Hands-On Artificial Neural Networks \| Udemy](https://www.udemy.com/deeplearning/?siteID=QZaBth_yPOQ-yCbCBqQJOu918gLAuLj5uQ&LSNPUBID=QZaBth/yPOQ)
+
+[From Perceptron to Deep Neural Nets – Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
+
+[10 Audio Processing Projects to start with Deep Learning Applications](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
+
+[Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+
+[Applied Deep Learning - Part 2: Real World Case Studies](https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
+

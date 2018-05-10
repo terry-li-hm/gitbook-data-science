@@ -1,4 +1,14 @@
-# Stats
+# Statistics
+
+[A \(very\) friendly introduction to Confidence Intervals](https://towardsdatascience.com/a-very-friendly-introduction-to-confidence-intervals-9add126e714)
+
+[Explaining Maximum Likelihood, Maximum a Posteriori, and Bayesian Parameter Estimation](https://medium.com/@amatsukawa/maximum-likelihood-maximum-a-priori-and-bayesian-parameter-estimation-d99a23a0519f)
+
+[Aspiring Data Scientists! Start to learn Statistics with these 6 books!](https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
+
+[A Simple Introduction to ANOVA \(with applications in Excel\)](https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/)
+
+[Statistical Significance Explained – Towards Data Science](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 
 Median is better than mean as median is not affected severely by outliers.
 

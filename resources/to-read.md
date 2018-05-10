@@ -182,10 +182,6 @@
 
 [joaoventura/full-speed-python: Full Speed Python: a book for self-learners](https://github.com/joaoventura/full-speed-python)
 
-## Jupyter Notebook
-
-[IPython Cookbook - IPython Cookbook, Second Edition \(2018\)](https://ipython-books.github.io/)
-
 
 
 ## Data Processing
@@ -204,39 +200,11 @@
 
 [Video series: Easier data analysis in Python using the pandas library](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
-## Visualization
 
-[Don’t take career advises from people who mistreat graphs this badly – Boris Gorelik](https://gorelik.net/2018/01/04/dont-take-career-advises-from-people-who-mistreat-graphs-this-badly/)
-
-[Overview of Python Visualization Tools - Practical Business Python](http://pbpython.com/visualization-tools-1.html)
-
-[Simple Graphing with IPython and Pandas - Practical Business Python](http://pbpython.com/simple-graphing-pandas.html)
-
-[Choosing a Python Visualization Tool - Practical Business Python](http://pbpython.com/python-vis-flowchart.html)
-
-[Effectively Using Matplotlib - Practical Business Python](http://pbpython.com/effective-matplotlib.html)
-
-[Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
-
-[Data Visualization with Bokeh in Python, Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
-
-[Histograms and Density Plots in Python – Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
-
-[Data Visualization Hackathon Style – Towards Data Science](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
-
-[ContextLab/hypertools: A Python toolbox for gaining geometric insights into high-dimensional data](https://github.com/ContextLab/hypertools)
 
 ## Statistics
 
-[A \(very\) friendly introduction to Confidence Intervals](https://towardsdatascience.com/a-very-friendly-introduction-to-confidence-intervals-9add126e714)
 
-[Explaining Maximum Likelihood, Maximum a Posteriori, and Bayesian Parameter Estimation](https://medium.com/@amatsukawa/maximum-likelihood-maximum-a-priori-and-bayesian-parameter-estimation-d99a23a0519f)
-
-[Aspiring Data Scientists! Start to learn Statistics with these 6 books!](https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
-
-[A Simple Introduction to ANOVA \(with applications in Excel\)](https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/)
-
-[Statistical Significance Explained – Towards Data Science](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 
 
 
@@ -335,27 +303,7 @@
 
 ## Deep Learning
 
-[NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
 
-[Data Augmentation \| How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
-
-[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-
-[jiqizhixin/ML-Tutorial-Experiment: Coding the Machine Learning Tutorial for Learning to Learn](https://github.com/jiqizhixin/ML-Tutorial-Experiment)
-
-[How to start a Deep Learning project? – Jonathan Hui – Medium](https://medium.com/@jonathan_hui/how-to-start-a-deep-learning-project-d9e1db90fa72)
-
-[Another data science student's blog – The 1cycle policy](https://sgugger.github.io/the-1cycle-policy.html)
-
-[Deep Learning A-Z™: Hands-On Artificial Neural Networks \| Udemy](https://www.udemy.com/deeplearning/?siteID=QZaBth_yPOQ-yCbCBqQJOu918gLAuLj5uQ&LSNPUBID=QZaBth/yPOQ)
-
-[From Perceptron to Deep Neural Nets – Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
-
-[10 Audio Processing Projects to start with Deep Learning Applications](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
-
-[Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
-
-[Applied Deep Learning - Part 2: Real World Case Studies](https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
 
 ### Keras
 
@@ -373,81 +321,15 @@
 
 [Essentials of Deep Learning: Getting to know CapsuleNets \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/essentials-of-deep-learning-getting-to-know-capsulenets/)
 
-### GAN
-
-[GAN with Keras: Application to Image Deblurring – Sicara’s blog](https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5)
-
-[An intuitive introduction to Generative Adversarial Networks \(GANs\)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
-
-## NLP
-
-[Data Science 101 \(Getting started in NLP\): Tokenization tutorial \| No Free Hunch](http://blog.kaggle.com/2017/08/25/data-science-101-getting-started-in-nlp-tokenization-tutorial/)
-
-[Vector Representations of Words  \|  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) \(highly recommneded by Jeremey\)
-
-[NLP — Building a Question Answering model – Towards Data Science](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54)
-
-[Entity extraction using Deep Learning based on Guillaume Genthial work on NER](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
-
-[Text Classification using machine learning – Nitin Panwar – Technical Lead \(Data Science\), Naukri.com](http://nitin-panwar.github.io/Text-Classification-using-machine-learning/)
-
-[Unsupervised sentence representation with deep learning](https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93)
-
-[**How to solve 90% of NLP problems: a step-by-step guide**](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)** \(11.3k clap!\)**
-
-[Building a FAQ Chatbot in Python – The Future of Information Searching](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
-
-[Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?)
-
-[Improving Airbnb Yield Prediction with Text Mining – Towards Data Science](https://towardsdatascience.com/improving-airbnb-yield-prediction-with-text-mining-9472c0181731)
-
-[Machine Learning with Text in scikit-learn \(PyCon 2016\) - YouTube](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
-
-### Sentiment Analysis
-
-[Perform sentiment analysis with LSTMs, using TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
-
-[Data Science 101: Sentiment Analysis in R Tutorial \| No Free Hunch](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
-
-### Text Classification
-
-[A Comprehensive Guide to Understand and Implement Text Classification in Python](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
-
-[Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow](https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274)
-
-## Computer Vision
-
-[Going deep into image classification – Towards Data Science](https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b)
-
-[GitHub新項目：輕鬆使用多種預訓練卷積網絡抽取圖像特徵 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-16-3)
-
-[An Overview of ResNet and its Variants – Towards Data Science](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
-
-[縱覽輕量化卷積神經網絡：SqueezeNet、MobileNet、ShuffleNet、Xception \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-08-6)
-
-### Object Detection
-
-[Detectron精讀系列之一：學習率的調節和踩坑 \| 機器之心](https://www.jiqizhixin.com/articles/Detectron)
-
-## GAN
-
-[這些資源你肯定需要！超全的GAN PyTorch+Keras實現集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-24-7)
-
-[An Intuitive Introduction to Generative Adversarial Networks \| No Free Hunch](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
 
 
 
-## Reinforcement Learning
 
-[Monte Carlo method in Python – Harder Choices](https://harderchoices.com/2018/04/04/monte-carlo-method-in-python/)
+## 
 
-[Monte Carlo Tree Search - beginners guide - Machine learning blog Machine learning blog](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
-[CS 294 Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 
-[通過 Q-learning 深入理解強化學習 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-17-3)
-
-[Introduction to Various Reinforcement Learning Algorithms. Part I \(Q-Learning, SARSA, DQN, DDPG\)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
+## 
 
 ## For Good
 
