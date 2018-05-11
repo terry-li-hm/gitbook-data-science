@@ -1,38 +1,6 @@
 # To Read
 
-## Course
-
-[Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
-
-[Foundations of Data Science: Prediction and Machine Learning](https://www.edx.org/course/foundations-data-science-prediction-uc-berkeleyx-data8-3x)
-
-[Foundations of Data Science: Inferential Thinking by Resampling](https://www.edx.org/course/foundations-data-science-inferential-uc-berkeleyx-data8-2x)
-
-
-
-## Book
-
-[joaoventura/full-speed-python: Full Speed Python: a book for self-learners](https://github.com/joaoventura/full-speed-python)
-
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
-
-[ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
-
-## Overview
-
-[Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
-
 ## 
-
-## 
-
-## Data Warehouse
-
-[Choosing Between Modern Data Warehouses \| Statsbot Blog](https://statsbot.co/blog/modern-data-warehouse/)
-
-## Command Line
-
-[Command Line Tricks For Data Scientists – Kade Killary – Medium](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 
 ## Python
 
