@@ -1,5 +1,7 @@
 # Analysing Problem
 
+[Facebook’s Field Guide to Machine Learning video series – Facebook Research](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+
 [Qualitative before Quantitative: How Qualitative Methods Support Better Data Science](https://medium.com/indeed-data-science/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)
 
 > 機器學習是解決問題的方法一種，但首先必須要理解你的問題本身  

@@ -1,5 +1,7 @@
 # Visualization
 
+[Building Bullet Graphs and Waterfall Charts with Bokeh - Practical Business Python](http://pbpython.com/bokeh-bullet-waterfall.html)
+
 [5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
 
 [Visualizing Time Series Data of Stock Prices \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](http://byteacademy.co/blog/time-series-python)

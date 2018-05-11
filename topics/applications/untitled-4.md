@@ -1,5 +1,7 @@
 # NLP
 
+[Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
 [Intuitive Understanding of Word Embeddings: Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 
 [How to get started in NLP – Towards Data Science](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
