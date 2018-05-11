@@ -1,5 +1,7 @@
 # Bayesian
 
+[Markov Chain Monte Carlo in Python – Towards Data Science](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
+
 [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
 
 [Announcing the release of my e-book: Introduction to Empirical Bayes – Variance Explained](http://varianceexplained.org/r/empirical-bayes-book/)

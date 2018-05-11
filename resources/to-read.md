@@ -1,22 +1,6 @@
 # To Read
 
-## Inbox
-
-[An Overview of Regularization Techniques in Deep Learning \(with Python code\)](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
-
-[Introducing TensorFlow Probability – TensorFlow – Medium](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
-
-[An Introduction to Graph Theory and Network Analysis \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
-
-[How To Know if Your Machine Learning Model Has Good Performance](https://machinelearningmastery.com/how-to-know-if-your-machine-learning-model-has-good-performance/)
-
-[The Ultimate Learning Path to Becoming a Data Scientist in 2018](https://www.analyticsvidhya.com/blog/2018/01/ultimate-learning-path-becoming-data-scientist-2018/)
-
-[PyTorch, a year in....](https://pytorch.org/2018/01/19/a-year-in.html)
-
-[Markov Chain Monte Carlo in Python – Towards Data Science](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
-
-[Online Learning Guide with Text Classification using Vowpal Wabbit \(VW\)](https://www.analyticsvidhya.com/blog/2018/01/online-learning-guide-text-classification-vowpal-wabbit-vw/)
+## 
 
 
 
