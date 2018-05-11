@@ -58,9 +58,8 @@
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Big Data](big-data.md)
-* [Strategy](untitled-2.md)
+* Strategy
 * [Model Development Techniques](model-development-techniques.md)
-* Automated Machine Learning
 * [Jupyter Notebook](jupyter-notebook.md)
 * [Career](career.md)
 * [Opinions](opinions.md)
