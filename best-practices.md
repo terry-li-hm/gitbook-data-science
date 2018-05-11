@@ -1,5 +1,7 @@
 # Best Practices
 
+[Rules of Machine Learning:  \|  Machine Learning Rules  \|  Google Developers](https://developers.google.com/machine-learning/rules-of-ml/)
+
 [22 nuggets of wisdom to structure your machine learning project](https://towardsdatascience.com/structuring-your-machine-learning-project-course-summary-in-1-picture-and-22-nuggets-of-wisdom-95b051a6c9dd)
 
 
