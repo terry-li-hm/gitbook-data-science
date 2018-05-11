@@ -7,7 +7,13 @@
   * [JD](dbs/jd.md)
 * [Industry](industry/README.md)
   * [FS](industry/fs.md)
-* The Machine Learning Process
+* [CRISP-DM](the-machine-learning-process/README.md)
+  * Business Understanding
+  * Data Understanding
+  * Data Preparation
+  * Modeling
+  * Evaluation
+  * Deployment
 * Topics
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
