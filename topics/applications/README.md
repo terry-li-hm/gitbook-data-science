@@ -14,6 +14,8 @@
 
 [Predict Employee Turnover With Python](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
 
+[Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn](http://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html)
+
 ## Classification
 
 [Winning Solutions & Codes from AV's Signature Hackathon - Lord of the Machines](https://www.analyticsvidhya.com/blog/2018/04/winning-solutions-codes-from-avs-signature-hackathon-lord-of-the-machines/)

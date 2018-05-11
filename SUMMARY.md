@@ -1,13 +1,10 @@
 # Table of contents
 
 * [Cover](README.md)
-* [Top](top.md)
 * [DBS](dbs/README.md)
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
-* Resources
-  * [Top To Read](resources/top-to-read.md)
 * [Industry](industry/README.md)
   * [FS](industry/fs.md)
 * Topics
