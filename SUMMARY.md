@@ -7,7 +7,6 @@
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
 * Resources
-  * [To Read](resources/to-read.md)
   * [Top To Read](resources/top-to-read.md)
 * [Industry](industry/README.md)
   * [FS](industry/fs.md)
