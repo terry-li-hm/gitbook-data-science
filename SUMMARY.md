@@ -5,17 +5,16 @@
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
-* [Industry](industry/README.md)
-  * [FS](industry/fs.md)
 * [CRISP-DM](the-machine-learning-process/README.md)
-  * Business Understanding
+  * [Business Understanding](the-machine-learning-process/business-understanding/README.md)
+    * [Banking Industry](the-machine-learning-process/business-understanding/fs.md)
+    * [Anomaly Detection](the-machine-learning-process/business-understanding/anomaly-detection.md)
   * Data Understanding
   * Data Preparation
   * Modeling
   * Evaluation
   * Deployment
 * Topics
-  * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
   * [EDA](topics/eda/README.md)
     * [Visualization](topics/eda/visualization.md)

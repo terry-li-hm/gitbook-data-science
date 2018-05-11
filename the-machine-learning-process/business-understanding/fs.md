@@ -1,4 +1,4 @@
-# FS
+# Banking Industry
 
 [JPM - Big Data and AI Strategies.pdf](https://www.dropbox.com/s/1kk702wur687ti4/JPM%20-%20Big%20Data%20and%20AI%20Strategies.pdf)
 
