@@ -1,5 +1,7 @@
 # Time Series
 
+[Using XGBoost for time series prediction tasks](http://mlwhiz.com/blog/2017/12/26/How_to_win_a_data_science_competition/)
+
 [Time Series Forecasts using Facebook's Prophet \(with Python & R codes\)](https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/)
 
 [A Guide For Time Series Prediction Using Recurrent Neural Networks \(LSTMs\)](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
