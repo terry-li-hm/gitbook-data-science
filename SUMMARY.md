@@ -92,7 +92,6 @@
 * [Best Resources](best-resources.md)
 * [Identifying Opportunities](identifying-opportunities.md)
 * [Mathematics](math.md)
-* [Process](process.md)
 * [What is Machine Learning](untitled-4.md)
 * [Working Enviornment](working-enviornment.md)
 

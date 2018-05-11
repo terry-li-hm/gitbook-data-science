@@ -1,5 +1,7 @@
 # Visualization
 
+[plotly/plotly.py: An interactive, browser-based graphing library for Python](https://github.com/plotly/plotly.py)
+
 [Building Bullet Graphs and Waterfall Charts with Bokeh - Practical Business Python](http://pbpython.com/bokeh-bullet-waterfall.html)
 
 [5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
