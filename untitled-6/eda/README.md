@@ -1,5 +1,7 @@
 # EDA
 
+[An Introduction to VisiData — An Introduction to VisiData](https://jsvine.github.io/intro-to-visidata/)
+
 [ZhengyaoJiang/PGPortfolio: PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"\(https://arxiv.org/pdf/1706.10059.pdf\).](https://github.com/ZhengyaoJiang/PGPortfolio)
 
 [https://www.dropbox.com/s/ayfg33w3cgn5hjl/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf?dl=0](https://www.dropbox.com/s/ayfg33w3cgn5hjl/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf?dl=0)

@@ -1,5 +1,7 @@
 # Deep Learning in General
 
+If a smaller batch size is used, the gradient is calculated using less number of images so it is less accurate as it is more volatile. You can try to re-run the learning rate finder to see if the best learning rate changed but it shouldn't make a huge difference as the learning rate differ exponentially. \(per Jeremy\)
+
 [Improving the way we work with learning rate. – techburst](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
 
 [The Cyclical Learning Rate technique // teleported.in](http://teleported.in/posts/cyclic-learning-rate/)

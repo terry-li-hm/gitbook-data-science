@@ -42,7 +42,7 @@
   * [GAN](alogrithms/gan.md)
   * [Traditional Algorithms](alogrithms/traditional-algorithms/README.md)
     * [Tree](alogrithms/traditional-algorithms/tree.md)
-* Tools
+* [Tools](tools/README.md)
   * [Python](tools/python.md)
   * [Tensorflow](tools/tensorflow.md)
   * [PyTorch](tools/pytorch.md)
@@ -50,6 +50,7 @@
   * R
   * [XGBoost](tools/xgboost.md)
   * [Pandas](tools/pandas.md)
+  * [fastai](tools/fastai.md)
 * [Applications](applications/README.md)
   * [Time Series](applications/time-series.md)
   * [NLP](applications/untitled-4.md)
@@ -71,7 +72,7 @@
   * [AWS](untitled-5/aws.md)
   * [My Projects](untitled-5/my-projects.md)
 * [Fast.ai](fast.ai.md)
-* [My Server](my-server.md)
+* [At Home](my-server.md)
 * [Notes](notes.md)
 * [Tools](untitled.md)
 * [Commands](untitled-1.md)

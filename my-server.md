@@ -1,4 +1,4 @@
-# My Server
+# At Home
 
 ```bash
 218.250.221.14
@@ -16,4 +16,6 @@ rsync -av ~ terry@192.168.1.80::NetBackup/linux/
 ```
 
 [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
+
+[iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font + \[Powerlevel9k\] - \(macOS\)](https://gist.github.com/kevin-smets/8568070)
 

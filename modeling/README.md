@@ -1,10 +1,8 @@
 # Modeling
 
-[TPOT](https://github.com/EpistasisLab/tpot)
 
-[auto-sklearn](https://github.com/automl/auto-sklearn)
 
-[auto\_ml](https://github.com/ClimbsRocks/auto_ml)
+When you are happy with your model, treat also the validation set as part of the training set as re-do the training process to use 100% of the training set to further improve the result. \(per Jeremy\)
 
 
 
@@ -16,4 +14,6 @@
 > * Consider splitting the dev set into an Eyeball dev set, which you will manually examine,   and a Blackbox dev set, which you will not manually examine. If performance on the   Eyeball dev set is much better than the Blackbox dev set, you have overfit the Eyeball dev   set and should consider acquiring more data for it.
 > * The Eyeball dev set should be big enough so that your algorithm misclassifies enough   examples for you to analyze. A Blackbox dev set of 1,000-10,000 examples is sufficient   for many applications.
 > * If your dev set is not big enough to split this way, just use an Eyeball dev set for manual   error analysis, model selection, and hyperparameter tuning.
+
+
 

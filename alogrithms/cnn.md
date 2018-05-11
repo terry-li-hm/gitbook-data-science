@@ -1,6 +1,6 @@
 # CNN
 
-
+A tricked found by Jeremy to avoid overfitting is to train a network with small images for few epochs and then train it using larger images. It is only applicable to architectures that can take arbitrary image sizes and thus not applicable to VGG. \(from fast.ai course\)
 
 * [Explaining CNN by Colah, recommended by Jeremey](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 * [Deep Learning CNN’s in Tensorflow with GPUs](https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2)
