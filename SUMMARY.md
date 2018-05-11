@@ -22,7 +22,7 @@
   * [Artificial data synthesis](data-preparation/artificial-data-synthesis.md)
   * [Scraping](data-preparation/scraping.md)
   * [Unsupervised](data-preparation/unsupervised.md)
-* Modeling
+* [Modeling](modeling/README.md)
   * [Which Algorithm to Try](modeling/comparing-algorithms.md)
   * [Semi-Supervised](modeling/untitled-4-1.md)
   * [Hyperparameter tuning](modeling/hyperparameter-tuning.md)
@@ -61,7 +61,7 @@
   * [Methodology](topics/methodology.md)
   * [Strategy](topics/untitled.md)
   * [Model Development Techniques](topics/model-development-techniques/README.md)
-    * [Automated Machine Learning](topics/model-development-techniques/automated-machine-learning.md)
+    * Automated Machine Learning
   * [Opinions](topics/opinions.md)
   * [Jupyter Notebook](topics/jupyter-notebook.md)
   * [Career](topics/career.md)
@@ -83,7 +83,6 @@
 * [Best Practices](best-practices.md)
 * [Learning Resources](learning-resources.md)
 * [Best Resources](best-resources.md)
-* Identifying Opportunities
 * [Mathematics](math.md)
 * [What is Machine Learning](untitled-4.md)
 * [Working Enviornment](working-enviornment.md)

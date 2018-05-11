@@ -1,4 +1,4 @@
-# Automated Machine Learning
+# Modeling
 
 [TPOT](https://github.com/EpistasisLab/tpot)
 

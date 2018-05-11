@@ -1,15 +1,5 @@
 # Resume Projects
 
-
-
-```text
-title: Resume Projects
-date: 2017-08-19 17:54:46
-tags:
-```
-
-## Selected
-
 [https://www.kaggle.com/ntnu-testimon/paysim1](https://www.kaggle.com/ntnu-testimon/paysim1)[https://gist.github.com/jvilledieu/3ad4cb2e3187ab21416b](https://gist.github.com/jvilledieu/3ad4cb2e3187ab21416b)
 
 ## Articles
