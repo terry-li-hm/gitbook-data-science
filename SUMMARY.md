@@ -11,7 +11,7 @@
   * [Banking Industry](business-understanding/fs.md)
   * [Anomaly Detection](business-understanding/anomaly-detection.md)
   * [Use Cases](business-understanding/untitled-3.md)
-* Data Understanding
+* [Data Understanding](untitled-6/README.md)
   * [Data Processing](untitled-6/untitled-1-2.md)
   * [EDA](untitled-6/eda/README.md)
     * [Visualization](untitled-6/eda/visualization.md)
