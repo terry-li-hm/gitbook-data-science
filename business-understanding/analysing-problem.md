@@ -1,5 +1,9 @@
 # Problem definition
 
+[How to Spot a Machine Learning Opportunity, Even If You Aren’t a Data Scientist](https://hbr.org/2017/10/how-to-spot-a-machine-learning-opportunity-even-if-you-arent-a-data-scientist)
+
+[Andrew Ng: What AI Can and Can’t Do](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
+
 [Facebook’s Field Guide to Machine Learning video series – Facebook Research](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
 [Qualitative before Quantitative: How Qualitative Methods Support Better Data Science](https://medium.com/indeed-data-science/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)

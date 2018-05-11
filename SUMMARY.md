@@ -83,7 +83,7 @@
 * [Best Practices](best-practices.md)
 * [Learning Resources](learning-resources.md)
 * [Best Resources](best-resources.md)
-* [Identifying Opportunities](identifying-opportunities.md)
+* Identifying Opportunities
 * [Mathematics](math.md)
 * [What is Machine Learning](untitled-4.md)
 * [Working Enviornment](working-enviornment.md)
