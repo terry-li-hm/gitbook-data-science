@@ -20,3 +20,7 @@
 
 [Dimensionality Reduction Algorithms: Strengths and Weaknesses](https://elitedatascience.com/dimensionality-reduction-algorithms)
 
+
+
+[Three Effective Feature Selection Strategies – AI³ \| Theory, Practice, Business – Medium](https://medium.com/ai³-theory-practice-business/three-effective-feature-selection-strategies-e1f86f331fb1)
+

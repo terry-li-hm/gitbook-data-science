@@ -1,27 +1,5 @@
 # To Read
 
-## 
-
-
-
-## Curation
-
-[The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
-
-[教程那麼多，你……看完了嗎？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-02-07-3)
-
-[Learn to Build a Machine Learning Application from Top Articles of 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
-
-[Recommended Resources - Practical Business Python](http://pbpython.com/pages/resources.html)
-
-[donnemartin/data-science-ipython-notebooks: Data science Python notebooks: Deep learning \(TensorFlow, Theano, Caffe, Keras\), scikit-learn, Kaggle, big data \(Spark, Hadoop MapReduce, HDFS\), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.](https://github.com/donnemartin/data-science-ipython-notebooks)
-
-[josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
-
-[Qix/dl2.md at master · ty4z2008/Qix](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
-
-[hangtwenty/dive-into-machine-learning: Dive into Machine Learning with Python Jupyter notebook and scikit-learn!](https://github.com/hangtwenty/dive-into-machine-learning)
-
 ## Course
 
 [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
