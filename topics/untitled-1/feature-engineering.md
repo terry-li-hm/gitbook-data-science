@@ -1,5 +1,7 @@
 # Feature Engineering
 
+[Featuretools/featuretools: automated feature engineering](https://github.com/Featuretools/featuretools)
+
 [Best Practices for Feature Engineering](https://elitedatascience.com/feature-engineering-best-practices)
 
 * [Feature Engineering 相關文章推薦](https://medium.com/@drumrick/feature-engineering-%E7%9B%B8%E9%97%9C%E6%96%87%E7%AB%A0%E6%8E%A8%E8%96%A6-b4c2aaffe93d)

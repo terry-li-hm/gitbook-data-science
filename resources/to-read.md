@@ -2,34 +2,6 @@
 
 ## Inbox
 
-[So, You are Working on a Machine Learning Problem...](https://machinelearningmastery.com/working-machine-learning-problem/)
-
-[Aging America: Modeling Birth Trends in the United States](https://github.com/axibase/atsd-use-cases/tree/master/aging-america)
-
-[Finding cheap housing in San Francisco by modeling Craigslist data - Data and Stuff by Jay](http://www.racketracer.com/2018/04/05/how-to-find-cheap-housing-in-san-francisco-modeling-craigslist-data/)
-
-[How to Make Predictions with scikit-learn](https://machinelearningmastery.com/make-predictions-scikit-learn/)
-
-[Featuretools \| An open source framework for automated feature engineering Quick Start](https://www.featuretools.com/)
-
-[Slow Growth is Becoming a Human Trend Too](https://github.com/axibase/atsd-use-cases/tree/master/Chart_of_the_Day/life-expectancy)
-
-[Machine Learning Development Environment](https://machinelearningmastery.com/machine-learning-development-environment/)
-
-[mm-mansour/Fast-Pandas: Benchmark for different operations in pandas against various dataframe sizes.](https://github.com/mm-mansour/Fast-Pandas)
-
-[Analytical vs Numerical Solutions in Machine Learning](https://machinelearningmastery.com/analytical-vs-numerical-solutions-in-machine-learning/)
-
-[Introducing Listing Embeddings – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
-
-[A Must-Read Introduction to Sequence Modelling \(with use cases\)](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/)
-
-[How to Get the Most From Your Machine Learning Data](https://machinelearningmastery.com/how-to-get-the-most-from-your-machine-learning-data/)
-
-[The Model Performance Mismatch Problem \(and what to do about it\)](https://machinelearningmastery.com/the-model-performance-mismatch-problem/)
-
-[Building & Improving a K-Nearest Neighbors Algorithm in Python](https://towardsdatascience.com/building-improving-a-k-nearest-neighbors-algorithm-in-python-3b6b5320d2f8)
-
 [An Overview of Regularization Techniques in Deep Learning \(with Python code\)](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
 
 [Introducing TensorFlow Probability – TensorFlow – Medium](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
