@@ -69,7 +69,6 @@
 * Projects
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
-  * [Gene](untitled-5/gene.md)
   * [Resume Projects](untitled-5/resume-projects.md)
   * [My Projects](untitled-5/my-projects.md)
   * [AWS](untitled-5/aws.md)
