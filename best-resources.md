@@ -26,3 +26,7 @@
 
 [Learn \| Kaggle](https://www.kaggle.com/learn/overview)
 
+
+
+[**Facebook’s Field Guide to Machine Learning video series – Facebook Research**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+
