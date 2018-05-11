@@ -1,4 +1,4 @@
-# Which Estimator to Try
+# Which Algorithm to Try
 
 [What are the advantages of different classification algorithms? - Quora](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
 

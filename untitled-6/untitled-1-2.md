@@ -32,8 +32,6 @@ In a simplified sense, you can think of series as a 1D labelled array.
 
 [Pandas tips and tricks – Towards Data Science](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9)
 
-
-
 ### Select Data
 
 Data can be selected from Pandas DataFrame using:
