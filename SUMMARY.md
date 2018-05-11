@@ -90,6 +90,6 @@
 * [Best Resources](best-resources.md)
 * [Identifying Opportunities](identifying-opportunities.md)
 * [Mathematics](math.md)
-* [Analysing Problem](analysing-problem.md)
+* [Problem definition](analysing-problem.md)
 * [Process](process.md)
 
