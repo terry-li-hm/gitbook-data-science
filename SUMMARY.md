@@ -5,38 +5,39 @@
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
-* [CRISP-DM](the-machine-learning-process/README.md)
-  * [Business Understanding](the-machine-learning-process/business-understanding/README.md)
-    * [Banking Industry](the-machine-learning-process/business-understanding/fs.md)
-    * [Anomaly Detection](the-machine-learning-process/business-understanding/anomaly-detection.md)
-  * Data Understanding
-  * Data Preparation
-  * Modeling
-  * Evaluation
-  * Deployment
+* [CRISP-DM](the-machine-learning-process.md)
+* [Business Understanding](business-understanding/README.md)
+  * [Banking Industry](business-understanding/fs.md)
+  * [Anomaly Detection](business-understanding/anomaly-detection.md)
+* Data Understanding
+  * [EDA](untitled-6/eda/README.md)
+    * [Visualization](untitled-6/eda/visualization.md)
+    * [Dimensionality Reduction](untitled-6/eda/dimensionality-reduction.md)
+* Data Preparation
+  * [Artificial data synthesis](data-preparation/artificial-data-synthesis.md)
+* Modeling
+* Evaluation
+* Deployment
+* Alogrithms
+  * [Deep Learning in General](alogrithms/deep-learning.md)
+  * [Deep Learning for Tabular Data](alogrithms/tabular-data.md)
+  * [RNN](alogrithms/rnn.md)
+  * [LSTM](alogrithms/lstm.md)
+  * [CNN](alogrithms/cnn.md)
+  * [GAN](alogrithms/gan.md)
+* Tools
+  * [Python](tools/python.md)
+  * [Tensorflow](tools/tensorflow.md)
+  * [PyTorch](tools/pytorch.md)
+  * [Keras](tools/untitled.md)
+  * R
+* [Applications](applications/README.md)
+  * [Time Series](applications/time-series.md)
+  * [NLP](applications/untitled-4.md)
+  * [Computer Vision](applications/computer-vision.md)
 * Topics
   * [Methodology](topics/methodology.md)
-  * [EDA](topics/eda/README.md)
-    * [Visualization](topics/eda/visualization.md)
-    * [Dimensionality Reduction](topics/eda/dimensionality-reduction.md)
-  * [Deep Learning](topics/deep-learning/README.md)
-    * [Tabular Data](topics/deep-learning/tabular-data.md)
-    * [GAN](topics/deep-learning/gan.md)
-    * [RNN](topics/deep-learning/rnn/README.md)
-      * [LSTM](topics/deep-learning/rnn/lstm.md)
-    * [CNN](topics/deep-learning/cnn.md)
-    * [Blackbox](topics/deep-learning/blackbox.md)
-    * [Tensorflow](topics/deep-learning/tensorflow.md)
-    * [Keras](topics/deep-learning/untitled.md)
-    * [PyTorch](topics/deep-learning/pytorch.md)
-  * [Python](topics/python.md)
-  * [Applications](topics/applications/README.md)
-    * [Time Series](topics/applications/time-series.md)
-    * [NLP](topics/applications/untitled-4.md)
-    * [Computer Vision](topics/applications/computer-vision.md)
-  * R
   * [Bayesian](topics/bayesian.md)
-  * [Artificial data synthesis](topics/artificial-data-synthesis.md)
   * [Scraping](topics/scraping.md)
   * [Regular Expression](topics/regular-expression.md)
   * [Unsupervised](topics/unsupervised.md)
@@ -50,6 +51,7 @@
     * [AUC](topics/evaluating-models/auc.md)
   * [Big Data](topics/big-data.md)
   * [Traditional Algorithms](topics/traditional-algorithms/README.md)
+    * [XGBoost](topics/traditional-algorithms/xgboost.md)
     * [Tree](topics/traditional-algorithms/tree.md)
     * [Naive Bayes](topics/traditional-algorithms/naive-bayes.md)
     * [K-means Clustering](topics/traditional-algorithms/k-means-clustering.md)
@@ -58,7 +60,6 @@
     * [Ensemble](topics/model-development-techniques/ensemble.md)
     * [Automated Machine Learning](topics/model-development-techniques/automated-machine-learning.md)
   * [Scraping](topics/scraping-1.md)
-  * [XGBoost](topics/xgboost.md)
   * [Regular Expression](topics/regular-expression-1.md)
   * [Explaning Model](topics/explaning-model.md)
   * [Data Processing](topics/untitled-1/README.md)
