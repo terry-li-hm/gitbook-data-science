@@ -12,5 +12,5 @@ If the validation loss is much lower than training loss, the model is under fitt
 
 If a smaller batch size is used, the gradient is calculated using less number of images so it is less accurate as it is more volatile. You can try to re-run the learning rate finder to see if the best learning rate changed but it shouldn't make a huge difference as the learning rate differ exponentially.
 
-
+Neural nets really like standardized variables. This can done by setting `do_scale`=`True` when calling `prod_df`.
 
