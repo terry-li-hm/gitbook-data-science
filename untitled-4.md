@@ -2,6 +2,8 @@
 
 [The Business of Artificial Intelligence](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence)
 
+[Deep Learning’s Next Frontier](https://hbr.org/webinar/2017/07/deep-learnings-next-frontier)
+
 | **INPUT X** | **OUTPUT Y** | **APPLICATION** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Voice recording | Transcript | Speech recognition |
@@ -13,4 +15,8 @@
 | Purchase histories | Future purchase behavior | Customer retention |
 | Car locations and speed | Traffic flow | Traffic lights |
 | Faces | Names | Face recognition |
+
+![](.gitbook/assets/image%20%287%29.png)
+
+
 

@@ -1,6 +1,6 @@
 # Anomaly Detection
 
-[反欺诈\(Fraud Detection\)中所用到的机器学习模型有哪些？ - 知乎](https://www.zhihu.com/question/30508773/answer/205831957?utm_member=YzAxMTk4N2VjYjUyOGQ3MGIyNzVhZDk3MmEzZTA0NjQ)
+[Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code)
 
 [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
 
