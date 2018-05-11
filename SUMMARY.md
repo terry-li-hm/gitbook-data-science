@@ -7,6 +7,7 @@
   * [JD](dbs/jd.md)
 * [Industry](industry/README.md)
   * [FS](industry/fs.md)
+* The Machine Learning Process
 * Topics
   * [Anomaly Detection](topics/anomaly-detection.md)
   * [Methodology](topics/methodology.md)
