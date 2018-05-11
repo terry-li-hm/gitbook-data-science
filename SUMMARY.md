@@ -7,6 +7,7 @@
   * [JD](dbs/jd.md)
 * [CRISP-DM](the-machine-learning-process.md)
 * [Business Understanding](business-understanding/README.md)
+  * [Problem definition](business-understanding/analysing-problem.md)
   * [Banking Industry](business-understanding/fs.md)
   * [Anomaly Detection](business-understanding/anomaly-detection.md)
 * Data Understanding
@@ -60,7 +61,7 @@
   * [Model Development Techniques](topics/model-development-techniques/README.md)
     * [Hyperparameter tuning](topics/model-development-techniques/hyperparameter-tuning.md)
     * [Automated Machine Learning](topics/model-development-techniques/automated-machine-learning.md)
-  * [Regular Expression](topics/regular-expression-1.md)
+  * Regular Expression
   * [Explaning Model](topics/explaning-model.md)
   * [Politics](topics/politics.md)
   * [Opinions](topics/opinions.md)
@@ -91,7 +92,6 @@
 * [Best Resources](best-resources.md)
 * [Identifying Opportunities](identifying-opportunities.md)
 * [Mathematics](math.md)
-* [Problem definition](analysing-problem.md)
 * [Process](process.md)
 * [What is Machine Learning](untitled-4.md)
 * [Working Enviornment](working-enviornment.md)

@@ -6,3 +6,5 @@
 
 [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
 
+[Python Regular Expressions Cheat Sheet](https://www.dataquest.io/blog/regex-cheatsheet/)
+

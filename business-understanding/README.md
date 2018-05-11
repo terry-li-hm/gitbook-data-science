@@ -4,3 +4,5 @@
 
 [How artificial intelligence and data add value to businesses](https://www.mckinsey.com/featured-insights/artificial-intelligence/how-artificial-intelligence-and-data-add-value-to-businesses)
 
+[The Business of Artificial Intelligence](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence)
+
