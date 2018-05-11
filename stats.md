@@ -1,5 +1,7 @@
 # Statistics
 
+[A Gentle Introduction to Normality Tests in Python](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)
+
 [A \(very\) friendly introduction to Confidence Intervals](https://towardsdatascience.com/a-very-friendly-introduction-to-confidence-intervals-9add126e714)
 
 [Explaining Maximum Likelihood, Maximum a Posteriori, and Bayesian Parameter Estimation](https://medium.com/@amatsukawa/maximum-likelihood-maximum-a-priori-and-bayesian-parameter-estimation-d99a23a0519f)

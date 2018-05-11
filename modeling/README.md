@@ -4,7 +4,7 @@
 
 When you are happy with your model, treat also the validation set as part of the training set as re-do the training process to use 100% of the training set to further improve the result. \(per Jeremy\)
 
-
+[A Deep Dive Into Sklearn Pipelines \| Kaggle](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines/code)
 
 ## Basic Error Analysis \(From Machine Learning Yearning\)
 
