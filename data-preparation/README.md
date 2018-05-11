@@ -1,12 +1,8 @@
-# Machine Learning Yearning
-
-Machine Learning Yearning
+# Data Preparation
 
 
 
-> This diagram shows NNs doing better in the regime of small datasets. This effect is less consistent than the effect of NNs doing well in the regime of huge datasets. In the small data regime, depending on how the features are hand-engineered, traditional algorithms may or may not do better. For example, if you have 20 training examples, it might not matter much whether you use logistic regression or a neural network; the hand-engineering of features will have a bigger effect than the choice of algorithm. But if you have 1 million examples, I would favor the neural network.
-
-## Setting up development and test sets
+## Setting up development and test sets \(From Machine Learning Yearning\)
 
 > But if the dev and test sets come from different distributions, then your options are less clear. Several things could have gone wrong:
 >
@@ -49,33 +45,4 @@ Machine Learning Yearning
 > * The old heuristic of a 70%/30% train/test split does not apply for problems where you   have a lot of data; the dev and test sets can be much less than 30% of the data.
 > * Your dev set should be large enough to detect meaningful changes in the accuracy of your   algorithm, but not necessarily much larger. Your test set should be big enough to give you   a confident estimate of the final performance of your system.
 > * If your dev set and metric are no longer pointing your team in the right direction, quickly   change them: \(i\) If you had overfit the dev set, get more dev set data. \(ii\) If the actual   distribution you care about is different from the dev/test set distribution, get new   dev/test set data. \(iii\) If your metric is no longer measuring what is most important to   you, change the metric.
-
-#### Examples of what can be tried to improve the model
-
-> * Get more data: Collect more pictures of cats.
-> * Collect a more diverse training set. For example, pictures of cats in unusual positions; cats   with unusual coloration; pictures shot with a variety of camera settings; ….
-> * Train the algorithm longer, by running more gradient descent iterations.
-> * Try a bigger neural network, with more layers/hidden units/parameters.
-> * Try a smaller neural network.
-> * Try adding regularization \(such as L2 regularization\).
-> * Change the neural network architecture \(activation function, number of hidden units, etc.\)
-
-> If you choose well among these possible directions, you’ll build the leading cat picture platform, and lead your company to success. If you choose poorly, you might waste months.
-
-## Basic Error Analysis
-
-> * When you start a new project, especially if it is in an area in which you are not an expert,  it is hard to correctly guess the most promising directions.
-> * So don’t start off trying to design and build the perfect system. Instead build and train a   basic system as quickly as possible—perhaps in a few days. Then use error analysis to   help you identify the most promising directions and iteratively improve your algorithm   from there.
-> * Carry out error analysis by manually examining ~100 dev set examples the algorithm   misclassifies and counting the major categories of errors. Use this information to   prioritize what types of errors to work on fixing.
-> * Consider splitting the dev set into an Eyeball dev set, which you will manually examine,   and a Blackbox dev set, which you will not manually examine. If performance on the   Eyeball dev set is much better than the Blackbox dev set, you have overfit the Eyeball dev   set and should consider acquiring more data for it.
-> * The Eyeball dev set should be big enough so that your algorithm misclassifies enough   examples for you to analyze. A Blackbox dev set of 1,000-10,000 examples is sufficient   for many applications.
-> * If your dev set is not big enough to split this way, just use an Eyeball dev set for manual   error analysis, model selection, and hyperparameter tuning.
-
-[Ng\_MLY01.pdf](https://www.dropbox.com/s/98cxhqe4uvdjz51/Ng_MLY01.pdf?dl=0)
-
-[Ng\_MLY02.pdf](https://www.dropbox.com/s/jowspahz8w6j6w2/Ng_MLY02.pdf?dl=0)
-
-[Ng\_MLY03.pdf](https://www.dropbox.com/s/u9y9j64htoz79gi/Ng_MLY03.pdf?dl=0)
-
-[Ng\_MLY04.pdf](https://www.dropbox.com/s/03siwhau8o1e86s/Ng_MLY04.pdf?dl=0)
 

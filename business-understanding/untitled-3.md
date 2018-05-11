@@ -1,13 +1,5 @@
 # Use Cases
 
-
-
-```text
-title: ML Use Cases
-date: 2017-08-19 15:34:28
-tags:
-```
-
 ## Banking
 
 * 风险监控

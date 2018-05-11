@@ -105,3 +105,19 @@ Visualising Activation Functions in Neural Networks](https://dashee87.github.io/
 
 [Understanding objective functions in neural networks.](https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138)
 
+
+
+
+
+#### Examples of what can be tried to improve the model \(From Machine Learning Yearning\)
+
+> * Get more data: Collect more pictures of cats.
+> * Collect a more diverse training set. For example, pictures of cats in unusual positions; cats   with unusual coloration; pictures shot with a variety of camera settings; ….
+> * Train the algorithm longer, by running more gradient descent iterations.
+> * Try a bigger neural network, with more layers/hidden units/parameters.
+> * Try a smaller neural network.
+> * Try adding regularization \(such as L2 regularization\).
+> * Change the neural network architecture \(activation function, number of hidden units, etc.\)
+
+> If you choose well among these possible directions, you’ll build the leading cat picture platform, and lead your company to success. If you choose poorly, you might waste months.
+
