@@ -74,7 +74,6 @@
 * [Fast.ai](fast.ai.md)
 * [At Home](my-server.md)
 * [Notes](notes.md)
-* [Tools](untitled.md)
 * [Commands](untitled-1.md)
 * [Best Practices](best-practices.md)
 * [Learning Resources](learning-resources.md)

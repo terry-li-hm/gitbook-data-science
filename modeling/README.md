@@ -1,6 +1,6 @@
 # Modeling
 
-
+[Comet.ml \| Supercharging Machine Learning](https://www.comet.ml/)
 
 When you are happy with your model, treat also the validation set as part of the training set as re-do the training process to use 100% of the training set to further improve the result. \(per Jeremy\)
 
