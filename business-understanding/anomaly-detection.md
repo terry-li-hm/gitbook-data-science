@@ -1,5 +1,7 @@
 # Anomaly Detection \(Outlier Detection\)
 
+![](../.gitbook/assets/image%20%2815%29.png)
+
 ## Top Resources
 
 * [**Introduction to Anomaly Detection: Concepts and Techniques \| My views of the World and Systems**](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
@@ -33,9 +35,9 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 [Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ## Relevant Kaggle Competitions
 
@@ -176,7 +178,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 > **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 
 
