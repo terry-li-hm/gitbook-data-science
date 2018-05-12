@@ -34,21 +34,9 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 
 
-## Imbalanced datasets
-
-* [scikit-learn-contrib/imbalanced-learn: Python module to perform under sampling and over sampling with various techniques.](https://github.com/scikit-learn-contrib/imbalanced-learn)
-* [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
-* [Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
-* [Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
-* [How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
-* [Does Balancing Classes Improve Classifier Performance? – Win-Vector Blog](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
-* [Machine learning best practices: detecting rare events - Subconscious Musings](https://blogs.sas.com/content/subconsciousmusings/2017/07/19/machine-learning-best-practices-detecting-rare-events/)
 
 
-
-对于非平衡样本问题，用PR曲线能有效的看出模型性能。
-
-> a fraud detection model may use anomaly detection scores as an extra generated feature going into the supervised learning algorithm.
+## 
 
 
 
@@ -101,21 +89,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 > Consider testing under-sampling when you have an a lot data \(tens- or hundreds of thousands of instances or more\)Consider testing over-sampling when you don’t have a lot of data \(tens of thousands of records or less\)Consider testing random and non-random \(e.g. stratified\) sampling schemes.Consider testing different resampled ratios \(e.g. you don’t have to target a 1:1 ratio in a binary classification problem, try other ratios
 
-[Imbalanced Data Classification \| An Explorer of Things](https://chih-ling-hsu.github.io/2017/07/25/Imbalanced-Data-Classification)
 
-[Dealing with unbalanced data in machine learning](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
-
-[Anomaly detection - Wikipedia](https://en.m.wikipedia.org/wiki/Anomaly_detection)
-
-[Fraudsters, Outliers and Big Data \| Mawazo](https://pkghosh.wordpress.com/2012/01/02/fraudsters-outliers-and-big-data-2/)
-
-[\[1702.05809\] Network-based Anomaly Detection for Insider Trading](https://arxiv.org/abs/1702.05809)
-
-
-
-> **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
-
-![](../.gitbook/assets/image%20%286%29.png)
 
 
 
@@ -136,15 +110,15 @@ Fraud Detection is an application of anomaly detection per Wiki.
 >
 > The performance of different methods depends a lot on the data set and parameters, and methods have little systematic advantages over another when compared across many data sets and parameters.[\[24\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-CamposZimek2016-24)[\[25\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-25)
 
+## Curation
 
+[Outlier and Anomaly Detection](http://www.kdd.org/kdd2016/topics/view/outlier-and-anomaly-detection)
 
 ## Hierarchical Temporal Memory \(HTM\)
 
 [Hierarchical Temporal Memory for Real-time Anomaly Detection](https://www.dropbox.com/s/zvv0ov63pel9je7/anomalydetectionhtmmeetup-170829200447.pdf?dl=0)
 
 [Anomaly Detection — NuPIC 1.0.4 documentation](http://nupic.docs.numenta.org/stable/guides/anomaly-detection.html)
-
-
 
 ## Types of Anomaly
 
@@ -193,15 +167,29 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
 * [What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
 
+> 对于非平衡样本问题，用PR曲线能有效的看出模型性能。
 
+## 
 
-## Curation
+## Feature Engineering
 
-[Outlier and Anomaly Detection](http://www.kdd.org/kdd2016/topics/view/outlier-and-anomaly-detection)
+> a fraud detection model may use anomaly detection scores as an extra generated feature going into the supervised learning algorithm.
 
+## Imbalanced Classes
 
+* [scikit-learn-contrib/imbalanced-learn: Python module to perform under sampling and over sampling with various techniques.](https://github.com/scikit-learn-contrib/imbalanced-learn)
+* [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+* [Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
+* [Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
+* [How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
+* [Does Balancing Classes Improve Classifier Performance? – Win-Vector Blog](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
+* [Machine learning best practices: detecting rare events - Subconscious Musings](https://blogs.sas.com/content/subconsciousmusings/2017/07/19/machine-learning-best-practices-detecting-rare-events/)
 
+### Negative Mining
 
+> **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
+
+![](../.gitbook/assets/image%20%286%29.png)
 
 
 
