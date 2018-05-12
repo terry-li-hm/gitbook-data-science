@@ -1,22 +1,29 @@
 # Anomaly Detection \(Outlier Detection\)
 
-Fraud Detection is an application of anomaly detection per Wiki.
+## Top Resources
 
-[Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
+* [2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html#isolation-forest)
+* [Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
 
-> 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
-
-## 微調
+### 微調
 
 * [机器学习门下，有哪些在工业界应用较多，前景较好的小方向？ - 知乎](https://www.zhihu.com/question/57072166/answer/280824223)
 * [反欺詐\(Fraud Detection\)中所用到的機器學習模型有哪些？ - 知乎](https://www.zhihu.com/question/30508773/answer/205831957)
 * [用Pyador進行『異常檢測』: 開發無監督機器學習工具庫\(一\)](https://zhuanlan.zhihu.com/p/29868365) \(follow the concept\)
 
+## Notes
 
+Fraud Detection is an application of anomaly detection per Wiki.
 
-[TalkingData AdTracking Fraud Detection Challenge \| Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/kernels)
+## Opinions
 
-[2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html#isolation-forest)
+> 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
+
+### 
+
+## Relevant Kaggle Competitions
+
+* [TalkingData AdTracking Fraud Detection Challenge \| Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/kernels)
 
 
 
