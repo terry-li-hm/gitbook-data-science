@@ -1,5 +1,7 @@
 # Bayesian
 
+[Bayes' Theorem Examples: A Visual Introduction For Beginners eBook: Dan Morris, Mark Koning](https://www.amazon.com/Bayes-Theorem-Examples-Introduction-Beginners-ebook/dp/B01LZ1T9IX/ref=pd_sim_351_10?_encoding=UTF8&psc=1&refRID=WRCWX18NFNVC79YXG5YM)
+
 [Markov Chain Monte Carlo in Python – Towards Data Science](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
 
 [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)

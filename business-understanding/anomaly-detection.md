@@ -1,4 +1,18 @@
-# Anomaly Detection
+# Anomaly Detection \(Outlier Detection\)
+
+Fraud Detection is an application of anomaly detection per Wiki.
+
+[Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
+
+
+
+
+
+[TalkingData AdTracking Fraud Detection Challenge \| Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/kernels)
+
+[2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html#isolation-forest)
+
+
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
@@ -126,4 +140,70 @@
 > **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
 
 ![](../.gitbook/assets/image%20%286%29.png)
+
+
+
+## Wiki
+
+> Several anomaly detection techniques have been proposed in literature. Some of the popular techniques are:
+>
+> * Density-based techniques \([k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm),[\[6\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-6)[\[7\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-7)[\[8\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-8) [local outlier factor](https://en.wikipedia.org/wiki/Local_outlier_factor),[\[9\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-9) and many more variations of this concept[\[10\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-10)\).
+> * Subspace-[\[11\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-11) and correlation-based[\[12\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-12) outlier detection for high-dimensional data.[\[13\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-13)
+> * One-class [support vector machines](https://en.wikipedia.org/wiki/Support_vector_machines).[\[14\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-14)
+> * Replicator [neural networks](https://en.wikipedia.org/wiki/Neural_network).[\[15\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-replicator-15)
+> * [Bayesian Networks](https://en.wikipedia.org/wiki/Bayesian_Network).[\[15\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-replicator-15)
+> * [Hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model) \(HMMs\).[\[15\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-replicator-15)
+> * [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)-based outlier detection.[\[16\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-16)[\[17\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-17)
+> * Deviations from [association rules](https://en.wikipedia.org/wiki/Association_rule_learning) and frequent itemsets.
+> * Fuzzy logic-based outlier detection.
+> * [Ensemble techniques](https://en.wikipedia.org/wiki/Ensemble_learning), using [feature bagging](https://en.wikipedia.org/wiki/Random_subspace_method),[\[18\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-18)[\[19\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-19) score normalization[\[20\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-20)[\[21\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-21) and different sources of diversity.[\[22\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-22)[\[23\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-23)
+>
+> The performance of different methods depends a lot on the data set and parameters, and methods have little systematic advantages over another when compared across many data sets and parameters.[\[24\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-CamposZimek2016-24)[\[25\]](https://en.wikipedia.org/wiki/Anomaly_detection#cite_note-25)
+
+
+
+## Hierarchical Temporal Memory \(HTM\)
+
+[Hierarchical Temporal Memory for Real-time Anomaly Detection](https://www.dropbox.com/s/zvv0ov63pel9je7/anomalydetectionhtmmeetup-170829200447.pdf?dl=0)
+
+[Anomaly Detection — NuPIC 1.0.4 documentation](http://nupic.docs.numenta.org/stable/guides/anomaly-detection.html)
+
+
+
+## Types of Anomaly
+
+[Page 7 to 10](https://www.dropbox.com/s/zvv0ov63pel9je7/anomalydetectionhtmmeetup-170829200447.pdf?dl=0)
+
+## Benchmark
+
+[numenta/NAB: The Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
+
+## Book
+
+[Amazon.com: Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection \(Wiley and SAS Business Series\) eBook: Bart Baesens, Veronique Van Vlasselaer, Wouter Verbeke: Kindle Store](https://www.amazon.com/Analytics-Descriptive-Predictive-Network-Techniques-ebook/dp/B012WA66SK/ref=mt_kindle?_encoding=UTF8&me=)
+
+[Outlier Analysis eBook: Charu C. Aggarwal: Kindle Store](https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal-ebook/dp/B06XG1BQJJ/)
+
+## Visualization
+
+[Visualization on a 2D map \(with t-SNE\) \| Kaggle](https://www.kaggle.com/cherzy/visualization-on-a-2d-map-with-t-sne/code)
+
+## Maybe read later
+
+* [Semi-Supervised Anomaly Detection Survey \| Kaggle](https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey/code)
+* [Anomaly Detection for Airbnb’s Payment Platform – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199)
+* [Outlier and fraud detection using Hadoop](https://www.slideshare.net/pkghosh99/outlier-and-fraud-detection)
+* [Relative Density and Outliers \| Mawazo](https://pkghosh.wordpress.com/2012/10/18/relative-density-and-outliers/)
+* [It’s a lonely life for outliers \| Mawazo](https://pkghosh.wordpress.com/2012/06/18/its-a-lonely-life-for-outliers/)
+* [Fraudsters, Outliers and Big Data \| Mawazo](https://pkghosh.wordpress.com/2012/01/02/fraudsters-outliers-and-big-data-2/)
+
+## Metric
+
+[What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
+
+
+
+## Curation
+
+[Outlier and Anomaly Detection](http://www.kdd.org/kdd2016/topics/view/outlier-and-anomaly-detection)
 

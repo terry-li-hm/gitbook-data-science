@@ -9,7 +9,7 @@
 * [Business Understanding](business-understanding/README.md)
   * [Problem definition](business-understanding/analysing-problem.md)
   * [Banking Industry](business-understanding/fs.md)
-  * [Anomaly Detection](business-understanding/anomaly-detection.md)
+  * [Anomaly Detection \(Outlier Detection\)](business-understanding/anomaly-detection.md)
   * [Use Cases](business-understanding/untitled-3.md)
 * [Data Understanding](untitled-6/README.md)
   * [Data Processing](untitled-6/untitled-1-2.md)
