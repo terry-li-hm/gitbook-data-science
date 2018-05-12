@@ -14,6 +14,11 @@
 * [反欺詐\(Fraud Detection\)中所用到的機器學習模型有哪些？ - 知乎](https://www.zhihu.com/question/30508773/answer/205831957)
 * [用Pyador進行『異常檢測』: 開發無監督機器學習工具庫\(一\)](https://zhuanlan.zhihu.com/p/29868365) \(follow the concept\)
 
+## Book
+
+* [Outlier Analysis eBook: Charu C. Aggarwal](https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal-ebook/dp/B06XG1BQJJ/)
+* F[raud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection](https://www.amazon.com/Analytics-Descriptive-Predictive-Network-Techniques-ebook/dp/B012WA66SK/ref=mt_kindle?_encoding=UTF8&me=)
+
 ## Curation
 
 [Outlier and Anomaly Detection](http://www.kdd.org/kdd2016/topics/view/outlier-and-anomaly-detection)
@@ -65,11 +70,6 @@ Fraud Detection is an application of anomaly detection per Wiki.
 ## Benchmark
 
 [numenta/NAB: The Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
-
-## Book
-
-* [Outlier Analysis eBook: Charu C. Aggarwal](https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal-ebook/dp/B06XG1BQJJ/)
-* F[raud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection](https://www.amazon.com/Analytics-Descriptive-Predictive-Network-Techniques-ebook/dp/B012WA66SK/ref=mt_kindle?_encoding=UTF8&me=)
 
 ## Visualization
 
