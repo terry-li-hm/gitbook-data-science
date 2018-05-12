@@ -1,5 +1,25 @@
 # DBS
 
+## Inbox
+
+[SMU-16-0023\_\_DBS\_Analytics\_.pdf](https://www.dropbox.com/s/luqh3twjdhleovn/SMU-16-0023__DBS_Analytics_.pdf?dl=0)
+
+[SMU-17-0018\_\_DBS\_Agile\_Auditing\_.pdf](https://www.dropbox.com/s/zxfskuvf9ocpnap/SMU-17-0018__DBS_Agile_Auditing_.pdf?dl=0)
+
+[What's New - HKUST MSc in Business Analytics](http://www.msba.ust.hk/whats-new/185)
+
+[The Future of Auditing at DBS - YouTube](https://www.youtube.com/watch?v=kS9pZWdje7U)
+
+[IIA HK Annual Conference\_RonnieIp.pdf](https://www.dropbox.com/s/o0v12unthsnyzab/IIA%20HK%20Annual%20Conference_RonnieIp.pdf?dl=0)
+
+[shonali-release-version-160803084631-160929163608.pdf](https://www.dropbox.com/s/gennmdm441ew150/shonali-release-version-160803084631-160929163608.pdf?dl=0)
+
+[Reimagining\_Audit.pdf](https://www.dropbox.com/s/pezb73pta80gsia/Reimagining_Audit.pdf?dl=0)
+
+[1.UsingDataAnalyticsforPredictiveAuditing\(FINAL\).pdf](https://www.dropbox.com/s/a3bit6ytv35h46f/1.UsingDataAnalyticsforPredictiveAuditing%28FINAL%29.pdf?dl=0)
+
+[3.ContinuousAuditingbyDBSGroupAudit\(FINAL\).pdf](https://www.dropbox.com/s/b0gwdhebs322hnc/3.ContinuousAuditingbyDBSGroupAudit%28FINAL%29.pdf?dl=0)
+
 ## Treasury and Markets
 
 ### [Andrew Ng](https://www.dbs.com/about-us/our-management/andrew-ng/default.page)
@@ -200,26 +220,6 @@
   * Investment
 * Services \(Insurance & Advisory\)
 * Research \(With Asian Insights\)
-
-## Inbox
-
-[SMU-16-0023\_\_DBS\_Analytics\_.pdf](https://www.dropbox.com/s/luqh3twjdhleovn/SMU-16-0023__DBS_Analytics_.pdf?dl=0)
-
-[SMU-17-0018\_\_DBS\_Agile\_Auditing\_.pdf](https://www.dropbox.com/s/zxfskuvf9ocpnap/SMU-17-0018__DBS_Agile_Auditing_.pdf?dl=0)
-
-[What's New - HKUST MSc in Business Analytics](http://www.msba.ust.hk/whats-new/185)
-
-[The Future of Auditing at DBS - YouTube](https://www.youtube.com/watch?v=kS9pZWdje7U)
-
-[IIA HK Annual Conference\_RonnieIp.pdf](https://www.dropbox.com/s/o0v12unthsnyzab/IIA%20HK%20Annual%20Conference_RonnieIp.pdf?dl=0)
-
-[shonali-release-version-160803084631-160929163608.pdf](https://www.dropbox.com/s/gennmdm441ew150/shonali-release-version-160803084631-160929163608.pdf?dl=0)
-
-[Reimagining\_Audit.pdf](https://www.dropbox.com/s/pezb73pta80gsia/Reimagining_Audit.pdf?dl=0)
-
-[1.UsingDataAnalyticsforPredictiveAuditing\(FINAL\).pdf](https://www.dropbox.com/s/a3bit6ytv35h46f/1.UsingDataAnalyticsforPredictiveAuditing%28FINAL%29.pdf?dl=0)
-
-[3.ContinuousAuditingbyDBSGroupAudit\(FINAL\).pdf](https://www.dropbox.com/s/b0gwdhebs322hnc/3.ContinuousAuditingbyDBSGroupAudit%28FINAL%29.pdf?dl=0)
 
 ## PIITSStop
 
