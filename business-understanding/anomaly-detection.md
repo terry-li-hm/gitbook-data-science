@@ -4,7 +4,13 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 [Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
 
+> 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
 
+## 微調
+
+* [机器学习门下，有哪些在工业界应用较多，前景较好的小方向？ - 知乎](https://www.zhihu.com/question/57072166/answer/280824223)
+* [反欺詐\(Fraud Detection\)中所用到的機器學習模型有哪些？ - 知乎](https://www.zhihu.com/question/30508773/answer/205831957)
+* [用Pyador進行『異常檢測』: 開發無監督機器學習工具庫\(一\)](https://zhuanlan.zhihu.com/p/29868365) \(follow the concept\)
 
 
 
@@ -27,8 +33,6 @@ Fraud Detection is an application of anomaly detection per Wiki.
 [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
 
 [Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
-
-[反欺詐\(Fraud Detection\)中所用到的機器學習模型有哪些？ - 知乎](https://www.zhihu.com/question/30508773/answer/205831957)
 
 [Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
 
@@ -196,6 +200,9 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Relative Density and Outliers \| Mawazo](https://pkghosh.wordpress.com/2012/10/18/relative-density-and-outliers/)
 * [It’s a lonely life for outliers \| Mawazo](https://pkghosh.wordpress.com/2012/06/18/its-a-lonely-life-for-outliers/)
 * [Fraudsters, Outliers and Big Data \| Mawazo](https://pkghosh.wordpress.com/2012/01/02/fraudsters-outliers-and-big-data-2/)
+* [机器学习-异常检测算法（一）：Isolation Forest](https://zhuanlan.zhihu.com/p/27777266)
+* [机器学习-异常检测算法（二）：Local Outlier Factor](https://zhuanlan.zhihu.com/p/28178476)
+* [機器學習-異常檢測算法（三）：Principal Component Analysis](https://zhuanlan.zhihu.com/p/29091645)
 
 ## Metric
 
