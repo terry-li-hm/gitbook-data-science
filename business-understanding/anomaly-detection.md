@@ -2,6 +2,7 @@
 
 ## Top Resources
 
+* [**Introduction to Anomaly Detection: Concepts and Techniques \| My views of the World and Systems**](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
 * [2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html#isolation-forest)
 * [Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
 * [Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code)
@@ -35,10 +36,13 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 ## Imbalanced datasets
 
+* [scikit-learn-contrib/imbalanced-learn: Python module to perform under sampling and over sampling with various techniques.](https://github.com/scikit-learn-contrib/imbalanced-learn)
 * [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
 * [Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
 * [Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
 * [How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
+* [Does Balancing Classes Improve Classifier Performance? – Win-Vector Blog](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
+* [Machine learning best practices: detecting rare events - Subconscious Musings](https://blogs.sas.com/content/subconsciousmusings/2017/07/19/machine-learning-best-practices-detecting-rare-events/)
 
 
 
@@ -177,10 +181,17 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [3 methods to deal with outliers \| Neural Designer](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 * [How to Identify Outliers in your Data](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/)
 * [Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
+* [How PayPal Is Taking a Chance on AI to Fight Fraud \| American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
+* [Which machine learning techniques have you used for fraud detection, and why? Do you prefer statistical techniques versus artificial intelligence? - Quora](https://www.quora.com/Which-machine-learning-techniques-have-you-used-for-fraud-detection-and-why-Do-you-prefer-statistical-techniques-versus-artificial-intelligence)
+* [dalpozz/AMLFD: Adaptive Machine Learning for Credit Card Fraud Detection](https://github.com/dalpozz/AMLFD)
+* [Adaptive Machine Learning for Credit Card Fraud Detection](http://www.ulb.ac.be/di/map/adalpozz/pdf/Dalpozzolo2015PhD.pdf)
+* [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers \(Part VII\)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd)
+* [Fraud deep learning\_v2](https://www.slideshare.net/RatnakarPandey6/fraud-deep-learningv2)
 
 ## Metric
 
-[What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
+* [What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
+* [What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
 
 
 
