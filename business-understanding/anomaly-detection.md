@@ -4,6 +4,7 @@
 
 * [2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html#isolation-forest)
 * [Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
+* [Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code)
 
 ### 微調
 
@@ -27,9 +28,12 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 
 
+## Imbalanced datasets
 
-
-
+* [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+* [Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
+* [Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
+* [How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
 
 
 
@@ -180,6 +184,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 ## Maybe read later
 
+* [Time Series Anomaly Detection Algorithms – Stats and Bots](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
 * [Semi-Supervised Anomaly Detection Survey \| Kaggle](https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey/code)
 * [Anomaly Detection for Airbnb’s Payment Platform – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199)
 * [Outlier and fraud detection using Hadoop](https://www.slideshare.net/pkghosh99/outlier-and-fraud-detection)
@@ -189,7 +194,12 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [机器学习-异常检测算法（一）：Isolation Forest](https://zhuanlan.zhihu.com/p/27777266)
 * [机器学习-异常检测算法（二）：Local Outlier Factor](https://zhuanlan.zhihu.com/p/28178476)
 * [機器學習-異常檢測算法（三）：Principal Component Analysis](https://zhuanlan.zhihu.com/p/29091645)
-
+* [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
+* [Identifying Outages with Argos - Uber Engineering Blog](https://eng.uber.com/argos/)
+* [A Brief Overview of Outlier Detection Techniques – Towards Data Science](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561)
+* [3 methods to deal with outliers \| Neural Designer](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
+* [How to Identify Outliers in your Data](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/)
+* 
 ## Metric
 
 [What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
