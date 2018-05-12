@@ -46,25 +46,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 > a fraud detection model may use anomaly detection scores as an extra generated feature going into the supervised learning algorithm.
 
-[Entity Embedding-Based Anomaly Detection for Heterogeneous Categorical Events - Google 搜尋](https://www.google.com.hk/search?q=Entity+Embedding-Based+Anomaly+Detection+for+Heterogeneous+Categorical+Events&oq=Entity+Embedding-Based+Anomaly+Detection+for+Heterogeneous+Categorical+Events&aqs=chrome..69i57.315j0j1&sourceid=chrome&ie=UTF-8)
 
-[What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
-
-[Introduction to Anomaly Detection: Concepts and Techniques \| My views of the World and Systems](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
-
-[anomalize: Tidy Anomaly Detection](http://www.business-science.io/code-tools/2018/04/08/introducing-anomalize.html)
-
-[Machine learning best practices: detecting rare events - Subconscious Musings](https://blogs.sas.com/content/subconsciousmusings/2017/07/19/machine-learning-best-practices-detecting-rare-events/)
-
-[Does Balancing Classes Improve Classifier Performance? – Win-Vector Blog](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
-
-[Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers \(Part VII\)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd)
-
-[Which machine learning techniques have you used for fraud detection, and why? Do you prefer statistical techniques versus artificial intelligence? - Quora](https://www.quora.com/Which-machine-learning-techniques-have-you-used-for-fraud-detection-and-why-Do-you-prefer-statistical-techniques-versus-artificial-intelligence)
-
-[How PayPal Is Taking a Chance on AI to Fight Fraud \| American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
-
-[scikit-learn-contrib/imbalanced-learn: Python module to perform under sampling and over sampling with various techniques.](https://github.com/scikit-learn-contrib/imbalanced-learn)
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
