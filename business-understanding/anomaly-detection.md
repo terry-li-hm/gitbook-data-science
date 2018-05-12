@@ -5,6 +5,7 @@
 * [2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html#isolation-forest)
 * [Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
 * [Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code)
+* [Comparing anomaly detection algorithms for outlier detection on toy datasets — scikit-learn 0.20.dev0 documentation](http://scikit-learn.org/dev/auto_examples/plot_anomaly_comparison.html)
 
 ### 微調
 
@@ -20,7 +21,11 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 > 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
 
-### 
+[Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
+
+![](../.gitbook/assets/image%20%2811%29.png)
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ## Relevant Kaggle Competitions
 
@@ -36,16 +41,6 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
 
 
-
-[Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection)
-
-[How to choose machine learning algorithms \| Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice)
-
-[Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
-
-[2.7. Novelty and Outlier Detection — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/modules/outlier_detection.html)
-
-[Comparing anomaly detection algorithms for outlier detection on toy datasets — scikit-learn 0.20.dev0 documentation](http://scikit-learn.org/dev/auto_examples/plot_anomaly_comparison.html)
 
 对于非平衡样本问题，用PR曲线能有效的看出模型性能。
 
@@ -199,7 +194,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [A Brief Overview of Outlier Detection Techniques – Towards Data Science](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561)
 * [3 methods to deal with outliers \| Neural Designer](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 * [How to Identify Outliers in your Data](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/)
-* 
+* [Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
+
 ## Metric
 
 [What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
@@ -209,4 +205,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 ## Curation
 
 [Outlier and Anomaly Detection](http://www.kdd.org/kdd2016/topics/view/outlier-and-anomaly-detection)
+
+
+
+
+
+
 

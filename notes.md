@@ -309,11 +309,11 @@ From [http://www.jianshu.com/p/32def2294ae6](http://www.jianshu.com/p/32def2294a
 
 ### Machine Learning Process
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 Unsupervised learning and supervised learning can be used together. ![](file:///Users/Terry/Downloads/Data%20Science/DS%20Notes/Images/unsupervised%20and%20supervised.png?lastModify=1525080918)
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### Metric
 
