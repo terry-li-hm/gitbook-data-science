@@ -27,27 +27,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 
 
-[How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
-[Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code)
-
-[Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
-
-[Identifying Outages with Argos - Uber Engineering Blog](https://eng.uber.com/argos/)
-
-[Time Series Anomaly Detection Algorithms – Stats and Bots](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
-
-[How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
-
-[Dealing with imbalanced data: undersampling, oversampling and proper cross-validation](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
-
-[Unbalanced data and cross-validation](https://www.kaggle.com/questions-and-answers/27589)
-
-[How To handle Imbalance Data : Study in Detail \| Kaggle](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
-
-[Amazon.com: Outlier Analysis eBook: Charu C. Aggarwal: Kindle Store](https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal-ebook/dp/B06XG1BQJJ/ref=mt_kindle?_encoding=UTF8&me=)
-
-[A Brief Overview of Outlier Detection Techniques – Towards Data Science](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561)
 
 
 
