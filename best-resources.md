@@ -2,7 +2,9 @@
 
 ## Great Introduction
 
-[https://www.dropbox.com/s/gbn0y0zcfkv5eyi/Getting%20Started%20With%20MachineLearning%20%28all%20in%20one%29\_V0.92.pdf?dl=0](https://www.dropbox.com/s/gbn0y0zcfkv5eyi/Getting%20Started%20With%20MachineLearning%20%28all%20in%20one%29_V0.92.pdf?dl=0)
+{% embed data="{\"url\":\"https://www.dropbox.com/s/gbn0y0zcfkv5eyi/Getting%20Started%20With%20MachineLearning%20%28all%20in%20one%29\_V0.92.pdf?dl=0\",\"type\":\"link\",\"title\":\"Getting Started With MachineLearning \(all in one\)\_V0.92.pdf\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cfl.dropboxstatic.com/static/images/icons128/page\_white\_acrobat.png\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
+
+Getting Started With MachineLearning \(all in one\)\_V0.92.pdf
 
 [Machine Learning is Fun! – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
