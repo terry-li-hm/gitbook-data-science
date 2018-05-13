@@ -29,3 +29,5 @@
 * 说到这里可能有人会问，为什么我没有听过这个名字。这是因为Boosted Tree有各种马甲，比如GBDT, GBRT \(gradient boosted regression tree\)，MART11，LambdaMART也是一种boosted tree的变种。\( [我爱计算机](http://www.52cs.org/)\)
 * _GBM_ \(Gradient Boosting Machine\). XGBoost is a better algorithm than GBM.
 
+[Interpretable Machine Learning with XGBoost – Towards Data Science](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+

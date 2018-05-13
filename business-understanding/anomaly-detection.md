@@ -1,6 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ## Top Resources
 
@@ -9,6 +9,7 @@
 * [Anomaly Detection : A Survey \(V Chandola cited 4917 times\)](https://www.dropbox.com/s/53ne0k40g7jsc7x/chandola09_anomaly-detection-survey.pdf?dl=0) \([another version](https://www.dropbox.com/s/tt0sewttgxgi14a/AnomalyDetection.pdf?dl=0)\)
 * [Unsupervised Anomaly Detection \| Kaggle](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/code)
 * [Comparing anomaly detection algorithms for outlier detection on toy datasets — scikit-learn 0.20.dev0 documentation](http://scikit-learn.org/dev/auto_examples/plot_anomaly_comparison.html)
+* [Ratnakar Pandey\(RP\)'s answer to Which machine learning techniques have you used for fraud detection, and why? Do you prefer statistical techniques versus artificial intelligence? - Quora](https://www.quora.com/Which-machine-learning-techniques-have-you-used-for-fraud-detection-and-why-Do-you-prefer-statistical-techniques-versus-artificial-intelligence/answer/Ratnakar-Pandey-RP)
 
 ### 微調
 
@@ -58,15 +59,27 @@ Fraud Detection is an application of anomaly detection per Wiki.
 >
 > Two common applications of auto-encoders and unsupervised learning are to identify anomalous data \(for example, outlier detection, financial fraud\) and to pre-train more complex, often supervised, models such as deep neural networks.
 
+### Autoencoders
+
+[Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers \(Part VII\)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) \([PyTorch implementation](https://github.com/Jonaddo/MachineLearning_sandbox/tree/master/CreditCard_fraud_detection/Autoencoder)\)
+
+> The reconstruction error is computed and data points with the higher reconstruction error are supposed to be outliers. AEs are also used for speech and image recognition.
+
+But in fact still need labels as you need to use only the negative samples to train the model.
+
+### Social Network Analysis
+
+![](../.gitbook/assets/image%20%282%29.png)
+
 ## Opinions
 
 > 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
 
 [Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ## Relevant Kaggle Competitions
 
@@ -207,7 +220,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 > **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 
 
