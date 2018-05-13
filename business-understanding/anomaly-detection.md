@@ -29,6 +29,15 @@
 
 Fraud Detection is an application of anomaly detection per Wiki.
 
+## Case Studies
+
+* [Drive Away Fraudsters With Driverless AI - Venkatesh Ramanathan, Senior Data Scientist, PayPal](https://www.youtube.com/watch?v=r9S3xchrzlY)
+  * Collusion fraud
+  * node2vec
+  * the following has been very successful in NLP:
+    * Skip Gram \(predict context word from target\)
+    * Continus Bag of Words \(CBOW\) \(predict target from context\)
+
 ## Opinions
 
 > 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
