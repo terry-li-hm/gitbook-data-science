@@ -31,7 +31,7 @@
 * [Evaluation](untitled-1-1/README.md)
   * [Metrics](untitled-1-1/evaluating-models/README.md)
     * [AUC](untitled-1-1/evaluating-models/auc.md)
-* Deployment
+* [Deployment](deployment.md)
 * [Communication](communication.md)
 * Alogrithms
   * [Deep Learning in General](alogrithms/deep-learning.md)

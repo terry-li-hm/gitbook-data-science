@@ -37,6 +37,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
   * the following has been very successful in NLP:
     * Skip Gram \(predict context word from target\)
     * Continus Bag of Words \(CBOW\) \(predict target from context\)
+* Capital One
+  * GBM
 
 ## Opinions
 
