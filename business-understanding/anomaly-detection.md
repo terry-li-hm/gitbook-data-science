@@ -29,6 +29,8 @@
 
 Fraud Detection is an application of anomaly detection per Wiki.
 
+[T-Digest](https://mapr.com/blog/better-anomaly-detection-t-digest-whiteboard-walkthrough/) - a really cool box that you can add to an anomaly detector so that you can set the number of alarms as a percentage of the total samples that you get.
+
 ## Case Studies
 
 * [Drive Away Fraudsters With Driverless AI - Venkatesh Ramanathan, Senior Data Scientist, PayPal](https://www.youtube.com/watch?v=r9S3xchrzlY)
@@ -37,8 +39,24 @@ Fraud Detection is an application of anomaly detection per Wiki.
   * the following has been very successful in NLP:
     * Skip Gram \(predict context word from target\)
     * Continus Bag of Words \(CBOW\) \(predict target from context\)
-* Capital One
+* [Capital One](https://www.youtube.com/watch?v=e0vOTY6QdO4)
   * GBM
+* [H2O - Autoencoders and anomaly detection \(Python\) \| Kaggle](https://www.kaggle.com/imrandude/h2o-autoencoders-and-anomaly-detection-python/code)
+* [Anomaly detection for feature engineering \| Kaggle](https://www.kaggle.com/danofer/anomaly-detection-for-feature-engineering/code)
+* [Semi-Supervised Anomaly Detection Survey \| Kaggle](https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey/code)
+* [AutoEncoder, SMOTE and GBM =&gt; 0.98 AUC \| Kaggle](https://www.kaggle.com/ja2740/autoencoder-smote-and-gbm-0-98-auc)
+
+## Graph
+
+[networkx/networkx: Official NetworkX source code repository.](https://github.com/networkx/networkx)
+
+[node2vec: Embeddings for Graph Data – Towards Data Science](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
+
+## Approach
+
+> Auto-encode can be trained to learn the deep or hidden features of data. These hidden features may be used on their own, such as to better understand the structure of data, or for other applications.
+>
+> Two common applications of auto-encoders and unsupervised learning are to identify anomalous data \(for example, outlier detection, financial fraud\) and to pre-train more complex, often supervised, models such as deep neural networks.
 
 ## Opinions
 
