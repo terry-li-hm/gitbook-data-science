@@ -10,3 +10,5 @@
 
 ![](.gitbook/assets/photo.jpg)
 
+![](.gitbook/assets/dscf0966.jpg)
+
