@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Cover](README.md)
+* [Inbox](inbox.md)
 * [DBS](dbs/README.md)
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
