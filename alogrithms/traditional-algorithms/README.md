@@ -2,7 +2,11 @@
 
 [Categories of algorithms\(non exhaustive\)](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY)
 
-### Tree
+## Logistic Regression
+
+[https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
+
+## Tree
 
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels)
 * [Implementing sci-kit learn’s Random Forest Classifier for the first time](http://joshlawman.com/implementing-the-random-forest-classifier-from-sci-kit-learn/)
@@ -13,7 +17,7 @@
 * [A Guide to Gradient Boosted Trees with XGBoost in Python](https://jessesw.com/XG-Boost/)
 * [All you need to know about Decision Tree \(Part-1\)](https://analyticsdefined.com/decision-tree-part-1/)
 
-#### SVM
+## SVM
 
 * [Support Vector Machine \(SVM\) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
