@@ -4,7 +4,9 @@
 
 ## Logistic Regression
 
-[https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
+{% embed data="{\"url\":\"https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa\",\"type\":\"link\",\"title\":\"The Logistic Regression Algorithm\",\"description\":\"Logistic Regression is one of the most used Machine Learning algorithms for binary classification. It is a simple Algorithm that you can…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*F0LADxTtsKOgmPa-\_7iUEQ.jpeg\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1200/1\*jsiHEktQ4IHpwm5MFU8pGQ.jpeg\",\"width\":1200,\"height\":799,\"aspectRatio\":0.6658333333333334}}" %}
+
+The Logistic Regression Algorithm
 
 ## Tree
 
