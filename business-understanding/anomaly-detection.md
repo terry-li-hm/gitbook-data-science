@@ -53,6 +53,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 [node2vec: Embeddings for Graph Data – Towards Data Science](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 
+[Neo4j](https://github.com/neo4j/neo4j)
+
 ## Approach
 
 > Auto-encode can be trained to learn the deep or hidden features of data. These hidden features may be used on their own, such as to better understand the structure of data, or for other applications.
