@@ -49,11 +49,16 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 ## Graph
 
-[networkx/networkx: Official NetworkX source code repository.](https://github.com/networkx/networkx)
+* [networkx/networkx: Official NetworkX source code repository.](https://github.com/networkx/networkx)
+* [node2vec: Embeddings for Graph Data – Towards Data Science](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
+* [Neo4j](https://github.com/neo4j/neo4j)
+* [Stanford Network Analysis Project](http://snap.stanford.edu/projects.html)
 
-[node2vec: Embeddings for Graph Data – Towards Data Science](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 
-[Neo4j](https://github.com/neo4j/neo4j)
+
+
+
+
 
 ## Approach
 
@@ -211,7 +216,7 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 > I would also advice you to take a look at the following:
 >
-> * **Kappa \(or **[**Cohen’s kappa**](https://en.wikipedia.org/wiki/Cohen%27s_kappa)**\)**: Classification accuracy normalized by the imbalance of the classes in the data.
+> * **Kappa \(or** [**Cohen’s kappa**](https://en.wikipedia.org/wiki/Cohen%27s_kappa)**\)**: Classification accuracy normalized by the imbalance of the classes in the data.
 > * **ROC Curves**: Like precision and recall, accuracy is divided into sensitivity and specificity and models can be chosen based on the balance thresholds of these values.
 >
 > You can learn a lot more about using ROC Curves to compare classification accuracy in our post “[Assessing and Comparing Classifier Performance with ROC Curves](http://machinelearningmastery.com/assessing-comparing-classifier-performance-roc-curves-2/)“.

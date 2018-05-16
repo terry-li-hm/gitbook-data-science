@@ -19,7 +19,7 @@
 > After introducing the model, let us begin with the real training part. How should we learn the trees? The answer is, as is always for all supervised learning models: _define an objective function, and optimize it_!
 
 * XGBoost is an implementation of _boosted tree_.
-* _Boosted tree _is an algorithm to train _tree ensemble_. _Random forests_ is another algorithm to train _tree ensemble_.
+* _Boosted tree_ is an algorithm to train _tree ensemble_. _Random forests_ is another algorithm to train _tree ensemble_.
 * _Tree ensemble_ is a model.
 * Model in supervised learning usually refers to the mathematical structure of how to make the prediction yi given xi. For example, a common model is a _linear model_, where the prediction is given by y^i=∑jθjxijy^i=∑jθjxij, a linear combination of weighted input features.
 * The tree ensemble model is a set of classification and regression trees \(CART\).

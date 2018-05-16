@@ -84,7 +84,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 
 [Unsupervised sentence representation with deep learning](https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93)
 
-[**How to solve 90% of NLP problems: a step-by-step guide**](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)** \(11.3k clap!\)**
+[**How to solve 90% of NLP problems: a step-by-step guide**](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) **\(11.3k clap!\)**
 
 [Building a FAQ Chatbot in Python – The Future of Information Searching](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
 
@@ -112,7 +112,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 
 
 
-Tf-idf stands for_ term frequency-inverse document frequency_
+Tf-idf stands for _term frequency-inverse document frequency_
 
 > Typically, the tf-idf weight is composed by two terms: the first computes the normalized Term Frequency \(TF\), aka. the number of times a word appears in a document, divided by the total number of words in that document; the second term is the Inverse Document Frequency \(IDF\), computed as the logarithm of the number of the documents in the corpus divided by the number of documents where the specific term appears.
 >

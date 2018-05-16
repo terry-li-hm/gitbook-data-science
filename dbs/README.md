@@ -253,13 +253,13 @@ Account: DBS \(Development Bank of Singapore\) April’16 – present
 
 > Ronnie is Managing Director and Head of Audit for Greater China of DBS Bank \(Hong Kong\) Limited. He joined DBS Bank \(Hong Kong\) in June 2004. Ronnie is responsible for the bank’s internal audit function for all business activities in Hong Kong, Mainland China and Taiwan. Ronnie is a seasoned auditor with 30 years of investment, commercial and retail banking experience and diversified product and market exposure in the US and Hong Kong. Prior to joining DBS, he was Director of Internal Audit Greater China and Deputy Head of Asia Pacific Audit for Credit Agricole group. He has also held senior internal audit positions with international financial institutions such as J.P. Morgan, Indosuez W.I. Carr Securities and Banque Indosuez. Ronnie started his auditing career with PricewaterhouseCoopers in 1983. Ronnie obtained an Honours Bachelor of Commerce degree from the University of Birmingham and a Master of Business Administration from Alliance Manchester Business School in the UK.
 
-> **Knowledge is limitless **
+> **Knowledge is limitless** 
 >
 > Currently the Head of Audit, Greater China and Managing Director of DBS, Ronnie Ip has long worked amongst the upper echelons of international investment banks, where he was put in charge of Asian operations. But he insisted on further studies – in 1999, he graduated from MBS’s MBA program, all the while motivating himself with Paul Arden’s book, It's Not How Good You Are, It's How Good You Want to Be, spurring himself onto greater heights.
 >
 > Ronnie explains that he chose MBS’s MBA program largely because of the school’s ranking and its reputation for stellar teaching. At that time he was often away on business – the flexible approach to lessons, therefore, was perfect for his schedule. ‘The curriculum was very forward-looking, with a slant towards global economics. It inspired me plenty, and also helped me gain much in terms of monetary and financial knowledge. At the same time, students were drawn from corporate levels of many different industries – when we converse, we often come up with different viewpoints, which was very invigorating for the intellect.’
 >
-> **Expanding professional circles, Putting lessons to practical use **
+> **Expanding professional circles, Putting lessons to practical use** 
 >
 > Ronnie points out that lessons not only widened his professional circle, but were also great for practical use – they helped enhance his problem-solving skills. In particular, he had the best impression of the modules Organization Behavior and Human Resources Management, which focused on the teaching of soft skills. The reason for this was thus - before Ronnie joined DBS Hong Kong, he had never come into contact with retail banking operations. When he joined seven years ago, he was immediately put in charge of reorganizing and enhancing internal audit structure and efficiency, in order to align with the development of Greater China operations, and in order to raise team efficiency and co-operation. The management skills he gained from the MBA, therefore, came in extremely handy.
 >

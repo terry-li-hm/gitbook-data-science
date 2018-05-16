@@ -14,7 +14,7 @@
 
 > Some common practices:
 >
-> * Inspect the distribution of target variable. Depending on what scoring metric is used, **an **[**imbalanced**](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5128907)** distribution of target variable might harm the model’s performance**.
+> * Inspect the distribution of target variable. Depending on what scoring metric is used, **an** [**imbalanced**](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5128907) **distribution of target variable might harm the model’s performance**.
 > * For **numerical variables**, use **box plot** and **scatter plot** to inspect their distributions and check for outliers.
 > * For classification tasks, plot the data with points colored according to their labels. This can help with feature engineering.
 > * Make pairwise distribution plots and examine their correlations.
