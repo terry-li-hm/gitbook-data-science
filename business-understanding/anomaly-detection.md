@@ -53,10 +53,16 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [node2vec: Embeddings for Graph Data – Towards Data Science](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 * [Neo4j](https://github.com/neo4j/neo4j)
 * [Stanford Network Analysis Project](http://snap.stanford.edu/projects.html)
+* [Graphlab Create™. Fast, Scalable Machine Learning Modeling in Python. \| Turi](https://turi.com/)
+* [tkipf/pygcn: Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
+* [Graph Convolutions For Tox21](https://deepchem.io/docs/notebooks/graph_convolutional_networks_for_tox21.html)
+* [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
 
 
 
 ![https://www.slideshare.net/stanleywanguni/graph-analytic-and-machine-learning/19](../.gitbook/assets/graph-1.png)
+
+![](../.gitbook/assets/23-1.png)
 
 ## Approach
 
