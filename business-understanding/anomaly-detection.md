@@ -56,9 +56,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 
 
-
-
-
+![https://www.slideshare.net/stanleywanguni/graph-analytic-and-machine-learning/19](../.gitbook/assets/graph-1.png)
 
 ## Approach
 
