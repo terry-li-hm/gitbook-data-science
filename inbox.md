@@ -28,7 +28,5 @@ Check out @jakevdp’s Tweet: https://twitter.com/jakevdp/status/995436619372072
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-![](https://photos.app.goo.gl/bw0C7Y9EYHMN5Et72)
-
 
 
