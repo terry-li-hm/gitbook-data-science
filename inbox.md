@@ -14,7 +14,5 @@ Check out @jakevdp’s Tweet: https://twitter.com/jakevdp/status/995436619372072
 
 
 
-{% embed data="{\"url\":\"https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/\",\"type\":\"link\",\"title\":\"An Introduction to Graph Theory and Network Analysis \(with Python codes\)\",\"description\":\"This article is an introduction to the concepts of graph theory and network analysis. We also cover, in detail, a case study using python.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo\_square\_v2.jpg\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/graph7.png\",\"width\":1007,\"height\":1020,\"aspectRatio\":1.012909632571996}}" %}
-
 
 
