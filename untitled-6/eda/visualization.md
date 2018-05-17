@@ -25,12 +25,8 @@
 
 
 
-[Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python](https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924)
-
-{% embed data="{\"url\":\"https://fivethirtyeight.com/features/gun-deaths/\",\"type\":\"link\",\"title\":\"Gun Deaths In America\",\"description\":\"The data in this interactive graphic comes primarily from the Centers for Disease Control and Prevention’s Multiple Cause of Death database, which is derived from death certificates from all 50 states and the District of Columbia and is widely considered the most comprehensive estimate of firearm deaths.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/images/logo-fox-head-black.svg?v=1.0.6\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://espnfivethirtyeight.files.wordpress.com/2018/02/gundeaths-inter-4by3r1.png?w=1200\",\"width\":1200,\"height\":900,\"aspectRatio\":0.75}}" %}
-
-
-
+* [Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python](https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924)
+* [Gun Deaths In America \| FiveThirtyEight](https://fivethirtyeight.com/features/gun-deaths/)
 * [Dots vs. polygons: How I choose the right visualization](https://blog.mapbox.com/right-way-visualize-data-945d6010fab0)
 * [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots)
 * [Data Visualization for Social Science](http://socviz.co/)
@@ -48,5 +44,6 @@
 * [Histograms and Density Plots in Python – Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * [Data Visualization Hackathon Style – Towards Data Science](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
 * [ContextLab/hypertools: A Python toolbox for gaining geometric insights into high-dimensional data](https://github.com/ContextLab/hypertools)
-*  [Which Chart or Graph is best? A guide to data visualization](https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you)
+* [Which Chart or Graph is best? A guide to data visualization](https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you)
+* [Gun Deaths In America \| FiveThirtyEight](https://fivethirtyeight.com/features/gun-deaths/)
 
