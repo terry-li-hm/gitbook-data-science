@@ -125,3 +125,7 @@ Tf-idf stands for _term frequency-inverse document frequency_
 >
 > Consider a document containing 100 words wherein the word cat appears 3 times. The term frequency \(i.e., tf\) for cat is then \(3 / 100\) = 0.03. Now, assume we have 10 million documents and the word cat appears in one thousand of these. Then, the inverse document frequency \(i.e., idf\) is calculated as log\(10,000,000 / 1,000\) = 4. Thus, the Tf-idf weight is the product of these quantities: 0.03 \* 4 = 0.12.
 
+## Chinese
+
+*  [Chinese Word Vectors：目前最全的中文預訓練詞向量集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-05-15-10)
+
