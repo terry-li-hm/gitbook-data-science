@@ -1,24 +1,16 @@
 # Visualization
 
-[plotly/plotly.py: An interactive, browser-based graphing library for Python](https://github.com/plotly/plotly.py)
-
-[Building Bullet Graphs and Waterfall Charts with Bokeh - Practical Business Python](http://pbpython.com/bokeh-bullet-waterfall.html)
-
-[5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
-
-[Visualizing Time Series Data of Stock Prices \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](http://byteacademy.co/blog/time-series-python)
-
-[9 popular ways to perform Data Visualization in Python](https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/)
-
-[Guide For Data Exploration In Python Using NumPy, Matplotlib, Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
-
-[Data Visualization Course - D3.js Visualization \| Udacity](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
-
-[Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
-
-[PAIR-code/facets: Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
-
-[The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/)
+* [neerjad/DataVisualization: Tutorials on visualizing data using python packages like bokeh, plotly, seaborn and igraph](https://github.com/neerjad/DataVisualization)
+* [plotly/plotly.py: An interactive, browser-based graphing library for Python](https://github.com/plotly/plotly.py)
+* [Building Bullet Graphs and Waterfall Charts with Bokeh - Practical Business Python](http://pbpython.com/bokeh-bullet-waterfall.html)
+* [5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
+* [Visualizing Time Series Data of Stock Prices \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](http://byteacademy.co/blog/time-series-python)
+* [9 popular ways to perform Data Visualization in Python](https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/)
+* [Guide For Data Exploration In Python Using NumPy, Matplotlib, Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+* [Data Visualization Course - D3.js Visualization \| Udacity](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+* [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
+* [PAIR-code/facets: Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
+* [The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/)
 
 ### [Exploring Histograms](https://tinlizzie.org/histograms/)
 
@@ -45,11 +37,7 @@
 * [Simple Binary Data Visualization](http://martin.varela.fi/post/simple-binary-data-visualization/)
 * [The Art of Story Telling in Data Science and how to create data stories?](https://www.analyticsvidhya.com/blog/2017/10/art-story-telling-data-science/)
 * [How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js](https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5)
-
-[Data Viz Project \| Collection of data visualizations to get inspired and finding the right type.](http://datavizproject.com/)
-
-
-
+* [Data Viz Project \| Collection of data visualizations to get inspired and finding the right type.](http://datavizproject.com/)
 * [Don’t take career advises from people who mistreat graphs this badly – Boris Gorelik](https://gorelik.net/2018/01/04/dont-take-career-advises-from-people-who-mistreat-graphs-this-badly/)
 * [Overview of Python Visualization Tools - Practical Business Python](http://pbpython.com/visualization-tools-1.html)
 * [Simple Graphing with IPython and Pandas - Practical Business Python](http://pbpython.com/simple-graphing-pandas.html)
