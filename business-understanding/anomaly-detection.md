@@ -65,6 +65,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Machine Learning, Graphs and the Fake News Epidemic \(Part 2\)](https://neo4j.com/blog/machine-learning-graphs-fake-news-epidemic-part-2/)
 * [Graph Algorithms in Neo4j: 15 Different Graph Algorithms & What They Do](https://neo4j.com/blog/graph-algorithms-neo4j-15-different-graph-algorithms-and-what-they-do/)
 * [GraphGist: Bank Fraud Detection](https://neo4j.com/graphgist/bank-fraud-detection)
+*  [Graph Analytics Over Relational Datasets with Python](https://medium.com/district-data-labs/graph-analytics-over-relational-datasets-with-python-89fb14587f07)
 
 
 
