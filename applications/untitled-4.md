@@ -128,4 +128,5 @@ Tf-idf stands for _term frequency-inverse document frequency_
 ## Chinese
 
 *  [Chinese Word Vectors：目前最全的中文預訓練詞向量集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-05-15-10)
+*  [Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors 上百種預訓練中文詞向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
