@@ -61,6 +61,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [**Graph-based machine learning: Part I – Insight Data**](https://blog.insightdatascience.com/graph-based-machine-learning-6e2bd8926a0)
 * [emehrkay/Pypher: Python Cypher Querybuilder](https://github.com/emehrkay/Pypher)
 * [What Machine Learning Can Learn from Graph](https://www.experoinc.com/post/what-machine-learning-can-learn-from-graph)
+* [Ebola Twitter Network Analysis](https://medium.com/@swainjo/ebola-twitter-network-f5f705f03af7)
+* [Machine Learning, Graphs and the Fake News Epidemic \(Part 2\)](https://neo4j.com/blog/machine-learning-graphs-fake-news-epidemic-part-2/)
+* [Graph Algorithms in Neo4j: 15 Different Graph Algorithms & What They Do](https://neo4j.com/blog/graph-algorithms-neo4j-15-different-graph-algorithms-and-what-they-do/)
+* [GraphGist: Bank Fraud Detection](https://neo4j.com/graphgist/bank-fraud-detection)
 
 
 
