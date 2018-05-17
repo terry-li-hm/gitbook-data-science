@@ -50,23 +50,15 @@
 
 
 
-[Don’t take career advises from people who mistreat graphs this badly – Boris Gorelik](https://gorelik.net/2018/01/04/dont-take-career-advises-from-people-who-mistreat-graphs-this-badly/)
-
-[Overview of Python Visualization Tools - Practical Business Python](http://pbpython.com/visualization-tools-1.html)
-
-[Simple Graphing with IPython and Pandas - Practical Business Python](http://pbpython.com/simple-graphing-pandas.html)
-
-[Choosing a Python Visualization Tool - Practical Business Python](http://pbpython.com/python-vis-flowchart.html)
-
-[Effectively Using Matplotlib - Practical Business Python](http://pbpython.com/effective-matplotlib.html)
-
-[Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
-
-[Data Visualization with Bokeh in Python, Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
-
-[Histograms and Density Plots in Python – Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
-
-[Data Visualization Hackathon Style – Towards Data Science](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
-
-[ContextLab/hypertools: A Python toolbox for gaining geometric insights into high-dimensional data](https://github.com/ContextLab/hypertools)
+* [Don’t take career advises from people who mistreat graphs this badly – Boris Gorelik](https://gorelik.net/2018/01/04/dont-take-career-advises-from-people-who-mistreat-graphs-this-badly/)
+* [Overview of Python Visualization Tools - Practical Business Python](http://pbpython.com/visualization-tools-1.html)
+* [Simple Graphing with IPython and Pandas - Practical Business Python](http://pbpython.com/simple-graphing-pandas.html)
+* [Choosing a Python Visualization Tool - Practical Business Python](http://pbpython.com/python-vis-flowchart.html)
+* [Effectively Using Matplotlib - Practical Business Python](http://pbpython.com/effective-matplotlib.html)
+* [Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
+* [Data Visualization with Bokeh in Python, Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
+* [Histograms and Density Plots in Python – Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
+* [Data Visualization Hackathon Style – Towards Data Science](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
+* [ContextLab/hypertools: A Python toolbox for gaining geometric insights into high-dimensional data](https://github.com/ContextLab/hypertools)
+*  [Which Chart or Graph is best? A guide to data visualization](https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you)
 
