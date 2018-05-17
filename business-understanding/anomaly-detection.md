@@ -59,6 +59,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
 * [**Google AI Blog: Graph-powered Machine Learning at Google**](https://ai.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
 * [**Graph-based machine learning: Part I – Insight Data**](https://blog.insightdatascience.com/graph-based-machine-learning-6e2bd8926a0)
+* [emehrkay/Pypher: Python Cypher Querybuilder](https://github.com/emehrkay/Pypher)
+* [What Machine Learning Can Learn from Graph](https://www.experoinc.com/post/what-machine-learning-can-learn-from-graph)
 
 
 

@@ -1,5 +1,9 @@
 # Metrics
 
+[Introduction to Loss Functions](https://blog.algorithmia.com/introduction-to-loss-functions/)
+
+
+
 ## Problem of accuracy
 
 [Jason Brownlee](https://machinelearningmastery.com/assessing-comparing-classifier-performance-roc-curves-2/):

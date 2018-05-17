@@ -1,5 +1,7 @@
 # Banking Industry
 
+[Top 7 Data Science Use Cases in Finance](https://activewizards.com/blog/top-7-data-science-use-cases-in-finance)
+
 [JPM - Big Data and AI Strategies.pdf](https://www.dropbox.com/s/1kk702wur687ti4/JPM%20-%20Big%20Data%20and%20AI%20Strategies.pdf)
 
 [Where can Machine Learning be Applied to Improve Banking Performance? - Accenture](https://financeandriskblog.accenture.com/analytics/where-can-machine-learning-be-applied-to-improve-banking-performance)
