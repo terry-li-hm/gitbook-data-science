@@ -72,7 +72,6 @@
   * [Resume Projects](untitled-5/resume-projects.md)
   * [AWS](untitled-5/aws.md)
   * [My Projects](untitled-5/my-projects.md)
-* [Fast.ai](fast.ai.md)
 * [At Home](my-server.md)
 * [Notes](notes.md)
 * [Commands](untitled-1.md)

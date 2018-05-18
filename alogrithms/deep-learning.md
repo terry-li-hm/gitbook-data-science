@@ -111,7 +111,7 @@ Visualising Activation Functions in Neural Networks](https://dashee87.github.io/
 
 [Understanding objective functions in neural networks.](https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138)
 
-
+Neural nets really like standardized variables. \(per Jeremy\)
 
 
 
@@ -126,4 +126,8 @@ Visualising Activation Functions in Neural Networks](https://dashee87.github.io/
 > * Change the neural network architecture \(activation function, number of hidden units, etc.\)
 
 > If you choose well among these possible directions, you’ll build the leading cat picture platform, and lead your company to success. If you choose poorly, you might waste months.
+
+
+
+Softmax likes picking one class. So it is ridiculous to use it for multi-label classification. \(per Jeremy\)
 
