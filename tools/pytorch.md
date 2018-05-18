@@ -7,3 +7,5 @@
 * [A practitioner's guide to PyTorch – Towards Data Science](https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040)
 * [PyTorch Tensor Basics](https://www.kdnuggets.com/2018/05/pytorch-tensor-basics.html)
 
+Since computation graph in PyTorch is defined at runtime you can use tour favorite Python debugging tools such as pdb, ipdb, PyCharm debugger or old trusty print statements.
+

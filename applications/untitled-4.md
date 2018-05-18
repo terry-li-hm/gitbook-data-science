@@ -1,5 +1,27 @@
 # NLP
 
+## Word Embedding
+
+A word embedding is an approach to provide a dense vector representation of words that capture something about their meaning.
+
+Word embeddings are an improvement over simpler bag-of-word model word encoding schemes like word counts and frequencies that result in large and sparse vectors \(mostly 0 values\) that describe documents but not the meaning of the words.
+
+Word embeddings work by using an algorithm to train a set of fixed-length dense and continuous-valued vectors based on a large corpus of text. Each word is represented by a point in the embedding space and these points are learned and moved around based on the words that surround the target word.
+
+It is defining a word by the company that it keeps that allows the word embedding to learn something about the meaning of words. The vector space representation of the words provides a projection where words with similar meanings are locally clustered within the space.
+
+The use of word embeddings over other text representations is one of the key methods that has led to breakthrough performance with deep neural networks on problems like machine translation.
+
+Word2vec is one algorithm for learning a word embedding from a text corpus.
+
+There are two main training algorithms that can be used to learn the embedding from text; they are continuous bag of words \(CBOW\) and skip grams.
+
+We will not get into the algorithms other than to say that they generally look at a window of words for each target word to provide context and in turn meaning for words. The approach was developed by Tomas Mikolov, formerly at Google and currently at Facebook.
+
+
+
+
+
 * [**fast.ai NLP · Practical NLP**](http://nlp.fast.ai/)
 * [Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [Intuitive Understanding of Word Embeddings: Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)

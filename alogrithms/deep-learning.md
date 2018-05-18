@@ -131,3 +131,5 @@ Neural nets really like standardized variables. \(per Jeremy\)
 
 Softmax likes picking one class. So it is ridiculous to use it for multi-label classification. \(per Jeremy\)
 
+Batch Normalization helps your network learn faster by “smoothing” the values at various stages in the stack. Exactly why this works is seemingly not well-understood yet, but it has the effect of helping your network converge much faster, meaning it achieves higher accuracy with less training, or higher accuracy after the same amount of training, often dramatically so.
+

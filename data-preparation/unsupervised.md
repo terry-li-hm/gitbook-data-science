@@ -5,3 +5,9 @@
 * [Visualizing K-Means Clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 * [Unsupervised Learning with Python – Towards Data Science](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
 
+
+
+Unsupervised learning and supervised learning can be used together:
+
+![](../.gitbook/assets/image%20%2818%29.png)
+

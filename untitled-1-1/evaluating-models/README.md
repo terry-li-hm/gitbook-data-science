@@ -16,6 +16,12 @@
 
 > \[Log Loss\] looks at the probabilities themselves and not just the order of the predictions like AUC.
 
+
+
+## Precision-Recall Trade-off
+
+Precision is the percentage of relevant items out of those that have been returned, while recall is the percentage of relevant items that have been returned out of the overall number of relevant items. Hence, it is easy to artificially increase recall to 100% by always returning all the items in the database, but this would mean settling for near-zero precision. Similarly, one can increase precision by always returning a single item that the algorithm is very confident about, but this means that recall would suffer. Ultimately, the best balance between precision and recall depends on the application.
+
 ## F1
 
 ![{\displaystyle F\_{1}={\frac {2}{{\tfrac {1}{\mathrm {recall} }}+{\tfrac {1}{\mathrm {precision} }}}}=2\cdot {\frac {\mathrm {precision} \cdot \mathrm {recall} }{\mathrm {precision} +\mathrm {recall} }}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5663ca95d471868169c4e4ea57c936f1b6f4a588)
@@ -51,4 +57,38 @@ This is the default scoring method for regression learners in scikit-learn.
 [Beyond Accuracy: Precision and Recall – Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 
 [Unintended Consequences and Goodhart’s Law – Towards Data Science](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+
+## RMSE
+
+Root Mean Squared Error \(RMSE\)The square root of the mean/average of the square of all of the error.
+
+The use of RMSE is very common and it makes an excellent general purpose error metric for numerical predictions.
+
+Compared to the similar Mean Absolute Error, RMSE amplifies and severely punishes large errors.
+
+
+
+## Common visualizations
+
+1. ROC curve
+2. Cumulative response curve: tp rate \(tp divided by totally number of positives\) \(y axis\) vs. percentage of the population that is targeted \(x axis\)
+3. Lift curve
+
+> One of the reaons accuracy is a poor metric is that it is misleading when daasets are skews…
+
+\(e.g. 93% negatives and 7% positives.\) AUC is a better metric.
+
+> Even modest AUC scores may lead to good business results.
+
+> A critical part of the data scientist's job is aranging for proper evaluation of models and conveying this information to stakeholders. Doing this well takes expereince, but it is vital in order to reduce superises and to manage expectations among all concerned. Visualizatino of reults is an important piece of the evaluation task.
+>
+> When building a model from data, adjusting the training samplein various ways may be useful or even necessary; but evluation should use a sample reflecting the original, realistic population so that the resutls reflect waht will actually be achieved.
+>
+> When the costs and benefits of decisions can be specified, the data scientist can calculate an expected cost per instance for each modeland simply choose whicever model produces the best value. In some cases a basic profit graph can be useful to compare modesl of interest under a range of conditions. These graphs may be easy to comprehend for stakeholders who are not data scientists, since they reduce model performance to their basic "bottom line" cost or profit.
+>
+> The disavantage of a profit graph is that it requires that operating conditions be known and specified exactly. With many real-world problems, the operating conditions are imprecise or change over time, and the data scientist must contend with uncertainty. In such cases other graphs may be more useful. When costs and benefits cannot be specified with confidence, but the class mix will likely not change, a _cumulative response_ or _lift_ graph is useful. Both show the relative advantages of classifiers, independent of the value \(monetary or otherwise\) of the advantages.
+>
+> Finally, ROC curves are a valuable visualization tool for the data scientist. Though they take some practive to interpret readily, they seperate out performance from operating conditions. In doing so they convey the fundametal trade-offs that each model is making.
+
+
 
