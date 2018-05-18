@@ -25,3 +25,9 @@ When you are happy with your model, treat also the validation set as part of the
 
 > Make sure you have a low bias classifier before expending the effort. \(Plot learning curves\). E.g. keep increasing the number of features/number of hidden units in neural network until you have a low bias classifier.
 
+
+
+
+
+
+

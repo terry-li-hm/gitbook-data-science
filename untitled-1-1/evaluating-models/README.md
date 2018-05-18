@@ -20,6 +20,10 @@
 
 ![{\displaystyle F\_{1}={\frac {2}{{\tfrac {1}{\mathrm {recall} }}+{\tfrac {1}{\mathrm {precision} }}}}=2\cdot {\frac {\mathrm {precision} \cdot \mathrm {recall} }{\mathrm {precision} +\mathrm {recall} }}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5663ca95d471868169c4e4ea57c936f1b6f4a588)
 
+Often, between the two, there is a trade off. Improvements may increase recall, but lower precision in the process, or vice versa. These are often combined into an F1 score, which is [a type of average that is biased toward the lower of two fractional values](https://en.wikipedia.org/wiki/F1_score). Systems often push for the highest possible F1 score.
+
+An acceptable F1 score depends on the application. There is no absolute number, though an F1 around 80% is typical for a useful system in many applications.
+
 ## R2
 
 The [`r2_score`](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html#sklearn.metrics.r2_score) function computes R², the [coefficient of determination](https://en.wikipedia.org/wiki/Coefficient_of_determination). It provides a measure of how well future samples are likely to be predicted by the model. Best possible score is 1.0 and it can be negative \(because the model can be arbitrarily worse\). A constant model that always predicts the expected value of y, disregarding the input features, would get a R^2 score of 0.0.
