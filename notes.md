@@ -1,64 +1,12 @@
 # Notes
 
-## Views
+
 
 {% embed data="{\"url\":\"https://twitter.com/TessFerrandez/status/953334000311029766\",\"type\":\"rich\",\"title\":\"Tess on Twitter\",\"description\":\"Takeaways from @AndrewYNg talk - AI is the new electricity https://t.co/z1ePKKFP6M \#sketchnotes \#MachineLearning pic.twitter.com/GqexGr5JvN— Tess \(@TessFerrandez\) January 16, 2018\n\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\"twitter-tweet\\" align=\\"center\\"><p lang=\\"en\\" dir=\\"ltr\\">Takeaways from <a href=\\"https://twitter.com/AndrewYNg?ref\_src=twsrc%5Etfw\\">@AndrewYNg</a> talk - AI is the new electricity <a href=\\"https://t.co/z1ePKKFP6M\\">https://t.co/z1ePKKFP6M</a> <a href=\\"https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref\_src=twsrc%5Etfw\\">\#sketchnotes</a> <a href=\\"https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref\_src=twsrc%5Etfw\\">\#MachineLearning</a> <a href=\\"https://t.co/GqexGr5JvN\\">pic.twitter.com/GqexGr5JvN</a></p>&mdash; Tess \(@TessFerrandez\) <a href=\\"https://twitter.com/TessFerrandez/status/953334000311029766?ref\_src=twsrc%5Etfw\\">January 16, 2018</a></blockquote>\n<script async src=\\"https://platform.twitter.com/widgets.js\\" charset=\\"utf-8\\"></script>\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
 
-## Artificial data synthesis
-
-[Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/K0XQT/getting-lots-of-data-and-artificial-data):
-
-> Make sure you have a low bias classifier before expending the effort. \(Plot learning curves\). E.g. keep increasing the number of features/number of hidden units in neural network until you have a low bias classifier.
-
-
-
 {% embed data="{\"url\":\"https://twitter.com/mbostock/status/991517711250305024\",\"type\":\"rich\",\"title\":\"Mike Bostock on Twitter\",\"description\":\"Don’t compare percentage change on a linear scale; use a log scale instead. -50% \(0.5×\) is as big a change as +100% \(2×\). pic.twitter.com/EhjtTG0d2M— Mike Bostock \(@mbostock\) May 2, 2018\n\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\"twitter-tweet\\" align=\\"center\\"><p lang=\\"en\\" dir=\\"ltr\\">Don’t compare percentage change on a linear scale; use a log scale instead. -50% \(0.5×\) is as big a change as +100% \(2×\). <a href=\\"https://t.co/EhjtTG0d2M\\">pic.twitter.com/EhjtTG0d2M</a></p>&mdash; Mike Bostock \(@mbostock\) <a href=\\"https://twitter.com/mbostock/status/991517711250305024?ref\_src=twsrc%5Etfw\\">May 2, 2018</a></blockquote>\n<script async src=\\"https://platform.twitter.com/widgets.js\\" charset=\\"utf-8\\"></script>\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
 
-
-
-## Example of some Pandas techniques
-
-```python
-import pandas as pd
-path = '~/.kaggle/competitions/msk-redefining-cancer-treatment/'
-
-df_labels_test = pd.read_csv(path + 'stage1_solution_filtered.csv')
-df_labels_test.head(2)
-```
-
-|  | ID | class1 | class2 | class3 | class4 | class5 | class6 | class7 | class8 | class9 |
-| --- | --- | --- |
-| 0 | 12 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | 19 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-```python
-df_labels_test['Class'] = pd.to_numeric(df_labels_test.drop('ID', axis=1).idxmax(axis=1).str[5:])
-df_labels_test.head(2)
-```
-
-|  | ID | class1 | class2 | class3 | class4 | class5 | class6 | class7 | class8 | class9 | Class |
-| --- | --- | --- |
-| 0 | 12 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 1 | 19 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-## Correlation
-
-> It is important to discover and quantify the degree to which variables in your dataset are dependent upon each other. This knowledge can help you better prepare your data to meet the expectations of machine learning algorithms, such as linear regression, whose performance will degrade with the presence of these interdependencies.
-
-> The performance of some algorithms can deteriorate if two or more variables are tightly related, called multicollinearity. An example is linear regression, where one of the offending correlated variables should be removed in order to improve the skill of the model.
-
-Naive Bayes: extremely fast relative to other classification algorithms
-
-
-
-{% embed data="{\"url\":\"http://www.r2d3.us/visual-intro-to-machine-learning-part-1/\",\"type\":\"link\",\"title\":\"A visual introduction to machine learning\",\"description\":\"What is machine learning? See how it works with our animated data visualization.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.r2d3.us/static/app/global/r2d3-logo.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://www.r2d3.us/static/pages/decision-trees-part-1/preview-en.png\",\"width\":1120,\"height\":600,\"aspectRatio\":0.5357142857142857}}" %}
-
-
-
   
-A very good introduction of t-SNE:  
-[t-SNE](https://lvdmaaten.github.io/tsne/) is the very popular algorithm to extremely reduce the dimensionality of your data in order to visually present it. It is capable of mapping hundreds of dimensions to just 2 while preserving important data relationships, that is, when closer samples in the original space are closer in the reduced space. t-SNE works quite well for small and moderately sized real-world datasets and does not require much tuning of its hyperparameters. In other words, if you’ve got less than 100,000 points, you will apply that magic black box thing and get a beautiful scatter plot in return.  
-Via [https://blog.sourced.tech/post/lapjv/?utm\_campaign=8ed002c926-Kaggle\_Newsletter\_04-11-2017&utm\_medium=email&utm\_source=Mailing+list&utm\_term=0\_f42f9df1e1-8ed002c926-400051409](https://blog.sourced.tech/post/lapjv/?utm_campaign=8ed002c926-Kaggle_Newsletter_04-11-2017&utm_medium=email&utm_source=Mailing+list&utm_term=0_f42f9df1e1-8ed002c926-400051409)  
 
 
 

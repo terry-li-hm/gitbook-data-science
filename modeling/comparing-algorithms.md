@@ -25,3 +25,5 @@ Advantage of Naive Bayes
 
 [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
 
+Naive Bayes: extremely fast relative to other classification algorithms
+
