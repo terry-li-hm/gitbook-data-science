@@ -12,6 +12,7 @@
   * [Banking Industry](business-understanding/fs.md)
   * [Anomaly Detection \(Outlier Detection\)](business-understanding/anomaly-detection.md)
   * [Use Cases](business-understanding/untitled-3.md)
+  * [ML field](business-understanding/ml-field.md)
 * [Data Understanding](untitled-6/README.md)
   * [Data Processing](untitled-6/untitled-1-2.md)
   * [EDA](untitled-6/eda/README.md)

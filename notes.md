@@ -1,16 +1,8 @@
 # Notes
 
-[An executive’s guide to AI \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
-
 ## Views
 
-[Andrew Ng: Artificial Intelligence is the New Electricity - YouTube](https://www.youtube.com/watch?v=21EiKfQYZXc)
-
-[How artificial intelligence and data add value to businesses \| Andrew Ng](https://www.mckinsey.com/featured-insights/artificial-intelligence/how-artificial-intelligence-and-data-add-value-to-businesses)
-
 {% embed data="{\"url\":\"https://twitter.com/TessFerrandez/status/953334000311029766\",\"type\":\"rich\",\"title\":\"Tess on Twitter\",\"description\":\"Takeaways from @AndrewYNg talk - AI is the new electricity https://t.co/z1ePKKFP6M \#sketchnotes \#MachineLearning pic.twitter.com/GqexGr5JvN— Tess \(@TessFerrandez\) January 16, 2018\n\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\"twitter-tweet\\" align=\\"center\\"><p lang=\\"en\\" dir=\\"ltr\\">Takeaways from <a href=\\"https://twitter.com/AndrewYNg?ref\_src=twsrc%5Etfw\\">@AndrewYNg</a> talk - AI is the new electricity <a href=\\"https://t.co/z1ePKKFP6M\\">https://t.co/z1ePKKFP6M</a> <a href=\\"https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref\_src=twsrc%5Etfw\\">\#sketchnotes</a> <a href=\\"https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref\_src=twsrc%5Etfw\\">\#MachineLearning</a> <a href=\\"https://t.co/GqexGr5JvN\\">pic.twitter.com/GqexGr5JvN</a></p>&mdash; Tess \(@TessFerrandez\) <a href=\\"https://twitter.com/TessFerrandez/status/953334000311029766?ref\_src=twsrc%5Etfw\\">January 16, 2018</a></blockquote>\n<script async src=\\"https://platform.twitter.com/widgets.js\\" charset=\\"utf-8\\"></script>\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
-
-
 
 ## Artificial data synthesis
 
