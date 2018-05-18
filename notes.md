@@ -24,12 +24,6 @@
 
 
 
-## Potential Problems to Consider
-
-Concept drift
-
-
-
 ## Example of some Pandas techniques
 
 ```python
