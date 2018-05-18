@@ -1,38 +1,23 @@
 # NLP
 
-[Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-
-[Intuitive Understanding of Word Embeddings: Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
-
-[How to get started in NLP – Towards Data Science](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
-
-[How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
-
-[Data Analysis & XGBoost Starter \(0.35460 LB\) \| Kaggle](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb)
-
-[Bag of Words Meets Bags of Popcorn \| Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial#description)
-
-[Working With Text Data — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
-
-[sloria/TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.](https://github.com/sloria/textblob)
-
-[Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
-
-[How I lost a silver medal in Kaggle’s Mercari Price Suggestion Challenge using CNNs and Tensorflow](https://medium.com/unstructured/how-i-lost-a-silver-medal-in-kaggles-mercari-price-suggestion-challenge-using-cnns-and-tensorflow-4013660fcded)
-
-[Understanding Feature Engineering \(Part 4\) — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
-
-[fastText/pretrained-vectors.md at master · facebookresearch/fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
-
-[Kyubyong/nlp\_tasks: Natural Language Processing Tasks and References](https://github.com/Kyubyong/nlp_tasks)
-
-[xiamx/awesome-sentiment-analysis: 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤](https://github.com/xiamx/awesome-sentiment-analysis)
-
-[The Essential NLP Guide for data scientists \(codes for top 10 NLP tasks\)](https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
-
-[How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
-
-[What is TF-IDF? The 10 minute guide](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
+* [**fast.ai NLP · Practical NLP**](http://nlp.fast.ai/)
+* [Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [Intuitive Understanding of Word Embeddings: Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+* [How to get started in NLP – Towards Data Science](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* [Data Analysis & XGBoost Starter \(0.35460 LB\) \| Kaggle](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb)
+* [Bag of Words Meets Bags of Popcorn \| Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial#description)
+* [Working With Text Data — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+* [sloria/TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.](https://github.com/sloria/textblob)
+* [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
+* [How I lost a silver medal in Kaggle’s Mercari Price Suggestion Challenge using CNNs and Tensorflow](https://medium.com/unstructured/how-i-lost-a-silver-medal-in-kaggles-mercari-price-suggestion-challenge-using-cnns-and-tensorflow-4013660fcded)
+* [Understanding Feature Engineering \(Part 4\) — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
+* [fastText/pretrained-vectors.md at master · facebookresearch/fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+* [Kyubyong/nlp\_tasks: Natural Language Processing Tasks and References](https://github.com/Kyubyong/nlp_tasks)
+* [xiamx/awesome-sentiment-analysis: 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤](https://github.com/xiamx/awesome-sentiment-analysis)
+* [The Essential NLP Guide for data scientists \(codes for top 10 NLP tasks\)](https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Word_embedding):
 
