@@ -6,25 +6,9 @@
 
 {% embed data="{\"url\":\"https://twitter.com/mbostock/status/991517711250305024\",\"type\":\"rich\",\"title\":\"Mike Bostock on Twitter\",\"description\":\"Don’t compare percentage change on a linear scale; use a log scale instead. -50% \(0.5×\) is as big a change as +100% \(2×\). pic.twitter.com/EhjtTG0d2M— Mike Bostock \(@mbostock\) May 2, 2018\n\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\"twitter-tweet\\" align=\\"center\\"><p lang=\\"en\\" dir=\\"ltr\\">Don’t compare percentage change on a linear scale; use a log scale instead. -50% \(0.5×\) is as big a change as +100% \(2×\). <a href=\\"https://t.co/EhjtTG0d2M\\">pic.twitter.com/EhjtTG0d2M</a></p>&mdash; Mike Bostock \(@mbostock\) <a href=\\"https://twitter.com/mbostock/status/991517711250305024?ref\_src=twsrc%5Etfw\\">May 2, 2018</a></blockquote>\n<script async src=\\"https://platform.twitter.com/widgets.js\\" charset=\\"utf-8\\"></script>\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
 
-## Data Science Notes
-
-### Machine Learning Process
-
-![](.gitbook/assets/image%20%2823%29.png)
-
-
-
 ### Metric
 
-#### F1
-
-> My identifier has a really great F1. This is the best of both worlds. Both my false positive and false negative rates are low, which means that I can identify POI's reliable and accurately. If my identifier finds a POI then the person is almost certainly a POI, and if the identifier does not flag someone, then they are almost certainly not a POI.
-
-#### Precision and Recall
-
-> My identifier doesn't have great **precision**, but it does have good **recall**. That means that, nearly every time a POI shows up in my test set, I am able to identify him or her. The cost of this is that I sometime get some false positives, where non-POIs get flagged.
->
-> My identifier doesn't have great **recall**, but it does have good **precision**. That means that whenever a POI gets flagged in my test set, I know with a lot of confidence that it's very likely to be a real POI and not a false alarm. On the other hand, the price I pay for this is that I sometimes miss real POIs, since I'm effectively reluctant to pull the trigger on edge cases.
+#### 
 
 ### kNN
 
