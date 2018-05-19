@@ -1,40 +1,5 @@
 # Notes
 
-
-
-### Metric
-
-#### 
-
-### kNN
-
-#### Disadvantage
-
-Linear regression can extrapolate the ends but kNN can't:
-
-![](.gitbook/assets/image%20%2813%29.png)
-
-
-
-## Quora Kaggle Competition
-
-Questions
-
-* For data balancing, normally the objective is to make the ratio of positive and negative classes be 50/50. But in the [kernel by anokas](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb) he made the ratio of the training set from 37% to 17%, which is the ratio of the test set. There is a [relevant discussion thread](https://www.kaggle.com/c/quora-question-pairs/discussion/31179) initiated by sweezjeezy.
-* According to [YantingCao](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb#181191), the re-sampling approach in the [kernel by anokas](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb) leak information into the cross validation set. In other words, the cross validation set contains data from the training set. anokas also agreed on this. My questions are:
-  * What does 're-sampling' mean?
-  * Why such approach lead to such issue?
-
-Notes
-
-Since our metric is log loss, resampling the data to represent the same distribution \(of 0.165\) will give us a much better score in Public LB. The ratio of the training set can be observed directly. The ratio of the test set can be calculated using the result of a [naive submission which use the ratio of the training set as the estimated probability](https://www.kaggle.io/svf/1077333/f8eecce4cf447dccad546c8ec882e0d1/__results__.html#Test-Submission) and [a bit of magic algebra](https://www.kaggle.com/davidthaler/quora-question-pairs/how-many-1-s-are-in-the-public-lb) as there is only one distribution of classes that could have produced this score. It seems from the discussion that such method is only applicable to evaluation with logloss function.
-
-Suggested by [Paul Larmuseau](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb#179520):
-
-> I wonder you could beat your splendid results if you correct one error... since you use .lower\(\).split\(\) you don't split the '?' from the last word, i presume since i discover that one of your least frequent words has a '?' fulfill?'. So i would 'clean' the data with a replace '?' with ' ' or i prefer to use nltk.word\_tokenize\(q1\) , so doing this you would split all words from the punctuations, and make disappear one type of error, as in that case you throw away nearly all last words of all questions as 'rare' words, or you cluster together all questions with the same last word. Since i didnot install yet that wonderfull XGaboost, i give you the honour to improve or worsen \(i don't know yet\) your own results.
-
-According to [Philipp Schmidt](https://www.kaggle.io/svf/1082541/22b67ba5fac3793c4b56697f1d0906e8/__results__.html#Feature-construction), to limit the computational complexity and storage requirements we can subsample the training set by `dfs = df[0:2500]`. After subsampling we should check if the distribution of the positive and negative classes of the subsample is similar to the original training set. If not we need to find out a better sampling method.
-
 #### Text Analysis using Machine Learning
 
 Most of the algorithms accept only numerical feature vectors \(`vector` is a one dimensional `array` in computer science\). So we need to convert the text documents into numerical features vectors with a fixed size in order to make use of the machining learning algorithms for text analysis.

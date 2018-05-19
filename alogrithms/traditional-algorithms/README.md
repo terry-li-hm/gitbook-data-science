@@ -21,7 +21,17 @@
 
 * [Support Vector Machine \(SVM\) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
+## kNN
 
+### Disadvantage
+
+Linear regression can extrapolate the ends but kNN can't:
+
+![](../../.gitbook/assets/image%20%2813%29.png)
+
+
+
+## Naive Bayes
 
 [6 Easy Steps to Learn Naive Bayes Algorithm \(with code in Python\)](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 
