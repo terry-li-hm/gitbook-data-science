@@ -4,3 +4,7 @@
 * [A Friendly Introduction to Machine Learning - YouTube](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [An executive’s guide to AI \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
+![](.gitbook/assets/image%20%2826%29.png)
+
+![](.gitbook/assets/image%20%2818%29.png)
+
