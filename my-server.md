@@ -13,6 +13,8 @@ ssh -N -f -L localhost:8888:localhost:8888 terry@113.254.109.120
 sshfs terry@113.254.109.120: server
 
 rsync -av ~ terry@192.168.1.80::NetBackup/linux/
+
+42.3.182.131
 ```
 
 [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
