@@ -1,7 +1,7 @@
 # Table of contents
 
 * Data Science
-* [Inbox](inbox.md)
+* Inbox
 * [DBS](dbs/README.md)
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
