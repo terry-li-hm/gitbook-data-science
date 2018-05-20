@@ -79,9 +79,6 @@
 * [Best Practices](best-practices.md)
 * [Learning Resources](learning-resources.md)
 * [Best Resources](best-resources.md)
-* [What is Machine Learning](untitled-4.md)
 * [Working Enviornment](working-enviornment.md)
-* [Other](other.md)
-* [Read again from time to time](read-again-from-time-to-time.md)
 * [Teaching Others](teaching-others.md)
 
