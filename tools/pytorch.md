@@ -6,6 +6,8 @@
 * [dnouri/skorch: A scikit-learn compatible neural network library that wraps pytorch](https://github.com/dnouri/skorch)
 * [A practitioner's guide to PyTorch – Towards Data Science](https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040)
 * [PyTorch Tensor Basics](https://www.kdnuggets.com/2018/05/pytorch-tensor-basics.html)
+* [bfortuner/pytorch-cheatsheet](https://github.com/bfortuner/pytorch-cheatsheet)
+* [bfortuner/pytorch-kaggle-starter: Pytorch starter kit for Kaggle competitions](https://github.com/bfortuner/pytorch-kaggle-starter)
 
 Since computation graph in PyTorch is defined at runtime you can use tour favorite Python debugging tools such as pdb, ipdb, PyCharm debugger or old trusty print statements.
 

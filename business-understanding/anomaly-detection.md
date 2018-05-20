@@ -1,6 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ## Top Resources
 
@@ -98,9 +98,9 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 [Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ## Relevant Kaggle Competitions
 

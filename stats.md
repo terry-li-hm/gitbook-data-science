@@ -48,3 +48,5 @@ Median is better than mean as median is not affected severely by outliers.
 
 [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
 
+[Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+
