@@ -46,3 +46,5 @@ Median is better than mean as median is not affected severely by outliers.
 
 [Finding Relationship Between Variables – ANOVA Test - All About Analytics](https://analyticsdefined.com/anova-test-part-1/)
 
+[Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
+
