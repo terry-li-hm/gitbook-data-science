@@ -62,7 +62,6 @@
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)
 * [Big Data](big-data.md)
-* Strategy
 * [Model Development Techniques](model-development-techniques.md)
 * [Jupyter Notebook](jupyter-notebook.md)
 * [Career](career.md)
