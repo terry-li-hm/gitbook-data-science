@@ -6,9 +6,9 @@
 * [The Business of Artificial Intelligence](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence)
 * [Deep Learning’s Next Frontier](https://hbr.org/webinar/2017/07/deep-learnings-next-frontier)
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 
 
@@ -26,5 +26,5 @@
 
 
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 

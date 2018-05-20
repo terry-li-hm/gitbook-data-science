@@ -50,5 +50,9 @@
 >
 > In some cases this approach will meaningfully improve results. In other cases, it doesn't help at all.
 
+![](../.gitbook/assets/image%20%281%29.png)
 
+![](../.gitbook/assets/image%20%2821%29.png)
+
+![](../.gitbook/assets/image%20%2830%29.png)
 
