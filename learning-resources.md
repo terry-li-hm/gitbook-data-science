@@ -8,6 +8,7 @@
 * [donnemartin/data-science-ipython-notebooks: Data science Python notebooks: Deep learning \(TensorFlow, Theano, Caffe, Keras\), scikit-learn, Kaggle, big data \(Spark, Hadoop MapReduce, HDFS\), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Class Central • \#1 Search Engine for Free Online Courses & MOOCs](https://www.class-central.com/)
 * [bfortuner/ml-cheatsheet: Machine learning cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
+* [Python Data Science Handbook \| Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 

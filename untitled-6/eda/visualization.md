@@ -1,5 +1,6 @@
 # Visualization
 
+* [**pyecharts/pyecharts: 🎨 Python Echarts Plotting Library**](https://github.com/pyecharts/pyecharts)
 * [neerjad/DataVisualization: Tutorials on visualizing data using python packages like bokeh, plotly, seaborn and igraph](https://github.com/neerjad/DataVisualization)
 * [plotly/plotly.py: An interactive, browser-based graphing library for Python](https://github.com/plotly/plotly.py)
 * [Building Bullet Graphs and Waterfall Charts with Bokeh - Practical Business Python](http://pbpython.com/bokeh-bullet-waterfall.html)
