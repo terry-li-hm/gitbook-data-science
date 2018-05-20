@@ -1,45 +1,5 @@
 # Notes
 
-#### Text Analysis using Machine Learning
-
-Most of the algorithms accept only numerical feature vectors \(`vector` is a one dimensional `array` in computer science\). So we need to convert the text documents into numerical features vectors with a fixed size in order to make use of the machining learning algorithms for text analysis.
-
-This can be done by the following steps:
-
-1. Assign each of the words in the text documents an integer ID. Each of the words is called a `token`. This step is called `tokenization`.
-2. Count the occurrences of tokens in each document. This step is called `counting`. The count of each token is created as a feature.
-3. `Normalization` \(**Don't understand what it means at this moment**\)
-
-**\(to add easy-to-understand example\)**
-
-This process is called `vectorization`. The resulting numerical feature vectors is called a `bag-of-words` representation.
-
-One issue of `vectorization` is that longer documents will have higher average count values than shorter documents while they might talk about the same topic. The solution is to divide the number of occurrences of each word in a document by total number of words in the document. These features are called `term frequency` or `tf`.
-
-Another issue `vectorization` is that in a large text corpus the common words like "the", "a", "is" will shadow the rare words during the model induction. The solution is to downscale the weight of the words that appear in many documents. This downscaling is called `term frequency times inverse document frequency` or `tf-idf` .
-
-I learnt the above from a [scikit-learn tutorial](http://scikit-learn.org/stable/modules/feature_extraction.html#the-bag-of-words-representation).
-
-According to [Kaggle](https://www.kaggle.com/c/quora-question-pairs/rules), `word embedding` is an example of `pre-trained models`. The followings are the embeddings mentioned by [Kaggle competitors](https://www.kaggle.com/c/quora-question-pairs/discussion/30286):
-
-* [word2vec by Google](https://code.google.com/archive/p/word2vec/)
-* [GloVe](https://nlp.stanford.edu/projects/glove/)
-* [fastText by Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
-
-[Kaggle](https://www.kaggle.com/c/quora-question-pairs/discussion/30286) requires competitors to share the pre-trained models and word embeddings used to "keep the competition fair by making sure that everyone has access to the same data and pretrained models."
-
-What is `pre-trained models`?
-
-What is `word embedding`?
-
-Some other tools:
-
-* [Gensim](https://radimrehurek.com/gensim/)
-* [spaCy](https://spacy.io/)
-* [Amazon Machine Learning](https://aws.amazon.com/machine-learning/)
-
-
-
 ## Gradient Descent
 
 {% embed data="{\"url\":\"https://www.dropbox.com/s/ekee45cl4tel2x2/sgd\_bad.gif?dl=0\",\"type\":\"link\",\"title\":\"sgd\_bad.gif\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.dropbox.com/temp\_thumb\_from\_token/s/ekee45cl4tel2x2?preserve\_transparency=False&size=1024x1024&size\_mode=2\",\"width\":1024,\"height\":1024,\"aspectRatio\":1}}" %}
