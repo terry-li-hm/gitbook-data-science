@@ -20,4 +20,5 @@
 *  [6 Easy Steps to Learn Naive Bayes Algorithm \(with code in Python\)](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 * [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
 * [uber/pyro: Deep universal probabilistic programming with Python and PyTorch](https://github.com/uber/pyro)
+* [Financial forecasting with probabilistic programming and Pyro](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba)
 
