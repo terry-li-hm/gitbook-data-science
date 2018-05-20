@@ -1,5 +1,13 @@
 # EDA
 
+Python libraries represent missing numbers as nan which is short for "not a number". You can detect which cells have missing values, and then count how many there are in each column with the command:
+
+```python
+print(data.isnull().sum())
+```
+
+
+
 [An Introduction to VisiData — An Introduction to VisiData](https://jsvine.github.io/intro-to-visidata/)
 
 [ZhengyaoJiang/PGPortfolio: PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"\(https://arxiv.org/pdf/1706.10059.pdf\).](https://github.com/ZhengyaoJiang/PGPortfolio)

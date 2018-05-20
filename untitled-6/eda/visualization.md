@@ -47,4 +47,5 @@
 * [ContextLab/hypertools: A Python toolbox for gaining geometric insights into high-dimensional data](https://github.com/ContextLab/hypertools)
 * [Which Chart or Graph is best? A guide to data visualization](https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you)
 * [Gun Deaths In America \| FiveThirtyEight](https://fivethirtyeight.com/features/gun-deaths/)
+* [**Data Visualisation \| Kaggle Learn**](https://www.kaggle.com/learn/data-visualisation)
 
