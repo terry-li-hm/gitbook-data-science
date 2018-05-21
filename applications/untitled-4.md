@@ -20,8 +20,7 @@ We will not get into the algorithms other than to say that they generally look a
 
 
 
-
-
+* [Google AI Blog: Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html?m=1)
 * [**fast.ai NLP · Practical NLP**](http://nlp.fast.ai/)
 * [Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [Intuitive Understanding of Word Embeddings: Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
