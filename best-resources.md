@@ -14,6 +14,5 @@
 * [Machine Learning Flashcards](https://store.chrisalbon.com/dashboard)
 * [No Free Hunch \| The Official Blog of Kaggle.com](http://blog.kaggle.com/)
 * [Machine Learning Glossary  \|  Google Developers](https://developers.google.com/machine-learning/glossary/)
-* [Learn \| Kaggle](https://www.kaggle.com/learn/overview)
 * [**Facebook’s Field Guide to Machine Learning video series – Facebook Research**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
