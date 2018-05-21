@@ -85,6 +85,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 >
 > Two common applications of auto-encoders and unsupervised learning are to identify anomalous data \(for example, outlier detection, financial fraud\) and to pre-train more complex, often supervised, models such as deep neural networks.
 
+### Isolation Forests
+
+*  [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)
+
 ### Autoencoders
 
 [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers \(Part VII\)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) \([PyTorch implementation](https://github.com/Jonaddo/MachineLearning_sandbox/tree/master/CreditCard_fraud_detection/Autoencoder)\)
