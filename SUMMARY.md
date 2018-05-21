@@ -60,6 +60,7 @@
   * [NLP](applications/untitled-4.md)
   * [Computer Vision](applications/computer-vision.md)
   * [Sequence Modelling](applications/sequence-modelling.md)
+  * [Recommender Systems](applications/recommender-systems.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)

@@ -11,4 +11,7 @@
 * [從最大似然估計開始，你需要打下的機器學習基石 \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-09-6)
 * [A Gentle Introduction to the Law of Large Numbers in Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/)
 * [A Gentle Introduction to the Central Limit Theorem for Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/)
+* [Companion webpage to the book "Mathematics for Machine Learning"](https://mml-book.github.io/)
+
+
 
