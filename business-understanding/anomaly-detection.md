@@ -74,6 +74,11 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 ![](../.gitbook/assets/23-1.png)
 
+## Codes
+
+* [anomaly\_detection/Anomaly Detection Post.ipynb at master · fastforwardlabs/anomaly\_detection](https://github.com/fastforwardlabs/anomaly_detection/blob/master/Anomaly%20Detection%20Post.ipynb)
+* [Outlier detection on a real data set — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/auto_examples/applications/plot_outlier_detection_housing.html)
+
 ## Approach
 
 > Auto-encode can be trained to learn the deep or hidden features of data. These hidden features may be used on their own, such as to better understand the structure of data, or for other applications.
