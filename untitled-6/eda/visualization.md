@@ -1,5 +1,6 @@
 # Visualization
 
+* [**Strength of visualization-python visuals tutorial \| Kaggle**](https://www.kaggle.com/maheshdadhich/strength-of-visualization-python-visuals-tutorial)
 * [**pyecharts/pyecharts: 🎨 Python Echarts Plotting Library**](https://github.com/pyecharts/pyecharts)
 * [Project Jupyter \| Widgets](http://jupyter.org/widgets.html)
 * [jupyter-widgets/ipyleaflet: A Jupyter - Leaflet.js bridge](https://github.com/jupyter-widgets/ipyleaflet)
