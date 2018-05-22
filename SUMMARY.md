@@ -62,6 +62,7 @@
   * [Computer Vision](applications/computer-vision.md)
   * [Sequence Modelling](applications/sequence-modelling.md)
   * [Recommender Systems](applications/recommender-systems.md)
+  * [Object Detection](applications/object-detection.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)
