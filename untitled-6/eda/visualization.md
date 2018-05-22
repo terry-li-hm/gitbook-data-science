@@ -1,6 +1,9 @@
 # Visualization
 
 * [**pyecharts/pyecharts: 🎨 Python Echarts Plotting Library**](https://github.com/pyecharts/pyecharts)
+* [Project Jupyter \| Widgets](http://jupyter.org/widgets.html)
+* [jupyter-widgets/ipyleaflet: A Jupyter - Leaflet.js bridge](https://github.com/jupyter-widgets/ipyleaflet)
+* [bloomberg/bqplot: Plotting library for IPython/Jupyter Notebooks](https://github.com/bloomberg/bqplot)
 * [neerjad/DataVisualization: Tutorials on visualizing data using python packages like bokeh, plotly, seaborn and igraph](https://github.com/neerjad/DataVisualization)
 * [plotly/plotly.py: An interactive, browser-based graphing library for Python](https://github.com/plotly/plotly.py)
 * [Building Bullet Graphs and Waterfall Charts with Bokeh - Practical Business Python](http://pbpython.com/bokeh-bullet-waterfall.html)
