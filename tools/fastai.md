@@ -15,3 +15,5 @@ data augmentation doesn't work if `precompute = True`. I don't understand why th
 Neural nets really like standardized variables. This can done by setting `do_scale`=`True` when calling `prod_df`.  
 
 
+* [FastAI Library \| Myndbook](https://myndbook.com/view/6278)
+
