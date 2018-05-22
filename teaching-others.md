@@ -7,9 +7,9 @@
 * [Deep Learning’s Next Frontier](https://hbr.org/webinar/2017/07/deep-learnings-next-frontier)
 * [But what \*is\* a Neural Network? \| Chapter 1, deep learning - YouTube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 
 
@@ -27,5 +27,7 @@
 
 
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
+
+![](.gitbook/assets/1_bhfifrath9djkqmbteqg5a.gif)
 
