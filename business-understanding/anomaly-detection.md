@@ -87,7 +87,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 
 ### Isolation Forests
 
-*  [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)
+* [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)
+* [Unsupervised Fraud Detection: Isolation Forest \| Kaggle](https://www.kaggle.com/rgaddati/unsupervised-fraud-detection-isolation-forest)
 
 ### Autoencoders
 

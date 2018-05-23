@@ -82,4 +82,5 @@
 * [Best Resources](best-resources.md)
 * [Working Enviornment](working-enviornment.md)
 * [Teaching Others](teaching-others.md)
+* [Fairness](fairness.md)
 
