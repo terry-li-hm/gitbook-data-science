@@ -1,5 +1,7 @@
 # Deep Learning in General
 
+* [Zayd's Blog – Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html?mkt_tok=eyJpIjoiTkRJeE0yTmpNak5sWVdRdyIsInQiOiJVVjI1S2RvcUFPRDcxcU9tN0xYZnU3NzhCT3M1XC9CRkdDb0VKbENFV2tqeWowWFVWTUNCd29GV0IwcVNqaDFnN2ErOVVLSHI0eHlEZlhGTHN1SnpiUUI5djJHajBDeUVWMGVIakZUZ1o4MEZjeHZhc1dXZ3lXV2NKVVkxZ2l4aDMifQ)
+
 Neural nets really like standardized variables. \(per Jeremy\)
 
 Softmax likes picking one class. So it is ridiculous to use it for multi-label classification \(per Jeremy\)
