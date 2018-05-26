@@ -81,6 +81,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Outlier Detection :D \| Kaggle](https://www.kaggle.com/springrid/outlier-detection-d)
 * [Anomaly-Detection/Anomaly Detection.ipynb at master · aqibsaeed/Anomaly-Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb)
 
+## Library
+
+* [「异常检测」开源工具库推荐](https://zhuanlan.zhihu.com/p/37132428)
+
 ## Approach
 
 > Auto-encode can be trained to learn the deep or hidden features of data. These hidden features may be used on their own, such as to better understand the structure of data, or for other applications.
