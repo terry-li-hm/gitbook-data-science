@@ -176,5 +176,7 @@ Some other tools:
 
  [Google AI Blog: Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
 
+* [NervanaSystems/nlp-architect: NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](https://github.com/NervanaSystems/nlp-architect)
+
 ## 
 
