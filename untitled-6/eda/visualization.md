@@ -54,4 +54,5 @@
 * [Which Chart or Graph is best? A guide to data visualization](https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you)
 * [Gun Deaths In America \| FiveThirtyEight](https://fivethirtyeight.com/features/gun-deaths/)
 * [**Data Visualisation \| Kaggle Learn**](https://www.kaggle.com/learn/data-visualisation)
+* [How to build Animated Charts like Hans Rosling — doing it all in R](https://towardsdatascience.com/how-to-build-animated-charts-like-hans-rosling-doing-it-all-in-r-570efc6ba382)
 

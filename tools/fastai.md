@@ -16,4 +16,5 @@ Neural nets really like standardized variables. This can done by setting `do_sca
 
 
 * [FastAI Library \| Myndbook](https://myndbook.com/view/6278)
+* [ExpressForce/Nik\_genetflix.ipynb at master · SVAI/ExpressForce](https://github.com/SVAI/ExpressForce/blob/master/Nik_genetflix.ipynb)
 

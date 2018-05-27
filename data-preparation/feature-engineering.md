@@ -24,3 +24,5 @@
 
 [Three Effective Feature Selection Strategies – AI³ \| Theory, Practice, Business – Medium](https://medium.com/ai³-theory-practice-business/three-effective-feature-selection-strategies-e1f86f331fb1)
 
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+

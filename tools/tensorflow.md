@@ -13,4 +13,5 @@
 * [Monitor progress of your Keras based neural network using Tensorboard](https://fizzylogic.nl/2017/05/08/monitor-progress-of-your-keras-based-neural-network-using-tensorboard/)
 * [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
 * [A beginner introduction to TensorFlow \(Part-1\)](https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278)
+* [easy-tensorflow/easy-tensorflow: Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow)
 
