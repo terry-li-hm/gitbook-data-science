@@ -17,7 +17,9 @@
 * [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
 * [PAIR-code/facets: Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
 * [The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/)
-* [altair-viz/altair-tutorial: Notebooks for the Altair tutorial](https://github.com/altair-viz/altair-tutorial)
+* [**altair-viz/altair-tutorial: Notebooks for the Altair tutorial**](https://github.com/altair-viz/altair-tutorial)
+* [**plotly/dash: Interactive, Reactive Web Apps for Python. Dash Is Productive™**](https://github.com/plotly/dash)
+* [Styling — pandas 0.23.0 documentation](https://pandas.pydata.org/pandas-docs/stable/style.html)
 
 ### [Exploring Histograms](https://tinlizzie.org/histograms/)
 

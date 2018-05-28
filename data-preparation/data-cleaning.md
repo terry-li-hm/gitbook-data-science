@@ -1,5 +1,9 @@
 # Data Cleaning
 
+* [kennethreitz/maya: Datetimes for Humans™](https://github.com/kennethreitz/maya)
+* [vi3k6i5/flashtext: Extract Keywords from sentence or Replace keywords in sentences.](https://github.com/vi3k6i5/flashtext)
+* [facebookresearch/faiss: A library for efficient similarity search and clustering of dense vectors.](https://github.com/facebookresearch/faiss)
+
 [Best Python Data Cleaning Libraries For People Data - Junjay's Blog](http://junjaytan.com/blog/python-data-cleaning-people-contact-data/)
 
 [Handy Python Libraries for Formatting and Cleaning Data](https://blog.modeanalytics.com/python-data-cleaning-libraries/)

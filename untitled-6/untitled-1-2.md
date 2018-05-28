@@ -9,6 +9,7 @@
 * [Guide to Encoding Categorical Values in Python - Practical Business Python](http://pbpython.com/categorical-encoding.html)
 * [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
 * [Video series: Easier data analysis in Python using the pandas library](http://www.dataschool.io/easier-data-analysis-with-pandas/)
+* [WZBSocialScienceCenter/pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on \(OCR-processed\) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract)
 
 
 

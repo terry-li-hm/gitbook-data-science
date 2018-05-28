@@ -5,6 +5,7 @@
 * [Aequitas - The Bias Report](http://aequitas.dssg.io/)
 * [How \(and why\) to create a good validation set · fast.ai](http://www.fast.ai/2017/11/13/validation-sets/)
 * [How to unit test machine learning code. – Chase Roberts – Medium](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
+* [lk-geimfari/mimesis: Mimesis is a fast and easy to use library for Python, which helps generate synthetic data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
 
 
 
