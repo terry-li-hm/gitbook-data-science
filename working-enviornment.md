@@ -1,7 +1,7 @@
 # Working Enviornment
 
 * [neilpanchal/spinzero-jupyter-theme: A minimal Jupyter Notebook theme](https://github.com/neilpanchal/spinzero-jupyter-theme)
-* http://wpad/wpad.dat \(to find proxy\)
+* [http://wpad/wpad.dat](http://wpad/wpad.dat) \(to find proxy\)
 
 ```bash
 watch -n5 nvidia-smi
