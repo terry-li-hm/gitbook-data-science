@@ -52,3 +52,7 @@ When handling image classification problems, try to answer the following questio
 
 [How to Use Correlation to Understand the Relationship Between Variables](https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/)
 
+
+
+* [quantopian/qgrid: An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks](https://github.com/quantopian/qgrid)
+
