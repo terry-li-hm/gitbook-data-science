@@ -210,3 +210,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * Momentum takes past gradients into account to smooth out the steps of gradient descent. It can be applied with batch gradient descent, mini-batch gradient descent or stochastic gradient descent.
 * You have to tune a momentum hyperparameter ​$\beta​$ and a learning rate ​$\alpha​$.
 
+## Understand the algorithm
+
+* [How to build a three-layer neural network from scratch](https://medium.freecodecamp.org/building-a-3-layer-neural-network-from-scratch-99239c4af5d3)
+
