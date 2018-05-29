@@ -16,6 +16,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [Applied Deep Learning - Part 4: Convolutional Neural Networks](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 * [Dilated Convolutions and Kronecker Factored Convolutions](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 * [A Comprehensive Design Guide for Image Classification CNNs](https://hackernoon.com/a-comprehensive-design-guide-for-image-classification-cnns-46091260fb92)
+* [An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
 
 
 
