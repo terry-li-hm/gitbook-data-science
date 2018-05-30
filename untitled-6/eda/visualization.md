@@ -20,6 +20,7 @@
 * [**altair-viz/altair-tutorial: Notebooks for the Altair tutorial**](https://github.com/altair-viz/altair-tutorial)
 * [**plotly/dash: Interactive, Reactive Web Apps for Python. Dash Is Productive™**](https://github.com/plotly/dash)
 * [Styling — pandas 0.23.0 documentation](https://pandas.pydata.org/pandas-docs/stable/style.html)
+* [Yellowbrick - A set of Visualization Tools to Accelerate your Model Selection Process](https://www.analyticsvidhya.com/blog/2018/05/yellowbrick-a-set-of-visualization-tools-to-accelerate-your-model-selection-process/)
 
 ### [Exploring Histograms](https://tinlizzie.org/histograms/)
 
