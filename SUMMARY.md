@@ -15,6 +15,7 @@
   * [ML field](business-understanding/ml-field.md)
   * [Risk Score](business-understanding/risk-score.md)
 * [Data Understanding](untitled-6/README.md)
+  * [Data import](untitled-6/data-import.md)
   * [Data Processing](untitled-6/untitled-1-2.md)
   * [EDA](untitled-6/eda/README.md)
     * [Visualization](untitled-6/eda/visualization.md)
