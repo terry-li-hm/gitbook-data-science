@@ -76,30 +76,18 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [让机器像人一样交流：斯坦福李纪为博士毕业论文](https://www.jiqizhixin.com/articles/2017-11-14)
 * [Gentle Introduction to Statistical Language Modeling and Neural Language Models](https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/)
 * [Dan Jurafsky & Chris Manning: Natural Language Processing \(great intro video series\)](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
-
-
-
-[Data Science 101 \(Getting started in NLP\): Tokenization tutorial \| No Free Hunch](http://blog.kaggle.com/2017/08/25/data-science-101-getting-started-in-nlp-tokenization-tutorial/)
-
-[Vector Representations of Words  \|  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) \(highly recommneded by Jeremey\)
-
-[NLP — Building a Question Answering model – Towards Data Science](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54)
-
-[Entity extraction using Deep Learning based on Guillaume Genthial work on NER](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
-
-[Text Classification using machine learning – Nitin Panwar – Technical Lead \(Data Science\), Naukri.com](http://nitin-panwar.github.io/Text-Classification-using-machine-learning/)
-
-[Unsupervised sentence representation with deep learning](https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93)
-
-[**How to solve 90% of NLP problems: a step-by-step guide**](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) **\(11.3k clap!\)**
-
-[Building a FAQ Chatbot in Python – The Future of Information Searching](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
-
-[Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?)
-
-[Improving Airbnb Yield Prediction with Text Mining – Towards Data Science](https://towardsdatascience.com/improving-airbnb-yield-prediction-with-text-mining-9472c0181731)
-
-[Machine Learning with Text in scikit-learn \(PyCon 2016\) - YouTube](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
+* [A simple spell checker built from word vectors – Ed Rushton – Medium](https://medium.com/@erushton214/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)
+* [Data Science 101 \(Getting started in NLP\): Tokenization tutorial \| No Free Hunch](http://blog.kaggle.com/2017/08/25/data-science-101-getting-started-in-nlp-tokenization-tutorial/)
+* [Vector Representations of Words  \|  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) \(highly recommneded by Jeremey\)
+* [NLP — Building a Question Answering model – Towards Data Science](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54)
+* [Entity extraction using Deep Learning based on Guillaume Genthial work on NER](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
+* [Text Classification using machine learning – Nitin Panwar – Technical Lead \(Data Science\), Naukri.com](http://nitin-panwar.github.io/Text-Classification-using-machine-learning/)
+* [Unsupervised sentence representation with deep learning](https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93)
+* [**How to solve 90% of NLP problems: a step-by-step guide**](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) **\(11.3k clap!\)**
+* [Building a FAQ Chatbot in Python – The Future of Information Searching](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
+* [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?)
+* [Improving Airbnb Yield Prediction with Text Mining – Towards Data Science](https://towardsdatascience.com/improving-airbnb-yield-prediction-with-text-mining-9472c0181731)
+* [Machine Learning with Text in scikit-learn \(PyCon 2016\) - YouTube](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 
 ### Sentiment Analysis
 
