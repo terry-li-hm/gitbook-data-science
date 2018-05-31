@@ -7,4 +7,5 @@
 * [Scraping Reddit to find the most popular domains](https://www.find-me.co/blog/reddit_creators)
 * [gaojiuli/gain: Web crawling framework based on asyncio.](https://github.com/gaojiuli/gain)
 * [clips/pattern: Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.](https://github.com/clips/pattern)
+* [Data Interview Q's](https://www.interviewqs.com/blog/web_scrape)
 
