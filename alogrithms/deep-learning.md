@@ -94,7 +94,9 @@ If a smaller batch size is used, the gradient is calculated using less number of
 
 [Applied Deep Learning - Part 2: Real World Case Studies](https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
 
+## Understand
 
+* [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 
 ## Blackbox
 
