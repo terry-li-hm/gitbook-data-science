@@ -106,3 +106,9 @@ df_labels_test.head(2)
 
 Since our metric is log loss, resampling the data to represent the same distribution \(of 0.165\) will give us a much better score in Public LB. The ratio of the training set can be observed directly. The ratio of the test set can be calculated using the result of a [naive submission which use the ratio of the training set as the estimated probability](https://www.kaggle.io/svf/1077333/f8eecce4cf447dccad546c8ec882e0d1/__results__.html#Test-Submission) and [a bit of magic algebra](https://www.kaggle.com/davidthaler/quora-question-pairs/how-many-1-s-are-in-the-public-lb) as there is only one distribution of classes that could have produced this score. It seems from the discussion that such method is only applicable to evaluation with logloss function.
 
+## Dask
+
+* [python︱大规模数据存储与读取、并行计算：Dask库简述 - CSDN博客](https://blog.csdn.net/sinat_26917383/article/details/78044437)
+* [【干货】Dask快速搭建分布式集群（大数据0基础可以理解，并使用！） - CSDN博客](https://blog.csdn.net/a19990412/article/details/79510219)
+* [Python visualization with datashader](https://yeshuanova.github.io/blog/posts/python-visualization-datashader/)
+

@@ -15,5 +15,7 @@ lastdate = train.iloc[train.shape[0]-1].date
 
 [Python strftime reference](http://strftime.org/)
 
-[https://www.dropbox.com/s/5fsfiiumjjblw0p/Think%20Python%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf?dl=0](https://www.dropbox.com/s/5fsfiiumjjblw0p/Think%20Python%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf?dl=0)
+{% embed data="{\"url\":\"https://www.dropbox.com/s/5fsfiiumjjblw0p/Think%20Python%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf?dl=0\",\"type\":\"link\",\"title\":\"Think Python - How to Think Like a Computer Scientist.pdf\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/twitter-card-glyph\_m1@2x-vflrCAzPX.png\",\"width\":320,\"height\":320,\"aspectRatio\":1}}" %}
+
+* [2018年最受欢迎的五大机器学习工具和五大数据学习工具-琳达老师的博客-51CTO博客](http://blog.51cto.com/13722730/2114489)
 
