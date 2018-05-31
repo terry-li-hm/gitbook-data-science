@@ -28,6 +28,7 @@
   * [Artificial data synthesis](data-preparation/artificial-data-synthesis.md)
   * [Scraping](data-preparation/scraping.md)
   * [Unsupervised](data-preparation/unsupervised.md)
+  * [Unbalance](data-preparation/unbalance.md)
 * [Modeling](modeling/README.md)
   * [Which Algorithm to Try](modeling/comparing-algorithms.md)
   * [Semi-Supervised](modeling/untitled-4-1.md)
