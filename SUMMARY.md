@@ -68,6 +68,7 @@
   * [Recommender Systems](applications/recommender-systems.md)
   * [Object Detection](applications/object-detection.md)
   * [Collaborative Filtering](applications/collaborative-filtering.md)
+  * [Voice Recognition](applications/voice-recognition.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)
