@@ -111,4 +111,5 @@ Since our metric is log loss, resampling the data to represent the same distribu
 * [python︱大规模数据存储与读取、并行计算：Dask库简述 - CSDN博客](https://blog.csdn.net/sinat_26917383/article/details/78044437)
 * [【干货】Dask快速搭建分布式集群（大数据0基础可以理解，并使用！） - CSDN博客](https://blog.csdn.net/a19990412/article/details/79510219)
 * [Python visualization with datashader](https://yeshuanova.github.io/blog/posts/python-visualization-datashader/)
+* [Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba](https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138)
 
