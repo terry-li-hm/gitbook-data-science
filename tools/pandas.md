@@ -7,4 +7,5 @@
 * [NumPy and Pandas Cheat Sheets](http://datasciencefree.com/pandas.pdf)s
 * [data-science-ipython-notebooks/pandas.ipynb at master · donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb)
 * [Pandas Cheat Sheet for Data Science in Python \(article\) - DataCamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U)
+* [datas-frame – Modern Pandas \(Part 1\)](https://tomaugspurger.github.io/modern-1-intro.html)
 
