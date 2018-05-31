@@ -4,6 +4,7 @@
 
 * [Big Data Learning Path for all Engineers and Data Scientists out there](https://www.analyticsvidhya.com/blog/2017/03/big-data-learning-path-for-all-engineers-and-data-scientists-out-there/)
 * [Big Data Analysis with Apache Spark Python PySpark \| Udemy](https://www.udemy.com/machine-learning-and-bigdata-analysis-with-apache-spark-python-pyspark/)
+* [Practical Apache Spark in 10 minutes. Part 2 — RDD – Data Science School – Medium](https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-2-rdd-8e34c7663d6d)
 
 
 
