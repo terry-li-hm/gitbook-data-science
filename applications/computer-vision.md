@@ -5,6 +5,7 @@
 * [An Overview of ResNet and its Variants – Towards Data Science](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 * [覽輕量化卷積神經網絡：SqueezeNet、MobileNet、ShuffleNet、Xception \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-08-6)
 * [Google Landmark Retrieval Challenge \| Kaggle](https://www.kaggle.com/c/landmark-retrieval-challenge/discussion/57855)
+* [ML Practicum: Image Classification  \|  Machine Learning Practica  \|  Google Developers](https://developers.google.com/machine-learning/practica/image-classification/)
 
 ### Object Detection
 
