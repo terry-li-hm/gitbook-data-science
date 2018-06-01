@@ -17,4 +17,5 @@
 * [**Facebook’s Field Guide to Machine Learning video series – Facebook Research**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 * [Elements of Statistical Learning: data mining, inference, and prediction. 2nd Edition.](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 
