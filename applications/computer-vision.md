@@ -1,14 +1,10 @@
 # Computer Vision
 
-
-
-[Going deep into image classification – Towards Data Science](https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b)
-
-[GitHub新項目：輕鬆使用多種預訓練卷積網絡抽取圖像特徵 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-16-3)
-
-[An Overview of ResNet and its Variants – Towards Data Science](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
-
-[縱覽輕量化卷積神經網絡：SqueezeNet、MobileNet、ShuffleNet、Xception \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-08-6)
+* [Going deep into image classification – Towards Data Science](https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b)
+* [GitHub新項目：輕鬆使用多種預訓練卷積網絡抽取圖像特徵 \| 機器之心](https://www.jiqizhixin.com/articles/2018-04-16-3)
+* [An Overview of ResNet and its Variants – Towards Data Science](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+* [覽輕量化卷積神經網絡：SqueezeNet、MobileNet、ShuffleNet、Xception \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-08-6)
+* [Google Landmark Retrieval Challenge \| Kaggle](https://www.kaggle.com/c/landmark-retrieval-challenge/discussion/57855)
 
 ### Object Detection
 
