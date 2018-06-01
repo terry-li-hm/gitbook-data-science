@@ -116,7 +116,7 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ## Relevant Kaggle Competitions
 
