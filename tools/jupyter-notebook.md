@@ -6,4 +6,5 @@
 * [jupyter/nbdime: Tools for diffing and merging of Jupyter notebooks.](https://github.com/jupyter/nbdime)
 * [Boost Your Jupyter Notebook Productivity – Towards Data Science](https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad)
 * [Building Interactive Dashboards with Jupyter](https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/)
+* [Stop jupyter notebook wrapping cell contents in pandas html table output - Stack Overflow](https://stackoverflow.com/questions/37716442/stop-jupyter-notebook-wrapping-cell-contents-in-pandas-html-table-output/42101824#42101824)
 
