@@ -17,4 +17,5 @@ Neural nets really like standardized variables. This can done by setting `do_sca
 
 * [FastAI Library \| Myndbook](https://myndbook.com/view/6278)
 * [ExpressForce/Nik\_genetflix.ipynb at master · SVAI/ExpressForce](https://github.com/SVAI/ExpressForce/blob/master/Nik_genetflix.ipynb)
+* [Training metrics as notifications on mobile using Callbacks - Part 2 & Alumni - Deep Learning Course Forums](http://forums.fast.ai/t/training-metrics-as-notifications-on-mobile-using-callbacks/17330)
 
