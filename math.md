@@ -12,6 +12,7 @@
 * [A Gentle Introduction to the Law of Large Numbers in Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/)
 * [A Gentle Introduction to the Central Limit Theorem for Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/)
 * [Companion webpage to the book "Mathematics for Machine Learning"](https://mml-book.github.io/)
+* [Convex Optimization – Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
 
 
 

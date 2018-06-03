@@ -19,4 +19,5 @@ lastdate = train.iloc[train.shape[0]-1].date
 
 * [Top 10 Python tools for machine learning and data science - JAXenter](https://jaxenter.com/top-10-python-tools-ml-and-data-143764.html)
 * [Qix-/better-exceptions: Pretty and useful exceptions in Python, automatically.](https://github.com/Qix-/better-exceptions)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
