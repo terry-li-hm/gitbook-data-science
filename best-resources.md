@@ -18,4 +18,5 @@
 * [Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 * [Elements of Statistical Learning: data mining, inference, and prediction. 2nd Edition.](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/)
+* [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
 
