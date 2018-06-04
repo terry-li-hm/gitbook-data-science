@@ -60,4 +60,5 @@
 * [How to build Animated Charts like Hans Rosling — doing it all in R](https://towardsdatascience.com/how-to-build-animated-charts-like-hans-rosling-doing-it-all-in-r-570efc6ba382)
 * [**Python visualization with datashader**](https://yeshuanova.github.io/blog/posts/python-visualization-datashader/)
 * [**What to consider when choosing colors for data visualization**](https://blog.datawrapper.de/colors/)
+* [Category: Thoughts & How To's \| Chartable](https://blog.datawrapper.de/category/thoughts-how-to-s/)
 
