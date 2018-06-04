@@ -18,6 +18,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [A Comprehensive Design Guide for Image Classification CNNs](https://hackernoon.com/a-comprehensive-design-guide-for-image-classification-cnns-46091260fb92)
 * [An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
 * [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
+* [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
 
 
