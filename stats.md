@@ -34,4 +34,5 @@
 * [Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 * [简明条件随机场CRF介绍（附带纯Keras实现） - 科学空间\|Scientific Spaces](https://kexue.fm/archives/5542)
 * [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/)
+* [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
 
