@@ -92,6 +92,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 >
 > Two common applications of auto-encoders and unsupervised learning are to identify anomalous data \(for example, outlier detection, financial fraud\) and to pre-train more complex, often supervised, models such as deep neural networks.
 
+* [How can TensorFlow deep learning be used for anomaly detection? - Quora](https://www.quora.com/How-can-TensorFlow-deep-learning-be-used-for-anomaly-detection)
+* [Can you suggest good resources to study anomaly detection algorithms? - Quora](https://www.quora.com/Can-you-suggest-good-resources-to-study-anomaly-detection-algorithms)
+* [How do I use LSTM Networks for time-series anomaly detection? - Quora](https://www.quora.com/How-do-I-use-LSTM-Networks-for-time-series-anomaly-detection)
+
 ### Isolation Forests
 
 * [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)

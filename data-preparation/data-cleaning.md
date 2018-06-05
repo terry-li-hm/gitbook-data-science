@@ -11,6 +11,7 @@
 * [Fixing Typos \| Kaggle](https://www.kaggle.com/steubk/fixing-typos)
 * [jnmclarty/validada: Another library for defensive data analysis.](https://github.com/jnmclarty/validada)
 * [Practical Data Cleaning with Python Resources](https://blog.kjamistan.com/practical-data-cleaning-with-python-resources/)
+* [A Complete Machine Learning Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 
 ### Imputation {#2)-A-Better-Option:-Imputation}
 

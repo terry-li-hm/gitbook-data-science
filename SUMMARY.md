@@ -35,6 +35,7 @@
   * [Hyperparameter tuning](modeling/hyperparameter-tuning.md)
   * [Ensemble](modeling/ensemble.md)
   * [Model Selection](modeling/model-selection.md)
+  * [Bayesian optimization](modeling/bayesian-optimization.md)
 * [Evaluation](untitled-1-1/README.md)
   * [Metrics](untitled-1-1/evaluating-models/README.md)
     * [AUC](untitled-1-1/evaluating-models/auc.md)
