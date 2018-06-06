@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Data Science](README.md)
-* Inbox
+* [Inbox](inbox.md)
 * [DBS](dbs/README.md)
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
@@ -41,7 +41,7 @@
     * [AUC](untitled-1-1/evaluating-models/auc.md)
 * [Deployment](deployment.md)
 * [Communication](communication.md)
-* Alogrithms
+* [Alogrithms](alogrithms/README.md)
   * [Deep Learning in General](alogrithms/deep-learning.md)
   * [Deep Learning for Tabular Data](alogrithms/tabular-data.md)
   * [RNN](alogrithms/rnn.md)
@@ -55,7 +55,7 @@
   * [Tensorflow](tools/tensorflow.md)
   * [PyTorch](tools/pytorch.md)
   * [Keras](tools/untitled.md)
-  * R
+  * [R](tools/r.md)
   * [XGBoost](tools/xgboost.md)
   * [Pandas](tools/pandas.md)
   * [fastai](tools/fastai.md)
@@ -77,7 +77,7 @@
 * [Career](career.md)
 * [Opinions](opinions.md)
 * [Reinforcement Learning](reinforcement-learning.md)
-* Projects
+* [Projects](untitled-5/README.md)
   * [Rossmann](untitled-5/rossmann.md)
   * [New York City Taxi Trip Duration](untitled-5/new-york-city-taxi-trip-duration.md)
   * [Resume Projects](untitled-5/resume-projects.md)
