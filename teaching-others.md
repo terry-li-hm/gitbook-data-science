@@ -8,9 +8,9 @@
 * [But what \*is\* a Neural Network? \| Chapter 1, deep learning - YouTube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 ![](.gitbook/assets/image%20%282%29.png)
 
