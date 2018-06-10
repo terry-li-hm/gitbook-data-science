@@ -169,6 +169,8 @@ Some other tools:
 * [NervanaSystems/nlp-architect: NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](https://github.com/NervanaSystems/nlp-architect)
 * [NLTK Book](https://www.nltk.org/book/)
 * [NLP in Online Courses: an Overview – sciforce – Medium](https://medium.com/sciforce/nlp-in-online-courses-an-overview-7b60c3aec6fa)
-
+* [Home: AAN](http://tangra.cs.yale.edu/newaan/)
+* [A simple spell checker built from word vectors – Noteworthy - The Journal Blog](https://blog.usejournal.com/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)
+* 
 ## 
 
