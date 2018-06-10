@@ -91,4 +91,5 @@
 * [Teaching Others](teaching-others.md)
 * [Fairness](fairness.md)
 * [State-of-the-art](state-of-the-art.md)
+* [Automation](automation.md)
 
