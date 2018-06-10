@@ -20,6 +20,7 @@
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [深度学习目标检测模型全面综述：Faster R-CNN、R-FCN和SSD](https://www.jiqizhixin.com/articles/2017-09-18-7)
 * [Deep Learning for Object Detection: A Comprehensive Review](https://medium.com/towards-data-science/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
+* [Going beyond the bounding box with semantic segmentation](https://thegradient.pub/semantic-segmentation/)
 
 A tricked found by Jeremy to avoid overfitting is to train a network with small images for few epochs and then train it using larger images. It is only applicable to architectures that can take arbitrary image sizes and thus not applicable to VGG.
 

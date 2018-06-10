@@ -92,4 +92,5 @@
 * [Fairness](fairness.md)
 * [State-of-the-art](state-of-the-art.md)
 * [Automation](automation.md)
+* [Adversarial](adversarial.md)
 

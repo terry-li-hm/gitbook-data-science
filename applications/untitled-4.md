@@ -171,6 +171,11 @@ Some other tools:
 * [NLP in Online Courses: an Overview – sciforce – Medium](https://medium.com/sciforce/nlp-in-online-courses-an-overview-7b60c3aec6fa)
 * [Home: AAN](http://tangra.cs.yale.edu/newaan/)
 * [A simple spell checker built from word vectors – Noteworthy - The Journal Blog](https://blog.usejournal.com/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)
-* 
+* [facebookresearch/fastText: Library for fast text representation and classification.](https://github.com/facebookresearch/fastText#example-use-cases)
+* [再谈最小熵原理：“飞象过河”之句模版和语言结构 \| 附开源NLP库 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-01-10)
+* [从无监督构建词库看「最小熵原理」，套路是如何炼成的](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247488802&idx=1&sn=eb35229374ee283d5c54d58ae277b9f0&chksm=96e9caa2a19e43b4f624eac3d56532cb9dc7ca017c9e0eaf96387e20e5f985e37da833fbddfd&scene=21#wechat_redirect)
+* [gt-nlp-class/notes at master · jacobeisenstein/gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+* [干货 \| 如何从编码器和解码器两方面改进生成式句子摘要？ \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-04-13)
+
 ## 
 

@@ -7,6 +7,7 @@
 * [Deep Learning’s Next Frontier](https://hbr.org/webinar/2017/07/deep-learnings-next-frontier)
 * [But what \*is\* a Neural Network? \| Chapter 1, deep learning - YouTube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
+* [The Elements of AI - a free online course](https://www.elementsofai.com/)
 
 ![](.gitbook/assets/image%20%2838%29.png)
 

@@ -20,4 +20,5 @@
 * [Machine Learning Crash Course  \|  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 * [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)
+* [The Elements of AI - a free online course](https://www.elementsofai.com/)
 
