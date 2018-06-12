@@ -10,4 +10,5 @@
 * [introdeeprl/introduction-deep-reinforcement.pdf at master · prichemond/introdeeprl](https://github.com/prichemond/introdeeprl/blob/master/introduction-deep-reinforcement.pdf)
 * [Monte Carlo Tree Search - beginners guide - Machine learning blog Machine learning blog](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 * [Optimistic Q-Learning – Sequential Learning – Medium](https://medium.com/sequential-learning/optimistic-q-learning-b9304d079e11)
+* [World Models](https://worldmodels.github.io/)
 
