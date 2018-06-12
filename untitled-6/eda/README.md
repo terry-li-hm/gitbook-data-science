@@ -56,4 +56,5 @@ When handling image classification problems, try to answer the following questio
 
 * [quantopian/qgrid: An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks](https://github.com/quantopian/qgrid)
 * [A Complete Machine Learning Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+* [ResidentMario/missingno: Missing data visualization module for Python.](https://github.com/ResidentMario/missingno)
 
