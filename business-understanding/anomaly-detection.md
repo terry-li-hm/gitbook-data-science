@@ -68,6 +68,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Graph Analytics Over Relational Datasets with Python](https://medium.com/district-data-labs/graph-analytics-over-relational-datasets-with-python-89fb14587f07)
 * [An Introduction to Graph Theory and Network Analysis \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
 * [Social Media Mining](http://dmml.asu.edu/smm/)
+* [The Py2neo v4 Handbook — The Py2neo v4 Handbook](http://py2neo.org/v4/)
 
 
 

@@ -22,3 +22,5 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 
 
 
+
+
