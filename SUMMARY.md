@@ -93,4 +93,5 @@
 * [State-of-the-art](state-of-the-art.md)
 * [Automation](automation.md)
 * [Adversarial](adversarial.md)
+* [World Cup](world-cup.md)
 
