@@ -10,15 +10,29 @@
 
 
 
+## Code
+
+* [Another Prediction for the FIFA World Cup 2018 \| Mango Solutions](https://www.mango-solutions.com/blog/another-prediction-of-fifa-world-cup-2018)
+
 ## Approach
 
 * [Football World Cup 2018 Predictions: Germany vs Brazil in the final, and more](https://www.kdnuggets.com/2018/06/football-world-cup-predictions.html)
+* [Data Scientists built a Random Forest Model to predict the World Cup 2018 Winner](https://www.analyticsvidhya.com/blog/2018/06/data-scientists-used-a-random-forest-model-to-predict-the-world-cup-2018-winner/)
+* [How Our 2018 World Cup Predictions Work \| FiveThirtyEight](https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/)
+* [World Cup predictions, pick to win it all, from Goldman Sachs AI model - Business Insider](http://www.businessinsider.com/world-cup-predictions-pick-to-win-it-all-goldman-sachs-ai-model-2018-6)
+* [What Country Will Win the 2018 World Cup? Here Are Big Banks’ Predictions - The New York Times](https://www.nytimes.com/2018/06/12/business/dealbook/world-cup-goldman-banks.html)
 
 ## Other's predictions
 
 * [2018 Fifa World Cup Russia](http://andrewyuan.github.io/FWC2018_prediction.html)
 
+## Data
+
+* [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
+
 ## Other
 
 * [FIFA World Cup 2018: A Data-Driven Approach to Ideal Team Line-Ups](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8)
+* [2018 World Cup Predictions \| FiveThirtyEight](https://projects.fivethirtyeight.com/2018-world-cup-predictions/)
+* [World Cup 2018: Your Guide to All 32 Teams - The New York Times](https://mobile.nytimes.com/2018/06/11/sports/world-cup-groups.html?action=click&module=RelatedCoverage&pgtype=Article&region=Footer)
 
