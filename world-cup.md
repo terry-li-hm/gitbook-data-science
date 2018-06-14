@@ -36,4 +36,6 @@
 * [FIFA World Cup 2018: A Data-Driven Approach to Ideal Team Line-Ups](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8)
 * [2018 World Cup Predictions \| FiveThirtyEight](https://projects.fivethirtyeight.com/2018-world-cup-predictions/)
 * [World Cup 2018: Your Guide to All 32 Teams - The New York Times](https://mobile.nytimes.com/2018/06/11/sports/world-cup-groups.html?action=click&module=RelatedCoverage&pgtype=Article&region=Footer)
+* [A journey through the history of soccer \| Kaggle](https://www.kaggle.com/phjulien/a-journey-through-the-history-of-soccer)
+* [A closer look at the FIFA Ranking \| Kaggle](https://www.kaggle.com/jonathanbouchet/a-closer-look-at-the-fifa-ranking)
 
