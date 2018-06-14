@@ -1,18 +1,12 @@
 # World Cup
 
-* [Predicting FIFA World Cup 2018 using Machine Learning.](https://blog.goodaudience.com/predicting-fifa-world-cup-2018-using-machine-learning-dc07ad8dd576)
-* [footballpred/worldcup.ipynb \(sorinpeste\) - Microsoft Azure Notebooks](https://notebooks.azure.com/sorinpeste/libraries/footballpred/html/worldcup.ipynb)
-* [Which team will win the 2018 FIFA world cup ? ⚽ \| Kaggle](https://www.kaggle.com/nathanlauga/which-team-will-win-the-2018-fifa-world-cup/notebook)
-* [Soccer World Cup 2018 Winner \| Kaggle](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner)
-* [Predicting Football Results With Statistical Modelling - dashee87.github.io](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
-* [Machine learning predicts World Cup winner - MIT Technology Review](https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/)
-* [FIFA 18 Complete Player Dataset \| Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
-
-
-
 ## Code
 
 * [Another Prediction for the FIFA World Cup 2018 \| Mango Solutions](https://www.mango-solutions.com/blog/another-prediction-of-fifa-world-cup-2018)
+* [Predicting Football Results With Statistical Modelling - dashee87.github.io](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
+* [footballpred/worldcup.ipynb \(sorinpeste\) - Microsoft Azure Notebooks](https://notebooks.azure.com/sorinpeste/libraries/footballpred/html/worldcup.ipynb)
+* [Which team will win the 2018 FIFA world cup ? ⚽ \| Kaggle](https://www.kaggle.com/nathanlauga/which-team-will-win-the-2018-fifa-world-cup/notebook)
+* [Soccer World Cup 2018 Winner \| Kaggle](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner)
 
 ## Approach
 
@@ -21,6 +15,7 @@
 * [How Our 2018 World Cup Predictions Work \| FiveThirtyEight](https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/)
 * [World Cup predictions, pick to win it all, from Goldman Sachs AI model - Business Insider](http://www.businessinsider.com/world-cup-predictions-pick-to-win-it-all-goldman-sachs-ai-model-2018-6)
 * [What Country Will Win the 2018 World Cup? Here Are Big Banks’ Predictions - The New York Times](https://www.nytimes.com/2018/06/12/business/dealbook/world-cup-goldman-banks.html)
+* [Machine learning predicts World Cup winner - MIT Technology Review](https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/)
 
 ## Other's predictions
 
@@ -28,6 +23,7 @@
 
 ## Data
 
+* [FIFA 18 Complete Player Dataset \| Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
 * [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
 
 ## Other
