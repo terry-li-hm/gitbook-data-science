@@ -25,7 +25,10 @@
 
 ## Data
 
+* [International football results from 1872 to 2018 \| Kaggle](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017)
 * [FIFA 18 Complete Player Dataset \| Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
+* [FIFA World Cup \| Kaggle](https://www.kaggle.com/abecklas/fifa-world-cup)
+* [Fifa 18 More Complete Player Dataset \| Kaggle](https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset)
 * [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
 
 ## Other
