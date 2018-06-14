@@ -7,6 +7,7 @@
 * [footballpred/worldcup.ipynb \(sorinpeste\) - Microsoft Azure Notebooks](https://notebooks.azure.com/sorinpeste/libraries/footballpred/html/worldcup.ipynb)
 * [Which team will win the 2018 FIFA world cup ? ⚽ \| Kaggle](https://www.kaggle.com/nathanlauga/which-team-will-win-the-2018-fifa-world-cup/notebook)
 * [Soccer World Cup 2018 Winner \| Kaggle](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner)
+* [Predictions for the Fifa World Cup 2018 using R \| Kaggle](https://www.kaggle.com/lekroll/predictions-for-the-fifa-world-cup-2018-using-r)
 
 ## Approach
 
