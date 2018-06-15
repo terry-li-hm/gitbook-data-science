@@ -22,6 +22,7 @@
     * [Visualization](untitled-6/eda/visualization.md)
     * [Dimensionality Reduction](untitled-6/eda/dimensionality-reduction.md)
 * [Data Preparation](data-preparation/README.md)
+  * [Data acquisition](data-preparation/data-acquisition.md)
   * [Feature Engineering](data-preparation/feature-engineering.md)
   * [Data Cleaning](data-preparation/data-cleaning.md)
   * [Regular Expression](data-preparation/regular-expression.md)
