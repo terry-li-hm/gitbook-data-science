@@ -62,6 +62,8 @@
 
   That's quite a distance to make. There are 4 days of rest between each games and that makes me wonder, if these distances will have any influence on the teams and their performance, it could be an interesting factor.
 
+* Team-level results are the most important driver of success. Recent team performance—measured with the “Elo” rankings—accounts for about 40% of overall explanatory power.4 But even after taking team performance into account, individual players make a difference. We find that player-level characteristics—including the average player rating on the team, as well as attacking and defending abilities—add another 25% of explanatory power. Recent momentum—as measured by the ratio of wins to losses over the past ten matches—matters. Similarly, the number of goals scored in recent games and the number of goals conceded by the opponent team help gauge success in the next game.
+
 
 
 ![](.gitbook/assets/image%20%2815%29.png)
