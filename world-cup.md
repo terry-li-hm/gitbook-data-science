@@ -2,12 +2,15 @@
 
 ## Code
 
-* [Another Prediction for the FIFA World Cup 2018 \| Mango Solutions](https://www.mango-solutions.com/blog/another-prediction-of-fifa-world-cup-2018)
-* [Predicting Football Results With Statistical Modelling - dashee87.github.io](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [footballpred/worldcup.ipynb \(sorinpeste\) - Microsoft Azure Notebooks](https://notebooks.azure.com/sorinpeste/libraries/footballpred/html/worldcup.ipynb)
 * [Which team will win the 2018 FIFA world cup ? ⚽ \| Kaggle](https://www.kaggle.com/nathanlauga/which-team-will-win-the-2018-fifa-world-cup/notebook)
 * [Soccer World Cup 2018 Winner \| Kaggle](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner)
 * [Predictions for the Fifa World Cup 2018 using R \| Kaggle](https://www.kaggle.com/lekroll/predictions-for-the-fifa-world-cup-2018-using-r)
+
+### Non-ML
+
+* [Another Prediction for the FIFA World Cup 2018 \| Mango Solutions](https://www.mango-solutions.com/blog/another-prediction-of-fifa-world-cup-2018)
+* [Predicting Football Results With Statistical Modelling - dashee87.github.io](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 
 ## Approach
 
