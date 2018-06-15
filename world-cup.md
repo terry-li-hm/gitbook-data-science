@@ -40,6 +40,9 @@
 ### Need to scape
 
 * [World Football Elo Ratings](http://www.eloratings.net/)
+* [The FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com](https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html)
+* [World Cup 2018 - Participating teams \| Transfermarkt](https://www.transfermarkt.com/world-cup-2018/teilnehmer/pokalwettbewerb/WM18)
+* [Denied Access Policy](https://www.oddschecker.com/football/world-cup/winner)
 
 ## Other
 
