@@ -18,13 +18,13 @@
 * [Data Scientists built a Random Forest Model to predict the World Cup 2018 Winner](https://www.analyticsvidhya.com/blog/2018/06/data-scientists-used-a-random-forest-model-to-predict-the-world-cup-2018-winner/)
 * [How Our 2018 World Cup Predictions Work \| FiveThirtyEight](https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/)
 * [World Cup predictions, pick to win it all, from Goldman Sachs AI model - Business Insider](http://www.businessinsider.com/world-cup-predictions-pick-to-win-it-all-goldman-sachs-ai-model-2018-6)
-* [What Country Will Win the 2018 World Cup? Here Are Big Banks’ Predictions - The New York Times](https://www.nytimes.com/2018/06/12/business/dealbook/world-cup-goldman-banks.html)
 * [Machine learning predicts World Cup winner - MIT Technology Review](https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/)
 * [\[1806.01930\] On Elo based prediction models for the FIFA Worldcup 2018](https://arxiv.org/abs/1806.01930)
 
 ## Other's predictions
 
 * [2018 Fifa World Cup Russia](http://andrewyuan.github.io/FWC2018_prediction.html)
+* [What Country Will Win the 2018 World Cup? Here Are Big Banks’ Predictions - The New York Times](https://www.nytimes.com/2018/06/12/business/dealbook/world-cup-goldman-banks.html)
 
 ## Data
 
