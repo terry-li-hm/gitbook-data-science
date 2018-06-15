@@ -9,9 +9,9 @@
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 * [The Elements of AI - a free online course](https://www.elementsofai.com/)
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ![](.gitbook/assets/image%20%282%29.png)
 

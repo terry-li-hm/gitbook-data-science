@@ -3,9 +3,9 @@
 * [Introducing MLflow: an Open Source Machine Learning Platform - The Databricks Blog](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
 * [Frameworks for Approaching the Machine Learning Process](https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html)
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 

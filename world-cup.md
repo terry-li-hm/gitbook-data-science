@@ -54,3 +54,7 @@
 
   That's quite a distance to make. There are 4 days of rest between each games and that makes me wonder, if these distances will have any influence on the teams and their performance, it could be an interesting factor.
 
+
+
+![](.gitbook/assets/image%20%2815%29.png)
+
