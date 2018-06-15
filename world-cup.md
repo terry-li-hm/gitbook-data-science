@@ -35,6 +35,11 @@
 * [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
 * [Football Statistics \| Football Live Scores \| WhoScored.com](https://www.whoscored.com/)
 * [Download sports fixtures, schedules and results as CSV, XLSX and ICS \| Fixture Download](https://fixturedownload.com/)
+* [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
+
+### Need to scape
+
+* [World Football Elo Ratings](http://www.eloratings.net/)
 
 ## Other
 
