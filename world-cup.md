@@ -34,6 +34,7 @@
 * [Fifa 18 More Complete Player Dataset \| Kaggle](https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset)
 * [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
 * [Football Statistics \| Football Live Scores \| WhoScored.com](https://www.whoscored.com/)
+* [Download sports fixtures, schedules and results as CSV, XLSX and ICS \| Fixture Download](https://fixturedownload.com/)
 
 ## Other
 
