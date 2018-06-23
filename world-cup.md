@@ -36,6 +36,13 @@
 * [Football Statistics \| Football Live Scores \| WhoScored.com](https://www.whoscored.com/)
 * [Download sports fixtures, schedules and results as CSV, XLSX and ICS \| Fixture Download](https://fixturedownload.com/)
 * [data/world-cup-2018 at master · fivethirtyeight/data](https://github.com/fivethirtyeight/data/tree/master/world-cup-2018)
+* [openfootball/world-cup: Free open public domain football data for the World Cup \(incl. Russia 2018, Brazil 2014, etc.\) and World Cup Quali\(fiers\)](https://github.com/openfootball/world-cup)
+* [**estiens/world\_cup\_json: Rails backend for a scraper that outputs World Cup data as JSON**](https://github.com/estiens/world_cup_json)
+* [**mrthlinh/FIFA-World-Cup-Prediction: Predict who will win the FIFA World Cup 2018**](https://github.com/mrthlinh/FIFA-World-Cup-Prediction)
+* [ManrajGrover/football-cli: ⚽ Command line interface for Hackers who love football](https://github.com/ManrajGrover/football-cli)
+* [**openfootball/world-cup: Free open public domain football data for the World Cup \(incl. Russia 2018, Brazil 2014, etc.\) and World Cup Quali\(fiers\)**](https://github.com/openfootball/world-cup)
+* [Scraping data of Football players using Python and use that for making a little React website](https://medium.com/@rahul3103/scrapping-data-of-football-players-using-python-and-use-that-for-making-a-little-react-website-e389a3a687c0)
+* [Player Stats Database - FIFA 18 - FIFA Index](https://www.fifaindex.com/players/top/)
 
 ### Need to scape
 
