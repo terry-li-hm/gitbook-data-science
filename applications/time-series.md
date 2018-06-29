@@ -17,6 +17,8 @@
 * [My views of the World and Systems \| Is it frustrating there's so much you do not know? No it fills me with awe.](https://iwringer.wordpress.com/)
 * [Using XGBoost for time series prediction tasks](http://mlwhiz.com/blog/2017/12/26/How_to_win_a_data_science_competition/)
 * [Time Series Analysis in Python: An Introduction – Towards Data Science](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
+* [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
+* [Predicting Cryptocurrency Prices With Deep Learning](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
 
 
 

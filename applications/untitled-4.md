@@ -41,6 +41,7 @@ We will not get into the algorithms other than to say that they generally look a
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
 * [NLP: Any libraries/dictionaries out there for fixing common spelling errors? - Part 2 & Alumni - Deep Learning Course Forums](http://forums.fast.ai/t/nlp-any-libraries-dictionaries-out-there-for-fixing-common-spelling-errors/16411/43)
 * [How to easily do Topic Modeling with LSA, PSLA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
+* [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Word_embedding):
 

@@ -9,7 +9,8 @@
 
 ### Object Detection
 
-[Detectron精讀系列之一：學習率的調節和踩坑 \| 機器之心](https://www.jiqizhixin.com/articles/Detectron)
+* [Detectron精讀系列之一：學習率的調節和踩坑 \| 機器之心](https://www.jiqizhixin.com/articles/Detectron)
+* [Detecting Pikachu in videos using Tensorflow Object Detection](https://towardsdatascience.com/detecting-pikachu-in-videos-using-tensorflow-object-detection-cd872ac42c1d)
 
 [matterport/Mask\_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 

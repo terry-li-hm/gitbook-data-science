@@ -14,4 +14,5 @@
 * [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
 * [A beginner introduction to TensorFlow \(Part-1\)](https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278)
 * [easy-tensorflow/easy-tensorflow: Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow)
+* [TensorEditor ：一個小白都能快速玩轉的神經網絡搭建工具 \| 機器之心](https://www.jiqizhixin.com/articles/TensorEditor-introduction)
 
