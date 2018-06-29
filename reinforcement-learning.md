@@ -13,4 +13,6 @@
 * [World Models](https://worldmodels.github.io/)
 * [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks: A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks?mkt_tok=eyJpIjoiT1dVeVpHVTRaV1kwWkdGbSIsInQiOiI3VUdQU2dqbTNJdjJBQXp6NkhvekFqS3pRXC9BK1JjbE14cHc0VTdad3R5bzBjbmI2MER3aU5DWG9FdW1pblh3M2VJNmtxK0x2VnI3QTF0ZFpTRTAxbE80SGNLWngrVUMySWNVYVpwT1YrSmxtVGRiZ2N5cVRRQzVEZzRLOEh3ZDEifQ)
 * [AlphaGoZero · Depth First Learning](http://www.depthfirstlearning.com/2018/AlphaGoZero)
+* [deepmind/scalable\_agent: A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.](https://github.com/deepmind/scalable_agent)
+* [Solving sparse-reward tasks with Curiosity – Unity Blog](https://blogs.unity3d.com/2018/06/26/solving-sparse-reward-tasks-with-curiosity/)
 

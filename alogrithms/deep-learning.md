@@ -97,6 +97,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 ## Understand
 
 * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+* [Backpropagation demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
 ## Blackbox
 
