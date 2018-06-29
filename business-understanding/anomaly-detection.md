@@ -1,6 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ## Top Resources
 
@@ -113,7 +113,7 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 ### Social Network Analysis
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## Opinions
 
@@ -121,9 +121,9 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 [Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ## Relevant Kaggle Competitions
 
@@ -264,7 +264,7 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 > **Negative mining.** The third group of sampling methods is a bit more complex but indeed the most powerful one. Instead of over- or undersampling, we choose the samples intentionally. Although we have much more samples of the frequent class we care most about the most difficult samples, i.e. the samples which are misclassified with the highest probabilities. Thus, we can regularly evaluate the model during training and investigate the samples to identify those that are misclassified more likely. This enables us to wisely select the samples that are shown to the algorithm more often.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 
 
