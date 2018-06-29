@@ -31,7 +31,7 @@
 
 [Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 
 
@@ -61,7 +61,5 @@
 * [**Python visualization with datashader**](https://yeshuanova.github.io/blog/posts/python-visualization-datashader/)
 * [**What to consider when choosing colors for data visualization**](https://blog.datawrapper.de/colors/)
 * [Category: Thoughts & How To's \| Chartable](https://blog.datawrapper.de/category/thoughts-how-to-s/)
-* [Create beautiful test-driven data visualisations with D3.js - Heart Internet Blog - Focusing on all aspects of the web](https://www.heartinternet.uk/blog/create-beautiful-test-driven-data-visualisations-with-d3-js/)
-* [Guide to Animated Bubble Charts using Plotly \| Kaggle](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly/notebook)
-* [Interactive maps and EDA of gun violence in the US \| Kaggle](https://www.kaggle.com/erikbruin/interactive-maps-and-eda-of-gun-violence-in-the-us/notebook)
+* [kepler.gl](https://uber.github.io/kepler.gl/#/)
 

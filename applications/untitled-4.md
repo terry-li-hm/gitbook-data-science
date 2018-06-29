@@ -41,7 +41,6 @@ We will not get into the algorithms other than to say that they generally look a
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
 * [NLP: Any libraries/dictionaries out there for fixing common spelling errors? - Part 2 & Alumni - Deep Learning Course Forums](http://forums.fast.ai/t/nlp-any-libraries-dictionaries-out-there-for-fixing-common-spelling-errors/16411/43)
 * [How to easily do Topic Modeling with LSA, PSLA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
-* [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Word_embedding):
 
@@ -177,6 +176,8 @@ Some other tools:
 * [从无监督构建词库看「最小熵原理」，套路是如何炼成的](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247488802&idx=1&sn=eb35229374ee283d5c54d58ae277b9f0&chksm=96e9caa2a19e43b4f624eac3d56532cb9dc7ca017c9e0eaf96387e20e5f985e37da833fbddfd&scene=21#wechat_redirect)
 * [gt-nlp-class/notes at master · jacobeisenstein/gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 * [干货 \| 如何从编码器和解码器两方面改进生成式句子摘要？ \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-04-13)
-
-## 
+* [Deep Learning for Conversational AI](https://www.poly-ai.com/naacl18)
+* [gt-nlp-class/notes at master · jacobeisenstein/gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+* [📚The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
+* [How To Create a ChatBot With tf-seq2seq For Free! – Deep Learning as I See It](https://blog.kovalevskyi.com/how-to-create-a-chatbot-with-tf-seq2seq-for-free-e876ea99063c)
 

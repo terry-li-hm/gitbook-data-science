@@ -1,6 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ## Top Resources
 
@@ -96,6 +96,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [How can TensorFlow deep learning be used for anomaly detection? - Quora](https://www.quora.com/How-can-TensorFlow-deep-learning-be-used-for-anomaly-detection)
 * [Can you suggest good resources to study anomaly detection algorithms? - Quora](https://www.quora.com/Can-you-suggest-good-resources-to-study-anomaly-detection-algorithms)
 * [How do I use LSTM Networks for time-series anomaly detection? - Quora](https://www.quora.com/How-do-I-use-LSTM-Networks-for-time-series-anomaly-detection)
+* [\[1805.12511\] Cyberattack Detection using Deep Generative Models with Variational Inference](https://arxiv.org/abs/1805.12511)
 
 ### Isolation Forests
 
@@ -120,9 +121,9 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 [Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ## Relevant Kaggle Competitions
 
