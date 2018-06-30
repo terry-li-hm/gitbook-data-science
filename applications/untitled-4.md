@@ -185,4 +185,6 @@ Some other tools:
 * [minimaxir/textgenrnn: Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.](https://github.com/minimaxir/textgenrnn)
 * [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 * [plasticityai/magnitude: A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)
+* [sebastianruder/NLP-progress: Repository to track the progress in Natural Language Processing \(NLP\), including the datasets and the current state-of-the-art for the most common NLP tasks.](https://github.com/sebastianruder/NLP-progress)
+* [HUBOT \| Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.](https://hubot.github.com/)
 

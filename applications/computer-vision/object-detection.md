@@ -5,4 +5,5 @@
 * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [Facebook open sources DensePose – Facebook Research](https://research.fb.com/facebook-open-sources-densepose/)
+* [Object Detection with 10 lines of code – Towards Data Science](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 

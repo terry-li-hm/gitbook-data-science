@@ -30,4 +30,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Taskonomy \| Stanford](http://taskonomy.stanford.edu/)
 * [An overview of semantic image segmentation.](https://www.jeremyjordan.me/semantic-segmentation/)
 * [DIY Deep Learning Projects – Towards Data Science](https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f)
+* [Spotting Image Manipulation with AI \| Adobe Blog](https://theblog.adobe.com/spotting-image-manipulation-ai/)
 

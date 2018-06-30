@@ -5,6 +5,7 @@
 * [footballpred/worldcup.ipynb \(sorinpeste\) - Microsoft Azure Notebooks](https://notebooks.azure.com/sorinpeste/libraries/footballpred/html/worldcup.ipynb)
 * [Soccer World Cup 2018 Winner \| Kaggle](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner)
 * [Predictions for the Fifa World Cup 2018 using R \| Kaggle](https://www.kaggle.com/lekroll/predictions-for-the-fifa-world-cup-2018-using-r)
+* [Predicting FIFA World Cup 2018 using Machine Learning.](https://blog.goodaudience.com/predicting-fifa-world-cup-2018-using-machine-learning-dc07ad8dd576)
 
 ### Non-ML
 
@@ -20,11 +21,15 @@
 * [World Cup predictions, pick to win it all, from Goldman Sachs AI model - Business Insider](http://www.businessinsider.com/world-cup-predictions-pick-to-win-it-all-goldman-sachs-ai-model-2018-6)
 * [Machine learning predicts World Cup winner - MIT Technology Review](https://www.technologyreview.com/s/611397/machine-learning-predicts-world-cup-winner/)
 * [\[1806.01930\] On Elo based prediction models for the FIFA Worldcup 2018](https://arxiv.org/abs/1806.01930)
+* [World Cup 2018 predictions with Big Data: who is going to win what and when? \| TechRadar](https://www.techradar.com/news/world-cup-2018-predictions-with-big-data-who-is-going-to-win-what-and-when)
+* [Poisson Distribution betting \| How to predict soccer results using Poisson Distribution](https://www.pinnacle.com/en/betting-articles/Soccer/how-to-calculate-poisson-distribution/MD62MLXUMKMXZ6A8)
+* [How Our 2018 World Cup Predictions Work \| FiveThirtyEight](https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/)
 
 ## Other's predictions
 
 * [2018 Fifa World Cup Russia](http://andrewyuan.github.io/FWC2018_prediction.html)
 * [What Country Will Win the 2018 World Cup? Here Are Big Banks’ Predictions - The New York Times](https://www.nytimes.com/2018/06/12/business/dealbook/world-cup-goldman-banks.html)
+* [Prediction - World Cup Predictor 2018](http://wc18predictor.com/prediction/)
 
 ## Data
 
@@ -72,6 +77,7 @@
   That's quite a distance to make. There are 4 days of rest between each games and that makes me wonder, if these distances will have any influence on the teams and their performance, it could be an interesting factor.
 
 * Team-level results are the most important driver of success. Recent team performance—measured with the “Elo” rankings—accounts for about 40% of overall explanatory power.4 But even after taking team performance into account, individual players make a difference. We find that player-level characteristics—including the average player rating on the team, as well as attacking and defending abilities—add another 25% of explanatory power. Recent momentum—as measured by the ratio of wins to losses over the past ten matches—matters. Similarly, the number of goals scored in recent games and the number of goals conceded by the opponent team help gauge success in the next game.
+* average goal difference per game from every game at the last five World Cups
 
 
 
