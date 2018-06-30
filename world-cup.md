@@ -43,6 +43,7 @@
 * [**openfootball/world-cup: Free open public domain football data for the World Cup \(incl. Russia 2018, Brazil 2014, etc.\) and World Cup Quali\(fiers\)**](https://github.com/openfootball/world-cup)
 * [Scraping data of Football players using Python and use that for making a little React website](https://medium.com/@rahul3103/scrapping-data-of-football-players-using-python-and-use-that-for-making-a-little-react-website-e389a3a687c0)
 * [Player Stats Database - FIFA 18 - FIFA Index](https://www.fifaindex.com/players/top/)
+* [hugomathien/football-data-collection](https://github.com/hugomathien/football-data-collection)
 
 ### Need to scape
 
@@ -58,6 +59,7 @@
 * [World Cup 2018: Your Guide to All 32 Teams - The New York Times](https://mobile.nytimes.com/2018/06/11/sports/world-cup-groups.html?action=click&module=RelatedCoverage&pgtype=Article&region=Footer)
 * [A journey through the history of soccer \| Kaggle](https://www.kaggle.com/phjulien/a-journey-through-the-history-of-soccer)
 * [A closer look at the FIFA Ranking \| Kaggle](https://www.kaggle.com/jonathanbouchet/a-closer-look-at-the-fifa-ranking)
+* [Predicting the World Cup Is Like Trying to Beat the Market](https://www8.gsb.columbia.edu/articles/ideas-work/predicting-world-cup-trying-beat-market)
 
 ## Features
 

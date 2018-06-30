@@ -6,6 +6,7 @@
   * [1st Engagement](dbs/1st-engagement.md)
   * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
+* [Framing](framing.md)
 * [Process](the-machine-learning-process.md)
 * [Business Understanding](business-understanding/README.md)
   * [Problem definition](business-understanding/analysing-problem.md)
