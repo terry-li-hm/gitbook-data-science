@@ -92,9 +92,9 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 
 ### Sentiment Analysis
 
-[Perform sentiment analysis with LSTMs, using TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
-
-[Data Science 101: Sentiment Analysis in R Tutorial \| No Free Hunch](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
+* [Perform sentiment analysis with LSTMs, using TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
+* [Data Science 101: Sentiment Analysis in R Tutorial \| No Free Hunch](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
+* [Sentiment Analysis through LSTMs – Towards Data Science](https://towardsdatascience.com/sentiment-analysis-through-lstms-3d6f9506805c)
 
 ### Text Classification
 

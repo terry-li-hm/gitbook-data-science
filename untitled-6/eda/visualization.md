@@ -62,4 +62,5 @@
 * [**What to consider when choosing colors for data visualization**](https://blog.datawrapper.de/colors/)
 * [Category: Thoughts & How To's \| Chartable](https://blog.datawrapper.de/category/thoughts-how-to-s/)
 * [kepler.gl](https://uber.github.io/kepler.gl/#/)
+* [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/)
 

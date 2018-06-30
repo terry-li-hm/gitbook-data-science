@@ -15,4 +15,6 @@
 * [A beginner introduction to TensorFlow \(Part-1\)](https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278)
 * [easy-tensorflow/easy-tensorflow: Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow)
 * [TensorEditor ：一個小白都能快速玩轉的神經網絡搭建工具 \| 機器之心](https://www.jiqizhixin.com/articles/TensorEditor-introduction)
+* [madalinabuzau/tensorflow-eager-tutorials: Simple tutorials for building neural networks with TensorFlow Eager.](https://github.com/madalinabuzau/tensorflow-eager-tutorials)
+* [Tensorflow: The Confusing Parts \(1\) \| Buckman's Homepage](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
 

@@ -36,6 +36,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [What you need to do deep learning](http://www.fast.ai/2017/11/16/what-you-need/)
 * [Deep Learning for Developers: Tools You Can Use to Code Neural Networks on Day 1](https://medium.freecodecamp.org/deep-learning-for-developers-tools-you-can-use-to-code-neural-networks-on-day-1-34c4435ae6b)
 * [Deep Learning Glossary – WildML](http://www.wildml.com/deep-learning-glossary/)
+* [Deep Learning Tips and Tricks – Towards Data Science](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
 
 
 

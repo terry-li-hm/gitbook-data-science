@@ -15,4 +15,5 @@
 * [AlphaGoZero · Depth First Learning](http://www.depthfirstlearning.com/2018/AlphaGoZero)
 * [deepmind/scalable\_agent: A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.](https://github.com/deepmind/scalable_agent)
 * [Solving sparse-reward tasks with Curiosity – Unity Blog](https://blogs.unity3d.com/2018/06/26/solving-sparse-reward-tasks-with-curiosity/)
+* [Building a Deep Neural Network to play FIFA 18 – Towards Data Science](https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675)
 

@@ -27,3 +27,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 
 If a smaller batch size is used, the gradient is calculated using less number of images so it is less accurate as it is more volatile. You can try to re-run the learning rate finder to see if the best learning rate changed but it shouldn't make a huge difference as the learning rate differ exponentially. \(per Jeremy\)
 
+* [Taskonomy \| Stanford](http://taskonomy.stanford.edu/)
+* [An overview of semantic image segmentation.](https://www.jeremyjordan.me/semantic-segmentation/)
+* [DIY Deep Learning Projects – Towards Data Science](https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f)
+
