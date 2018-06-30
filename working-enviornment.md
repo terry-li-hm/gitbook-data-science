@@ -3,6 +3,7 @@
 * [neilpanchal/spinzero-jupyter-theme: A minimal Jupyter Notebook theme](https://github.com/neilpanchal/spinzero-jupyter-theme)
 * [http://wpad/wpad.dat](http://wpad/wpad.dat) \(to find proxy\)
 * [agermanidis/livepython: Visually trace Python code in real-time.](https://github.com/agermanidis/livepython)
+* [Home - Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 ```bash
 watch -n5 nvidia-smi

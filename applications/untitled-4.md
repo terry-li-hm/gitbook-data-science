@@ -182,4 +182,7 @@ Some other tools:
 * [How To Create a ChatBot With tf-seq2seq For Free! – Deep Learning as I See It](https://blog.kovalevskyi.com/how-to-create-a-chatbot-with-tf-seq2seq-for-free-e876ea99063c)
 * [ryanjgallagher.github.io/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf at master · ryanjgallagher/ryanjgallagher.github.io](https://github.com/ryanjgallagher/ryanjgallagher.github.io/blob/master/files/slides/2018-SICSS-InfoTheoryTextAnalysis-Gallagher.pdf)
 * [nmt\_with\_attention.ipynb - Colaboratory](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
+* [minimaxir/textgenrnn: Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.](https://github.com/minimaxir/textgenrnn)
+* [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
+* [plasticityai/magnitude: A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)
 
