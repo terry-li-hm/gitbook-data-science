@@ -9,6 +9,7 @@
 * [Random Forest in Python – Towards Data Science](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 * [Improving the Random Forest in Python Part 1 – Towards Data Science](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 * [Hyperparameter Tuning the Random Forest in Python – Towards Data Science](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+* [Explaining model's predictions \| Kaggle](https://www.kaggle.com/alijs1/explaining-model-s-predictions/notebook)
 
 A random forest is a bunch of independent decision trees each contributing a “vote” to an prediction. E.g. if there are 50 trees, and 32 say “rainy” and 18 say “sunny”, then the score for “rainy” is 32/50, or 64,% and the score for a “sunny” is 18/50, or 36%. Since 64% &gt; 36%, the forest has voted that they think it will rain.  
   
