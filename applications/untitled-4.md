@@ -187,4 +187,5 @@ Some other tools:
 * [plasticityai/magnitude: A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)
 * [sebastianruder/NLP-progress: Repository to track the progress in Natural Language Processing \(NLP\), including the datasets and the current state-of-the-art for the most common NLP tasks.](https://github.com/sebastianruder/NLP-progress)
 * [HUBOT \| Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.](https://hubot.github.com/)
+* [lanwuwei/SPM\_toolkit: Neural network toolkit for sentence pair modeling.](https://github.com/lanwuwei/SPM_toolkit)
 
