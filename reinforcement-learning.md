@@ -20,4 +20,5 @@
 * [比TD、MC、MCTS指数级快，性能超越A3C、DDQN等模型，这篇RL算法论文在Reddit上火了 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-22-3)
 * [Google AI Blog: Teaching Uncalibrated Robots to Visually Self-Adapt](https://ai.googleblog.com/2018/06/teaching-uncalibrated-robots-to_22.html)
 * [OpenAI Five](https://blog.openai.com/openai-five/)
+* [ctallec/world-models: Reimplementation of World-Models \(Ha and Schmidhuber 2018\) in pytorch](https://github.com/ctallec/world-models)
 

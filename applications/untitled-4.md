@@ -190,4 +190,5 @@ Some other tools:
 * [lanwuwei/SPM\_toolkit: Neural network toolkit for sentence pair modeling.](https://github.com/lanwuwei/SPM_toolkit)
 * [Holy NLP! Understanding Part of Speech Tags, Dependency Parsing, and Named Entity Recognition • Peter Baumgartner](https://pmbaumgartner.github.io/blog/holy-nlp/)
 * [bfelbo/DeepMoji: State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.](https://github.com/bfelbo/DeepMoji)
+* [腾讯AI Lab副主任俞栋：语音识别领域的现状与进展 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-30-13)
 
