@@ -60,4 +60,5 @@ When handling image classification problems, try to answer the following questio
 * [Are lego sets too pricey ? \| Kaggle](https://www.kaggle.com/jonathanbouchet/are-lego-sets-too-pricey)
 * [Interactive maps and EDA of gun violence in the US \| Kaggle](https://www.kaggle.com/erikbruin/interactive-maps-and-eda-of-gun-violence-in-the-us/notebook)
 * [Insightful & Vast USA Statistics EDA & EFA \| Kaggle](https://www.kaggle.com/alexgeiger/insightful-vast-usa-statistics-eda-efa/notebook)
+* [DIVE \| Turn Data into Stories Without Writing Code](https://dive.media.mit.edu/)
 
