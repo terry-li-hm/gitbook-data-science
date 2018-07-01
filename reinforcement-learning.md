@@ -17,4 +17,7 @@
 * [Solving sparse-reward tasks with Curiosity – Unity Blog](https://blogs.unity3d.com/2018/06/26/solving-sparse-reward-tasks-with-curiosity/)
 * [Building a Deep Neural Network to play FIFA 18 – Towards Data Science](https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675)
 * [Neural scene representation and rendering \| DeepMind](https://deepmind.com/blog/neural-scene-representation-and-rendering/)
+* [比TD、MC、MCTS指数级快，性能超越A3C、DDQN等模型，这篇RL算法论文在Reddit上火了 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-22-3)
+* [Google AI Blog: Teaching Uncalibrated Robots to Visually Self-Adapt](https://ai.googleblog.com/2018/06/teaching-uncalibrated-robots-to_22.html)
+* [OpenAI Five](https://blog.openai.com/openai-five/)
 

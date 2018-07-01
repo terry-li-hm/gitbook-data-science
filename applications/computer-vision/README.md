@@ -31,4 +31,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [An overview of semantic image segmentation.](https://www.jeremyjordan.me/semantic-segmentation/)
 * [DIY Deep Learning Projects – Towards Data Science](https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f)
 * [Spotting Image Manipulation with AI \| Adobe Blog](https://theblog.adobe.com/spotting-image-manipulation-ai/)
+* [How to build a custom face recognition dataset - PyImageSearch](https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/)
+* [如何妙笔勾檀妆：像素级语义理解](https://zhuanlan.zhihu.com/p/34607294)
+* [CVPR 2018 Best Paper Taskonomy 作者解读](https://zhuanlan.zhihu.com/p/38425434)
 

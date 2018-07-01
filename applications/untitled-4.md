@@ -188,4 +188,6 @@ Some other tools:
 * [sebastianruder/NLP-progress: Repository to track the progress in Natural Language Processing \(NLP\), including the datasets and the current state-of-the-art for the most common NLP tasks.](https://github.com/sebastianruder/NLP-progress)
 * [HUBOT \| Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.](https://hubot.github.com/)
 * [lanwuwei/SPM\_toolkit: Neural network toolkit for sentence pair modeling.](https://github.com/lanwuwei/SPM_toolkit)
+* [Holy NLP! Understanding Part of Speech Tags, Dependency Parsing, and Named Entity Recognition • Peter Baumgartner](https://pmbaumgartner.github.io/blog/holy-nlp/)
+* [bfelbo/DeepMoji: State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.](https://github.com/bfelbo/DeepMoji)
 
