@@ -37,11 +37,6 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Deep Learning for Developers: Tools You Can Use to Code Neural Networks on Day 1](https://medium.freecodecamp.org/deep-learning-for-developers-tools-you-can-use-to-code-neural-networks-on-day-1-34c4435ae6b)
 * [Deep Learning Glossary – WildML](http://www.wildml.com/deep-learning-glossary/)
 * [Deep Learning Tips and Tricks – Towards Data Science](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
-
-
-
-
-
 * [无需数学背景，读懂 ResNet、Inception 和 Xception 三大变革性架构](https://www.jiqizhixin.com/articles/2017-08-19-4)
 * [Introduction to neural network by a16z](http://aiplaybook.a16z.com/docs/guides/dl-architectures)
 * [Welch Labs introduction to neural networks](https://www.youtube.com/watch?v=bxe2T-V8XRs), a handful of 4-5 minute, well done videos per a16z
@@ -58,10 +53,9 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 * [Everything you need to know about Neural Networks](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
 * [Neural Networks for Machine Learning by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
-
-[Epoch vs Batch Size vs Iterations – Towards Data Science](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
-
-[My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
+* [Setting the learning rate of your neural network.](https://www.jeremyjordan.me/nn-learning-rate/)
+* [Epoch vs Batch Size vs Iterations – Towards Data Science](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
+* [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
 
 
 
