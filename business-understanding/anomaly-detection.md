@@ -97,6 +97,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Can you suggest good resources to study anomaly detection algorithms? - Quora](https://www.quora.com/Can-you-suggest-good-resources-to-study-anomaly-detection-algorithms)
 * [How do I use LSTM Networks for time-series anomaly detection? - Quora](https://www.quora.com/How-do-I-use-LSTM-Networks-for-time-series-anomaly-detection)
 * [\[1805.12511\] Cyberattack Detection using Deep Generative Models with Variational Inference](https://arxiv.org/abs/1805.12511)
+* [Learning from imbalanced data.](https://www.jeremyjordan.me/imbalanced-data/)
 
 ### Isolation Forests
 
