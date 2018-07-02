@@ -34,4 +34,6 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [How to build a custom face recognition dataset - PyImageSearch](https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/)
 * [如何妙笔勾檀妆：像素级语义理解](https://zhuanlan.zhihu.com/p/34607294)
 * [CVPR 2018 Best Paper Taskonomy 作者解读](https://zhuanlan.zhihu.com/p/38425434)
+* [Measuring size of objects in an image with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
+* [攜程李翔：深度學習在酒店圖像智能化上的一系列應用 \| 雷鋒網](https://www.leiphone.com/news/201806/wQMFVsUdkuo9zF1m.html)
 

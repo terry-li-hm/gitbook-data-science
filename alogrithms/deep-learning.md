@@ -134,9 +134,9 @@ Softmax likes picking one class. So it is ridiculous to use it for multi-label c
 
 Batch Normalization helps your network learn faster by “smoothing” the values at various stages in the stack. Exactly why this works is seemingly not well-understood yet, but it has the effect of helping your network converge much faster, meaning it achieves higher accuracy with less training, or higher accuracy after the same amount of training, often dramatically so.
 
+## Training
 
-
-
+* [Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 
 ## Gradient Descent
 
