@@ -64,4 +64,12 @@
 * [kepler.gl](https://uber.github.io/kepler.gl/#/)
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/)
 * [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+* [Moving the title into the chart \| Chartable](https://blog.datawrapper.de/weekly33/)
+* [How to read a log scale: What Mike Bostock means \| Chartable](https://blog.datawrapper.de/weeklychart-logscale3/)
+* [How to read a log scale: The chart that can’t start at zero \| Chartable](https://blog.datawrapper.de/weeklychart-logscale2/)
+* [How to read a log scale: Growth rate \| Chartable](https://blog.datawrapper.de/weeklychart-logscale/)
+* [Best of the visualisation web... March 2018 - Visualising Data](http://www.visualisingdata.com/2018/06/best-visualisation-web-march-2018/)
+* [Best of the visualisation web... April 2018 - Visualising Data](http://www.visualisingdata.com/2018/06/best-visualisation-web-april-2018/)
+* [Talk slides from Sage webinar - Visualising Data](http://www.visualisingdata.com/2018/06/talk-slides-sage-webinar/)
+* [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 

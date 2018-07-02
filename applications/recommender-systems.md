@@ -6,4 +6,5 @@
 * [NicolasHug/Surprise: A Python scikit for building and analyzing recommender systems](https://github.com/NicolasHug/Surprise)
 * [actionml/universal-recommender: Highly configurable recommender based on PredictionIO and Mahout's Correlated Cross-Occurrence algorithm](https://github.com/actionml/universal-recommender)
 * [\[1806.01973\] Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
+* [Comprehensive Guide to build Recommendation Engine from scratch](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 

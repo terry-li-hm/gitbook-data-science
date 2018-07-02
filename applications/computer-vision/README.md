@@ -39,4 +39,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [facebookresearch/video-nonlocal-net: Non-local Neural Networks for Video Classification](https://github.com/facebookresearch/video-nonlocal-net)
 * [vipstone/faceai: 一款入門級的人臉、視頻、文字檢測以及識別的項目.](https://github.com/vipstone/faceai)
 * [圖像分類比賽中，你可以用如下方案舉一反三 \| 雷鋒網](https://www.leiphone.com/news/201806/tOdey3hbTo0dQIJ5.html)
+* [Unsupervised Deep Learning Algorithms for Computer Vision](https://www.analyticsvidhya.com/blog/2018/06/unsupervised-deep-learning-computer-vision/)
 

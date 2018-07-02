@@ -201,4 +201,7 @@ Some other tools:
 * [cemoody/lda2vec](https://github.com/cemoody/lda2vec)
 * [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
 * [🚀 100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)
+* [How to easily do Topic Modeling with LSA, PSLA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
+* [Deep-learning-free Text and Sentence Embedding, Part 2 – Off the convex path](http://www.offconvex.org/2018/06/25/textembeddings/)
+* [Deep-learning-free Text and Sentence Embedding, Part 1 – Off the convex path](http://www.offconvex.org/2018/06/17/textembeddings/)
 

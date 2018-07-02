@@ -24,4 +24,7 @@
 * [openai/retro at develop](https://github.com/openai/retro/tree/develop)
 * [\[1805.07470\] Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470)
 * [Reinforcement Learning from scratch – Insight Data](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
+* [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks: A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
+* [Practical Use Cases for Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/8u6wo4/d_what_are_practical_use_cases_for_reinforcement/)
+* [higgsfield/RL-Adventure-2: PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay](https://github.com/higgsfield/RL-Adventure-2)
 

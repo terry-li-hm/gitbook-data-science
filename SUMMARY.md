@@ -100,4 +100,5 @@
 * [World Cup](world-cup.md)
 * [Data](data.md)
 * [Transfer Learning](transfer-learning.md)
+* [Issue](issue.md)
 
