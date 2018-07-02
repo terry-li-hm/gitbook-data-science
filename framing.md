@@ -9,4 +9,5 @@
 * [如何从数据挖掘比赛中脱颖而出？快来get阿里妈妈广告算法赛亚军套路吧！ \| 雷锋网](https://www.leiphone.com/news/201806/GdVhajX7Lchr24WF.html)
 * [\[1806.04510\] Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
 * [Clinical natural language processing for predicting hospital readmission](https://blog.insightdatascience.com/introduction-to-clinical-natural-language-processing-c563b773053f)
+* [akanimax/T2F: T2F: text to face generation using Deep Learning](https://github.com/akanimax/T2F)
 
