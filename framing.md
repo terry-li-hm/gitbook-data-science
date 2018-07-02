@@ -7,4 +7,5 @@
 * [ACM BCB 2018 CausalTriad: 从医学文本数据中推断出新的因果关系假设 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-28-4)
 * [neubig/naacl18tutorial: NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection](https://github.com/neubig/naacl18tutorial)
 * [如何从数据挖掘比赛中脱颖而出？快来get阿里妈妈广告算法赛亚军套路吧！ \| 雷锋网](https://www.leiphone.com/news/201806/GdVhajX7Lchr24WF.html)
+* [\[1806.04510\] Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
 

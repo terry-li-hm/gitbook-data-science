@@ -21,4 +21,5 @@ lastdate = train.iloc[train.shape[0]-1].date
 * [Qix-/better-exceptions: Pretty and useful exceptions in Python, automatically.](https://github.com/Qix-/better-exceptions)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Python Sets and Set Theory \(article\) - DataCamp](https://www.datacamp.com/community/tutorials/sets-in-python)
+* [Python 3's f-Strings: An Improved String Formatting Syntax \(Guide\) – Real Python](https://realpython.com/python-f-strings/)
 

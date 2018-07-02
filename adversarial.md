@@ -13,4 +13,5 @@
 * [Characterizing the Limits and Defenses of Machine Learning in Adversarial Settings](https://etda.libraries.psu.edu/catalog/15065ngp5056)
 * [\[1602.02697\] Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
 * [\[1806.04169\] Defense Against the Dark Arts: An overview of adversarial example security research and future research directions](https://arxiv.org/abs/1806.04169)
+* [Cats to crazy quilts: Using style transfer to generate adversarial examples](https://hackernoon.com/cats-to-crazy-quilts-using-style-transfer-to-generate-adversarial-examples-b88eef073d04)
 

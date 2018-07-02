@@ -11,4 +11,8 @@
 * [Comprehensive Guide to Generative Adversarial Networks and Wasserstein GANs](https://medium.com/ai-journal/comprehensive-guide-to-generative-adversarial-networks-and-wasserstein-gans-f12405281393)
 * [深度神经网络生成模型：从 GAN VAE 到 CVAE-GAN](https://zhuanlan.zhihu.com/p/27966420)
 * [pfnet-research/sngan\_projection: GANs with spectral normalization and projection discriminator](https://github.com/pfnet-research/sngan_projection)
+* [taki0112/StarGAN-Tensorflow: Simple Tensorflow implementation of StarGAN \(CVPR 2018 Oral\)](https://github.com/taki0112/StarGAN-Tensorflow)
+* [GAN: A Beginner’s Guide to Generative Adversarial Networks - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/generative-adversarial-network#)
+
+
 

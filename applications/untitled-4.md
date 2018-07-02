@@ -95,6 +95,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Perform sentiment analysis with LSTMs, using TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
 * [Data Science 101: Sentiment Analysis in R Tutorial \| No Free Hunch](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
 * [Sentiment Analysis through LSTMs – Towards Data Science](https://towardsdatascience.com/sentiment-analysis-through-lstms-3d6f9506805c)
+* [A Beginner’s Guide on Sentiment Analysis with RNN – Towards Data Science](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
 
 ### Text Classification
 
@@ -191,4 +192,7 @@ Some other tools:
 * [Holy NLP! Understanding Part of Speech Tags, Dependency Parsing, and Named Entity Recognition • Peter Baumgartner](https://pmbaumgartner.github.io/blog/holy-nlp/)
 * [bfelbo/DeepMoji: State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.](https://github.com/bfelbo/DeepMoji)
 * [腾讯AI Lab副主任俞栋：语音识别领域的现状与进展 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-30-13)
+* [Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing](https://towardsdatascience.com/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
+* [NervanaSystems/nlp-architect: NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](https://github.com/NervanaSystems/nlp-architect)
+* [IBM Unveils System That ‘Debates’ With Humans - The New York Times](https://www.nytimes.com/2018/06/18/technology/ibm-debater-artificial-intelligence.html)
 

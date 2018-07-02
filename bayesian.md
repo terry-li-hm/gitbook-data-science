@@ -22,4 +22,5 @@
 * [uber/pyro: Deep universal probabilistic programming with Python and PyTorch](https://github.com/uber/pyro)
 * [Financial forecasting with probabilistic programming and Pyro](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba)
 * [Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)
+* [Python Markov Chains Beginner Tutorial \(article\) - DataCamp](https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial)
 

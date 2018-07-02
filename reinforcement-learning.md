@@ -21,4 +21,6 @@
 * [Google AI Blog: Teaching Uncalibrated Robots to Visually Self-Adapt](https://ai.googleblog.com/2018/06/teaching-uncalibrated-robots-to_22.html)
 * [OpenAI Five](https://blog.openai.com/openai-five/)
 * [ctallec/world-models: Reimplementation of World-Models \(Ha and Schmidhuber 2018\) in pytorch](https://github.com/ctallec/world-models)
+* [openai/retro at develop](https://github.com/openai/retro/tree/develop)
+* [\[1805.07470\] Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470)
 

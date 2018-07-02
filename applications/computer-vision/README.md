@@ -36,4 +36,6 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [CVPR 2018 Best Paper Taskonomy 作者解读](https://zhuanlan.zhihu.com/p/38425434)
 * [Measuring size of objects in an image with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
 * [攜程李翔：深度學習在酒店圖像智能化上的一系列應用 \| 雷鋒網](https://www.leiphone.com/news/201806/wQMFVsUdkuo9zF1m.html)
+* [facebookresearch/video-nonlocal-net: Non-local Neural Networks for Video Classification](https://github.com/facebookresearch/video-nonlocal-net)
+* [vipstone/faceai: 一款入門級的人臉、視頻、文字檢測以及識別的項目.](https://github.com/vipstone/faceai)
 
