@@ -6,4 +6,6 @@
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [Facebook open sources DensePose – Facebook Research](https://research.fb.com/facebook-open-sources-densepose/)
 * [Object Detection with 10 lines of code – Towards Data Science](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
+* [Is Google Tensorflow Object Detection API the easiest way to implement image recognition?](https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0)
+* [Building a Toy Detector with Tensorflow Object Detection API](https://towardsdatascience.com/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)
 

@@ -195,4 +195,8 @@ Some other tools:
 * [Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing](https://towardsdatascience.com/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
 * [NervanaSystems/nlp-architect: NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](https://github.com/NervanaSystems/nlp-architect)
 * [IBM Unveils System That ‘Debates’ With Humans - The New York Times](https://www.nytimes.com/2018/06/18/technology/ibm-debater-artificial-intelligence.html)
+* [Kyubyong/nlp\_tasks: Natural Language Processing Tasks and References](https://github.com/Kyubyong/nlp_tasks)
+* [nateraw/Lda2vec-Tensorflow: Tensorflow 1.5 implementation of Chris Moody's Lda2vec, adapted from @meereeum](https://github.com/nateraw/Lda2vec-Tensorflow)
+* [LDA2vec: Word Embeddings in Topic Models \(article\) - DataCamp](https://www.datacamp.com/community/tutorials/lda2vec-topic-model)
+* [cemoody/lda2vec](https://github.com/cemoody/lda2vec)
 

@@ -51,3 +51,5 @@ Great summary of the key differences between machine learning and statistical mo
 
 > We had 15 human curators blast through hundreds of thousands of photos. They focused first on performing pairwise ranking of photos: given two photos from a property, choose the one that would most motivate you to learn more about the property. They also labeled photos as having a human in them or not, as photos focused on people tend to be less useful than photos focused on the property.
 
+* [Defining Business Metrics for Startups \| Statsbot Blog](https://statsbot.co/blog/business-metrics-for-startups/)
+
