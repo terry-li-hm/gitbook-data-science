@@ -5,4 +5,5 @@
 * [Loc2Vec: Learning location embeddings with triplet-loss networks \| Sentiance](http://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
 * [美图个性化推荐的实践与探索 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-27-10)
 * [ACM BCB 2018 CausalTriad: 从医学文本数据中推断出新的因果关系假设 \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-28-4)
+* [neubig/naacl18tutorial: NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection](https://github.com/neubig/naacl18tutorial)
 
