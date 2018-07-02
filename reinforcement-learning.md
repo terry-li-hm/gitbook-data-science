@@ -23,4 +23,5 @@
 * [ctallec/world-models: Reimplementation of World-Models \(Ha and Schmidhuber 2018\) in pytorch](https://github.com/ctallec/world-models)
 * [openai/retro at develop](https://github.com/openai/retro/tree/develop)
 * [\[1805.07470\] Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470)
+* [Reinforcement Learning from scratch – Insight Data](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
 

@@ -8,4 +8,5 @@
 * [Object Detection with 10 lines of code – Towards Data Science](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 * [Is Google Tensorflow Object Detection API the easiest way to implement image recognition?](https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0)
 * [Building a Toy Detector with Tensorflow Object Detection API](https://towardsdatascience.com/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)
+* [How to easily do Object Detection on Drone Imagery using Deep learning](https://medium.com/nanonets/how-we-flew-a-drone-to-monitor-construction-projects-in-africa-using-deep-learning-b792f5c9c471)
 

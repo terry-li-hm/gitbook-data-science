@@ -42,7 +42,7 @@ Naive Bayes: extremely fast relative to other classification algorithms
 
  [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
-
+* [Choosing the Right Machine Learning Algorithm – Hacker Noon](https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f)
 
 
 
