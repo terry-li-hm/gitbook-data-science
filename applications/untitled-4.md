@@ -199,4 +199,6 @@ Some other tools:
 * [nateraw/Lda2vec-Tensorflow: Tensorflow 1.5 implementation of Chris Moody's Lda2vec, adapted from @meereeum](https://github.com/nateraw/Lda2vec-Tensorflow)
 * [LDA2vec: Word Embeddings in Topic Models \(article\) - DataCamp](https://www.datacamp.com/community/tutorials/lda2vec-topic-model)
 * [cemoody/lda2vec](https://github.com/cemoody/lda2vec)
+* [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
+* [🚀 100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)
 
