@@ -10,4 +10,6 @@
 * [\[1806.04510\] Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
 * [Clinical natural language processing for predicting hospital readmission](https://blog.insightdatascience.com/introduction-to-clinical-natural-language-processing-c563b773053f)
 * [akanimax/T2F: T2F: text to face generation using Deep Learning](https://github.com/akanimax/T2F)
+* [Using Machine Learning To Simulate World Cup Matches](https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731)
+* [Formula 1 will use AWS and Machine Learning to Build Race Strategies and Design Cars](https://www.analyticsvidhya.com/blog/2018/07/formula-1-aws-machine-learning-build-race-strategies-design-cars/)
 
