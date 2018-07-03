@@ -60,6 +60,12 @@ If a smaller batch size is used, the gradient is calculated using less number of
 
 
 
+## Best Practices
+
+{% embed data="{\"url\":\"https://mobile.twitter.com/math\_rachel/status/1013249330583498752\",\"type\":\"rich\",\"title\":\"Rachel Thomas on Twitter\",\"description\":\"These are important points! The fastai library handles 2, 3, & 4 for you, and we teach 1 as a key technique in the course: https://t.co/y1OKto7666— Rachel Thomas \(@math\_rachel\) July 1, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">These are important points! The fastai library handles 2, 3, &amp; 4 for you, and we teach 1 as a key technique in the course: <a href=\\\"https://t.co/y1OKto7666\\\">https://t.co/y1OKto7666</a></p>&mdash; Rachel Thomas \(@math\_rachel\) <a href=\\\"https://twitter.com/math\_rachel/status/1013249330583498752?ref\_src=twsrc%5Etfw\\\">July 1, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
+
+
+
 #### What to do with overfitting per fast.ai
 
 1. Add more data
