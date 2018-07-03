@@ -27,4 +27,5 @@
 * [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks: A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
 * [Practical Use Cases for Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/8u6wo4/d_what_are_practical_use_cases_for_reinforcement/)
 * [higgsfield/RL-Adventure-2: PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay](https://github.com/higgsfield/RL-Adventure-2)
+* [MarI/O - Machine Learning for Video Games - YouTube](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 
