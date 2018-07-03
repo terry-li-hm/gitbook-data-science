@@ -20,6 +20,8 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 * [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+* [An Interactive Node-Link Visualization of Convolutional Neural Networks](http://www.cs.cmu.edu/~aharley/vis/)
+* [Understanding Convolutional Neural Networks for NLP – WildML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
 
 
