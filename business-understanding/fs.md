@@ -37,4 +37,5 @@
 无法很好的用AI来定义一个金融问题现阶段比较被商业化广泛应用的机器学习还是监督学习，而监督学习要求有明确的问题定义。现在看起来很有希望的强化学习，迁移学习等还并不能大规模普及应用。以简单的监督学习为例，如果你想建立一个模型来预测企业并购是否会影响公司股价，那么你需要提供大量并购数据，以及并购后股价是否发生了变动。理想情况下，在收集足够多的并购消息和股价变动信息后，做自然语言分析后提取特征放到机器学习模型里面就大功告成了。然而在实际情况中：我们无法给出明确的问题定义和边界。如果想用AI来来制定一个股票交易策略，那么需要考虑进去多少因素？仅仅只考虑并购消息就够了么？越多的相关的因素越可以提高模型的拟合性和准确性。如宏观政策和微观的具体情况都会影响到股价的波动，漏掉其中哪一个都会造成一定的影响，往往是多多益善。在这种情况下，每个问题都需要大量人和数据来支撑，这也是为什么大量用AI来预测股票走势的探索都无疾而终的原因。现阶段或者可预见的未来，在很多问题上不会出现这种明确的定义和范围。
 
 * [Top 7 Data Science Use Cases in Finance \| ActiveWizards: data science and engineering lab](https://activewizards.com/blog/top-7-data-science-use-cases-in-finance/)
+* [Automated Machine Learning Drives Banking Innovation \| DataRobot](https://github.com/terry-li-hm/docs/raw/master/DataRobot_banking_overview_10.12.17_compressed_updated_layout.pdf)
 
