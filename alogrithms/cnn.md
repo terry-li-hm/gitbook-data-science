@@ -22,6 +22,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 * [An Interactive Node-Link Visualization of Convolutional Neural Networks](http://www.cs.cmu.edu/~aharley/vis/)
 * [Understanding Convolutional Neural Networks for NLP – WildML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Deep Visualization Toolbox - YouTube](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
 
 
