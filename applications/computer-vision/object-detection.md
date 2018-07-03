@@ -11,4 +11,5 @@
 * [How to easily do Object Detection on Drone Imagery using Deep learning](https://medium.com/nanonets/how-we-flew-a-drone-to-monitor-construction-projects-in-africa-using-deep-learning-b792f5c9c471)
 * [Playing Card Detection with YOLOv3](https://old.reddit.com/r/MachineLearning/comments/8p9car/p_playing_card_detection_with_yolov3_trained_on/)
 * [Understanding and Building an Object Detection Model from Scratch in Python](https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/)
+* [ageitgey/face\_recognition: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 
