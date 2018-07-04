@@ -13,4 +13,5 @@
 * [Using Machine Learning To Simulate World Cup Matches](https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731)
 * [Formula 1 will use AWS and Machine Learning to Build Race Strategies and Design Cars](https://www.analyticsvidhya.com/blog/2018/07/formula-1-aws-machine-learning-build-race-strategies-design-cars/)
 * [Training Algorithms to Prevent Death Spirals in Hospitals - Bloomberg](https://www.bloomberg.com/news/articles/2018-06-22/training-algorithms-to-prevent-death-spirals-in-hospitals?cmpid=)
+* [Google AI Blog: Deep Learning for Electronic Health Records](https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html)
 
