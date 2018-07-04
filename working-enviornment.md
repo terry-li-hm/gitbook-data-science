@@ -4,6 +4,7 @@
 * [http://wpad/wpad.dat](http://wpad/wpad.dat) \(to find proxy\)
 * [agermanidis/livepython: Visually trace Python code in real-time.](https://github.com/agermanidis/livepython)
 * [Home - Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+* [如何与深度学习服务器优雅的交互？（长期更新）](https://zhuanlan.zhihu.com/p/32496193)
 
 ```bash
 watch -n5 nvidia-smi

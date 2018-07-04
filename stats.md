@@ -35,4 +35,5 @@
 * [简明条件随机场CRF介绍（附带纯Keras实现） - 科学空间\|Scientific Spaces](https://kexue.fm/archives/5542)
 * [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/)
 * [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+* [Don’t waste your time on statistics – Cassie Kozyrkov – Medium](https://medium.com/@kozyrkov/whats-the-point-of-statistics-8163635da56c)
 
