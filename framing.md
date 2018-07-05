@@ -17,4 +17,5 @@
 * [This AI matchmaker could mine Twitter to find you a date](https://www.fastcompany.com/40588459/a-tweet-scanning-ai-could-be-responsible-for-your-next-date?mkt_tok=eyJpIjoiT1dRNFpqSXpaR0UyTWpkaSIsInQiOiJkQXdJSnJkZ3U2b1B4TFwvTnY2Y3VrQ0hMVjJHVE1kY0lyanJMVlF2ZEwrVHRGajVGZzBrdVdFTk1oclY3c0tZZkZUbUZRQmhld1ZnNGQ1Yld2YUZma1YwNzVmc01KTjhOMVRUN2p1YVIxbDN6MWZcL0ZDck1DNENzRTNqUGFxWXZvIn0)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](http://eng.uber.com/h3/)
 * [IIT Roorkee Researchers are using Computer Vision to Monitor and Improve Railway Tracks](https://www.analyticsvidhya.com/blog/2018/07/iit-roorkee-researchers-using-computer-vision-monitor-railway-tracks/)
+* [How to use Machine Learning and Quilt to Identify Buildings in Satellite Images](https://blog.insightdatascience.com/how-to-use-machine-learning-and-quilt-to-identify-buildings-in-satellite-images-aee4e08ab0f3)
 
