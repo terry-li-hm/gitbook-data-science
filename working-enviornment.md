@@ -6,6 +6,7 @@
 * [Home - Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 * [如何与深度学习服务器优雅的交互？（长期更新）](https://zhuanlan.zhihu.com/p/32496193)
 * [Useful snippets for Google Colaboratory. Free GPU included.](https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de)
+* [Automating Windows Applications Using COM - Practical Business Python](http://pbpython.com/windows-com.html)
 
 ```bash
 watch -n5 nvidia-smi

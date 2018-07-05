@@ -99,6 +99,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [\[1805.12511\] Cyberattack Detection using Deep Generative Models with Variational Inference](https://arxiv.org/abs/1805.12511)
 * [Learning from imbalanced data.](https://www.jeremyjordan.me/imbalanced-data/)
 * [How It Works - Simility](https://simility.com/technology/how-it-works/)
+* [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
 
 ### Isolation Forests
 
