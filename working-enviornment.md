@@ -5,6 +5,7 @@
 * [agermanidis/livepython: Visually trace Python code in real-time.](https://github.com/agermanidis/livepython)
 * [Home - Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 * [如何与深度学习服务器优雅的交互？（长期更新）](https://zhuanlan.zhihu.com/p/32496193)
+* [Useful snippets for Google Colaboratory. Free GPU included.](https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de)
 
 ```bash
 watch -n5 nvidia-smi

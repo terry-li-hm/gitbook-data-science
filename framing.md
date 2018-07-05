@@ -14,4 +14,5 @@
 * [Formula 1 will use AWS and Machine Learning to Build Race Strategies and Design Cars](https://www.analyticsvidhya.com/blog/2018/07/formula-1-aws-machine-learning-build-race-strategies-design-cars/)
 * [Training Algorithms to Prevent Death Spirals in Hospitals - Bloomberg](https://www.bloomberg.com/news/articles/2018-06-22/training-algorithms-to-prevent-death-spirals-in-hospitals?cmpid=)
 * [Google AI Blog: Deep Learning for Electronic Health Records](https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html)
+* [This AI matchmaker could mine Twitter to find you a date](https://www.fastcompany.com/40588459/a-tweet-scanning-ai-could-be-responsible-for-your-next-date?mkt_tok=eyJpIjoiT1dRNFpqSXpaR0UyTWpkaSIsInQiOiJkQXdJSnJkZ3U2b1B4TFwvTnY2Y3VrQ0hMVjJHVE1kY0lyanJMVlF2ZEwrVHRGajVGZzBrdVdFTk1oclY3c0tZZkZUbUZRQmhld1ZnNGQ1Yld2YUZma1YwNzVmc01KTjhOMVRUN2p1YVIxbDN6MWZcL0ZDck1DNENzRTNqUGFxWXZvIn0)
 

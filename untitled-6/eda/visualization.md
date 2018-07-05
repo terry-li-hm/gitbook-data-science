@@ -72,4 +72,5 @@
 * [Best of the visualisation web... April 2018 - Visualising Data](http://www.visualisingdata.com/2018/06/best-visualisation-web-april-2018/)
 * [Talk slides from Sage webinar - Visualising Data](http://www.visualisingdata.com/2018/06/talk-slides-sage-webinar/)
 * [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+* [Useful snippets for Google Colaboratory. Free GPU included.](https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de)
 
