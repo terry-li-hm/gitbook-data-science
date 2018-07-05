@@ -147,6 +147,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * [Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 * [李飞飞高徒Andrej Karpathy提醒你，小心搭建神经网络的六个坑 \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-03-19)
 * [AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai](http://www.fast.ai/2018/07/02/adam-weight-decay/)
+* [How Driverless AI Prevents Overfitting and Leakage - H2O.ai Blog](https://blog.h2o.ai/2018/03/driverless-ai-prevents-overfitting-leakage/)
 
 ## Gradient Descent
 

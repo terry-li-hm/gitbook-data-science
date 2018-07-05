@@ -29,4 +29,6 @@
 * [higgsfield/RL-Adventure-2: PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay](https://github.com/higgsfield/RL-Adventure-2)
 * [MarI/O - Machine Learning for Video Games - YouTube](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 * [Capture the Flag: the emergence of complex cooperative agents \| DeepMind](https://deepmind.com/blog/capture-the-flag/)
+* [Learning Montezuma's Revenge from a Single Demonstration](https://blog.openai.com/learning-montezumas-revenge-from-a-single-demonstration/)
+* [ntaylorwss/pavlov: A modular, composable approach to reinforcement learning with a Keras backend and a functional data pipeline.](https://github.com/ntaylorwss/pavlov)
 
