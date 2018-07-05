@@ -4,4 +4,5 @@
 * [Software 2.0 – Andrej Karpathy – Medium](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Humans Need Not Apply - YouTube](https://www.youtube.com/watch?v=7Pq-S557XQU)
 * [State of AI](https://www.stateof.ai/)
+* [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape – Matt Turck](http://mattturck.com/bigdata2018/)
 
