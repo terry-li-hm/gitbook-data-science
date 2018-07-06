@@ -9,3 +9,7 @@
 * [tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.](https://github.com/tensorflow/lucid)
 * [TeamHG-Memex/eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions](https://github.com/TeamHG-Memex/eli5)
 
+##  Fairness
+
+* [Fairness in Machine Learning with PyTorch](https://blog.godatadriven.com/fairness-in-pytorch)
+
