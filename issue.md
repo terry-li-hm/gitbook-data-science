@@ -20,4 +20,5 @@
 * [The Trouble with Bias - NIPS 2017 Keynote - Kate Crawford \#NIPS2017 - YouTube](https://www.youtube.com/watch?v=fMym_BKWQzk)
 * [Debugging data: Microsoft researchers look at ways to train AI systems to reflect the real world - The AI Blog](https://blogs.microsoft.com/ai/debugging-data-microsoft-researchers-look-ways-train-ai-systems-reflect-real-world/)
 * [What does it really mean for an algorithm to be biased?](https://thegradient.pub/ai-bias/)
+* [Delayed Impact of Fair Machine Learning – The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 

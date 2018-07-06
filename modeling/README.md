@@ -32,4 +32,5 @@ When you are happy with your model, treat also the validation set as part of the
 
 * [Regularization in Machine Learning – Towards Data Science](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
 * [Top 6 errors novice machine learning engineers make](https://medium.com/ai³-theory-practice-business/top-6-errors-novice-machine-learning-engineers-make-e82273d394db)
+* [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
 

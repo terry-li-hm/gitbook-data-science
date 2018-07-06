@@ -13,6 +13,7 @@
 * [A Gentle Introduction to the Central Limit Theorem for Machine Learning](https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/)
 * [Companion webpage to the book "Mathematics for Machine Learning"](https://mml-book.github.io/)
 * [Convex Optimization – Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
+* [The matrix calculus you need for deep learning](http://explained.ai/matrix-calculus/index.html)
 
 
 
