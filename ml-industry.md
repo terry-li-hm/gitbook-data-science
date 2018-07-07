@@ -6,4 +6,5 @@
 * [State of AI](https://www.stateof.ai/)
 * [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape – Matt Turck](http://mattturck.com/bigdata2018/)
 * [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
+* [Ways to think about machine learning — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
 

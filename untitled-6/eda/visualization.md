@@ -73,4 +73,5 @@
 * [Talk slides from Sage webinar - Visualising Data](http://www.visualisingdata.com/2018/06/talk-slides-sage-webinar/)
 * [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 * [Useful snippets for Google Colaboratory. Free GPU included.](https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de)
+* [Trump, in his own words – Towards Data Science](https://towardsdatascience.com/trump-in-his-own-words-62af05ad76d4)
 

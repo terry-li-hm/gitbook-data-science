@@ -205,4 +205,7 @@ Some other tools:
 * [Deep-learning-free Text and Sentence Embedding, Part 2 – Off the convex path](http://www.offconvex.org/2018/06/25/textembeddings/)
 * [Answering English questions using knowledge graphs and sequence translation](https://medium.com/octavian-ai/answering-english-questions-using-knowledge-graphs-and-sequence-translation-2acbaa35a21d)
 * [Ahmed BESBES - Data Science Portfolio – Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)f
+* [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
+* [LDA2vec: Word Embeddings in Topic Models – Towards Data Science](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
+* [Multi-Class Text Classification with Scikit-Learn – Towards Data Science](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 

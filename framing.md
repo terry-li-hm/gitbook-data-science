@@ -20,4 +20,6 @@
 * [How to use Machine Learning and Quilt to Identify Buildings in Satellite Images](https://blog.insightdatascience.com/how-to-use-machine-learning-and-quilt-to-identify-buildings-in-satellite-images-aee4e08ab0f3)
 * [Deep Learning and Language Processing at Airbnb - Avneesh Saluja, PhD l ODSC West 2017 - YouTube](https://www.youtube.com/watch?v=kX4CiA94bmQ)
 * [Understanding Latent Style \| Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
+* [Who’s Tweeting from the Oval Office? – Towards Data Science](https://towardsdatascience.com/whos-tweeting-from-the-oval-office-96ea5b60c03)
+* [Embedding Machine Learning Models to Web Apps \(Part-1\)](https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428)
 
