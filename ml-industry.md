@@ -8,4 +8,6 @@
 * [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 * [Ways to think about machine learning — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
 * [World-leading expert Demis Hassabis to advise new Government Office for Artificial Intelligence - GOV.UK](https://www.gov.uk/government/news/world-leading-expert-demis-hassabis-to-advise-new-government-office-for-artificial-intelligence?__s=mnqizqqfa1zqmafmd1zr)
+* [AI Nationalism — Ian Hogarth](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism)
+* [Why We Need to Fine-Tune Our Definition of Artificial Intelligence](https://singularityhub.com/2018/06/20/why-we-need-to-fine-tune-our-definition-of-artificial-intelligence/)
 

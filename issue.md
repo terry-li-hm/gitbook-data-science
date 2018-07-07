@@ -7,6 +7,7 @@
 * [Managing risk in machine learning models - O'Reilly Media](https://www.oreilly.com/ideas/managing-risk-in-machine-learning-models)
 * [We need to build machine learning tools to augment machine learning engineers - O'Reilly Media](https://www.oreilly.com/ideas/we-need-to-build-machine-learning-tools-to-augment-machine-learning-engineers)
 * [Scientific debt – Variance Explained](http://varianceexplained.org/r/scientific-debt/)
+* [Data Ethics Framework - GOV.UK](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework)
 
 ## Interpretability
 
