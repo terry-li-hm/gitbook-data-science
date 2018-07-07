@@ -26,4 +26,9 @@
 * [Are we close to having machines solve TopCoder problems?](https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324)
 * [How LinkedIn uses Artificial Intelligence to keep NSFW content out \| FactorDaily](https://factordaily.com/linkedin-artificial-intelligence-content-relevance/)
 * [PixelPlayer - Identify and Extract Musical Instrument Sounds from Videos with MIT's AI](https://www.analyticsvidhya.com/blog/2018/07/pixelplayer-mit-open-source-ai-identifies-separates-instrument-sounds-video/)
+* [Predicting a Hearthstone opponent’s deck using machine learning](https://elie.net/blog/hearthstone/predicting-hearthstone-opponent-deck-using-machine-learning)
+* [How to handle mistakes while using AI to block attacks](https://elie.net/blog/ai/how-to-handle-mistakes-while-using-ai-to-block-attacks)
+* [Why AI is the key to robust anti-abuse defenses](https://elie.net/blog/ai/harnessing-ai-to-combat-fraud-and-abuse-ai-is-the-key-to-robust-defenses)
+
+
 

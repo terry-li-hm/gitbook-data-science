@@ -33,4 +33,5 @@
 * [ntaylorwss/pavlov: A modular, composable approach to reinforcement learning with a Keras backend and a functional data pipeline.](https://github.com/ntaylorwss/pavlov)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/?__s=mnqizqqfa1zqmafmd1zr)
+* [Train a Reinforcement Learning agent to play custom levels of Sonic the Hedgehog with Transfer Learning \| Felix Yu](https://flyyufelix.github.io/2018/06/11/sonic-rl.html)
 

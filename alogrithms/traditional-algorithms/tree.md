@@ -30,6 +30,8 @@ If a small change in the prediction for a case causes a large drop in error, the
 If a small change in the prediction for a case causes no change in error, then next target outcome of the case is zero. Changing this prediction does not decrease the error.  
 The name gradient boosting arises because target outcomes for each case are set based on the gradient of the error with respect to the prediction. Each new model takes a step in the direction that minimizes prediction error, in the space of possible predictions for each training case.
 
+[How to explain gradient boosting](http://explained.ai/gradient-boosting/index.html)
+
 
 
 ## Ensembles and boosting
