@@ -58,6 +58,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
 * [quark0/darts: Differentiable architecture search for convolutional and recurrent networks](https://github.com/quark0/darts)
 * [An Interactive Node-Link Visualization of Convolutional Neural Networks](http://www.cs.cmu.edu/~aharley/vis/)
+* [Practical Advice for Building Deep Neural Networks – Perception, Control, Cognition](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/?__s=mnqizqqfa1zqmafmd1zr)
 
 
 

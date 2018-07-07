@@ -13,6 +13,7 @@
 * [tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.](https://github.com/tensorflow/lucid)
 * [TeamHG-Memex/eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions](https://github.com/TeamHG-Memex/eli5)
 * [Human Interpretable Machine Learning \(Part 1\) — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+* [Testing machine learning interpretability techniques - O'Reilly Media](https://www.oreilly.com/ideas/testing-machine-learning-interpretability-techniques)
 
 ##  Fairness
 

@@ -102,6 +102,6 @@
 * [Data](data.md)
 * [Transfer Learning](transfer-learning.md)
 * [Issue](issue.md)
-* [ML Industry](ml-industry.md)
+* [State of AI](ml-industry.md)
 * [Enterprise](enterprise.md)
 

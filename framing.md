@@ -22,4 +22,7 @@
 * [Understanding Latent Style \| Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
 * [Who’s Tweeting from the Oval Office? – Towards Data Science](https://towardsdatascience.com/whos-tweeting-from-the-oval-office-96ea5b60c03)
 * [Embedding Machine Learning Models to Web Apps \(Part-1\)](https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428)
+* [Algorithm matches human cardiologists in detecting heart attacks - MIT Technology Review](https://www.technologyreview.com/s/611541/algorithm-matches-human-cardiologists-in-detecting-heart-attacks/)
+* [Are we close to having machines solve TopCoder problems?](https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324)
+* [How LinkedIn uses Artificial Intelligence to keep NSFW content out \| FactorDaily](https://factordaily.com/linkedin-artificial-intelligence-content-relevance/)
 

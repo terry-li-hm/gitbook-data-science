@@ -1,4 +1,4 @@
-# ML Industry
+# State of AI
 
 * [Building the Software 2.0 Stack by Andrej Karpathy from Tesla](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
 * [Software 2.0 – Andrej Karpathy – Medium](https://medium.com/@karpathy/software-2-0-a64152b37c35)
@@ -7,4 +7,5 @@
 * [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape – Matt Turck](http://mattturck.com/bigdata2018/)
 * [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 * [Ways to think about machine learning — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
+* [World-leading expert Demis Hassabis to advise new Government Office for Artificial Intelligence - GOV.UK](https://www.gov.uk/government/news/world-leading-expert-demis-hassabis-to-advise-new-government-office-for-artificial-intelligence?__s=mnqizqqfa1zqmafmd1zr)
 
