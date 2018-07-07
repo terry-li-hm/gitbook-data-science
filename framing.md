@@ -25,4 +25,5 @@
 * [Algorithm matches human cardiologists in detecting heart attacks - MIT Technology Review](https://www.technologyreview.com/s/611541/algorithm-matches-human-cardiologists-in-detecting-heart-attacks/)
 * [Are we close to having machines solve TopCoder problems?](https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324)
 * [How LinkedIn uses Artificial Intelligence to keep NSFW content out \| FactorDaily](https://factordaily.com/linkedin-artificial-intelligence-content-relevance/)
+* [PixelPlayer - Identify and Extract Musical Instrument Sounds from Videos with MIT's AI](https://www.analyticsvidhya.com/blog/2018/07/pixelplayer-mit-open-source-ai-identifies-separates-instrument-sounds-video/)
 
