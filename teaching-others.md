@@ -9,6 +9,7 @@
 * [But what \*is\* a Neural Network? \| Chapter 1, deep learning - YouTube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 * [The Elements of AI - a free online course](https://www.elementsofai.com/)
+* [First Python Notebook — First Python Notebook 1.0 documentation](http://www.firstpythonnotebook.org/)
 
 ![](.gitbook/assets/image%20%2842%29.png)
 

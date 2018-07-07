@@ -29,6 +29,7 @@
 * [Predicting a Hearthstone opponent’s deck using machine learning](https://elie.net/blog/hearthstone/predicting-hearthstone-opponent-deck-using-machine-learning)
 * [How to handle mistakes while using AI to block attacks](https://elie.net/blog/ai/how-to-handle-mistakes-while-using-ai-to-block-attacks)
 * [Why AI is the key to robust anti-abuse defenses](https://elie.net/blog/ai/harnessing-ai-to-combat-fraud-and-abuse-ai-is-the-key-to-robust-defenses)
+* [Suicide prevention: how scientists are using artificial intelligence to help people at risk - Vox](https://www.vox.com/science-and-health/2018/6/8/17441452/suicide-prevention-anthony-bourdain-crisis-text-line-data-science)
 
 
 

@@ -28,4 +28,5 @@
 * [What does it really mean for an algorithm to be biased?](https://thegradient.pub/ai-bias/)
 * [Delayed Impact of Fair Machine Learning – The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 * [natural language processing blog: Many opportunities for discrimination in deploying machine learning systems](https://nlpers.blogspot.com/2018/06/many-opportunities-for-discimination-in.html)
+* [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
 
