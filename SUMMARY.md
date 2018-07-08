@@ -54,6 +54,7 @@
     * [Tree](alogrithms/traditional-algorithms/tree.md)
   * [Seq2seq](alogrithms/seq2seq.md)
   * [VAE](alogrithms/vae.md)
+  * [Graph](alogrithms/graph.md)
 * [Tools](tools/README.md)
   * [Python](tools/python.md)
   * [Tensorflow](tools/tensorflow.md)

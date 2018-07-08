@@ -59,6 +59,8 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [quark0/darts: Differentiable architecture search for convolutional and recurrent networks](https://github.com/quark0/darts)
 * [An Interactive Node-Link Visualization of Convolutional Neural Networks](http://www.cs.cmu.edu/~aharley/vis/)
 * [Practical Advice for Building Deep Neural Networks – Perception, Control, Cognition](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/?__s=mnqizqqfa1zqmafmd1zr)
+* [The unreasonable effectiveness of Deep Learning Representations](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
+* [《超智能体》文章阅读顺序](https://zhuanlan.zhihu.com/p/27857399)
 
 
 

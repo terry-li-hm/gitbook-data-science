@@ -41,4 +41,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [圖像分類比賽中，你可以用如下方案舉一反三 \| 雷鋒網](https://www.leiphone.com/news/201806/tOdey3hbTo0dQIJ5.html)
 * [Unsupervised Deep Learning Algorithms for Computer Vision](https://www.analyticsvidhya.com/blog/2018/06/unsupervised-deep-learning-computer-vision/)
 * [How I built a Self Flying Drone to track People in under 50 lines of code](https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-under-50-lines-of-code-7485de7f828e)
+* [What Image Classifiers Can Do About Unknown Objects « Pete Warden's blog](https://petewarden.com/2018/07/06/what-image-classifiers-can-do-about-unknown-objects/)
 
