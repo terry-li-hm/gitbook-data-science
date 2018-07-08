@@ -21,4 +21,5 @@
 * [Open Machine Learning Course. Topic 6. Feature Engineering and Feature Selection](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a)
 * [A Complete Machine Learning Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [Automated Feature Engineering in Python – Towards Data Science](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+* [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
 

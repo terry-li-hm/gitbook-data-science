@@ -9,7 +9,7 @@
 * [Class Central • \#1 Search Engine for Free Online Courses & MOOCs](https://www.class-central.com/)
 * [bfortuner/ml-cheatsheet: Machine learning cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
 * [Python Data Science Handbook \| Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Practice Learning and the Brain \| Brilliant](https://brilliant.org/courses/artificial-neural-networks/learning-and-the-brain/)
+* [Practice Learning and the Brain \| Brilliant](https://brilliant.org/courses/artificial-neural-networks/learning-and-the-brain/) \(one of the recommended materials in Facebook’s onsite interview prep guide\)
 * [Introduction to Machine Learning \| Machine Learning Crash Course \| Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)

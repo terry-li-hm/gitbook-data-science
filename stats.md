@@ -37,4 +37,5 @@
 * [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
 * [Don’t waste your time on statistics – Cassie Kozyrkov – Medium](https://medium.com/@kozyrkov/whats-the-point-of-statistics-8163635da56c)
 * [Solve the ‘unsolvable’ with Monte Carlo methods – freeCodeCamp](https://medium.freecodecamp.org/solve-the-unsolvable-with-monte-carlo-methods-294de03c80cd)
+* [Statistics and Probability \| Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 

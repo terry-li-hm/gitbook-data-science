@@ -96,6 +96,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Data Science 101: Sentiment Analysis in R Tutorial \| No Free Hunch](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
 * [Sentiment Analysis through LSTMs – Towards Data Science](https://towardsdatascience.com/sentiment-analysis-through-lstms-3d6f9506805c)
 * [A Beginner’s Guide on Sentiment Analysis with RNN – Towards Data Science](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
+* [Twitter Sentiment Analysis using combined LSTM-CNN Models – B-sides](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 
 ### Text Classification
 
@@ -209,4 +210,7 @@ Some other tools:
 * [LDA2vec: Word Embeddings in Topic Models – Towards Data Science](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
 * [Multi-Class Text Classification with Scikit-Learn – Towards Data Science](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 * [Rasa: Open source conversational AI](https://rasa.com/)
+* [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
+* [Keras LSTM tutorial - How to easily build a powerful deep learning language model - Adventures in Machine Learning](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
+* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
