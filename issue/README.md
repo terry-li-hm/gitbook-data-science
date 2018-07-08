@@ -20,6 +20,7 @@
 * [Testing machine learning interpretability techniques - O'Reilly Media](https://www.oreilly.com/ideas/testing-machine-learning-interpretability-techniques)
 * [**lopusz/awesome-interpretable-machine-learning**](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [可微编程：打开深度学习的黑盒子](https://zhuanlan.zhihu.com/p/37863641)
+* ["Why Should I Trust You?": Explaining the... & related info \| Mendeley](https://www.mendeley.com/research-papers/i-trust-explaining-predictions-classifier/)
 
 ##  Fairness
 

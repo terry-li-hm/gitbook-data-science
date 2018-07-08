@@ -16,6 +16,7 @@
 * [\[1806.07755\] An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755)
 * [Introduction to Generative Adversarial Networks \(GANs\)](https://heartbeat.fritz.ai/introduction-to-generative-adversarial-networks-gans-35ef44f21193)
 * [Relativistic GAN – Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/RelativisticGAN/)
+* [Eye in the Sky? This Open-Source Model Creates Impressive Ground-Level Images using Satellite Data](https://www.analyticsvidhya.com/blog/2018/07/ai-creates-ground-view-based-on-aerial-pictures/)
 
 
 
