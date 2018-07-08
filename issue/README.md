@@ -19,6 +19,7 @@
 * [Human Interpretable Machine Learning \(Part 1\) — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
 * [Testing machine learning interpretability techniques - O'Reilly Media](https://www.oreilly.com/ideas/testing-machine-learning-interpretability-techniques)
 * [**lopusz/awesome-interpretable-machine-learning**](https://github.com/lopusz/awesome-interpretable-machine-learning)
+* [可微编程：打开深度学习的黑盒子](https://zhuanlan.zhihu.com/p/37863641)
 
 ##  Fairness
 

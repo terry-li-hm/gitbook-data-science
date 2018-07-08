@@ -35,4 +35,5 @@
 * [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/?__s=mnqizqqfa1zqmafmd1zr)
 * [Train a Reinforcement Learning agent to play custom levels of Sonic the Hedgehog with Transfer Learning \| Felix Yu](https://flyyufelix.github.io/2018/06/11/sonic-rl.html)
 * [Metacar: A reinforcement learning environment for self-driving cars in the browser.](https://www.metacar-project.com/)
+* [Reinforcement Learning - Monte Carlo Methods · Ray](https://oneraynyday.github.io/ml/2018/05/24/Reinforcement-Learning-Monte-Carlo/)
 
