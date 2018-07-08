@@ -208,5 +208,5 @@ Some other tools:
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 * [LDA2vec: Word Embeddings in Topic Models – Towards Data Science](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
 * [Multi-Class Text Classification with Scikit-Learn – Towards Data Science](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
-* [huggingface/pytorch-openai-transformer-lm: A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI](https://github.com/huggingface/pytorch-openai-transformer-lm)
+* [Rasa: Open source conversational AI](https://rasa.com/)
 
