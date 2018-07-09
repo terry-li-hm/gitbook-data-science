@@ -31,6 +31,7 @@
 * [Why AI is the key to robust anti-abuse defenses](https://elie.net/blog/ai/harnessing-ai-to-combat-fraud-and-abuse-ai-is-the-key-to-robust-defenses)
 * [Suicide prevention: how scientists are using artificial intelligence to help people at risk - Vox](https://www.vox.com/science-and-health/2018/6/8/17441452/suicide-prevention-anthony-bourdain-crisis-text-line-data-science)
 * [Answering English questions using knowledge graphs and sequence translation](https://medium.com/octavian-ai/answering-english-questions-using-knowledge-graphs-and-sequence-translation-2acbaa35a21d?mkt_tok=eyJpIjoiT0dSbU1qWTBNekprTVRBeCIsInQiOiJuVzE5WTdXQUJmcjBJbnN6RTROc2RJNTc3bVF2RkdnZ05KMmxpaDY2eUI0YUphblFVZGpneEIzUEZxZnVnYVFhNTdCRDBmeEJQeFFrakdFTGFrRThuQmpyQldmU3JOR1dqNUNiMlhGXC9JYmpnMTI3OVZxYmFncUpac2lnRndneFQifQ)
+* [Face clustering with Python - PyImageSearch](https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/)
 
 
 
