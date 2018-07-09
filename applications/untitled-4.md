@@ -215,4 +215,5 @@ Some other tools:
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [Transfer Learning for Text using Deep Learning Virtual Machine \(DLVM\) \| Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/04/25/transfer-learning-for-text-using-deep-learning-virtual-machine-dlvm/)
 * [Ahmed BESBES - Data Science Portfolio – Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
+* [**NLP's ImageNet moment has arrived**](https://thegradient.pub/nlp-imagenet/)
 
