@@ -11,4 +11,5 @@
 * [AI Nationalism — Ian Hogarth](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism)
 * [Why We Need to Fine-Tune Our Definition of Artificial Intelligence](https://singularityhub.com/2018/06/20/why-we-need-to-fine-tune-our-definition-of-artificial-intelligence/)
 * [An Overview of National AI Strategies – Politics + AI – Medium](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd)
+* [Why Stereo Systems Won’t Turn into the Death Star - CTech](https://www.calcalistech.com/ctech/articles/0,7340,L-3740813,00.html)
 

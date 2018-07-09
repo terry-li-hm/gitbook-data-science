@@ -14,6 +14,7 @@
 * [Formula 1 will use AWS and Machine Learning to Build Race Strategies and Design Cars](https://www.analyticsvidhya.com/blog/2018/07/formula-1-aws-machine-learning-build-race-strategies-design-cars/)
 * [Training Algorithms to Prevent Death Spirals in Hospitals - Bloomberg](https://www.bloomberg.com/news/articles/2018-06-22/training-algorithms-to-prevent-death-spirals-in-hospitals?cmpid=)
 * [Google AI Blog: Deep Learning for Electronic Health Records](https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html)
+  * [Debunking Google’s Death AI – Noteworthy - The Journal Blog](https://blog.usejournal.com/debunking-googles-death-ai-de9d59f9ce1c)
 * [This AI matchmaker could mine Twitter to find you a date](https://www.fastcompany.com/40588459/a-tweet-scanning-ai-could-be-responsible-for-your-next-date?mkt_tok=eyJpIjoiT1dRNFpqSXpaR0UyTWpkaSIsInQiOiJkQXdJSnJkZ3U2b1B4TFwvTnY2Y3VrQ0hMVjJHVE1kY0lyanJMVlF2ZEwrVHRGajVGZzBrdVdFTk1oclY3c0tZZkZUbUZRQmhld1ZnNGQ1Yld2YUZma1YwNzVmc01KTjhOMVRUN2p1YVIxbDN6MWZcL0ZDck1DNENzRTNqUGFxWXZvIn0)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](http://eng.uber.com/h3/)
 * [IIT Roorkee Researchers are using Computer Vision to Monitor and Improve Railway Tracks](https://www.analyticsvidhya.com/blog/2018/07/iit-roorkee-researchers-using-computer-vision-monitor-railway-tracks/)
@@ -32,6 +33,10 @@
 * [Suicide prevention: how scientists are using artificial intelligence to help people at risk - Vox](https://www.vox.com/science-and-health/2018/6/8/17441452/suicide-prevention-anthony-bourdain-crisis-text-line-data-science)
 * [Answering English questions using knowledge graphs and sequence translation](https://medium.com/octavian-ai/answering-english-questions-using-knowledge-graphs-and-sequence-translation-2acbaa35a21d?mkt_tok=eyJpIjoiT0dSbU1qWTBNekprTVRBeCIsInQiOiJuVzE5WTdXQUJmcjBJbnN6RTROc2RJNTc3bVF2RkdnZ05KMmxpaDY2eUI0YUphblFVZGpneEIzUEZxZnVnYVFhNTdCRDBmeEJQeFFrakdFTGFrRThuQmpyQldmU3JOR1dqNUNiMlhGXC9JYmpnMTI3OVZxYmFncUpac2lnRndneFQifQ)
 * [Face clustering with Python - PyImageSearch](https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/)
+* [Artificial Intelligence can accurately predict distribution of radioactive fallout](http://www.dnaindia.com/science/report-artificial-intelligence-can-accurately-predict-distribution-of-radioactive-fallout-2633192)
+* [In Rome, Facebook announces new strategies to combat misinformation \| Poynter](https://www.poynter.org/news/rome-facebook-announces-new-strategies-combat-misinformation)
+* [Pennsylvania Commission on Sentencing is trying to make its algorithm transparent.](https://slate.com/technology/2018/07/pennsylvania-commission-on-sentencing-is-trying-to-make-its-algorithm-transparent.html)
+* [High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html)
 
 
 

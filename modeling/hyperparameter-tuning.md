@@ -26,6 +26,7 @@
 * [jmcarpenter2/parfit: A package for parallelizing the fit and flexibly scoring of sklearn machine learning models, with visualization routines.](https://github.com/jmcarpenter2/parfit)
 * [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 * [**A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning**](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+* [The Hitchhiker’s Guide to Hyperparameter Tuning - Taboola Tech Blog](https://engineering.taboola.com/hitchhikers-guide-hyperparameter-tuning/)
 
 ## Automated
 
