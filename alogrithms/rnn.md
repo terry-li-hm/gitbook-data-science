@@ -18,6 +18,8 @@
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 * [An Introduction to Recurrent Neural Networks – Towards Data Science](https://towardsdatascience.com/an-introduction-to-recurrent-neural-networks-72c97bf0912)
 * [A Beginner's Guide to Recurrent Networks and LSTMs - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/lstm)
+* [\[1611.01576\] Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576)
+* [Intro to LSTMs w/ Keras+GPU for Text Generation \| Kaggle](https://www.kaggle.com/mrisdal/intro-to-lstms-w-keras-gpu-for-text-generation/notebook)
 
 In practice regular RNNs are rarely used anymore, while GRUs and LSTMs dominate the field.
 

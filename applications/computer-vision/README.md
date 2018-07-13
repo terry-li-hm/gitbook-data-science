@@ -48,4 +48,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [What are radiological deep learning models actually learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/)
+* [Attention on Pretrained-VGG16 for Bone Age \| Kaggle](https://www.kaggle.com/kmader/attention-on-pretrained-vgg16-for-bone-age/notebook)
 
