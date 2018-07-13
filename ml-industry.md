@@ -13,3 +13,9 @@
 * [An Overview of National AI Strategies – Politics + AI – Medium](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd)
 * [Why Stereo Systems Won’t Turn into the Death Star - CTech](https://www.calcalistech.com/ctech/articles/0,7340,L-3740813,00.html)
 
+
+
+
+
+* [2017年，程序員在人工智能領域的薪資有多高？ - 100offer博客](https://cn.100offer.com/blog/posts/323?campaign_code=weixin)
+
