@@ -61,6 +61,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Practical Advice for Building Deep Neural Networks – Perception, Control, Cognition](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/?__s=mnqizqqfa1zqmafmd1zr)
 * [The unreasonable effectiveness of Deep Learning Representations](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
 * [《超智能体》文章阅读顺序](https://zhuanlan.zhihu.com/p/27857399)
+* [Keras or PyTorch as your first deep learning framework \| deepsense.ai](https://deepsense.ai/keras-or-pytorch/)
 
 
 

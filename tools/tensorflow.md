@@ -17,4 +17,5 @@
 * [TensorEditor ：一個小白都能快速玩轉的神經網絡搭建工具 \| 機器之心](https://www.jiqizhixin.com/articles/TensorEditor-introduction)
 * [madalinabuzau/tensorflow-eager-tutorials: Simple tutorials for building neural networks with TensorFlow Eager.](https://github.com/madalinabuzau/tensorflow-eager-tutorials)
 * [Tensorflow: The Confusing Parts \(1\) \| Buckman's Homepage](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
+* [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 

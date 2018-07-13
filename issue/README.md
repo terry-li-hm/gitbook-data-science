@@ -12,6 +12,7 @@
 * [Challenges faced while training an AI to combat abuse](https://elie.net/blog/ai/challenges-faced-while-training-an-ai-to-combat-abuse)
 * [natural language processing blog: Many opportunities for discrimination in deploying machine learning systems](https://nlpers.blogspot.com/2018/06/many-opportunities-for-discimination-in.html)
 * [\[1807.01697\] Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations](https://arxiv.org/abs/1807.01697)
+* [California Shopping Centers Are Spying for an ICE Contractor \| Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/07/california-shopping-centers-are-spying-ice-contractor)
 
 ## Interpretability
 

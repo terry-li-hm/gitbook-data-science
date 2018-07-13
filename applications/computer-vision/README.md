@@ -42,4 +42,10 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Unsupervised Deep Learning Algorithms for Computer Vision](https://www.analyticsvidhya.com/blog/2018/06/unsupervised-deep-learning-computer-vision/)
 * [How I built a Self Flying Drone to track People in under 50 lines of code](https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-under-50-lines-of-code-7485de7f828e)
 * [What Image Classifiers Can Do About Unknown Objects « Pete Warden's blog](https://petewarden.com/2018/07/06/what-image-classifiers-can-do-about-unknown-objects/)
+* [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [Drones taught to spot violent behavior in crowds using AI - The Verge](https://www.theverge.com/2018/6/6/17433482/ai-automated-surveillance-drones-spot-violent-behavior-crowds)
+* [This Japanese AI security camera shows the future of surveillance will be automated - The Verge](https://www.theverge.com/2018/6/26/17479068/ai-guardman-security-camera-shoplifter-japan-automated-surveillance)
+* [What are radiological deep learning models actually learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98)
+* [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+* [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/)
 

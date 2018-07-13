@@ -18,4 +18,12 @@
 
 
 * [AI校招程序員最高薪酬曝光！騰訊80萬年薪領跑，還送北京戶口\_36氪](https://36kr.com/p/5108039.html)
+* [如何快速成長為一名出色的算法工程師？](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649517953&idx=1&sn=5377bf8a861a38a9fd58bdb4c74136d3&chksm=888152dfbff6dbc9a5faf252702b85ed53985e05c5614ab2e92aa1c9b27c26561bcf94448263)
+* [我們接觸了20+位年薪百萬的技術人，得出了以下結論… - 100offer博客](https://cn.100offer.com/blog/posts/351)
+* [算法崗的2017年：理想很豐滿，現實很骨感 - 100offer博客](https://cn.100offer.com/blog/posts/340)
+* [The top machine learning teams in investment banks \| eFinancialCareers](https://news.efinancialcareers.com/uk-en/315969/top-machine-learning-teams-banks)
+
+## AGI
+
+* [Measuring abstract reasoning in neural networks \| DeepMind](https://deepmind.com/blog/measuring-abstract-reasoning/)
 

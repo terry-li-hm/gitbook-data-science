@@ -37,6 +37,10 @@
 * [In Rome, Facebook announces new strategies to combat misinformation \| Poynter](https://www.poynter.org/news/rome-facebook-announces-new-strategies-combat-misinformation)
 * [Pennsylvania Commission on Sentencing is trying to make its algorithm transparent.](https://slate.com/technology/2018/07/pennsylvania-commission-on-sentencing-is-trying-to-make-its-algorithm-transparent.html)
 * [High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html)
+* [6 Organizations That Are Using Alternative Data – Statlas Blog – Medium](https://medium.com/statlas/6-organizations-that-are-using-alternative-data-af0ca69dc52d)
+* [Commodity trading enters the age of digitisation \| Financial Times](https://www.ft.com/content/8cc7f5d4-59ca-11e8-b8b2-d6ceb45fa9d0)
+* [AI could read your handwriting to figure out your nationality](https://www.fastcompany.com/90179451/ai-could-read-your-handwriting-to-figure-out-your-nationality)
+* [Software beats animal tests at predicting toxicity of chemicals](https://www.nature.com/articles/d41586-018-05664-2?sf193494265=1)
 
 
 
