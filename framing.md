@@ -44,6 +44,15 @@
 * [The best Mario Kart character according to data science](https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-data-science-7dfb65d4c18e)
 * [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 * [AI recreates chemistry’s periodic table of elements \| Stanford News](https://news.stanford.edu/2018/06/25/ai-recreates-chemistrys-periodic-table-elements/)
+* [xkcd.com + Artificial Intelligence – Towards Data Science](https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e)
+* [Given a satellite image, machine learning creates the view on the ground - MIT Technology Review](https://www.technologyreview.com/s/611526/given-a-satellite-image-machine-learning-creates-the-view-on-the-ground/)
+
+
+
+## Analysis
+
+* [From Topological Data Analysis to Deep Learning: No Pain No Gain](https://towardsdatascience.com/from-tda-to-dl-d06f234f51d)
+* [Spotify’s “This Is” playlists: the ultimate song analysis for 50 mainstream artists](https://towardsdatascience.com/spotifys-this-is-playlists-the-ultimate-song-analysis-for-50-mainstream-artists-c569e41f8118)
 
 
 

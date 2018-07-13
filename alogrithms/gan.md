@@ -18,6 +18,7 @@
 * [Relativistic GAN – Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/RelativisticGAN/)
 * [Eye in the Sky? This Open-Source Model Creates Impressive Ground-Level Images using Satellite Data](https://www.analyticsvidhya.com/blog/2018/07/ai-creates-ground-view-based-on-aerial-pictures/)
 * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
+* [Not just another GAN paper — SAGAN – Towards Data Science](https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b)
 
 
 

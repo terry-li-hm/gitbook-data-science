@@ -8,4 +8,5 @@
 * [AuC for Keras](https://github.com/fchollet/keras/issues/3230)
 * [Prodicode/ann-visualizer: A python library for visualizing Artificial Neural Networks \(ANN\)](https://github.com/Prodicode/ann-visualizer)
 * [Keras \| TensorFlow](https://www.tensorflow.org/guide/keras)
+* [Keras Layers Intro — Brendan Herger](https://www.hergertarian.com/keras-layers-intro)
 

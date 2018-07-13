@@ -103,6 +103,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Learning from imbalanced data.](https://www.jeremyjordan.me/imbalanced-data/)
 * [How It Works - Simility](https://simility.com/technology/how-it-works/)
 * [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
+* [From shallow to deep learning in fraud – Lyft Engineering](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)
+* [Brendan Herger \| Machine Learning Techniques for Class Imbalances & Adversaries - YouTube](https://www.youtube.com/watch?v=u72FD79tsxA)
 
 ### Isolation Forests
 

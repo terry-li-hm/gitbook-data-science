@@ -92,6 +92,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Machine Learning with Text in scikit-learn \(PyCon 2016\) - YouTube](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 * [Natural Language Processing Nuggets: Getting Started with NLP](https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html)
 * [Machine Learning as a Service: Part 1 – Towards Data Science](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
+* [Text Generation using a RNN](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/text_generation.ipynb)
 
 ### Sentiment Analysis
 

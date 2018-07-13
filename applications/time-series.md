@@ -19,12 +19,6 @@
 * [Time Series Analysis in Python: An Introduction – Towards Data Science](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [Predicting Cryptocurrency Prices With Deep Learning](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
-
-
-
-
-
-
-
-[RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux)
+* [S&P 500 \|\| Simple Forecasting with Prophet \| Kaggle](https://www.kaggle.com/janiobachmann/s-p-500-simple-forecasting-with-prophet)
+* [RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux)
 

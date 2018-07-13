@@ -36,6 +36,8 @@
 * [Train a Reinforcement Learning agent to play custom levels of Sonic the Hedgehog with Transfer Learning \| Felix Yu](https://flyyufelix.github.io/2018/06/11/sonic-rl.html)
 * [Metacar: A reinforcement learning environment for self-driving cars in the browser.](https://www.metacar-project.com/)
 * [Reinforcement Learning - Monte Carlo Methods · Ray](https://oneraynyday.github.io/ml/2018/05/24/Reinforcement-Learning-Monte-Carlo/)
+* [Different Schools of Thought: How Silicon Valley Teaches Robots \| Synced](https://syncedreview.com/2018/07/10/different-schools-of-thought-how-silicon-valley-teaches-robots/)
+* [Reinforcement learning’s foundational flaw](https://thegradient.pub/why-rl-is-flawed/)
 
 **RL and teamwork** OpenAI has announced that they are [starting to beat human players in 5v5 Dota 2 matches](http://click.revue.email/wf/click?upn=uoSvyDIrlYZBTfKX9q-2FuqCrSX7tlXWXWxm65OpVW7LC-2FTI08BlQBfqlZ2XbPhEW2_cjJwF5rVq6bcAJDW2bYhckKcDVGtuI9UhBbWA-2B2uuED-2F9IWETQaRREn2Tf47sHTGZXO9ja9OTZm9PlSqBgFXzrz4-2B7mi5GxSleqUk2Np89Q6DluxDFEZd8AozLMBBcrKilelEDTcPDXgbMmuxJfSOG6Nel2oeYrWBj7mHpT-2BblzrSTRMZac3OLz4Z1n7pVKk6lj7KBJjyeXZUXaD9mi-2BbEB12vQusPFQllSl-2B-2BIMQSqIqaTvtLATa94anofHWWmfbMh8QpxOH1vhbcwHV-2BYjoOoOTD5pws2-2BMRPvZqRUiEBKG53Cgqo6zOO6W-2FY7s-2B2M). Their approach uses a massively scaled-up version of PPO and a large LSTM to represent each model, two approaches that were thought to struggle with modelling long-term dependencies. Models are trained via self-play.
 
