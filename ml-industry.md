@@ -17,5 +17,5 @@
 
 
 
-* [2017年，程序員在人工智能領域的薪資有多高？ - 100offer博客](https://cn.100offer.com/blog/posts/323?campaign_code=weixin)
+* [AI校招程序員最高薪酬曝光！騰訊80萬年薪領跑，還送北京戶口\_36氪](https://36kr.com/p/5108039.html)
 
