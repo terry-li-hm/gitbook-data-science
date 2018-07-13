@@ -10,6 +10,9 @@ sshfs terry@42.3.182.131: server
 rsync -av ~ terry@ 192.168.1.80::NetBackup/linux/
 
 /#site { overflow: inherit; } /
+
+latest IP
+42.3.183.191
 ```
 
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
