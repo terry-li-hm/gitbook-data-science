@@ -43,6 +43,7 @@
 * [Software beats animal tests at predicting toxicity of chemicals](https://www.nature.com/articles/d41586-018-05664-2?sf193494265=1)
 * [The best Mario Kart character according to data science](https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-data-science-7dfb65d4c18e)
 * [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
+* [AI recreates chemistry’s periodic table of elements \| Stanford News](https://news.stanford.edu/2018/06/25/ai-recreates-chemistrys-periodic-table-elements/)
 
 
 
