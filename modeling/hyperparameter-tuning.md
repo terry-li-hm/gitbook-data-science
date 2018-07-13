@@ -27,6 +27,7 @@
 * [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 * [**A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning**](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
 * [The Hitchhiker’s Guide to Hyperparameter Tuning - Taboola Tech Blog](https://engineering.taboola.com/hitchhikers-guide-hyperparameter-tuning/)
+* [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 
 ## Automated
 

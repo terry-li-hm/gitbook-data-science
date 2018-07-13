@@ -41,6 +41,8 @@
 * [Commodity trading enters the age of digitisation \| Financial Times](https://www.ft.com/content/8cc7f5d4-59ca-11e8-b8b2-d6ceb45fa9d0)
 * [AI could read your handwriting to figure out your nationality](https://www.fastcompany.com/90179451/ai-could-read-your-handwriting-to-figure-out-your-nationality)
 * [Software beats animal tests at predicting toxicity of chemicals](https://www.nature.com/articles/d41586-018-05664-2?sf193494265=1)
+* [The best Mario Kart character according to data science](https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-data-science-7dfb65d4c18e)
+* [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 
 
 
