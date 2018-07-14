@@ -24,6 +24,7 @@
 * [可微编程：打开深度学习的黑盒子](https://zhuanlan.zhihu.com/p/37863641)
 * ["Why Should I Trust You?": Explaining the... & related info \| Mendeley](https://www.mendeley.com/research-papers/i-trust-explaining-predictions-classifier/)
 * [Google AI Blog: How Can Neural Network Similarity Help Us Understand Training and Generalization?](https://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html?m=1)
+* [Inside the Mind of a Neural Network with Interactive Code in Tensorflow \(Histogram, Activation…](https://towardsdatascience.com/inside-the-mind-of-a-neural-network-with-interactive-code-in-tensorflow-histogram-activation-a4dff0963103)
 
 ##  Fairness
 
@@ -34,4 +35,5 @@
 * [Delayed Impact of Fair Machine Learning – The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 * [natural language processing blog: Many opportunities for discrimination in deploying machine learning systems](https://nlpers.blogspot.com/2018/06/many-opportunities-for-discimination-in.html)
 * [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
+* [Weak and Strong Bias in Machine Learning](https://www.kdnuggets.com/2018/07/weak-strong-bias-machine-learning.html)
 

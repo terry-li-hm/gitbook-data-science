@@ -46,6 +46,7 @@
 * [AI recreates chemistry’s periodic table of elements \| Stanford News](https://news.stanford.edu/2018/06/25/ai-recreates-chemistrys-periodic-table-elements/)
 * [xkcd.com + Artificial Intelligence – Towards Data Science](https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e)
 * [Given a satellite image, machine learning creates the view on the ground - MIT Technology Review](https://www.technologyreview.com/s/611526/given-a-satellite-image-machine-learning-creates-the-view-on-the-ground/)
+* [Deep Quantile Regression – Towards Data Science](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
 
 
 

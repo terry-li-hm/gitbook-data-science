@@ -23,6 +23,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [An Interactive Node-Link Visualization of Convolutional Neural Networks](http://www.cs.cmu.edu/~aharley/vis/)
 * [Understanding Convolutional Neural Networks for NLP – WildML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Deep Visualization Toolbox - YouTube](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+* [Deep Learning Tips and Tricks – Towards Data Science](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
 
 
 

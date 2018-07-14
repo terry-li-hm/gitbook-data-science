@@ -1,5 +1,7 @@
 # Modeling
 
+* [Manage your Machine Learning Lifecycle with MLflow — Part 1.](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+
 When you are happy with your model, treat also the validation set as part of the training set as re-do the training process to use 100% of the training set to further improve the result. \(per Jeremy\)
 
 [Thenerdstation/mltest: Testing framework to simplify writing ML unit tests.](https://github.com/Thenerdstation/mltest)

@@ -93,6 +93,8 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Natural Language Processing Nuggets: Getting Started with NLP](https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html)
 * [Machine Learning as a Service: Part 1 – Towards Data Science](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
 * [Text Generation using a RNN](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/text_generation.ipynb)
+* [Text Classification Using CNN, LSTM and Pre-trained Glove Word Embeddings: Part-3](https://medium.com/@sabber/classifying-yelp-review-comments-using-cnn-lstm-and-pre-trained-glove-word-embeddings-part-3-53fcea9a17fa)
+* [Ahmed BESBES - Data Science Portfolio – Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
 
 ### Sentiment Analysis
 
