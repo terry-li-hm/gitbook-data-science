@@ -76,6 +76,7 @@
   * [Collaborative Filtering](applications/collaborative-filtering.md)
   * [Speech Recognition](applications/voice-recognition.md)
   * [Text-to-Speech](applications/text-to-speech.md)
+  * [Self-driving Car](applications/self-driving-car.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)
