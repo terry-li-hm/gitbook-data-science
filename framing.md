@@ -47,6 +47,7 @@
 * [xkcd.com + Artificial Intelligence – Towards Data Science](https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e)
 * [Given a satellite image, machine learning creates the view on the ground - MIT Technology Review](https://www.technologyreview.com/s/611526/given-a-satellite-image-machine-learning-creates-the-view-on-the-ground/)
 * [Deep Quantile Regression – Towards Data Science](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
+* [**Winning solutions of kaggle competitions**](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)\*\*\*\*
 
 
 

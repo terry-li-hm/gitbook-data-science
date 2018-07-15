@@ -39,4 +39,5 @@
 * [Solve the ‘unsolvable’ with Monte Carlo methods – freeCodeCamp](https://medium.freecodecamp.org/solve-the-unsolvable-with-monte-carlo-methods-294de03c80cd)
 * [Statistics and Probability \| Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 * [Confidence Intervals for Machine Learning](https://machinelearningmastery.com/confidence-intervals-for-machine-learning/)
+* [A Better Stats 101 \| LinkedIn](https://www.linkedin.com/pulse/better-stats-101-kevin-gray/)
 

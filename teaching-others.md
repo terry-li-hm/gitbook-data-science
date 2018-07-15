@@ -10,6 +10,8 @@
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 * [The Elements of AI - a free online course](https://www.elementsofai.com/)
 * [First Python Notebook — First Python Notebook 1.0 documentation](http://www.firstpythonnotebook.org/)
+* [NVIDIA - Deep Learning Demystified - www.DeepLearning.love - YouTube](https://www.youtube.com/watch?v=Hu6HH-_hRus)
+* [Defining Data Science: The What, Where and How of Data Science](https://365datascience.com/defining-data-science/)
 
 ![](.gitbook/assets/image%20%2842%29.png)
 

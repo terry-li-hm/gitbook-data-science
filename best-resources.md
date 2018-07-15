@@ -21,4 +21,5 @@
 * [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)
 * [The Elements of AI - a free online course](https://www.elementsofai.com/)
+* \*\*\*\*[**Brandon Rohrer**](https://brohrer.github.io/blog.html)\*\*\*\*
 

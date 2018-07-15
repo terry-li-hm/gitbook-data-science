@@ -25,6 +25,7 @@
 * ["Why Should I Trust You?": Explaining the... & related info \| Mendeley](https://www.mendeley.com/research-papers/i-trust-explaining-predictions-classifier/)
 * [Google AI Blog: How Can Neural Network Similarity Help Us Understand Training and Generalization?](https://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html?m=1)
 * [Inside the Mind of a Neural Network with Interactive Code in Tensorflow \(Histogram, Activation…](https://towardsdatascience.com/inside-the-mind-of-a-neural-network-with-interactive-code-in-tensorflow-histogram-activation-a4dff0963103)
+* [Human Interpretable Machine Learning \(Part 1\) — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
 
 ##  Fairness
 
@@ -36,4 +37,5 @@
 * [natural language processing blog: Many opportunities for discrimination in deploying machine learning systems](https://nlpers.blogspot.com/2018/06/many-opportunities-for-discimination-in.html)
 * [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
 * [Weak and Strong Bias in Machine Learning](https://www.kdnuggets.com/2018/07/weak-strong-bias-machine-learning.html)
+* [Fairness in Machine Learning with PyTorch](https://blog.godatadriven.com/fairness-in-pytorch)
 

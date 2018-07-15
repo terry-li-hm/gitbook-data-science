@@ -1,6 +1,6 @@
 # Data Preparation
 
-
+* [How \(dis\)similar are my train and test data? – Towards Data Science](https://towardsdatascience.com/how-dis-similar-are-my-train-and-test-data-56af3923de9b)
 
 ## Setting up development and test sets \(From Machine Learning Yearning\)
 

@@ -95,6 +95,8 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Text Generation using a RNN](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/text_generation.ipynb)
 * [Text Classification Using CNN, LSTM and Pre-trained Glove Word Embeddings: Part-3](https://medium.com/@sabber/classifying-yelp-review-comments-using-cnn-lstm-and-pre-trained-glove-word-embeddings-part-3-53fcea9a17fa)
 * [Ahmed BESBES - Data Science Portfolio – Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
+* [The 7 NLP Techniques That Will Change How You Communicate in the Future \(Part I\)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-i-f0114b2f0497)
+* [Natural Language Processing: What are algorithms for auto summarize text? - Quora](https://www.quora.com/Natural-Language-Processing-What-are-algorithms-for-auto-summarize-text#)
 
 ### Sentiment Analysis
 
