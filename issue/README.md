@@ -26,6 +26,9 @@
 * [Google AI Blog: How Can Neural Network Similarity Help Us Understand Training and Generalization?](https://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html?m=1)
 * [Inside the Mind of a Neural Network with Interactive Code in Tensorflow \(Histogram, Activation…](https://towardsdatascience.com/inside-the-mind-of-a-neural-network-with-interactive-code-in-tensorflow-histogram-activation-a4dff0963103)
 * [Human Interpretable Machine Learning \(Part 1\) — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+* [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+* [Understanding model predictions with LIME – Towards Data Science](https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b)
+* [Interpreting machine learning models – Towards Data Science](https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f)
 
 ##  Fairness
 

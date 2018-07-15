@@ -75,4 +75,6 @@
 * [Useful snippets for Google Colaboratory. Free GPU included.](https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de)
 * [Trump, in his own words – Towards Data Science](https://towardsdatascience.com/trump-in-his-own-words-62af05ad76d4)
 * [An alternative to pink & blue: Colors for gender data \| Chartable](https://blog.datawrapper.de/gendercolor/)
+* [Introduction to Data Visualization with Python \| Pluralsight](https://www.pluralsight.com/courses/data-visualization-with-python-introduction)
+* [Uber's Kepler.gl is a Wonderful Open Source Tool for Analyzing Location Data \(No Coding Required\)](https://www.analyticsvidhya.com/blog/2018/06/ubers-kepler-gl-open-source-tool-analyzing-location-data-no-coding-required/)
 

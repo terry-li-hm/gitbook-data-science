@@ -12,6 +12,8 @@
 * [First Python Notebook — First Python Notebook 1.0 documentation](http://www.firstpythonnotebook.org/)
 * [NVIDIA - Deep Learning Demystified - www.DeepLearning.love - YouTube](https://www.youtube.com/watch?v=Hu6HH-_hRus)
 * [Defining Data Science: The What, Where and How of Data Science](https://365datascience.com/defining-data-science/)
+* [The simplest explanation of machine learning you’ll ever read](https://hackernoon.com/the-simplest-explanation-of-machine-learning-youll-ever-read-bebc0700047c)
+* [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
 
 ![](.gitbook/assets/image%20%2842%29.png)
 

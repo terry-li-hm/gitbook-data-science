@@ -13,6 +13,7 @@
 * [An Overview of National AI Strategies – Politics + AI – Medium](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd)
 * [Why Stereo Systems Won’t Turn into the Death Star - CTech](https://www.calcalistech.com/ctech/articles/0,7340,L-3740813,00.html)
 * [Pete Warden on Twitter: "Why the Future of Machine Learning is Tiny: https://t.co/cvwsFciN5m"](https://twitter.com/petewarden/status/1006024622280671232)
+* [Yann LeCun - OK, Deep Learning has outlived its usefulness as a...](https://www.facebook.com/yann.lecun/posts/10155003011462143)
 
 
 

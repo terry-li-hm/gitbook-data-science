@@ -22,4 +22,5 @@
 * [Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)
 * [The Elements of AI - a free online course](https://www.elementsofai.com/)
 * \*\*\*\*[**Brandon Rohrer**](https://brohrer.github.io/blog.html)\*\*\*\*
+* [The Mechanics of Machine Learning](https://mlbook.explained.ai/)
 

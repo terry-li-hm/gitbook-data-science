@@ -62,6 +62,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [The unreasonable effectiveness of Deep Learning Representations](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
 * [《超智能体》文章阅读顺序](https://zhuanlan.zhihu.com/p/27857399)
 * [Keras or PyTorch as your first deep learning framework \| deepsense.ai](https://deepsense.ai/keras-or-pytorch/)
+* [Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank Platform](https://www.analyticsvidhya.com/blog/2018/07/learn-improve-machine-learning-skills-with-tensorflows-seedbank/)
 
 
 
