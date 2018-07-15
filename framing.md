@@ -48,6 +48,10 @@
 * [Given a satellite image, machine learning creates the view on the ground - MIT Technology Review](https://www.technologyreview.com/s/611526/given-a-satellite-image-machine-learning-creates-the-view-on-the-ground/)
 * [Deep Quantile Regression – Towards Data Science](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
 * [**Winning solutions of kaggle competitions**](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)\*\*\*\*
+* [Google is Using Machine Learning to Predict the Likelihood of a Patient's Death - with 95% Accuracy!](https://www.analyticsvidhya.com/blog/2018/06/google-using-ai-predict-when-patient-will-die-with-95-accuracy/)
+* [Data Science For Business: 3 Reasons You Need To Learn The Expected Value Framework](http://www.business-science.io/business/2018/07/11/expected-value-framework-data-science.html)
+* [High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html)
+* [Algorithm matches human cardiologists in detecting heart attacks - MIT Technology Review](https://www.technologyreview.com/s/611541/algorithm-matches-human-cardiologists-in-detecting-heart-attacks/)
 
 
 

@@ -70,6 +70,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Social Media Mining](http://dmml.asu.edu/smm/)
 * [The Py2neo v4 Handbook — The Py2neo v4 Handbook](http://py2neo.org/v4/)
 * [How we built the 2018 World Cup GraphQL API – freeCodeCamp](https://medium.freecodecamp.org/building-the-2018-world-cup-graphql-api-fab40ccecb9e)
+* [Intro to Graphs](https://aaronlelevier.github.io/intro-to-graphs/)
 
 
 

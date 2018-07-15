@@ -20,6 +20,7 @@
 * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
 * [Not just another GAN paper — SAGAN – Towards Data Science](https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b)
 * [Compare GAN Modules Colab - Colaboratory](https://colab.research.google.com/github/google/compare_gan/blob/master/compare_gan/src/tfhub_models.ipynb)
+* [Facebook's Machine Learning Model Manipulates Images to Open Closed Eyes!](https://www.analyticsvidhya.com/blog/2018/06/facebook-presents-ai-system-that-can-open-closed-eyes-in-pictures/)
 
 
 

@@ -25,6 +25,7 @@
 * [算法崗的2017年：理想很豐滿，現實很骨感 - 100offer博客](https://cn.100offer.com/blog/posts/340)
 * [The top machine learning teams in investment banks \| eFinancialCareers](https://news.efinancialcareers.com/uk-en/315969/top-machine-learning-teams-banks)
 * [How to Build a Data Science Portfolio – Towards Data Science](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+* [A year as a Data Scientist right after college: An honest review](https://towardsdatascience.com/a-year-as-a-data-scientist-right-after-college-an-honest-review-40509d07ca04)
 
 ## AGI
 

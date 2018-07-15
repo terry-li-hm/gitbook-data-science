@@ -51,4 +51,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Attention on Pretrained-VGG16 for Bone Age \| Kaggle](https://www.kaggle.com/kmader/attention-on-pretrained-vgg16-for-bone-age/notebook)
 * [Meet RoboSat 🤖 🛰 – Points of interest](https://blog.mapbox.com/meet-robosat-af42530f163f)
 * [One-shot object detection](http://machinethink.net/blog/object-detection/)
+* [NVIDIA's Noise2Noise Technique Helps you Fix Bad Images in Milliseconds](https://www.analyticsvidhya.com/blog/2018/07/nvidias-noise2noise-technique-helps-you-fix-bad-images-in-milliseconds/)
 
