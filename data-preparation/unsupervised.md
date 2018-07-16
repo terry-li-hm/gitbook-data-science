@@ -9,6 +9,7 @@
 * [How to do Unsupervised Clustering with Keras – Chengwei Zhang – Medium](https://medium.com/@chengweizhang2012/how-to-do-unsupervised-clustering-with-keras-9e1284448437)
 * [Unsupervised learning demystified – Hacker Noon](https://hackernoon.com/unsupervised-learning-demystified-4060eecedeaf)
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+* [Visualizing Supervised Machine Learning](https://colab.research.google.com/github/DJCordhose/ai/blob/master/notebooks/scipy/ml-viz.ipynb)
 
 
 

@@ -18,6 +18,8 @@
 * [Deep Learning - The Straight Dope — The Straight Dope 0.1 documentation](https://gluon.mxnet.io/)
 * [Machine Learning Tutorial for Beginners \| Kaggle](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 * [Data ScienceTutorial for Beginners \| Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
+* [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
+* [Data Science Glossary on Kaggle !](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 
 
 

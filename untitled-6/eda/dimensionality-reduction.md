@@ -4,6 +4,7 @@
 
 * [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
 * [Comparative Audio Analysis With Wavenet, MFCCs, UMAP, t-SNE and PCA](https://medium.com/@LeonFedden/comparative-audio-analysis-with-wavenet-mfccs-umap-t-sne-and-pca-cb8237bfce2f)
+* [lmcinnes/umap: Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap)
 
  [Jonker-Volgenant Algorithm + t-SNE = Super Powers · source{d} blog](https://blog.sourced.tech/post/lapjv/):
 

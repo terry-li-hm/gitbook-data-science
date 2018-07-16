@@ -9,4 +9,5 @@
 * [Comprehensive Guide to build Recommendation Engine from scratch](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 * [Netflix and Chill: Building a Recommendation System in Excel](https://towardsdatascience.com/netflix-and-chill-building-a-recommendation-system-in-excel-c69b33c914f4)
 * [Content Based Recommender using Text Mining \| Kaggle](https://www.kaggle.com/ashish95arora/content-based-recommender-using-text-mining)
+* [Analyzing Content Personalization Results](https://iotechnologies.com/blog/analyzing-personalization-results)
 

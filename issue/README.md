@@ -14,6 +14,7 @@
 * [\[1807.01697\] Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations](https://arxiv.org/abs/1807.01697)
 * [California Shopping Centers Are Spying for an ICE Contractor \| Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/07/california-shopping-centers-are-spying-ice-contractor)
 * [The Best Research Papers from ICML 2018 - A Must-Read for Data Scientists](https://www.analyticsvidhya.com/blog/2018/06/best-research-papers-icml-2018/)
+* [Hedge funds worry about the legal risks of using “alternative” data - Wary scouts](https://www.economist.com/news/finance-and-economics/21744851-dubious-data-providers-emerge-established-players-start-offering-analysis)
 
 ## Interpretability
 
@@ -33,6 +34,7 @@
 * [Using Topological Data Analysis to Understand the Behavior of Convolutional Neural Networks \| Ayasdi](https://www.ayasdi.com/blog/artificial-intelligence/using-topological-data-analysis-understand-behavior-convolutional-neural-networks/)
 * [Google AI Blog: How Can Neural Network Similarity Help Us Understand Training and Generalization?](https://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html)
 * [The problem with ‘explainable AI’ \| TechCrunch](https://techcrunch.com/2018/06/14/the-problem-with-explainable-ai/)
+* [\[1806.10758\] Evaluating Feature Importance Estimates](https://arxiv.org/abs/1806.10758)
 
 ##  Fairness
 

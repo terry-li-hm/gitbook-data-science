@@ -102,6 +102,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Samsung's ConZNet Algorithm just won Two Popular NLP Challenges \(Dataset Links Inside\)](https://www.analyticsvidhya.com/blog/2018/07/samsungs-conznet-algorithm-won-2-huge-nlp-competitions/)
 * [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 * [Detecting Emotions with CNN Fusion Models – DAIR – Medium](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8)
+* [What is the best tool to summarize a text document? - Quora](https://www.quora.com/What-is-the-best-tool-to-summarize-a-text-document)
 
 ### Sentiment Analysis
 

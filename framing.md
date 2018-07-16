@@ -61,6 +61,8 @@
 * \*\*\*\*[**Imagine a drunk island… Advice for finding AI use cases**](https://hackernoon.com/imagine-a-drunk-island-advice-for-finding-ai-use-cases-8d47495d4c3f)\*\*\*\*
 * [Pitch Recommendation: a look into the data science process.](https://medium.com/@vszuflita/pitch-recommendation-a-look-into-the-data-science-process-ab15f45c8687)
 * [Commerzbank Using AI to Write Research Reports - Algorithm-X Lab](https://algorithmxlab.com/blog/2018/06/26/commerzbank-using-ai-to-write-research-reports-2/)
+* [Pennsylvania Commission on Sentencing is trying to make its algorithm transparent.](https://slate.com/technology/2018/07/pennsylvania-commission-on-sentencing-is-trying-to-make-its-algorithm-transparent.html)
+* [Everyone Poops – Data Driven Investor – Medium](https://medium.com/datadriveninvestor/everyone-poops-f50894714b26)
 
 
 

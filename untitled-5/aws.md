@@ -24,3 +24,5 @@ pip install keras==1.2.2
 
 ```
 
+* [\(guide\) Install Fastai in any AWS region – Pierre Guillou – Medium](https://medium.com/@pierre_guillou/guide-install-fastai-in-any-aws-region-8f4fe29132e5)
+

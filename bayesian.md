@@ -23,4 +23,5 @@
 * [Financial forecasting with probabilistic programming and Pyro](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba)
 * [Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)
 * [Python Markov Chains Beginner Tutorial \(article\) - DataCamp](https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial)
+* [Ayo Philip on Twitter: "Bayes’ Theorem Definitions: The vertical bar \| stands for "given that". P = Probability. A & B are events. P\(A\) & P\(B\) are the probabilities of events A and B. Each event is separate from the other. P\(A\|B\) is the probability of A being true given that event B is true. \#SoDS18 \#ML https://t.co/yPqIzantIl"](https://mobile.twitter.com/Frawzey/status/1017806603985346562)
 

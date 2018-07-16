@@ -77,4 +77,5 @@
 * [An alternative to pink & blue: Colors for gender data \| Chartable](https://blog.datawrapper.de/gendercolor/)
 * [Introduction to Data Visualization with Python \| Pluralsight](https://www.pluralsight.com/courses/data-visualization-with-python-introduction)
 * [Uber's Kepler.gl is a Wonderful Open Source Tool for Analyzing Location Data \(No Coding Required\)](https://www.analyticsvidhya.com/blog/2018/06/ubers-kepler-gl-open-source-tool-analyzing-location-data-no-coding-required/)
+* [mathisonian/awesome-visualization-research: A list of recommended research papers and other readings on data visualization](https://github.com/mathisonian/awesome-visualization-research)
 

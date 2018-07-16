@@ -24,6 +24,8 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [Understanding Convolutional Neural Networks for NLP – WildML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Deep Visualization Toolbox - YouTube](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 * [Deep Learning Tips and Tricks – Towards Data Science](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
+* [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/)
+  * [mkocabas/CoordConv-pytorch: Pytorch implementation of CoordConv introduced in 'An intriguing failing of convolutional neural networks and the CoordConv solution' paper. \(https://arxiv.org/pdf/1807.03247.pdf\)](https://github.com/mkocabas/CoordConv-pytorch)
 
 
 

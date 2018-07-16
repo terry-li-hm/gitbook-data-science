@@ -62,4 +62,6 @@ When handling image classification problems, try to answer the following questio
 * [Insightful & Vast USA Statistics EDA & EFA \| Kaggle](https://www.kaggle.com/alexgeiger/insightful-vast-usa-statistics-eda-efa/notebook)
 * [DIVE \| Turn Data into Stories Without Writing Code](https://dive.media.mit.edu/)
 * [Happiness 2017 \(Visualization + Prediction\) \| Kaggle](https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/notebook)
+* [Profiling Top Kagglers: Martin Henze \(AKA Heads or Tails\), World’s First Kernels Grandmaster \| No Free Hunch](http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/)
+* [Manning \| Exploring Data with Python](https://www.manning.com/books/exploring-data-with-python)
 

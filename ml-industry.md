@@ -15,7 +15,8 @@
 * [Pete Warden on Twitter: "Why the Future of Machine Learning is Tiny: https://t.co/cvwsFciN5m"](https://twitter.com/petewarden/status/1006024622280671232)
 * [Yann LeCun - OK, Deep Learning has outlived its usefulness as a...](https://www.facebook.com/yann.lecun/posts/10155003011462143)
 * [李飞飞：在物体识别之后，计算机视觉还要多久才能理解这个世界 \| IROS 2017 \| 雷锋网](https://www.leiphone.com/news/201709/sgR1SCxaWEOGchl3.html)
-* [https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
+* [RAAIS 2018 - François Chollet, Software Engineer at Google Brain - YouTube](https://www.youtube.com/watch?v=2L2u303FAs8&list=PLht6tyws1YpSOGz2k6bUC1PibVG7ZiRFB&index=6&t=0s)
+* [Why the Future of Machine Learning is Tiny « Pete Warden's blog](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
 
 
 
