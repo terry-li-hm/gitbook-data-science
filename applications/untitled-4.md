@@ -98,6 +98,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [The 7 NLP Techniques That Will Change How You Communicate in the Future \(Part I\)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-i-f0114b2f0497)
 * [Natural Language Processing: What are algorithms for auto summarize text? - Quora](https://www.quora.com/Natural-Language-Processing-What-are-algorithms-for-auto-summarize-text#)
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
+* [Salesforce has Developed One Single Model to Deal with 10 Different NLP Tasks](https://www.analyticsvidhya.com/blog/2018/06/salesforce-has-developed-one-single-model-to-deal-with-10-different-nlp-tasks/)
 
 ### Sentiment Analysis
 
