@@ -1,6 +1,7 @@
 # Metrics
 
-[Introduction to Loss Functions](https://blog.algorithmia.com/introduction-to-loss-functions/)
+* [Introduction to Loss Functions](https://blog.algorithmia.com/introduction-to-loss-functions/)
+* [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 
 
 

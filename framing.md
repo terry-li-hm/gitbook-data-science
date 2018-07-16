@@ -53,6 +53,14 @@
 * [High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html)
 * [Algorithm matches human cardiologists in detecting heart attacks - MIT Technology Review](https://www.technologyreview.com/s/611541/algorithm-matches-human-cardiologists-in-detecting-heart-attacks/)
 * [The 4 Levels of Data Usage in Data Science](https://www.kdnuggets.com/2018/07/4-levels-data-usage-data-science.html)
+* [Food Discovery with Uber Eats: Building a Query Understanding Engine \| Uber Engineering Blog](https://eng.uber.com/uber-eats-query-understanding/)
+* [Exploring Tensorflow for Poets, or, Building a Pottery Classifier – Electric Archaeology](https://electricarchaeology.ca/2018/06/14/exploring-tensorflow-for-poets-or-building-a-pottery-classifier/)
+* [AI Helps Cities Predict Natural Disasters - WSJ](https://www.wsj.com/articles/ai-helps-cities-predict-natural-disasters-1530065100)
+* [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
+* [Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)
+* \*\*\*\*[**Imagine a drunk island… Advice for finding AI use cases**](https://hackernoon.com/imagine-a-drunk-island-advice-for-finding-ai-use-cases-8d47495d4c3f)\*\*\*\*
+* [Pitch Recommendation: a look into the data science process.](https://medium.com/@vszuflita/pitch-recommendation-a-look-into-the-data-science-process-ab15f45c8687)
+* [Commerzbank Using AI to Write Research Reports - Algorithm-X Lab](https://algorithmxlab.com/blog/2018/06/26/commerzbank-using-ai-to-write-research-reports-2/)
 
 
 

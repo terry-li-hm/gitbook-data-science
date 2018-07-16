@@ -99,6 +99,9 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Natural Language Processing: What are algorithms for auto summarize text? - Quora](https://www.quora.com/Natural-Language-Processing-What-are-algorithms-for-auto-summarize-text#)
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 * [Salesforce has Developed One Single Model to Deal with 10 Different NLP Tasks](https://www.analyticsvidhya.com/blog/2018/06/salesforce-has-developed-one-single-model-to-deal-with-10-different-nlp-tasks/)
+* [Samsung's ConZNet Algorithm just won Two Popular NLP Challenges \(Dataset Links Inside\)](https://www.analyticsvidhya.com/blog/2018/07/samsungs-conznet-algorithm-won-2-huge-nlp-competitions/)
+* [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
+* [Detecting Emotions with CNN Fusion Models – DAIR – Medium](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8)
 
 ### Sentiment Analysis
 
@@ -226,4 +229,5 @@ Some other tools:
 * [Transfer Learning for Text using Deep Learning Virtual Machine \(DLVM\) \| Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/04/25/transfer-learning-for-text-using-deep-learning-virtual-machine-dlvm/)
 * [Ahmed BESBES - Data Science Portfolio – Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
 * [**NLP's ImageNet moment has arrived**](https://thegradient.pub/nlp-imagenet/)
+* [Generating Text with RNNs in 4 Lines of Code](https://www.kdnuggets.com/2018/06/generating-text-rnn-4-lines-code.html)
 

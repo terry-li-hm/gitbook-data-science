@@ -5,4 +5,6 @@
 * [Microsoft Research Open Data](https://msropendata.com/)
 * [tducret/amazon-scraper-python: Non-official client to get some info about products sold on Amazon](https://github.com/tducret/amazon-scraper-python)
 * [Our World in Data](https://ourworldindata.org/)
+* [Public Datasets - Access and Analyze Data \| Google Cloud](https://cloud.google.com/public-datasets/)
+* [Amazing free Machine Learning and Deep Learning public data sources for 2018](https://medium.com/@webadmin_46735/amazing-free-machine-learning-and-deep-learning-public-data-sources-for-2018-69daba24bded)
 

@@ -52,4 +52,6 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Meet RoboSat 🤖 🛰 – Points of interest](https://blog.mapbox.com/meet-robosat-af42530f163f)
 * [One-shot object detection](http://machinethink.net/blog/object-detection/)
 * [NVIDIA's Noise2Noise Technique Helps you Fix Bad Images in Milliseconds](https://www.analyticsvidhya.com/blog/2018/07/nvidias-noise2noise-technique-helps-you-fix-bad-images-in-milliseconds/)
+* ['AI Guardman' - A Machine Learning Application that uses Pose Estimation to Detect Shoplifters](https://www.analyticsvidhya.com/blog/2018/06/ai-guardman-machine-learning-application-estimates-poses-detect-shoplifters/)
+* [Training a Machine to Watch Soccer \| Caltech](http://www.caltech.edu/news/training-machine-watch-soccer-79455)
 

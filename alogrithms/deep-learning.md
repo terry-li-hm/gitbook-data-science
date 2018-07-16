@@ -107,6 +107,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [Backpropagation demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 * \*\*\*\*[**How neural networks work**](https://brohrer.github.io/how_neural_networks_work.html)\*\*\*\*
+* [Batch normalization in Neural Networks – Towards Data Science](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)
 
 ## Blackbox
 
@@ -169,6 +170,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * Complexity of machine learning comes from the data rather than from the lines of code.
 * Intuitions from one domain or from one application area often do not transfer to other application areas.
 * Applied deep learning is a very iterative process where you just have to go around this cycle many times to hopefully find a good choice of network for your application.
+* [An Intuitive Introduction to Gradient Descent](https://www.kdnuggets.com/2018/06/intuitive-introduction-gradient-descent.html)
 
 
 
@@ -181,6 +183,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * Hopefully initializing with small random values does better. The important question is: how small should be these random values be? Lets find out in the next part!
 * Different initializations lead to different results
 * He initialization works well for networks with ReLU activations.
+* [Deep Learning Best Practices \(1\) — Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
 
 
 

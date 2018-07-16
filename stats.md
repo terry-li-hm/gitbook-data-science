@@ -41,4 +41,6 @@
 * [Confidence Intervals for Machine Learning](https://machinelearningmastery.com/confidence-intervals-for-machine-learning/)
 * [A Better Stats 101 \| LinkedIn](https://www.linkedin.com/pulse/better-stats-101-kevin-gray/)
 * [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
+* [Why Data Scientists love Gaussian? – Towards Data Science](https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859)
+* [Every time someone runs a correlation coefficient on two time series, an angel loses their wings](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)
 

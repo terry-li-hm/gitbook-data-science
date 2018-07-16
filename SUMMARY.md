@@ -31,6 +31,7 @@
   * [Scraping](data-preparation/scraping.md)
   * [Unsupervised](data-preparation/unsupervised.md)
   * [Unbalance](data-preparation/unbalance.md)
+  * [Feature Selection](data-preparation/feature-selection.md)
 * [Modeling](modeling/README.md)
   * [Which Algorithm to Try](modeling/comparing-algorithms.md)
   * [Semi-Supervised](modeling/untitled-4-1.md)
@@ -107,4 +108,5 @@
 * [Enterprise](enterprise.md)
 * [Non-ML Approaches](non-ml-approaches.md)
 * [Master](master.md)
+* [AGI](agi.md)
 

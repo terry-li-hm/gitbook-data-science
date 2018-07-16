@@ -30,6 +30,8 @@
 * [Understanding model predictions with LIME – Towards Data Science](https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b)
 * [Interpreting machine learning models – Towards Data Science](https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f)
 * [Using Topological Data Analysis to Understand the Behavior of Convolutional Neural Networks \| Ayasdi](https://www.ayasdi.com/blog/artificial-intelligence/using-topological-data-analysis-understand-behavior-convolutional-neural-networks/)
+* [Google AI Blog: How Can Neural Network Similarity Help Us Understand Training and Generalization?](https://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html)
+* [The problem with ‘explainable AI’ \| TechCrunch](https://techcrunch.com/2018/06/14/the-problem-with-explainable-ai/)
 
 ##  Fairness
 

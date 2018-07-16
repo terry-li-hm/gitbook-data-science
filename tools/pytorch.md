@@ -9,6 +9,7 @@
 * [bfortuner/pytorch-cheatsheet](https://github.com/bfortuner/pytorch-cheatsheet)
 * [bfortuner/pytorch-kaggle-starter: Pytorch starter kit for Kaggle competitions](https://github.com/bfortuner/pytorch-kaggle-starter)
 * [Tensorboard Callback for Fastai - Deep Learning - Deep Learning Course Forums](http://forums.fast.ai/t/tensorboard-callback-for-fastai/19048)
+* [Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
 
 Since computation graph in PyTorch is defined at runtime you can use tour favorite Python debugging tools such as pdb, ipdb, PyCharm debugger or old trusty print statements.
 
