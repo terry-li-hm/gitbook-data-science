@@ -52,6 +52,7 @@
 * [Data Science For Business: 3 Reasons You Need To Learn The Expected Value Framework](http://www.business-science.io/business/2018/07/11/expected-value-framework-data-science.html)
 * [High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html)
 * [Algorithm matches human cardiologists in detecting heart attacks - MIT Technology Review](https://www.technologyreview.com/s/611541/algorithm-matches-human-cardiologists-in-detecting-heart-attacks/)
+* [The 4 Levels of Data Usage in Data Science](https://www.kdnuggets.com/2018/07/4-levels-data-usage-data-science.html)
 
 
 

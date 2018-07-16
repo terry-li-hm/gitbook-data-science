@@ -106,6 +106,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
 * [From shallow to deep learning in fraud – Lyft Engineering](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)
 * [Brendan Herger \| Machine Learning Techniques for Class Imbalances & Adversaries - YouTube](https://www.youtube.com/watch?v=u72FD79tsxA)
+* [AML\_Solutions\_Deep\_Dive\_WP\_0110117](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/08/01164019/AML_Solutions_Deep_Dive_WP_051617v01.pdf)
 
 ### Isolation Forests
 

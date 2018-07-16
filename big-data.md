@@ -17,6 +17,7 @@
 * [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
 * [Convolutional Neural Networks at scale in Spark MLlib](https://www.slideshare.net/Hadoop_Summit/convolutional-neural-networks-at-scale-in-spark-mllib)
 * [Nicer Machine Learning with Spark - RFormula](http://zwmiller.com/projects/spark_ml_example_part2.html)
+* [Introduction to Apache Spark – Towards Data Science](https://towardsdatascience.com/introduction-to-apache-spark-81457568e416)
 
 
 

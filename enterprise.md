@@ -6,4 +6,6 @@
 * [Breaking away: The secrets to scaling analytics \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/breaking-away-the-secrets-to-scaling-analytics)
 * [Categorizing Listing Photos at Airbnb – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3)
 * [A CIO plan for becoming a leader in Intelligent Process Automation \| McKinsey & Company](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/a-cio-plan-for-becoming-a-leader-in-ipa)
+* [How Humans and AI Are Working Together in 1,500 Companies](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces)
+* [Teaching and implementing data science and AI in the enterprise - O'Reilly Media](https://www.oreilly.com/ideas/teaching-and-implementing-data-science-and-ai-in-the-enterprise)
 

@@ -40,4 +40,5 @@
 * [Statistics and Probability \| Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 * [Confidence Intervals for Machine Learning](https://machinelearningmastery.com/confidence-intervals-for-machine-learning/)
 * [A Better Stats 101 \| LinkedIn](https://www.linkedin.com/pulse/better-stats-101-kevin-gray/)
+* [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 

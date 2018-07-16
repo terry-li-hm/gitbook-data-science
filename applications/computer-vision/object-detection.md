@@ -13,4 +13,5 @@
 * [Understanding and Building an Object Detection Model from Scratch in Python](https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/)
 * [ageitgey/face\_recognition: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [Face recognition with OpenCV, Python, and deep learning - PyImageSearch](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
+* [Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)
 
