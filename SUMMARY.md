@@ -78,6 +78,7 @@
   * [Speech Recognition](applications/voice-recognition.md)
   * [Text-to-Speech](applications/text-to-speech.md)
   * [Self-driving Car](applications/self-driving-car.md)
+  * [Forecasting](applications/forecasting.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)

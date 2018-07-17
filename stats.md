@@ -44,4 +44,5 @@
 * [Why Data Scientists love Gaussian? – Towards Data Science](https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859)
 * [Every time someone runs a correlation coefficient on two time series, an angel loses their wings](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)
 * [Methods of Comparison, Compared / Observable](https://beta.observablehq.com/@mbostock/methods-of-comparison-compared)
+* [ajknblog.com/basics/hypothesis-testing-prerequisites/](http://ajknblog.com/basics/hypothesis-testing-prerequisites/)
 

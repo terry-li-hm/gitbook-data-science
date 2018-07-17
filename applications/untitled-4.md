@@ -103,6 +103,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 * [Detecting Emotions with CNN Fusion Models – DAIR – Medium](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8)
 * [What is the best tool to summarize a text document? - Quora](https://www.quora.com/What-is-the-best-tool-to-summarize-a-text-document)
+* [Text Classification: Applications and Use Cases - ParallelDots](https://blog.paralleldots.com/product/text-analytics/text-classification-applications-use-cases/)
 
 ### Sentiment Analysis
 

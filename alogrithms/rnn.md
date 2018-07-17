@@ -20,6 +20,7 @@
 * [A Beginner's Guide to Recurrent Networks and LSTMs - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/lstm)
 * [\[1611.01576\] Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576)
 * [Intro to LSTMs w/ Keras+GPU for Text Generation \| Kaggle](https://www.kaggle.com/mrisdal/intro-to-lstms-w-keras-gpu-for-text-generation/notebook)
+* [Breakfast with AI – Fireflies.ai Blog](https://blog.fireflies.ai/breakfast-with-ai-71a86537ab19)
 
 In practice regular RNNs are rarely used anymore, while GRUs and LSTMs dominate the field.
 

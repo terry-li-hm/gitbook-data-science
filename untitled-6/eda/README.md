@@ -64,4 +64,5 @@ When handling image classification problems, try to answer the following questio
 * [Happiness 2017 \(Visualization + Prediction\) \| Kaggle](https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/notebook)
 * [Profiling Top Kagglers: Martin Henze \(AKA Heads or Tails\), World’s First Kernels Grandmaster \| No Free Hunch](http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/)
 * [Manning \| Exploring Data with Python](https://www.manning.com/books/exploring-data-with-python)
+* [DIVE - MIT's Open Source Tool for Data Exploration and Visualization for Data Scientists](https://www.analyticsvidhya.com/blog/2018/06/perform-data-exploration-with-a-single-click-dive/)
 

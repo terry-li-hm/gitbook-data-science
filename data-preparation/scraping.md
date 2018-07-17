@@ -11,4 +11,5 @@
 * [如何租到靠谱的房子？Scrapy爬虫帮你一网打尽各平台租房信息！ \| 机器之心](https://www.jiqizhixin.com/articles/2018-06-01)
 * [How I automated my job search by building a web crawler from scratch](https://medium.freecodecamp.org/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718)
 * [Scraping Reddit to find the most popular domains](https://www.interviewqs.com/blog/reddit_creators)
+* [Getting data from pdfs using the pdftools package - Econometrics and Free Software](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
 

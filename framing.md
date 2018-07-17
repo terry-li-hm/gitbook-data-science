@@ -63,6 +63,9 @@
 * [Commerzbank Using AI to Write Research Reports - Algorithm-X Lab](https://algorithmxlab.com/blog/2018/06/26/commerzbank-using-ai-to-write-research-reports-2/)
 * [Pennsylvania Commission on Sentencing is trying to make its algorithm transparent.](https://slate.com/technology/2018/07/pennsylvania-commission-on-sentencing-is-trying-to-make-its-algorithm-transparent.html)
 * [Everyone Poops – Data Driven Investor – Medium](https://medium.com/datadriveninvestor/everyone-poops-f50894714b26)
+* [Gefilter Fish: Finding concise topics from Amazon’s customer reviews](https://blog.insightdatascience.com/gefilter-fish-finding-concise-topics-from-amazons-customer-reviews-dd14d673ed6d)
+* [ElastiK Nearest Neighbors – Insight Data](https://blog.insightdatascience.com/elastik-nearest-neighbors-4b1f6821bd62)
+* [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 
 
 
