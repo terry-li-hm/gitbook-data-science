@@ -73,6 +73,7 @@
 * [從FM推演各深度CTR預估模型\(附代碼\) - CSDN博客](https://blog.csdn.net/longxinchen_ml/article/details/81031736)
 * [暴雨來得讓人措不及防，別怕！人工智能預測在路上 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17-5)
 * [今日头条这样做金融，58和360或许都该学一学？ \| 雷锋网](https://www.leiphone.com/news/201807/mU454FkQ3DeEXw13.html)
+* [Stopping fraudsters by changing products – Lyft Engineering](https://eng.lyft.com/stopping-fraudsters-by-changing-products-452240f2d2cc)
 
 
 

@@ -21,6 +21,7 @@
 * [深度学习理论研究已进入瓶颈期？看看李飞飞们怎么说 \| 雷锋网](https://www.leiphone.com/news/201709/yXZPFZIUt5klxW5S.html)
 * [一份AI博士生的ICML2018“學霸”筆記（55頁） \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17-21)
 * [清華發佈《中國AI發展報告2018》：中科院系統AI論文產出全球第一（附下載）... - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81048987)
+* [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
 
 
 
