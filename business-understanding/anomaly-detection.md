@@ -71,6 +71,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [The Py2neo v4 Handbook — The Py2neo v4 Handbook](http://py2neo.org/v4/)
 * [How we built the 2018 World Cup GraphQL API – freeCodeCamp](https://medium.freecodecamp.org/building-the-2018-world-cup-graphql-api-fab40ccecb9e)
 * [Intro to Graphs](https://aaronlelevier.github.io/intro-to-graphs/)
+* [This Week in Neo4j – Linear Regression on Neo4j, GraphQL for database admin, Bloom on World Cup Graph - Neo4j Graph Database Platform](https://neo4j.com/blog/this-week-in-neo4j-linear-regression-on-neo4j-graphql-for-database-admin-bloom-on-world-cup-graph/)
+* [Machine Learning on Graphs: 5-Minute Interview with Ajinkya Kale, Senior Applied Researcher at eBay - Neo4j Graph Database Platform](https://neo4j.com/blog/machine-learning-on-graphs-ajinkya-kale-senior-applied-researcher-ebay/)
 
 
 
