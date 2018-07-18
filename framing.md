@@ -72,6 +72,7 @@
 * [人脸识别向保险业的渗透，未来保险会有哪些新玩法？ \| 雷锋网](https://www.leiphone.com/news/201709/vhZn2O30tOAst27d.html?uniqueCode=yXZPFZIUt5klxW5S)
 * [從FM推演各深度CTR預估模型\(附代碼\) - CSDN博客](https://blog.csdn.net/longxinchen_ml/article/details/81031736)
 * [暴雨來得讓人措不及防，別怕！人工智能預測在路上 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17-5)
+* [今日头条这样做金融，58和360或许都该学一学？ \| 雷锋网](https://www.leiphone.com/news/201807/mU454FkQ3DeEXw13.html)
 
 
 
@@ -79,6 +80,9 @@
 
 * [From Topological Data Analysis to Deep Learning: No Pain No Gain](https://towardsdatascience.com/from-tda-to-dl-d06f234f51d)
 * [Spotify’s “This Is” playlists: the ultimate song analysis for 50 mainstream artists](https://towardsdatascience.com/spotifys-this-is-playlists-the-ultimate-song-analysis-for-50-mainstream-artists-c569e41f8118)
+* [Must For Data Scientists & Analysts: Brain Training For Analytical Thinking](https://www.analyticsvidhya.com/blog/2015/07/brain-training-analytical-thinking/)
+* [Tools For Improving Structured Thinking For Analysts](https://www.analyticsvidhya.com/blog/2014/02/tools-structured-thinking/)
+* [The Art Of Structured Thinking And Analyzing](https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/)
 
 
 

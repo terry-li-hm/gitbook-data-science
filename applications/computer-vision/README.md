@@ -54,4 +54,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [NVIDIA's Noise2Noise Technique Helps you Fix Bad Images in Milliseconds](https://www.analyticsvidhya.com/blog/2018/07/nvidias-noise2noise-technique-helps-you-fix-bad-images-in-milliseconds/)
 * ['AI Guardman' - A Machine Learning Application that uses Pose Estimation to Detect Shoplifters](https://www.analyticsvidhya.com/blog/2018/06/ai-guardman-machine-learning-application-estimates-poses-detect-shoplifters/)
 * [Training a Machine to Watch Soccer \| Caltech](http://www.caltech.edu/news/training-machine-watch-soccer-79455)
+* [Multi-label classification with Keras - PyImageSearch](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
 

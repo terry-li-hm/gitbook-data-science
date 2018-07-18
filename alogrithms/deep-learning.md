@@ -157,6 +157,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * [How Driverless AI Prevents Overfitting and Leakage - H2O.ai Blog](https://blog.h2o.ai/2018/03/driverless-ai-prevents-overfitting-leakage/)
 * [AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai](http://www.fast.ai/2018/07/02/adam-weight-decay/)
 * [Tomaso Poggio深度學習理論：深度網絡「過擬合缺失」的本質 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17)
+* [Improving the Performance of a Neural Network – Towards Data Science](https://towardsdatascience.com/how-to-increase-the-accuracy-of-a-neural-network-9f5d1c6f407d)
 
 ## Gradient Descent
 
@@ -174,6 +175,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * Applied deep learning is a very iterative process where you just have to go around this cycle many times to hopefully find a good choice of network for your application.
 * [An Intuitive Introduction to Gradient Descent](https://www.kdnuggets.com/2018/06/intuitive-introduction-gradient-descent.html)
 * [Intro to optimization in deep learning: Gradient Descent](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
+* [Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 
 
 

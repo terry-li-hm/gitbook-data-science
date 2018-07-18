@@ -1,6 +1,7 @@
 # Traditional Algorithms
 
-[Categories of algorithms\(non exhaustive\)](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY)
+* [Categories of algorithms\(non exhaustive\)](https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY)
+* [An Introductory Guide to Maximum Likelihood Estimation \(with a case study in R\)](https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/)
 
 ## Logistic Regression
 
