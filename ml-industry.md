@@ -34,6 +34,8 @@
 * [The top machine learning teams in investment banks \| eFinancialCareers](https://news.efinancialcareers.com/uk-en/315969/top-machine-learning-teams-banks)
 * [How to Build a Data Science Portfolio – Towards Data Science](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 * [A year as a Data Scientist right after college: An honest review](https://towardsdatascience.com/a-year-as-a-data-scientist-right-after-college-an-honest-review-40509d07ca04)
+* [Data Scientist - Machine Learning job - Michael Page - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=d01ce1e935bafbb2&q=Machine+Learning&l=Hong+Kong&tk=1cil4cmar3cf6d5i&from=ja&alid=5b48959d9008569e14daa847&rgtk=1cil4cmar3cf6d5i)
+* [Manager, Data Scientist, Data & Analytics job - KPMG 毕马威 - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=d39c247ef1149272&q=Data+Scientist&l=Hong+Kong&tk=1cil4d4vn2tcrd8q&from=ja&alid=5b4895919008569e14daa836&rgtk=1cil4d4vn2tcrd8q)
 
 ## AGI
 

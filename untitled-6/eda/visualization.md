@@ -80,4 +80,10 @@
 * [mathisonian/awesome-visualization-research: A list of recommended research papers and other readings on data visualization](https://github.com/mathisonian/awesome-visualization-research)
 * [parrt/lolviz: A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations](https://github.com/parrt/lolviz)
 * [visualizing uncertainty — storytelling with data](http://www.storytellingwithdata.com/blog/2018/6/27/visualizing-uncertainty)
+* \*\*\*\*[**Data to Viz \| A collection of graphic pitfalls**](https://www.data-to-viz.com/caveats.html)\*\*\*\*
+* \*\*\*\*[**From data to Viz \| Find the graphic you need**](https://www.data-to-viz.com/index.html)\*\*\*\*
+
+
+
+
 
