@@ -23,4 +23,5 @@ lastdate = train.iloc[train.shape[0]-1].date
 * [Python Sets and Set Theory \(article\) - DataCamp](https://www.datacamp.com/community/tutorials/sets-in-python)
 * [Python 3's f-Strings: An Improved String Formatting Syntax \(Guide\) – Real Python](https://realpython.com/python-f-strings/)
 * [What exactly can you do with Python? Here are Python's 3 main applications.](https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
+* [Data science with Python: Turn your conditional loops to Numpy vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e)
 

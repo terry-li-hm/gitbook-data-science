@@ -15,6 +15,7 @@
 * [California Shopping Centers Are Spying for an ICE Contractor \| Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/07/california-shopping-centers-are-spying-ice-contractor)
 * [The Best Research Papers from ICML 2018 - A Must-Read for Data Scientists](https://www.analyticsvidhya.com/blog/2018/06/best-research-papers-icml-2018/)
 * [Hedge funds worry about the legal risks of using “alternative” data - Wary scouts](https://www.economist.com/news/finance-and-economics/21744851-dubious-data-providers-emerge-established-players-start-offering-analysis)
+* [Medical AI Safety: We have a problem. – Luke Oakden-Rayner](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)
 
 ## Interpretability
 

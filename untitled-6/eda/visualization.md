@@ -79,4 +79,5 @@
 * [Uber's Kepler.gl is a Wonderful Open Source Tool for Analyzing Location Data \(No Coding Required\)](https://www.analyticsvidhya.com/blog/2018/06/ubers-kepler-gl-open-source-tool-analyzing-location-data-no-coding-required/)
 * [mathisonian/awesome-visualization-research: A list of recommended research papers and other readings on data visualization](https://github.com/mathisonian/awesome-visualization-research)
 * [parrt/lolviz: A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations](https://github.com/parrt/lolviz)
+* [visualizing uncertainty — storytelling with data](http://www.storytellingwithdata.com/blog/2018/6/27/visualizing-uncertainty)
 

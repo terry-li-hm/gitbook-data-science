@@ -83,6 +83,7 @@
 * [Must For Data Scientists & Analysts: Brain Training For Analytical Thinking](https://www.analyticsvidhya.com/blog/2015/07/brain-training-analytical-thinking/)
 * [Tools For Improving Structured Thinking For Analysts](https://www.analyticsvidhya.com/blog/2014/02/tools-structured-thinking/)
 * [The Art Of Structured Thinking And Analyzing](https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/)
+* [Python用5000+條數據為你分析《我不是藥神》登頂原因！（附代碼） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/80993991)
 
 
 

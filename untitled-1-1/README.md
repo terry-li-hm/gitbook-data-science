@@ -7,6 +7,7 @@
 * [How to unit test machine learning code. – Chase Roberts – Medium](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 * [lk-geimfari/mimesis: Mimesis is a fast and easy to use library for Python, which helps generate synthetic data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
 * [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
+* [TeamHG-Memex/eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions](https://github.com/TeamHG-Memex/eli5)
 
 
 
