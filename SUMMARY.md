@@ -110,4 +110,5 @@
 * [Non-ML Approaches](non-ml-approaches.md)
 * [Master](master.md)
 * [AGI](agi.md)
+* [CS](cs.md)
 

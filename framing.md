@@ -66,6 +66,12 @@
 * [Gefilter Fish: Finding concise topics from Amazon’s customer reviews](https://blog.insightdatascience.com/gefilter-fish-finding-concise-topics-from-amazons-customer-reviews-dd14d673ed6d)
 * [ElastiK Nearest Neighbors – Insight Data](https://blog.insightdatascience.com/elastik-nearest-neighbors-4b1f6821bd62)
 * [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
+* [Building a Dating site with Neo4j – Part One \| Max De Marzi](https://maxdemarzi.com/2018/07/11/building-a-dating-site-with-neo4j-part-one/?mkt_tok=eyJpIjoiTVdRM00yWTFNemd3WWpKayIsInQiOiJURkRpazBwTnNZSFFqb2lBMVJLOG1cLzRNUzVybEtOTlJlRmo5TGxpZ1lrTEZGVklvVU1uQUNqYmIzOXdiV1wvWEhQZDZmanphWURTMXk0TUpaS0RyNkw3b2c0a0VrV1wvdWxKYlwvWnM5XC9SMTVUN1lNV29sUXZTZ1NBbXErK21zOHlOIn0)
+* [如何把「推薦算法」從線上做到線下？阿里在香港開的這家店讓你發散一下思維 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-16-7)
+* [當身邊同學拿到80萬年薪Offer時，這兩位清華博士卻想讓法律人用上真正的AI \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-16-10)
+* [人脸识别向保险业的渗透，未来保险会有哪些新玩法？ \| 雷锋网](https://www.leiphone.com/news/201709/vhZn2O30tOAst27d.html?uniqueCode=yXZPFZIUt5klxW5S)
+* [從FM推演各深度CTR預估模型\(附代碼\) - CSDN博客](https://blog.csdn.net/longxinchen_ml/article/details/81031736)
+* [暴雨來得讓人措不及防，別怕！人工智能預測在路上 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17-5)
 
 
 

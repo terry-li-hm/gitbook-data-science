@@ -22,4 +22,5 @@
 * [A Complete Machine Learning Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [Automated Feature Engineering in Python – Towards Data Science](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 * [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+* [數據科學中的陷阱：定性變量的處理 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-09-19)
 

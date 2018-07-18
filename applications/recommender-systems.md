@@ -10,4 +10,9 @@
 * [Netflix and Chill: Building a Recommendation System in Excel](https://towardsdatascience.com/netflix-and-chill-building-a-recommendation-system-in-excel-c69b33c914f4)
 * [Content Based Recommender using Text Mining \| Kaggle](https://www.kaggle.com/ashish95arora/content-based-recommender-using-text-mining)
 * [Analyzing Content Personalization Results](https://iotechnologies.com/blog/analyzing-personalization-results)
+* [SIGIR 2018最佳論文：基於流行度推薦系統有效性的概率分析 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-12-16)
+
+
+
+![](../.gitbook/assets/image%20%2824%29.png)
 

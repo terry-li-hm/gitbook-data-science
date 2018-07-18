@@ -8,7 +8,7 @@
 * [h2oai/mli-resources: Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 ![](.gitbook/assets/image%20%2818%29.png)
 

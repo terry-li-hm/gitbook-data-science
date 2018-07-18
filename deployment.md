@@ -7,4 +7,5 @@
 * [Data Science for Startups: Model Production – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-model-production-b14a29b2f920)
 * [Shipping Deep Learning Models in Web and Mobile Applications - Danial Khosravi's Blog](http://danialk.github.io/blog/2018/06/23/shipping-deep-learning-models-in-web-and-mobile-applications/)
 * [O'Reilly Strata on Twitter: "Model development ≠ Software development. @davidtalby, CTO at Pacific AI, explores the biggest mistakes people make in \#machinelearning https://t.co/84Ei69bQNL"](https://twitter.com/strataconf/status/1014905599061045248)
+* [A guide to deploying Machine/Deep Learning model\(s\) in Production](https://medium.com/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
 

@@ -45,4 +45,5 @@
 * [Every time someone runs a correlation coefficient on two time series, an angel loses their wings](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)
 * [Methods of Comparison, Compared / Observable](https://beta.observablehq.com/@mbostock/methods-of-comparison-compared)
 * [ajknblog.com/basics/hypothesis-testing-prerequisites/](http://ajknblog.com/basics/hypothesis-testing-prerequisites/)
+* [因果關係分析方法簡介 \| 機器之心](https://www.jiqizhixin.com/articles/2016-11-01-3)
 

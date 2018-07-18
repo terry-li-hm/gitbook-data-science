@@ -104,6 +104,8 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Detecting Emotions with CNN Fusion Models – DAIR – Medium](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8)
 * [What is the best tool to summarize a text document? - Quora](https://www.quora.com/What-is-the-best-tool-to-summarize-a-text-document)
 * [Text Classification: Applications and Use Cases - ParallelDots](https://blog.paralleldots.com/product/text-analytics/text-classification-applications-use-cases/)
+* [**重磅譯制 \| 更新：牛津大學xDeepMind自然語言處理 第10講 文本轉語音（2） \| 機器之心**](https://www.jiqizhixin.com/articles/2018-07-16-18)\*\*\*\*
+* [技術解讀 \| 基於fastText和RNN的語義消歧實戰 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-05-20)
 
 ### Sentiment Analysis
 

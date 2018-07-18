@@ -17,6 +17,9 @@
 * [李飞飞：在物体识别之后，计算机视觉还要多久才能理解这个世界 \| IROS 2017 \| 雷锋网](https://www.leiphone.com/news/201709/sgR1SCxaWEOGchl3.html)
 * [RAAIS 2018 - François Chollet, Software Engineer at Google Brain - YouTube](https://www.youtube.com/watch?v=2L2u303FAs8&list=PLht6tyws1YpSOGz2k6bUC1PibVG7ZiRFB&index=6&t=0s)
 * [Why the Future of Machine Learning is Tiny « Pete Warden's blog](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
+* [Troubling Trends in Machine Learning Scholarship – Approximately Correct](http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/)
+* [深度学习理论研究已进入瓶颈期？看看李飞飞们怎么说 \| 雷锋网](https://www.leiphone.com/news/201709/yXZPFZIUt5klxW5S.html)
+* [一份AI博士生的ICML2018“學霸”筆記（55頁） \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17-21)
 
 
 

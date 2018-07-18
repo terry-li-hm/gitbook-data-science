@@ -1,6 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ## Top Resources
 
@@ -107,6 +107,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [From shallow to deep learning in fraud – Lyft Engineering](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)
 * [Brendan Herger \| Machine Learning Techniques for Class Imbalances & Adversaries - YouTube](https://www.youtube.com/watch?v=u72FD79tsxA)
 * [AML\_Solutions\_Deep\_Dive\_WP\_0110117](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/08/01164019/AML_Solutions_Deep_Dive_WP_051617v01.pdf)
+* \*\*\*\*[**From shallow to deep learning in fraud – Lyft Engineering**](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)\*\*\*\*
 
 ### Isolation Forests
 
@@ -131,9 +132,9 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 [Microsoft](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice):
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## Relevant Kaggle Competitions
 
