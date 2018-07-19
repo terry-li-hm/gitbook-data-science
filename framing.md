@@ -75,6 +75,10 @@
 * [今日头条这样做金融，58和360或许都该学一学？ \| 雷锋网](https://www.leiphone.com/news/201807/mU454FkQ3DeEXw13.html)
 * [Stopping fraudsters by changing products – Lyft Engineering](https://eng.lyft.com/stopping-fraudsters-by-changing-products-452240f2d2cc)
 * [Meet a young music lover using machine learning to study the ocean. \| Google](https://www.google.com/about/stories/soundwaves/)
+* [A Machine Learning framework for an algorithmic trading system](https://towardsdatascience.com/https-medium-com-skuttruf-machine-learning-in-finance-algorithmic-trading-on-energy-markets-cb68f7471475)
+* [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
+* [Challenges faced while training an AI to combat abuse](https://elie.net/blog/ai/challenges-faced-while-training-an-ai-to-combat-abuse)
+* [Why AI is the key to robust anti-abuse defenses](https://elie.net/blog/ai/harnessing-ai-to-combat-fraud-and-abuse-ai-is-the-key-to-robust-defenses)
 
 
 

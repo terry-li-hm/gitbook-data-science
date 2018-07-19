@@ -6,6 +6,7 @@
 ## Logistic Regression
 
 * [The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
+* [Logistic Regression from scratch \(and how to make it nonlinear\)](http://crawles.com/lr-scratch/)
 
 ## Tree
 

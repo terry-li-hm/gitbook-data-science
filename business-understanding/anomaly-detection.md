@@ -1,6 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ## Top Resources
 
@@ -137,7 +137,7 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 ## Relevant Kaggle Competitions
 

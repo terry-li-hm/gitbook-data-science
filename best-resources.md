@@ -23,4 +23,5 @@
 * [The Elements of AI - a free online course](https://www.elementsofai.com/)
 * \*\*\*\*[**Brandon Rohrer**](https://brohrer.github.io/blog.html)\*\*\*\*
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai/)
+* [pablo14/data-science-live-book: An open source book to learn data science, data analysis and machine learning, suitable for all ages!](https://github.com/pablo14/data-science-live-book)
 

@@ -17,6 +17,8 @@
 * [Hedge funds worry about the legal risks of using “alternative” data - Wary scouts](https://www.economist.com/news/finance-and-economics/21744851-dubious-data-providers-emerge-established-players-start-offering-analysis)
 * [Medical AI Safety: We have a problem. – Luke Oakden-Rayner](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)
 * [Of oaths and checklists - O'Reilly Media](https://www.oreilly.com/ideas/of-oaths-and-checklists)
+* [Regulating AI in the era of big tech](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
+* [Doing good data science - O'Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science?mkt_tok=eyJpIjoiTVRFM05XTTROR1k1WW1FNCIsInQiOiJSekx3ZzBNcnFxK0JiVDN1VEZvN05RYnBUU2JRVHh2UCswMW8wUkVBdThDNDZNUmh6ZHo1allsWHV0K09UdUVJbDBKZEhPd29NS01iRndhZEd0ZFBiOXhoRktqQ0hHVTZ2S05DQUpwd0hjVXErclNsWmw2S3diQU94c045dHlidyJ9)
 
 ## Interpretability
 

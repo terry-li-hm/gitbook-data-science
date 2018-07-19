@@ -55,4 +55,12 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * ['AI Guardman' - A Machine Learning Application that uses Pose Estimation to Detect Shoplifters](https://www.analyticsvidhya.com/blog/2018/06/ai-guardman-machine-learning-application-estimates-poses-detect-shoplifters/)
 * [Training a Machine to Watch Soccer \| Caltech](http://www.caltech.edu/news/training-machine-watch-soccer-79455)
 * [Multi-label classification with Keras - PyImageSearch](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
+* [ageitgey/face\_recognition: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
+* [How to handle mistakes while using AI to block attacks](https://elie.net/blog/ai/how-to-handle-mistakes-while-using-ai-to-block-attacks)
+* [Build your own Computer Vision Model with the Latest TensorFlow Object Detection API Update](https://www.analyticsvidhya.com/blog/2018/07/build-computer-vision-model-tensorflow-object-detection-api/)
+* [A new hope: AI for news media \| TechCrunch](https://techcrunch.com/2018/07/12/a-new-hope-ai-for-news-media/)
+* [With AI, Your Apple Watch Could Flag Signs of Diabetes \| WIRED](https://www.wired.com/story/with-ai-your-apple-watch-could-flag-signs-of-diabetes/)
+* [Cryptocurrencies leveraging Natural Language Processing for profit](https://blog.usejournal.com/cryptocurrencies-leveraging-natural-language-processing-for-profit-a072cc97d7e1)
+* [Automatic tagging of clothing in E-Commerce, Using Tensorflow and GCP.](https://blog.usejournal.com/automatic-tagging-of-clothing-in-e-commerce-using-tensorflow-and-gcp-d2b623cd2a78)
+* [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
 
