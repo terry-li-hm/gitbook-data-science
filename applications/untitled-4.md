@@ -108,6 +108,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [技術解讀 \| 基於fastText和RNN的語義消歧實戰 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-05-20)
 * [葉志豪：介紹強化學習及其在 NLP 上的應用 \| 分享總結 \| 雷鋒網](https://www.leiphone.com/news/201807/sbyafpzV4BgvjLT1.html)
 * [Convolutional neural networks for language tasks - O'Reilly Media](https://www.oreilly.com/ideas/convolutional-neural-networks-for-language-tasks?mkt_tok=eyJpIjoiWm1NNFpEUXpNek00TVRkbSIsInQiOiI1ZWEwejVJeUs4SVFhMFJ4b0F5NkZNRlpsTWlqRVdqcWFta001Mkd0YTQzbHY2Qnl0aDlaRkJEM1FEbGN6Ykx6ejFFNW1UVFZDME5jZmd1VEUyYXBBeFQ3VzhCZkRmVDc3dzF3OE1tUUYyYzI4bVo1Vmg5ZXVaUzFFbkphNEwrYiJ9)
+* [A Comprehensive Guide to Understand and Implement Text Classification in Python](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
 
 ### Sentiment Analysis
 

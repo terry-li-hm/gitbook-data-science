@@ -83,7 +83,17 @@
 * [JPMorgan Chase invests in artificial intelligence startup Volley](https://www.reuters.com/article/us-jpmorgan-volley/jpmorgan-chase-invests-in-artificial-intelligence-startup-volley-idUSKBN1K721D)
 * [This Google-Funded Company Uses Artificial Intelligence To Fight Against Fake News](https://www.forbes.com/sites/bernardmarr/2018/07/18/this-google-funded-company-uses-artificial-intelligence-to-fight-against-fake-news/#155211953ca4)
 * [Analyzing NASA Spaceflight Microgravity Effects on Mouse Antibody Repertoire \| MapD](https://www.mapd.com/blog/analyzing-nasa-spaceflight-microgravity-effects-on-mice-repertoire/)
-* [Hacker's guide to healthcare data · रोहतास स्पेस](http://rohtas.space/2018-05-25-hackers-guide-to-healthcare-data)
+* [Hacker's guide to healthcare data](http://rohtas.space/2018-05-25-hackers-guide-to-healthcare-data)
+* [誰是下一個庫裡？搭載AI技術的APP助你煉成神射手 \| ATYUN](http://www.atyun.com/25180.html)
+* [Descartes Labs' Wildfire Watchsystem uses satellite imagery to track active fires on Twitter \| VentureBeat](https://venturebeat.com/2018/07/18/descartes-labs-wildfire-watchsystem-uses-satellite-imagery-to-track-active-fires-on-twitter/)
+* [AI算法可以通過腦電圖讀數檢測睡眠障礙模式 \| ATYUN](http://www.atyun.com/24617.html)
+* [利用機器學習分析電影偏好，探究電影情感歷程以優化劇本 \| ATYUN](http://www.atyun.com/23901.html)
+* [最新研究：使用AI系統預測退化性疾病患者的預後 \| ATYUN](http://www.atyun.com/23687.html)
+* [研究人員開發AI預測嬰兒發育障礙 \| ATYUN](http://www.atyun.com/23625.html)
+* [Allenby與微軟合作開發基於AI的地圖以預測洪水等自然災害 \| ATYUN](http://www.atyun.com/23598.html)
+* [ScriptBook利用AI預測電影劇本是否會帶來票房 \| ATYUN](http://www.atyun.com/23552.html)
+* [斯坦福研究人員利用AI預測藥物之間引發的副作用 \| ATYUN](http://www.atyun.com/23555.html)
+* [研究團隊利用AI預測和控制購物中心的囓齒動物 \| ATYUN](http://www.atyun.com/23592.html)
 
 
 
