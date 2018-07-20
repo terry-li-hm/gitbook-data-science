@@ -20,5 +20,5 @@
 * [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 * [谷歌發佈AutoGraph，自動將Python轉化為TF計算圖 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-19)
 * [Multithreaded predictions with TensorFlow Estimators](https://medium.com/element-ai-research-lab/multithreaded-predictions-with-tensorflow-estimators-eb041861da07)
-* [Smart way to srialize/deserialise class to/from Tensorflow graph – mc.ai](https://mc.ai/smart-way-to-srialize-deserialise-class-to-from-tensorflow-graph/)
+* [Smart way to serialize/deserialize classes to/from Tensorflow graph](https://towardsdatascience.com/smart-way-to-srialize-deserialise-class-to-from-tensorflow-graph-1b131db50c7d)
 

@@ -177,6 +177,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * [An Intuitive Introduction to Gradient Descent](https://www.kdnuggets.com/2018/06/intuitive-introduction-gradient-descent.html)
 * [Intro to optimization in deep learning: Gradient Descent](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
 * [Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+* [A Way to Improve Gradient Descent: Stochastic Gradient Descent With Restarts](https://medium.com/@reina.wang.tw/https-medium-com-reina-wang-tw-stochastic-gradient-descent-with-restarts-5f511975163)
 
 
 
