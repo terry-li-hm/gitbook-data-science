@@ -6,6 +6,7 @@
 * [覽輕量化卷積神經網絡：SqueezeNet、MobileNet、ShuffleNet、Xception \| 機器之心](https://www.jiqizhixin.com/articles/2018-01-08-6)
 * [Google Landmark Retrieval Challenge \| Kaggle](https://www.kaggle.com/c/landmark-retrieval-challenge/discussion/57855)
 * [ML Practicum: Image Classification  \|  Machine Learning Practica  \|  Google Developers](https://developers.google.com/machine-learning/practica/image-classification/)
+* [Reinventing the Wheel of Semantic Segmentation: – 100 Shades of Machine Learning – Medium](https://medium.com/100-shades-of-machine-learning/https-medium-com-100-shades-of-machine-learning-rediscovering-semantic-segmentation-part1-83e1462e0805)
 
 ### Object Detection
 

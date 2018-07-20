@@ -18,4 +18,5 @@
 * [madalinabuzau/tensorflow-eager-tutorials: Simple tutorials for building neural networks with TensorFlow Eager.](https://github.com/madalinabuzau/tensorflow-eager-tutorials)
 * [Tensorflow: The Confusing Parts \(1\) \| Buckman's Homepage](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
 * [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
+* [谷歌發佈AutoGraph，自動將Python轉化為TF計算圖 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-19)
 
