@@ -94,6 +94,9 @@
 * [ScriptBook利用AI預測電影劇本是否會帶來票房 \| ATYUN](http://www.atyun.com/23552.html)
 * [斯坦福研究人員利用AI預測藥物之間引發的副作用 \| ATYUN](http://www.atyun.com/23555.html)
 * [研究團隊利用AI預測和控制購物中心的囓齒動物 \| ATYUN](http://www.atyun.com/23592.html)
+* [历经五次迭代，看饿了么方舟智能调度系统如何指挥300万骑手 \| 雷锋网](https://www.leiphone.com/news/201805/QFzSbC368B2W5WNR.html)
+* [Where Predictive Analytics Is Having the Biggest Impact](https://hbr.org/2016/05/where-predictive-analytics-is-having-the-biggest-impact)
+* [How Instagram’s algorithm works \| TechCrunch](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
 
 
 

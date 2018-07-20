@@ -39,6 +39,7 @@
 * [Google AI Blog: How Can Neural Network Similarity Help Us Understand Training and Generalization?](https://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html)
 * [The problem with ‘explainable AI’ \| TechCrunch](https://techcrunch.com/2018/06/14/the-problem-with-explainable-ai/)
 * [\[1806.10758\] Evaluating Feature Importance Estimates](https://arxiv.org/abs/1806.10758)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ##  Fairness
 

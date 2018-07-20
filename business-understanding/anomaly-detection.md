@@ -74,6 +74,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [This Week in Neo4j – Linear Regression on Neo4j, GraphQL for database admin, Bloom on World Cup Graph - Neo4j Graph Database Platform](https://neo4j.com/blog/this-week-in-neo4j-linear-regression-on-neo4j-graphql-for-database-admin-bloom-on-world-cup-graph/)
 * [Machine Learning on Graphs: 5-Minute Interview with Ajinkya Kale, Senior Applied Researcher at eBay - Neo4j Graph Database Platform](https://neo4j.com/blog/machine-learning-on-graphs-ajinkya-kale-senior-applied-researcher-ebay/)
 * [Knowledge Graphs: The Path to Enterprise AI - Neo4j Graph Database Platform](https://neo4j.com/blog/knowledge-graphs-path-to-enterprise-ai/)
+* [知識圖譜的技術與應用 \| 機器之心](https://www.jiqizhixin.com/articles/2018-06-19)
 
 
 
