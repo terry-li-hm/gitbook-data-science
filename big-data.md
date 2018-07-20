@@ -18,6 +18,7 @@
 * [Convolutional Neural Networks at scale in Spark MLlib](https://www.slideshare.net/Hadoop_Summit/convolutional-neural-networks-at-scale-in-spark-mllib)
 * [Nicer Machine Learning with Spark - RFormula](http://zwmiller.com/projects/spark_ml_example_part2.html)
 * [Introduction to Apache Spark – Towards Data Science](https://towardsdatascience.com/introduction-to-apache-spark-81457568e416)
+* [Practical Apache Spark in 10 minutes. Part 4 — MLlib](https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-4-mllib-fca02fecf5b8)
 
 
 

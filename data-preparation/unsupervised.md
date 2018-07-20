@@ -11,6 +11,7 @@
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 * [Visualizing Supervised Machine Learning](https://colab.research.google.com/github/DJCordhose/ai/blob/master/notebooks/scipy/ml-viz.ipynb)
 * [lmcinnes/umap: Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap)
+* [K-Means Clustering: All You Need to Know \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](http://byteacademy.co/blog/k-means-clustering/)
 
 
 

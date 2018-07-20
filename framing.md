@@ -82,6 +82,8 @@
 * [The data that lays bare the hidden links in Hong Kong’s domestic helper employment industry \| South China Morning Post](https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2155292/data-lays-bare-hidden-links-hong-kongs)
 * [JPMorgan Chase invests in artificial intelligence startup Volley](https://www.reuters.com/article/us-jpmorgan-volley/jpmorgan-chase-invests-in-artificial-intelligence-startup-volley-idUSKBN1K721D)
 * [This Google-Funded Company Uses Artificial Intelligence To Fight Against Fake News](https://www.forbes.com/sites/bernardmarr/2018/07/18/this-google-funded-company-uses-artificial-intelligence-to-fight-against-fake-news/#155211953ca4)
+* [Analyzing NASA Spaceflight Microgravity Effects on Mouse Antibody Repertoire \| MapD](https://www.mapd.com/blog/analyzing-nasa-spaceflight-microgravity-effects-on-mice-repertoire/)
+* [Hacker's guide to healthcare data · रोहतास स्पेस](http://rohtas.space/2018-05-25-hackers-guide-to-healthcare-data)
 
 
 
