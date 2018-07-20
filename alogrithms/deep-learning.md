@@ -63,6 +63,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [《超智能体》文章阅读顺序](https://zhuanlan.zhihu.com/p/27857399)
 * [Keras or PyTorch as your first deep learning framework \| deepsense.ai](https://deepsense.ai/keras-or-pytorch/)
 * [深度學習必備的5大知識模塊（內附知識卡片）](https://mp.weixin.qq.com/s/53Vdvap5zwXV5qPilNaThw)
+* [Introducing capsule networks - O'Reilly Media](https://www.oreilly.com/ideas/introducing-capsule-networks?mkt_tok=eyJpIjoiWm1NNFpEUXpNek00TVRkbSIsInQiOiI1ZWEwejVJeUs4SVFhMFJ4b0F5NkZNRlpsTWlqRVdqcWFta001Mkd0YTQzbHY2Qnl0aDlaRkJEM1FEbGN6Ykx6ejFFNW1UVFZDME5jZmd1VEUyYXBBeFQ3VzhCZkRmVDc3dzF3OE1tUUYyYzI4bVo1Vmg5ZXVaUzFFbkphNEwrYiJ9)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 

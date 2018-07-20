@@ -79,6 +79,9 @@
 * [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
 * [Challenges faced while training an AI to combat abuse](https://elie.net/blog/ai/challenges-faced-while-training-an-ai-to-combat-abuse)
 * [Why AI is the key to robust anti-abuse defenses](https://elie.net/blog/ai/harnessing-ai-to-combat-fraud-and-abuse-ai-is-the-key-to-robust-defenses)
+* [The data that lays bare the hidden links in Hong Kong’s domestic helper employment industry \| South China Morning Post](https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2155292/data-lays-bare-hidden-links-hong-kongs)
+* [JPMorgan Chase invests in artificial intelligence startup Volley](https://www.reuters.com/article/us-jpmorgan-volley/jpmorgan-chase-invests-in-artificial-intelligence-startup-volley-idUSKBN1K721D)
+* [This Google-Funded Company Uses Artificial Intelligence To Fight Against Fake News](https://www.forbes.com/sites/bernardmarr/2018/07/18/this-google-funded-company-uses-artificial-intelligence-to-fight-against-fake-news/#155211953ca4)
 
 
 

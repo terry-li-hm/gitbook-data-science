@@ -22,6 +22,8 @@
 * [一份AI博士生的ICML2018“學霸”筆記（55頁） \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17-21)
 * [清華發佈《中國AI發展報告2018》：中科院系統AI論文產出全球第一（附下載）... - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81048987)
 * [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
+* [清華大學：《2018中國人工智能AI發展報告》（全文） 電子商務研究中心 中國電商門戶 互聯網+智庫 電商新媒體 新零售入口](http://www.100ec.cn/detail--6459797.html)
+* [5 Artificial Intelligence Business Lessons From The Masters](https://www.forbes.com/sites/maribellopez/2018/07/10/5-artificial-intelligence-business-lessons-from-the-masters/#6862cdcb5753)
 
 
 
