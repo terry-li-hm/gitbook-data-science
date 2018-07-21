@@ -159,6 +159,8 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * [AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai](http://www.fast.ai/2018/07/02/adam-weight-decay/)
 * [Tomaso Poggio深度學習理論：深度網絡「過擬合缺失」的本質 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-17)
 * [Improving the Performance of a Neural Network – Towards Data Science](https://towardsdatascience.com/how-to-increase-the-accuracy-of-a-neural-network-9f5d1c6f407d)
+* [Intro to optimization in deep learning: Vanishing gradients and choosing the right activation function](https://blog.paperspace.com/vanishing-gradients-activation-function/)
+* [Intro to optimization in deep learning: Busting the myth about batch normalization](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
 
 ## Gradient Descent
 

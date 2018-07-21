@@ -97,6 +97,8 @@
 * [历经五次迭代，看饿了么方舟智能调度系统如何指挥300万骑手 \| 雷锋网](https://www.leiphone.com/news/201805/QFzSbC368B2W5WNR.html)
 * [Where Predictive Analytics Is Having the Biggest Impact](https://hbr.org/2016/05/where-predictive-analytics-is-having-the-biggest-impact)
 * [How Instagram’s algorithm works \| TechCrunch](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
+* [由深度卷积GAN生成的人工数据可用于增强真实数据集](http://www.atyun.com/23509.html)
+* [通过实例说明机器学习如何处理歧义](http://www.atyun.com/23486.html)
 
 
 
