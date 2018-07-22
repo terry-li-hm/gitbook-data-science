@@ -65,4 +65,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Automatic tagging of clothing in E-Commerce, Using Tensorflow and GCP.](https://blog.usejournal.com/automatic-tagging-of-clothing-in-e-commerce-using-tensorflow-and-gcp-d2b623cd2a78)
 * [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
 * [Building a Mask R-CNN Model for Detecting Car Damage \(Python codes\)](https://www.analyticsvidhya.com/blog/2018/07/building-mask-r-cnn-model-detecting-damage-cars-python/)
+* [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
 

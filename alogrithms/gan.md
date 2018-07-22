@@ -22,6 +22,7 @@
 * [Compare GAN Modules Colab - Colaboratory](https://colab.research.google.com/github/google/compare_gan/blob/master/compare_gan/src/tfhub_models.ipynb)
 * [Facebook's Machine Learning Model Manipulates Images to Open Closed Eyes!](https://www.analyticsvidhya.com/blog/2018/06/facebook-presents-ai-system-that-can-open-closed-eyes-in-pictures/)
 * [谷歌大腦發佈GAN全景圖：看百家爭鳴的生成對抗網絡 \| 機器之心](https://www.jiqizhixin.com/articles/071501)
+* [Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM https://t.co/uOBby8HeF8"](https://mobile.twitter.com/genekogan/status/1019942146303053825)
 
 
 

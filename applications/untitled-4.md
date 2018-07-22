@@ -109,6 +109,10 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [葉志豪：介紹強化學習及其在 NLP 上的應用 \| 分享總結 \| 雷鋒網](https://www.leiphone.com/news/201807/sbyafpzV4BgvjLT1.html)
 * [Convolutional neural networks for language tasks - O'Reilly Media](https://www.oreilly.com/ideas/convolutional-neural-networks-for-language-tasks?mkt_tok=eyJpIjoiWm1NNFpEUXpNek00TVRkbSIsInQiOiI1ZWEwejVJeUs4SVFhMFJ4b0F5NkZNRlpsTWlqRVdqcWFta001Mkd0YTQzbHY2Qnl0aDlaRkJEM1FEbGN6Ykx6ejFFNW1UVFZDME5jZmd1VEUyYXBBeFQ3VzhCZkRmVDc3dzF3OE1tUUYyYzI4bVo1Vmg5ZXVaUzFFbkphNEwrYiJ9)
 * [A Comprehensive Guide to Understand and Implement Text Classification in Python](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
+* [Jeremy Howard on Twitter: "Very interesting - combining recent work from @lnsmith613 & @GuggerSylvain on super-convergence with a transformer language model \(@AlecRad\) shows dramatic improvements in perplexity, speed, and size over @Smerity's very strong AWD LSTM! https://t.co/t6LbAKap3M https://t.co/xI9E8zHZP8"](https://mobile.twitter.com/jeremyphoward/status/1020097463376461824)
+* [kororo/excelcy: Excel Integration with SpaCy. Includes, Entity training, Entity matcher pipe.](https://github.com/kororo/excelcy)
+* [dongjun-Lee/text-classification-models-tf: Tensorflow implementations of Text Classification Models.](https://github.com/dongjun-Lee/text-classification-models-tf)
+* [dongjun-Lee/transfer-learning-text-tf: Tensorflow implementation of Semi-supervised Sequence Learning \(https://arxiv.org/abs/1511.01432\)](https://github.com/dongjun-Lee/transfer-learning-text-tf)
 
 ### Sentiment Analysis
 

@@ -18,6 +18,7 @@
 * [Interpreting Decision Trees and Random Forests](http://engineering.pivotal.io/post/interpreting-decision-trees-and-random-forests/)
 * [A Guide to Gradient Boosted Trees with XGBoost in Python](https://jessesw.com/XG-Boost/)
 * [All you need to know about Decision Tree \(Part-1\)](https://analyticsdefined.com/decision-tree-part-1/)
+* [How decision trees work](https://brohrer.github.io/how_decision_trees_work.html)
 
 ## SVM
 

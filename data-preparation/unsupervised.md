@@ -12,6 +12,7 @@
 * [Visualizing Supervised Machine Learning](https://colab.research.google.com/github/DJCordhose/ai/blob/master/notebooks/scipy/ml-viz.ipynb)
 * [lmcinnes/umap: Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap)
 * [K-Means Clustering: All You Need to Know \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](http://byteacademy.co/blog/k-means-clustering/)
+* [Rhondene Wint on Twitter: "If you are unsure about the k number of clusters to choose during KMeans clustering, using the elbow method and silhouette analysis can be helpful. Choose k that minimizes distortion and maximizes mean silhouette score. @rasbt 's Python Machine Learning has excellent code. https://t.co/bLekWUA3w3"](https://mobile.twitter.com/R_Winty/status/1020091726285791232)
 
 
 

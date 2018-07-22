@@ -19,6 +19,7 @@
 * [Of oaths and checklists - O'Reilly Media](https://www.oreilly.com/ideas/of-oaths-and-checklists)
 * [Regulating AI in the era of big tech](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
 * [Doing good data science - O'Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science?mkt_tok=eyJpIjoiTVRFM05XTTROR1k1WW1FNCIsInQiOiJSekx3ZzBNcnFxK0JiVDN1VEZvN05RYnBUU2JRVHh2UCswMW8wUkVBdThDNDZNUmh6ZHo1allsWHV0K09UdUVJbDBKZEhPd29NS01iRndhZEd0ZFBiOXhoRktqQ0hHVTZ2S05DQUpwd0hjVXErclNsWmw2S3diQU94c045dHlidyJ9)
+* [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
 
 ## Interpretability
 
