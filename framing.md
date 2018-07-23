@@ -102,7 +102,10 @@
 * [Move Mirror: An AI Experiment with Pose Estimation in the Browser using TensorFlow.js](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
 * [Scoop: Inside Google's Venture Capital "Machine" - Axios](https://www.axios.com/scoop-inside-google-venure-capital-machine-ce7782f2-a9b4-4556-8feb-0914e77ac021.html)
 * \*\*\*\*[**A Gentle Introduction to Credit Risk Modeling with Data Science - Part 2**](https://towardsdatascience.com/a-gentle-introduction-to-credit-risk-modeling-with-data-science-part-2-d7b87806c9df)\*\*\*\*
-
+* [《邪不壓正》評分持續走低，上萬條網友評論揭秘，是救救姜文還是救救觀眾？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22)
+* [從FM推演各深度CTR預估模型（附開源代碼） \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22-19)
+* [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match…](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
+* 
 
 
 ## Analysis

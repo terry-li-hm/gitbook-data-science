@@ -27,6 +27,8 @@ lastdate = train.iloc[train.shape[0]-1].date
 * [Reading and writing to Google Spreadsheets using Python](https://www.interviewqs.com/blog/pythonsheets)
 * [Awesome Python](https://awesome-python.com/)
 * [Regex Crossword](https://regexcrossword.com/)
+* [Python特性之迭代器與生成器 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-18)
+* [Python數據分析之numpy \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-18-2)
 
 
 

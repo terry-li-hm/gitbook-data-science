@@ -8,4 +8,5 @@
 * [data-science-ipython-notebooks/pandas.ipynb at master · donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb)
 * [Pandas Cheat Sheet for Data Science in Python \(article\) - DataCamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U)
 * [datas-frame – Modern Pandas \(Part 1\)](https://tomaugspurger.github.io/modern-1-intro.html)
+* [數據礦工學習-Python數據分析之pandas \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-18-3)
 

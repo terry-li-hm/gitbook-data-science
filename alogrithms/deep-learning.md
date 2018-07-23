@@ -64,6 +64,8 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Keras or PyTorch as your first deep learning framework \| deepsense.ai](https://deepsense.ai/keras-or-pytorch/)
 * [深度學習必備的5大知識模塊（內附知識卡片）](https://mp.weixin.qq.com/s/53Vdvap5zwXV5qPilNaThw)
 * [Introducing capsule networks - O'Reilly Media](https://www.oreilly.com/ideas/introducing-capsule-networks?mkt_tok=eyJpIjoiWm1NNFpEUXpNek00TVRkbSIsInQiOiI1ZWEwejVJeUs4SVFhMFJ4b0F5NkZNRlpsTWlqRVdqcWFta001Mkd0YTQzbHY2Qnl0aDlaRkJEM1FEbGN6Ykx6ejFFNW1UVFZDME5jZmd1VEUyYXBBeFQ3VzhCZkRmVDc3dzF3OE1tUUYyYzI4bVo1Vmg5ZXVaUzFFbkphNEwrYiJ9)
+* [What is the Difference Between a Batch and an Epoch in a Neural Network?](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+* [收藏 \| 一張地圖帶你玩轉機器學習（附資源） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81140412)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 

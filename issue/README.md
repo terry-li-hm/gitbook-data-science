@@ -55,4 +55,5 @@
 * [Fairness in Machine Learning with PyTorch](https://blog.godatadriven.com/fairness-in-pytorch)
 * [Machine Learning for fair decisions - Microsoft Research](https://www.microsoft.com/en-us/research/blog/machine-learning-for-fair-decisions/)
 * [Cultural Bias in Machine Intelligence \| machinebias.github.io](http://machinebias.org/)
+* [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning)
 

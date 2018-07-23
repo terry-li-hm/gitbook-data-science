@@ -47,4 +47,5 @@
 * [ajknblog.com/basics/hypothesis-testing-prerequisites/](http://ajknblog.com/basics/hypothesis-testing-prerequisites/)
 * [因果關係分析方法簡介 \| 機器之心](https://www.jiqizhixin.com/articles/2016-11-01-3)
 * [What is Statistics \(and why is it important in machine learning\)?](https://machinelearningmastery.com/what-is-statistics/)
+* [A Gentle Introduction to Statistical Power and Power Analysis in Python](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
 

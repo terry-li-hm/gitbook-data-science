@@ -26,6 +26,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [Deep Learning Tips and Tricks – Towards Data Science](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/)
   * [mkocabas/CoordConv-pytorch: Pytorch implementation of CoordConv introduced in 'An intriguing failing of convolutional neural networks and the CoordConv solution' paper. \(https://arxiv.org/pdf/1807.03247.pdf\)](https://github.com/mkocabas/CoordConv-pytorch)
+* [A simple 2D CNN for MNIST digit recognition – Towards Data Science](https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a)
 
 
 
