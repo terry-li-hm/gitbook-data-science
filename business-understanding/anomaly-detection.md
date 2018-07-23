@@ -142,6 +142,8 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 ![](../.gitbook/assets/image%20%2839%29.png)
 
+[How to Successfully Harness AI to Combat Fraud and Abuse - RSA 2018 - YouTube](https://www.youtube.com/watch?v=5gxI-6QmPdE)
+
 ## Relevant Kaggle Competitions
 
 * [TalkingData AdTracking Fraud Detection Challenge \| Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/kernels)

@@ -25,6 +25,6 @@
 * [Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM https://t.co/uOBby8HeF8"](https://mobile.twitter.com/genekogan/status/1019942146303053825)
 * [Math insights for InfoGANs, VAEGANs, CycleGAN and more \( Generative adversarial networks papers \) - YouTube](https://www.youtube.com/watch?v=r3L3JT_TLTM)
 * [Learning to write programs that generate images \| DeepMind](https://deepmind.com/blog/learning-to-generate-images/)
-
-
+* [\[1807.04720\] The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720)
+* [google/compare\_gan: Compare GAN code.](https://github.com/google/compare_gan)
 

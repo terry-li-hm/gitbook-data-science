@@ -12,3 +12,7 @@
 * [What’s in a name? – Lyft Engineering](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
 * [數據團隊該為公司的AI轉型負責嗎？花五分鐘時間換個答案 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-20-3)
 
+
+
+{% embed data="{\"url\":\"https://mobile.twitter.com/math\_rachel/status/1018158422213062662\",\"type\":\"rich\",\"title\":\"Rachel Thomas on Twitter\",\"description\":\"another data science failure mode: the “cool model” gets driven into a product plan without consideration of the real need or practicalities h/t @fwph https://t.co/ETIfASoIDK— Rachel Thomas \(@math\_rachel\) July 14, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">another data science failure mode: the “cool model” gets driven into a product plan without consideration of the real need or practicalities h/t <a href=\\\"https://twitter.com/fwph?ref\_src=twsrc%5Etfw\\\">@fwph</a> <a href=\\\"https://t.co/ETIfASoIDK\\\">https://t.co/ETIfASoIDK</a></p>&mdash; Rachel Thomas \(@math\_rachel\) <a href=\\\"https://twitter.com/math\_rachel/status/1018158422213062662?ref\_src=twsrc%5Etfw\\\">July 14, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
+
