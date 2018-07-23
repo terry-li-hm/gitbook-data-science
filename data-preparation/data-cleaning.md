@@ -14,6 +14,8 @@
 * [A Complete Machine Learning Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [Pendulum - Python datetimes made easy](https://pendulum.eustace.io/)
 * [Arrow: better dates and times for Python — Arrow 0.11.0 documentation](http://arrow.readthedocs.io/en/latest/)
+* [Tidying the Australian Same Sex Marriage Postal Survey Data with R](https://medium.com/@miles.mcbain/tidying-the-australian-same-sex-marriage-postal-survey-data-with-r-5d35cea07962)
+* [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/index.html)
 
 ### Imputation {#2)-A-Better-Option:-Imputation}
 

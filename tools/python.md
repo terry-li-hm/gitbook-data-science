@@ -26,6 +26,7 @@ lastdate = train.iloc[train.shape[0]-1].date
 * [Data science with Python: Turn your conditional loops to Numpy vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e)
 * [Reading and writing to Google Spreadsheets using Python](https://www.interviewqs.com/blog/pythonsheets)
 * [Awesome Python](https://awesome-python.com/)
+* [Regex Crossword](https://regexcrossword.com/)
 
 
 

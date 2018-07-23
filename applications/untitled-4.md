@@ -113,6 +113,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [kororo/excelcy: Excel Integration with SpaCy. Includes, Entity training, Entity matcher pipe.](https://github.com/kororo/excelcy)
 * [dongjun-Lee/text-classification-models-tf: Tensorflow implementations of Text Classification Models.](https://github.com/dongjun-Lee/text-classification-models-tf)
 * [dongjun-Lee/transfer-learning-text-tf: Tensorflow implementation of Semi-supervised Sequence Learning \(https://arxiv.org/abs/1511.01432\)](https://github.com/dongjun-Lee/transfer-learning-text-tf)
+* [IndicoDataSolutions/finetune: Scikit-learn style model finetuning for NLP](https://github.com/IndicoDataSolutions/finetune)
 
 ### Sentiment Analysis
 

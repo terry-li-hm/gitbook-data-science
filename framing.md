@@ -99,6 +99,9 @@
 * [How Instagram’s algorithm works \| TechCrunch](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)
 * [由深度卷积GAN生成的人工数据可用于增强真实数据集](http://www.atyun.com/23509.html)
 * [通过实例说明机器学习如何处理歧义](http://www.atyun.com/23486.html)
+* [Move Mirror: An AI Experiment with Pose Estimation in the Browser using TensorFlow.js](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
+* [Scoop: Inside Google's Venture Capital "Machine" - Axios](https://www.axios.com/scoop-inside-google-venure-capital-machine-ce7782f2-a9b4-4556-8feb-0914e77ac021.html)
+* \*\*\*\*[**A Gentle Introduction to Credit Risk Modeling with Data Science - Part 2**](https://towardsdatascience.com/a-gentle-introduction-to-credit-risk-modeling-with-data-science-part-2-d7b87806c9df)\*\*\*\*
 
 
 

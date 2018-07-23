@@ -56,6 +56,7 @@
   * [Seq2seq](alogrithms/seq2seq.md)
   * [VAE](alogrithms/vae.md)
   * [Graph](alogrithms/graph.md)
+  * [Genetic Algorithms](alogrithms/genetic-algorithms.md)
 * [Tools](tools/README.md)
   * [Python](tools/python.md)
   * [Tensorflow](tools/tensorflow.md)
@@ -112,4 +113,5 @@
 * [Master](master.md)
 * [AGI](agi.md)
 * [CS](cs.md)
+* [Mindset](mindset.md)
 

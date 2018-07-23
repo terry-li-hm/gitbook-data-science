@@ -16,4 +16,6 @@
 * [Cats to crazy quilts: Using style transfer to generate adversarial examples](https://hackernoon.com/cats-to-crazy-quilts-using-style-transfer-to-generate-adversarial-examples-b88eef073d04)
 * [\[1806.11146\] Adversarial Reprogramming of Neural Networks](https://arxiv.org/abs/1806.11146)
 * [Making Machine Learning Robust Against Adversarial Inputs \| July 2018 \| Communications of the ACM](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs/fulltext)
+* [Exploring Adversarial Reprogramming – Rajat's Blog – A blog about machine learning and math.](https://rajatvd.github.io/Exploring-Adversarial-Reprogramming/)
+* [\[1807.06732\] Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
 
