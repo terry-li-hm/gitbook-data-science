@@ -114,6 +114,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [dongjun-Lee/text-classification-models-tf: Tensorflow implementations of Text Classification Models.](https://github.com/dongjun-Lee/text-classification-models-tf)
 * [dongjun-Lee/transfer-learning-text-tf: Tensorflow implementation of Semi-supervised Sequence Learning \(https://arxiv.org/abs/1511.01432\)](https://github.com/dongjun-Lee/transfer-learning-text-tf)
 * [IndicoDataSolutions/finetune: Scikit-learn style model finetuning for NLP](https://github.com/IndicoDataSolutions/finetune)
+* [\[1807.00914\] Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing](https://arxiv.org/abs/1807.00914)
 
 ### Sentiment Analysis
 

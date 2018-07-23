@@ -66,4 +66,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
 * [Building a Mask R-CNN Model for Detecting Car Damage \(Python codes\)](https://www.analyticsvidhya.com/blog/2018/07/building-mask-r-cnn-model-detecting-damage-cars-python/)
 * [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
+* [image\_captioning\_with\_attention.ipynb - Colaboratory](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb?linkId=54343050)
 

@@ -20,6 +20,8 @@
 * [Data ScienceTutorial for Beginners \| Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
 * [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 * [Data Science Glossary on Kaggle !](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
+* [ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
+* [Manning \| Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)
 
 
 
