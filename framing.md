@@ -105,7 +105,8 @@
 * [《邪不壓正》評分持續走低，上萬條網友評論揭秘，是救救姜文還是救救觀眾？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22)
 * [從FM推演各深度CTR預估模型（附開源代碼） \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22-19)
 * [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match…](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
-* 
+* [機器學習算法檢測分析輻射損傷，速度和準確率均勝過人類 \| ATYUN](http://www.atyun.com/25398.html)
+
 
 
 ## Analysis
