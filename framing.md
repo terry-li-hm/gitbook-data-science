@@ -106,6 +106,7 @@
 * [從FM推演各深度CTR預估模型（附開源代碼） \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22-19)
 * [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match…](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
 * [機器學習算法檢測分析輻射損傷，速度和準確率均勝過人類 \| ATYUN](http://www.atyun.com/25398.html)
+* [如何优雅的追到女神夕小瑶](https://zhuanlan.zhihu.com/p/25844094)
 
 
 

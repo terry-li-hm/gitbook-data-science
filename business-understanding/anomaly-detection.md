@@ -21,6 +21,7 @@
 
 * [Outlier Analysis eBook: Charu C. Aggarwal](https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal-ebook/dp/B06XG1BQJJ/)
 * F[raud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection](https://www.amazon.com/Analytics-Descriptive-Predictive-Network-Techniques-ebook/dp/B012WA66SK/ref=mt_kindle?_encoding=UTF8&me=)
+* [https://pages.dataiku.com/hubfs/Guidebooks/Anomaly%20Detection/anomaly-detection-guidebook.pdf?\_hsenc=p2ANqtz-\_ib0jZBg7DKz4ETV7\_aUUBKSCr9RvzihVjq1sln2aZ5IzhB9KVHWsKml8FDjZ71j88QXEzYXmSaoCqSDmOZt-WI7xgbw&\_hsmi=59642779&hsCtaTracking=d3879352-4895-4017-9d41-91cd421d29e0%7Cd4b72d1d-fa7b-4bde-afb0-e793033424a7](https://pages.dataiku.com/hubfs/Guidebooks/Anomaly%20Detection/anomaly-detection-guidebook.pdf?_hsenc=p2ANqtz-_ib0jZBg7DKz4ETV7_aUUBKSCr9RvzihVjq1sln2aZ5IzhB9KVHWsKml8FDjZ71j88QXEzYXmSaoCqSDmOZt-WI7xgbw&_hsmi=59642779&hsCtaTracking=d3879352-4895-4017-9d41-91cd421d29e0%7Cd4b72d1d-fa7b-4bde-afb0-e793033424a7)
 
 ## Curation
 

@@ -15,6 +15,8 @@
 * [The simplest explanation of machine learning you’ll ever read](https://hackernoon.com/the-simplest-explanation-of-machine-learning-youll-ever-read-bebc0700047c)
 * [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
 * [Data Science Predicting The Future](https://www.kdnuggets.com/2018/06/data-science-predicting-future.html)
+* [不要再纠结卷积的公式啦！0公式深度解析全连接前馈网络与卷积神经网络 \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-09-15)
+* [Building a Deep Neural Net In Google Sheets – Towards Data Science](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)
 
 ![](.gitbook/assets/image%20%2846%29.png)
 
