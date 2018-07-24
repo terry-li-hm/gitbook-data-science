@@ -24,4 +24,5 @@
 * \*\*\*\*[**Brandon Rohrer**](https://brohrer.github.io/blog.html)\*\*\*\*
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai/)
 * [pablo14/data-science-live-book: An open source book to learn data science, data analysis and machine learning, suitable for all ages!](https://github.com/pablo14/data-science-live-book)
+* \*\*\*\*[**liveBook - Deep Learning with Python**](https://livebook.manning.com/#!/book/deep-learning-with-python/about-this-book/1)\*\*\*\*
 
