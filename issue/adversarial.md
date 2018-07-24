@@ -18,6 +18,9 @@
 * [Making Machine Learning Robust Against Adversarial Inputs \| July 2018 \| Communications of the ACM](https://cacm.acm.org/magazines/2018/7/229030-making-machine-learning-robust-against-adversarial-inputs/fulltext)
 * \*\*\*\*[**Exploring Adversarial Reprogramming – Rajat's Blog – A blog about machine learning and math.**](https://rajatvd.github.io/Exploring-Adversarial-Reprogramming/)\*\*\*\*
 * [\[1807.06732\] Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
+* [Breaking things is easy \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html)
+* [Is attacking machine learning easier than defending it? \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
+* [The challenge of verification and testing of machine learning \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2017/06/14/verification.html)
 
 
 

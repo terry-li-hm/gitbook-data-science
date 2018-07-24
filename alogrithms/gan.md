@@ -27,4 +27,6 @@
 * [Learning to write programs that generate images \| DeepMind](https://deepmind.com/blog/learning-to-generate-images/)
 * [\[1807.04720\] The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720)
 * [google/compare\_gan: Compare GAN code.](https://github.com/google/compare_gan)
+* [Singing Style Transfer Using CybeGAN](http://mirlab.org/users/haley.wu/cybegan/)
+* [akanimax/pro\_gan\_pytorch: ProGAN package implemented as an extension of PyTorch nn.Module](https://github.com/akanimax/pro_gan_pytorch)
 

@@ -60,3 +60,7 @@
 * [Cultural Bias in Machine Intelligence \| machinebias.github.io](http://machinebias.org/)
 * [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning)
 
+## Privacy
+
+* [Privacy and machine learning: two unexpected allies? \| cleverhans-blog](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
+
