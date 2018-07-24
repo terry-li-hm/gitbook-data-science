@@ -11,6 +11,7 @@
 * [車好多CTO張小沛：從高管到一線，如何營造全公司一致的數據價值觀 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-11-7)
 * [What’s in a name? – Lyft Engineering](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
 * [數據團隊該為公司的AI轉型負責嗎？花五分鐘時間換個答案 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-20-3)
+* [The Need For The Ml audit – Andrew Clark – Machine Learning Auditor and Data Scientist](https://aclarkdata.github.io/The-Need-for-the-ML-Audit/)
 
 
 
