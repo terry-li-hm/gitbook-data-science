@@ -8,6 +8,8 @@
 * [lk-geimfari/mimesis: Mimesis is a fast and easy to use library for Python, which helps generate synthetic data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
 * [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
 * [TeamHG-Memex/eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions](https://github.com/TeamHG-Memex/eli5)
+* [Evaluating Machine Learning Models](https://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf)
+* [Use of swap set to measure impact of model changes](http://www.experian.com/blogs/insights/2018/01/swap-set-measure-impact-model-changes/)
 
 
 
