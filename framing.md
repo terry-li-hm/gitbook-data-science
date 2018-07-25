@@ -111,6 +111,10 @@
 * [Using Deep Learning to automatically rank millions of hotel images](https://medium.com/idealo-tech-blog/using-deep-learning-to-automatically-rank-millions-of-hotel-images-c7e2d2e5cae2)
 * [快手AI技術副總裁鄭文：為什麼說AI是短視頻平台的核心能力 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-24-2)
 * [Talk the Walk: Teaching AI systems to navigate New York through language – Facebook Code](https://code.fb.com/ai-research/talk-the-walk-teaching-ai-systems-to-navigate-new-york-through-language/)
+* [虹膜識別升級：AI系統辨別虹膜主人是否存活 \| ATYUN](http://www.atyun.com/25495.html)
+* [京東金融與KDD2018：如何針對性解決城市計算痛點 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-25-3)
+* [AI In Manufacturing \(Industrial AI\) \| LinkedIn](https://www.linkedin.com/pulse/ai-manufacturing-industrial-junling-hu/?from=timeline&isappinstalled=0)
+* [How to Define Your Machine Learning Problem](https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/)
 
 
 

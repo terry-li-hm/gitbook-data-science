@@ -116,6 +116,9 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [IndicoDataSolutions/finetune: Scikit-learn style model finetuning for NLP](https://github.com/IndicoDataSolutions/finetune)
 * [\[1807.00914\] Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing](https://arxiv.org/abs/1807.00914)
 * \*\*\*\*[**Introducing state of the art text classification with universal language models · fast.ai NLP**](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)\*\*\*\*
+* [香儂科技獨家對話斯坦福大學計算機學院教授、麥克阿瑟天才獎得主Dan Jurafsky \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-25-4)
+* [NLP概述和文本自動分類算法詳解 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-25-5)
+* [Multi-Class Text Classification with Scikit-Learn – Towards Data Science](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 
 ### Sentiment Analysis
 
