@@ -107,6 +107,10 @@
 * [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match…](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
 * [機器學習算法檢測分析輻射損傷，速度和準確率均勝過人類 \| ATYUN](http://www.atyun.com/25398.html)
 * [如何优雅的追到女神夕小瑶](https://zhuanlan.zhihu.com/p/25844094)
+* [初創公司BabbleLabs用AI來增強語音 \| ATYUN](http://www.atyun.com/25462.html)
+* [Using Deep Learning to automatically rank millions of hotel images](https://medium.com/idealo-tech-blog/using-deep-learning-to-automatically-rank-millions-of-hotel-images-c7e2d2e5cae2)
+* [快手AI技術副總裁鄭文：為什麼說AI是短視頻平台的核心能力 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-24-2)
+* [Talk the Walk: Teaching AI systems to navigate New York through language – Facebook Code](https://code.fb.com/ai-research/talk-the-walk-teaching-ai-systems-to-navigate-new-york-through-language/)
 
 
 

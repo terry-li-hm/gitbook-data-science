@@ -45,6 +45,7 @@
 * [tensorflow/tcav](https://github.com/tensorflow/tcav/)
 * [\[1602.04938\] "Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
 * [Ideas on interpreting machine learning - O'Reilly Media](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+* [yosinski/deep-visualization-toolbox: DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
 ##  Fairness
 

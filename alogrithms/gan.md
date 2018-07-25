@@ -29,4 +29,5 @@
 * [google/compare\_gan: Compare GAN code.](https://github.com/google/compare_gan)
 * [Singing Style Transfer Using CybeGAN](http://mirlab.org/users/haley.wu/cybegan/)
 * [akanimax/pro\_gan\_pytorch: ProGAN package implemented as an extension of PyTorch nn.Module](https://github.com/akanimax/pro_gan_pytorch)
+* [GAN — Ways to improve GAN performance – Towards Data Science](https://towardsdatascience.com/gan-ways-to-improve-gan-performance-acf37f9f59b)
 

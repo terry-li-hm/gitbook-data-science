@@ -25,6 +25,8 @@
 * [清華大學：《2018中國人工智能AI發展報告》（全文） 電子商務研究中心 中國電商門戶 互聯網+智庫 電商新媒體 新零售入口](http://www.100ec.cn/detail--6459797.html)
 * [5 Artificial Intelligence Business Lessons From The Masters](https://www.forbes.com/sites/maribellopez/2018/07/10/5-artificial-intelligence-business-lessons-from-the-masters/#6862cdcb5753)
 * [Forbes Insights AI: Issue 1](https://www.forbes.com/insights-intelai/ai-issue-1/)
+* \*\*\*\*[**Google's AutoML: Cutting Through the Hype · fast.ai**](http://www.fast.ai/2018/07/23/auto-ml-3/)\*\*\*\*
+* [Defining data science in 2018 \| Yanir Seroussi](https://yanirseroussi.com/2018/07/22/defining-data-science-in-2018/)
 
 
 

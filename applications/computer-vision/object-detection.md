@@ -15,4 +15,6 @@
 * [Face recognition with OpenCV, Python, and deep learning - PyImageSearch](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
 * [Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)
 * [An overview of object detection: one-stage methods.](https://www.jeremyjordan.me/object-detection-one-stage/)
+* [SSD\(Single Shot Multi-Box Detection\) for real time object detection](https://medium.com/@rabinpoudyal1995/ssd-single-shot-multi-box-detection-for-real-time-object-detection-5f2a06e33a4a)
+* [Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)
 

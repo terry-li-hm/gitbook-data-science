@@ -8,4 +8,5 @@
 * [Yann LeCun’s IJCAI Keynote: We Need a World Model – SyncedReview – Medium](https://medium.com/syncedreview/yann-lecuns-ijcai-keynote-we-need-a-world-model-b5248f50e50f)
 * [Yann LeCun - Video of my keynote at the International Joint...](https://www.facebook.com/722677142/posts/10155402036352143/)
 * [The Seven Tools of Causal Inference with Reflections on Machine Learning \| JUDEA PEARL](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
+* [Why Rubik’s Cube May Unlock a Breakthrough in AI \| NVIDIA Blog](https://blogs.nvidia.com/blog/2018/07/23/rubiks-cube-ai-breakthrough/)
 

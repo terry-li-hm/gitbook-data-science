@@ -69,6 +69,7 @@
   * [Jupyter Notebook](tools/jupyter-notebook.md)
   * [Bash](tools/untitled-1.md)
   * [MXNet](tools/mxnet.md)
+  * [Tensorflow or PyTorch](tools/tensorflow-or-pytorch.md)
 * [Applications](applications/README.md)
   * [Time Series](applications/time-series.md)
   * [NLP](applications/untitled-4.md)
@@ -115,4 +116,5 @@
 * [CS](cs.md)
 * [Mindset](mindset.md)
 * [Audit](audit.md)
+* [For Good](for-good.md)
 

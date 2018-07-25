@@ -1,5 +1,11 @@
 # Which Algorithm to Try
 
+ [Rachel Thoma:](http://www.fast.ai/2018/07/16/auto-ml2/)
+
+> a key benefit of random forests over gradient boosting machines \(GBMs\) is that random forests are more robust, whereas GBMs tend to be fairly sensitive to minor changes in hyperparameters. As a result, random forests are widely used in industry.
+
+
+
 From Machine Learning Yearning:
 
 > This diagram shows NNs doing better in the regime of small datasets. This effect is less consistent than the effect of NNs doing well in the regime of huge datasets. In the small data regime, depending on how the features are hand-engineered, traditional algorithms may or may not do better. For example, if you have 20 training examples, it might not matter much whether you use logistic regression or a neural network; the hand-engineering of features will have a bigger effect than the choice of algorithm. But if you have 1 million examples, I would favor the neural network.

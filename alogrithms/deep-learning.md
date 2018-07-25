@@ -183,6 +183,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * [Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 * [A Way to Improve Gradient Descent: Stochastic Gradient Descent With Restarts](https://medium.com/@reina.wang.tw/https-medium-com-reina-wang-tw-stochastic-gradient-descent-with-restarts-5f511975163)
 * [训练神经网络时如何确定batch size？ \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-12-4)
+* [Intro to optimization in deep learning: Momentum, RMSProp and Adam](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
 
 
 

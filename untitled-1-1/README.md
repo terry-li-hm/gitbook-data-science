@@ -10,6 +10,7 @@
 * [TeamHG-Memex/eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions](https://github.com/TeamHG-Memex/eli5)
 * [Evaluating Machine Learning Models](https://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf)
 * [Use of swap set to measure impact of model changes](http://www.experian.com/blogs/insights/2018/01/swap-set-measure-impact-model-changes/)
+* [How to Calculate McNemar's Test to Compare Two Machine Learning Classifiers](https://machinelearningmastery.com/mcnemars-test-for-machine-learning/)
 
 
 
