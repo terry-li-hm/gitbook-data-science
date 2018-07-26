@@ -115,6 +115,9 @@
 * [京東金融與KDD2018：如何針對性解決城市計算痛點 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-25-3)
 * [AI In Manufacturing \(Industrial AI\) \| LinkedIn](https://www.linkedin.com/pulse/ai-manufacturing-industrial-junling-hu/?from=timeline&isappinstalled=0)
 * [How to Define Your Machine Learning Problem](https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/)
+* [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
+* [Neural networks for landing page optimization – Hacker Noon](https://hackernoon.com/neural-networks-for-landing-page-optimization-564153b4d120)
+* [yangzhangalmo/walk2friends: walk2friends: Inferring Social Links from Mobility Profiles](https://github.com/yangzhangalmo/walk2friends)
 
 
 

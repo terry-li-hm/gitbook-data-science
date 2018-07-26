@@ -117,4 +117,5 @@
 * [Mindset](mindset.md)
 * [Audit](audit.md)
 * [For Good](for-good.md)
+* [Workshop](workshop.md)
 

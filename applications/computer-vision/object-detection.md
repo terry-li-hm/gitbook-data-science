@@ -17,4 +17,5 @@
 * [An overview of object detection: one-stage methods.](https://www.jeremyjordan.me/object-detection-one-stage/)
 * [SSD\(Single Shot Multi-Box Detection\) for real time object detection](https://medium.com/@rabinpoudyal1995/ssd-single-shot-multi-box-detection-for-real-time-object-detection-5f2a06e33a4a)
 * [Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)
+* [ageitgey/face\_recognition: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 
