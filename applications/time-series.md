@@ -21,4 +21,5 @@
 * [Predicting Cryptocurrency Prices With Deep Learning](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/)
 * [S&P 500 \|\| Simple Forecasting with Prophet \| Kaggle](https://www.kaggle.com/janiobachmann/s-p-500-simple-forecasting-with-prophet)
 * [RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux)
+* [Everything you can do with a time series \| Kaggle](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
 

@@ -119,6 +119,11 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [香儂科技獨家對話斯坦福大學計算機學院教授、麥克阿瑟天才獎得主Dan Jurafsky \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-25-4)
 * [NLP概述和文本自動分類算法詳解 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-25-5)
 * [Multi-Class Text Classification with Scikit-Learn – Towards Data Science](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
+* [Comparison of Top 6 Python NLP Libraries – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/comparison-of-top-6-python-nlp-libraries-c4ce160237eb)
+* [李航教授展望自然語言對話領域：現狀與未來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-26-9)
+* [The unreasonable effectiveness of one neuron \| Rakesh Chada's Blog](https://rakeshchada.github.io/Sentiment-Neuron.html)
+* [在自然語言處理領域，哪些企業的發展遙遙領先？（附報告） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81229829)
+* [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn)
 
 ### Sentiment Analysis
 

@@ -118,6 +118,7 @@
 * [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
 * [Neural networks for landing page optimization – Hacker Noon](https://hackernoon.com/neural-networks-for-landing-page-optimization-564153b4d120)
 * [yangzhangalmo/walk2friends: walk2friends: Inferring Social Links from Mobility Profiles](https://github.com/yangzhangalmo/walk2friends)
+* [10 Examples of How to Use Statistical Methods in a Machine Learning Project](https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project/)
 
 
 

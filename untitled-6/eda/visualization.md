@@ -83,6 +83,7 @@
 * \*\*\*\*[**Data to Viz \| A collection of graphic pitfalls**](https://www.data-to-viz.com/caveats.html)\*\*\*\*
 * \*\*\*\*[**From data to Viz \| Find the graphic you need**](https://www.data-to-viz.com/index.html)\*\*\*\*
 * [Composing Custom Legends — Matplotlib 2.2.2 documentation](https://matplotlib.org/gallery/text_labels_and_annotations/custom_legends.html#sphx-glr-gallery-text-labels-and-annotations-custom-legends-py)
+* [So you got a kid. Would you rather have more money or more time? \| Chartable](https://blog.datawrapper.de/weekly37/)
 
 
 
