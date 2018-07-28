@@ -67,6 +67,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [What is the Difference Between a Batch and an Epoch in a Neural Network?](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
 * [收藏 \| 一張地圖帶你玩轉機器學習（附資源） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81140412)
 * [How to Configure the Number of Layers and Nodes in a Neural Network](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
+* [Neural Network 3D Simulation - YouTube](https://www.youtube.com/watch?v=3JQ3hYko51Y&app=desktop)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 

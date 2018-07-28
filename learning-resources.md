@@ -23,6 +23,7 @@
 * [ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
 * [Manning \| Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)
 * [Newbie’s guide to Deep Learning – Towards Data Science](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)
+* [Best \(and Free!!\) Resources to understand Nuts and Bolts of Deep learning - ParallelDots](https://blog.paralleldots.com/data-science/deep-learning/best-and-free-resources-to-understand-of-deep-learning/)
 
 
 

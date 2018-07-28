@@ -84,6 +84,7 @@
 * \*\*\*\*[**From data to Viz \| Find the graphic you need**](https://www.data-to-viz.com/index.html)\*\*\*\*
 * [Composing Custom Legends — Matplotlib 2.2.2 documentation](https://matplotlib.org/gallery/text_labels_and_annotations/custom_legends.html#sphx-glr-gallery-text-labels-and-annotations-custom-legends-py)
 * [So you got a kid. Would you rather have more money or more time? \| Chartable](https://blog.datawrapper.de/weekly37/)
+* [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 
 
 

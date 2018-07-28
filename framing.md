@@ -120,6 +120,7 @@
 * [yangzhangalmo/walk2friends: walk2friends: Inferring Social Links from Mobility Profiles](https://github.com/yangzhangalmo/walk2friends)
 * [10 Examples of How to Use Statistical Methods in a Machine Learning Project](https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project/)
 * [borisbanushev/predictions](https://github.com/BorisBanushev/predictions)
+* [How Olay used AI to double its conversion rate \| VentureBeat](https://venturebeat.com/2018/07/19/how-olay-used-ai-to-double-its-conversion-rate/)
 
 
 
