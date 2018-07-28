@@ -21,6 +21,7 @@
 * [Doing good data science - O'Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science?mkt_tok=eyJpIjoiTVRFM05XTTROR1k1WW1FNCIsInQiOiJSekx3ZzBNcnFxK0JiVDN1VEZvN05RYnBUU2JRVHh2UCswMW8wUkVBdThDNDZNUmh6ZHo1allsWHV0K09UdUVJbDBKZEhPd29NS01iRndhZEd0ZFBiOXhoRktqQ0hHVTZ2S05DQUpwd0hjVXErclNsWmw2S3diQU94c045dHlidyJ9)
 * [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
 * [Why Self-Driving Cars Must Be Programmed to Kill - MIT Technology Review](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/)
+* [Doing good data science - O'Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 
 ## Interpretability
 

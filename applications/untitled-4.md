@@ -123,6 +123,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [李航教授展望自然語言對話領域：現狀與未來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-26-9)
 * [The unreasonable effectiveness of one neuron \| Rakesh Chada's Blog](https://rakeshchada.github.io/Sentiment-Neuron.html)
 * [在自然語言處理領域，哪些企業的發展遙遙領先？（附報告） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81229829)
+* [ACL 2018：Attention 機制佔主流，中文語法檢錯測評引關注 \| ACL 2018 \| 雷鋒網](https://www.leiphone.com/news/201807/CSiDyhfKmCUMsTHy.html)
 * [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn)
 
 ### Sentiment Analysis

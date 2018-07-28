@@ -18,9 +18,9 @@
 * [不要再纠结卷积的公式啦！0公式深度解析全连接前馈网络与卷积神经网络 \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-09-15)
 * [Building a Deep Neural Net In Google Sheets – Towards Data Science](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 
 
@@ -38,15 +38,15 @@
 
 
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 [Source](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif)
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 
 
@@ -57,4 +57,6 @@
 {% embed data="{\"url\":\"https://mobile.twitter.com/jamesowers/status/1018065964343099393\",\"type\":\"rich\",\"title\":\"James Owers on Twitter\",\"description\":\"Holy. Shit. Expressive, interesting, and lengthy piano music generations. I genuinely got goosebumps listening to these. As far as I\'m concerned, this is a huge step forward for creative ML. Cheers Anna Huang. Paper: https://t.co/D50bdGHhxO \#icml2018 pic.twitter.com/WjECu2h3Pl— James Owers \(@jamesowers\) July 14, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://pbs.twimg.com/ext\_tw\_video\_thumb/1018065887826505730/pu/img/cFG6AQ4nsLI4F\_OS.jpg\",\"width\":1200,\"height\":675,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">Holy. Shit. Expressive, interesting, and lengthy piano music generations. I genuinely got goosebumps listening to these. As far as I&\#39;m concerned, this is a huge step forward for creative ML. Cheers Anna Huang. Paper: <a href=\\\"https://t.co/D50bdGHhxO\\\">https://t.co/D50bdGHhxO</a> <a href=\\\"https://twitter.com/hashtag/icml2018?src=hash&amp;ref\_src=twsrc%5Etfw\\\">\#icml2018</a> <a href=\\\"https://t.co/WjECu2h3Pl\\\">pic.twitter.com/WjECu2h3Pl</a></p>&mdash; James Owers \(@jamesowers\) <a href=\\\"https://twitter.com/jamesowers/status/1018065964343099393?ref\_src=twsrc%5Etfw\\\">July 14, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
 
 {% embed data="{\"url\":\"https://mobile.twitter.com/FredrikHeintz/status/1018763444743495680\",\"type\":\"rich\",\"title\":\"Fredrik Heintz on Twitter\",\"description\":\"What we can and cannot do with current supervised and reinforcement learning methods. @ylecun \#IJCAI2018 pic.twitter.com/eX3bpq7gp8— Fredrik Heintz \(@FredrikHeintz\) July 16, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">What we can and cannot do with current supervised and reinforcement learning methods. <a href=\\\"https://twitter.com/ylecun?ref\_src=twsrc%5Etfw\\\">@ylecun</a> <a href=\\\"https://twitter.com/hashtag/IJCAI2018?src=hash&amp;ref\_src=twsrc%5Etfw\\\">\#IJCAI2018</a> <a href=\\\"https://t.co/eX3bpq7gp8\\\">pic.twitter.com/eX3bpq7gp8</a></p>&mdash; Fredrik Heintz \(@FredrikHeintz\) <a href=\\\"https://twitter.com/FredrikHeintz/status/1018763444743495680?ref\_src=twsrc%5Etfw\\\">July 16, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
+
+![](.gitbook/assets/image%20%2813%29.png)
 
