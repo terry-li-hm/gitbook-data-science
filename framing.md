@@ -121,6 +121,8 @@
 * [10 Examples of How to Use Statistical Methods in a Machine Learning Project](https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project/)
 * [borisbanushev/predictions](https://github.com/BorisBanushev/predictions)
 * [How Olay used AI to double its conversion rate \| VentureBeat](https://venturebeat.com/2018/07/19/how-olay-used-ai-to-double-its-conversion-rate/)
+* [Simudyne](http://www.simudyne.com/#applications)
+* [微軟打算靠機器學習來預測 Windows 10 最佳更新時間](https://chinese.engadget.com/2018/07/27/windows-10-forced-update-feature/)
 
 
 

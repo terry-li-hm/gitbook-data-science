@@ -254,4 +254,6 @@ Some other tools:
 * [**NLP's ImageNet moment has arrived**](https://thegradient.pub/nlp-imagenet/)
 * [Generating Text with RNNs in 4 Lines of Code](https://www.kdnuggets.com/2018/06/generating-text-rnn-4-lines-code.html)
 * [全球首家多語言智能客服上線，這家神秘AI公司有什麼秘密武器？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22-2)
+* [Transfer Learning in Natural Language Processing \| Intel® Software](https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing)
+* [dmlc/gluon-nlp: NLP made easy](https://github.com/dmlc/gluon-nlp)
 

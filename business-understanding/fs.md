@@ -41,4 +41,5 @@
 * [騰訊粵港澳跨境支付綠皮書：技術應用呈現一體化、無差異化趨勢 \| 雷鋒網](https://www.leiphone.com/news/201807/QyXartpqeZHMeNDt.html)
 * [HKMA and seven banks to jointly launch blockchain-based trade finance platform in September \| South China Morning Post](https://www.scmp.com/business/companies/article/2155683/hkma-and-seven-banks-jointly-launch-blockchain-based-trade)
 * [退休貸引取罵聲一片，老年金融只能是一片被迫封印的藍海？ \| 雷鋒網](https://www.leiphone.com/news/201807/M9fyxGvyPrF8iitg.html)
+* [Barclays, Simudyne Technology broaden AI capabilities - Business Insider](https://www.businessinsider.com/barclays-simudyne-broaden-ai-capabilities-2018-7)
 
