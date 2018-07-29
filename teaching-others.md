@@ -17,6 +17,8 @@
 * [Data Science Predicting The Future](https://www.kdnuggets.com/2018/06/data-science-predicting-future.html)
 * [不要再纠结卷积的公式啦！0公式深度解析全连接前馈网络与卷积神经网络 \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-09-15)
 * [Building a Deep Neural Net In Google Sheets – Towards Data Science](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)
+* \*\*\*\*[**AutoML Natural Language Beginner's guide \| AutoML Natural Language \| Google Cloud**](https://cloud.google.com/natural-language/automl/docs/beginners-guide)\*\*\*\*
+* [Machine Learning and Human Bias - YouTube](https://www.youtube.com/watch?v=59bMh59JQDo)
 
 ![](.gitbook/assets/image%20%2847%29.png)
 

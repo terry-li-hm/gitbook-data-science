@@ -22,6 +22,8 @@
 * [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
 * [Why Self-Driving Cars Must Be Programmed to Kill - MIT Technology Review](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/)
 * [Doing good data science - O'Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
+* \*\*\*\*[**Inclusive ML \| Google Cloud**](https://cloud.google.com/inclusive-ml/)\*\*\*\*
+* [You and AI – Just An Engineer: The Politics of AI - YouTube](https://www.youtube.com/watch?v=HPopJb5aDyA)
 
 ## Interpretability
 
@@ -48,6 +50,7 @@
 * [Ideas on interpreting machine learning - O'Reilly Media](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 * [yosinski/deep-visualization-toolbox: DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 * [Understanding Neural Networks by embedding hidden representations \| Rakesh Chada's Blog](https://rakeshchada.github.io/Neural-Embedding-Animation.html)
+* [Responsible AI Practices – Google AI](https://ai.google/education/responsible-ai-practices)
 
 ##  Fairness
 
@@ -63,6 +66,7 @@
 * [Machine Learning for fair decisions - Microsoft Research](https://www.microsoft.com/en-us/research/blog/machine-learning-for-fair-decisions/)
 * [Cultural Bias in Machine Intelligence \| machinebias.github.io](http://machinebias.org/)
 * [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning)
+* [Machine Learning and Human Bias - YouTube](https://www.youtube.com/watch?v=59bMh59JQDo)
 
 ## Privacy
 

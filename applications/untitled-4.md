@@ -256,4 +256,6 @@ Some other tools:
 * [全球首家多語言智能客服上線，這家神秘AI公司有什麼秘密武器？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-22-2)
 * [Transfer Learning in Natural Language Processing \| Intel® Software](https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing)
 * [dmlc/gluon-nlp: NLP made easy](https://github.com/dmlc/gluon-nlp)
+* [Introduction \| ML Universal Guides \| Google Developers](https://developers.google.com/machine-learning/guides/text-classification/?linkId=54683504)
+* \*\*\*\*[**AutoML Natural Language Beginner's guide \| AutoML Natural Language \| Google Cloud**](https://cloud.google.com/natural-language/automl/docs/beginners-guide)\*\*\*\*
 

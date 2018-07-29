@@ -123,6 +123,9 @@
 * [How Olay used AI to double its conversion rate \| VentureBeat](https://venturebeat.com/2018/07/19/how-olay-used-ai-to-double-its-conversion-rate/)
 * [Simudyne](http://www.simudyne.com/#applications)
 * [微軟打算靠機器學習來預測 Windows 10 最佳更新時間](https://chinese.engadget.com/2018/07/27/windows-10-forced-update-feature/)
+* [Building A Data Science Product in 10 Days – tech-at-instacart](https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0)
+* [AI预测用户每天用水量以促进环保，节约水资源 \| ATYUN](http://www.atyun.com/25454.html)
+* [What AI have MIT been creating? - BBC Click - YouTube](https://www.youtube.com/watch?v=mZrmoi5D7g0)
 
 
 

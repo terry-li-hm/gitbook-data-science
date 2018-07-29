@@ -27,6 +27,9 @@
 * [Forbes Insights AI: Issue 1](https://www.forbes.com/insights-intelai/ai-issue-1/)
 * \*\*\*\*[**Google's AutoML: Cutting Through the Hype · fast.ai**](http://www.fast.ai/2018/07/23/auto-ml-3/)\*\*\*\*
 * [Defining data science in 2018 \| Yanir Seroussi](https://yanirseroussi.com/2018/07/22/defining-data-science-in-2018/)
+* [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/)
+* [第四范式涂威威：AutoML技术现状与未来展望 \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-12-17)
+* [Why artificial intelligence has no common sense - YouTube](https://www.youtube.com/watch?v=NPEPx6VUgrg)
 
 
 

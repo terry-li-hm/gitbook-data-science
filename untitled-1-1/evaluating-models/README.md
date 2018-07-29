@@ -2,6 +2,7 @@
 
 * [Introduction to Loss Functions](https://blog.algorithmia.com/introduction-to-loss-functions/)
 * [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+* [Receiver Operating Characteristic Curves Demystified \(in Python\)](https://towardsdatascience.com/receiver-operating-characteristic-curves-demystified-in-python-bd531a4364d0)
 
 
 

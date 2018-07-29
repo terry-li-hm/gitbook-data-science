@@ -30,4 +30,5 @@
 * [Singing Style Transfer Using CybeGAN](http://mirlab.org/users/haley.wu/cybegan/)
 * [akanimax/pro\_gan\_pytorch: ProGAN package implemented as an extension of PyTorch nn.Module](https://github.com/akanimax/pro_gan_pytorch)
 * [GAN — Ways to improve GAN performance – Towards Data Science](https://towardsdatascience.com/gan-ways-to-improve-gan-performance-acf37f9f59b)
+* [Nuts and Bolts of WGANs, Kantorovich-Rubistein Duality, Earth Movers Distance - YouTube](https://www.youtube.com/watch?v=31mqB4yGgQY&app=desktop)
 
