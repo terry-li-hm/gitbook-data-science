@@ -133,6 +133,8 @@
 * [Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn](http://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html)
 * [Banned From Amazon: The Shoppers Who Make Too Many Returns - WSJ](https://www.wsj.com/articles/banned-from-amazon-the-shoppers-who-make-too-many-returns-1526981401?mod=djmc_pkt_email_092617)
 * [Interview: Leveraging satellite and AI technology to monitor construction projects \| Equipment and IT \| Construction Global](https://www.constructionglobal.com/equipment-and-it/interview-leveraging-satellite-and-ai-technology-monitor-construction-projects)
+* [Building your own Duplex AI agent using Rasa and Twilio](https://medium.com/rasa-blog/building-your-own-duplex-ai-agent-using-rasa-and-twilio-bbd23c80ed30)
+* [【金融中心】孖上市公司申牌 錢方：搞落地虛擬銀行 \| 即時新聞 \| 財經 \| 20180722](https://hk.finance.appledaily.com/finance/realtime/article/20180722/58472238)
 
 
 

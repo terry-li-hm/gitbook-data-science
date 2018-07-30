@@ -32,6 +32,7 @@
 * [Why artificial intelligence has no common sense - YouTube](https://www.youtube.com/watch?v=NPEPx6VUgrg)
 * [What is Human-in-the-Loop for Machine Learning? – Hacker Noon](https://hackernoon.com/what-is-human-in-the-loop-for-machine-learning-2c2152b6dfbb)
 * [New Research on Multi-Task Learning](http://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
+* [What AI can and can’t do \(yet\) for your business \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business?cid=other-eml-alt-mkq-mck-oth-1807&hlkid=b1eb159d61ed43ada60757f15901916a&hctky=10157666&hdpid=8cdb0413-e1c4-4e22-89d0-8f57b1559de3)
 
 
 

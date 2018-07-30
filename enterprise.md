@@ -15,6 +15,8 @@
 * \*\*\*\*[**Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models**](https://www.immuta.com/wp-content/uploads/2018/06/Beyond_Explainability.pdf)\*\*\*\*
 * [One Data Science Job Doesn’t Fit All \| LinkedIn](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
 * [How to take machine learning from exploration to implementation - O'Reilly Media](https://www.oreilly.com/ideas/how-to-take-machine-learning-from-exploration-to-implementation?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
+* [AI adoption: Why a digital base is critical \| McKinsey & Company](https://www.mckinsey.com/Business-Functions/McKinsey-Analytics/Our-Insights/Artificial-intelligence-Why-a-digital-base-is-critical?cid=other-eml-alt-mkq-mck-oth-1807&hlkid=91d17b6a2e7648f09bfec12533b61a11&hctky=10157666&hdpid=8cdb0413-e1c4-4e22-89d0-8f57b1559de3)
+* [How artificial intelligence can deliver real value to companies \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/how-artificial-intelligence-can-deliver-real-value-to-companies?cid=other-eml-alt-mkq-mck-oth-1807&hlkid=030b8a2325e2445da06850a0a9530410&hctky=10157666&hdpid=8cdb0413-e1c4-4e22-89d0-8f57b1559de3)
 
 
 

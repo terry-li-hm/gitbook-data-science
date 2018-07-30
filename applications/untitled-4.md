@@ -260,4 +260,5 @@ Some other tools:
 * \*\*\*\*[**AutoML Natural Language Beginner's guide \| AutoML Natural Language \| Google Cloud**](https://cloud.google.com/natural-language/automl/docs/beginners-guide)\*\*\*\*
 * [The 7 NLP Techniques That Will Change How You Communicate in the Future \(Part II\)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 * [Has AI surpassed humans at translation? Not even close! – Skynet Today](https://www.skynettoday.com/editorials/state_of_nmt)
+* [ACL 2018 Highlights: Understanding Representations and Evaluation in More Challenging Settings - AYLIEN](http://blog.aylien.com/acl-2018-highlights-understanding-representations-and-evaluation-in-more-challenging-settings/)
 
