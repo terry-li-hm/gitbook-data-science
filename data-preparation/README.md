@@ -2,6 +2,7 @@
 
 * [How \(dis\)similar are my train and test data? – Towards Data Science](https://towardsdatascience.com/how-dis-similar-are-my-train-and-test-data-56af3923de9b)
 * [Google AI Blog: Preprocessing for Machine Learning with tf.Transform](https://ai.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html)
+* [Using Python to Figure out Sample Sizes for your Study – Mark Nagelberg](http://www.marknagelberg.com/using-python-to-figure-out-sample-sizes-for-your-study/)
 
 ## Setting up development and test sets \(From Machine Learning Yearning\)
 

@@ -77,6 +77,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Machine Learning on Graphs: 5-Minute Interview with Ajinkya Kale, Senior Applied Researcher at eBay - Neo4j Graph Database Platform](https://neo4j.com/blog/machine-learning-on-graphs-ajinkya-kale-senior-applied-researcher-ebay/)
 * [Knowledge Graphs: The Path to Enterprise AI - Neo4j Graph Database Platform](https://neo4j.com/blog/knowledge-graphs-path-to-enterprise-ai/)
 * [知識圖譜的技術與應用 \| 機器之心](https://www.jiqizhixin.com/articles/2018-06-19)
+* [知识图谱的应用](https://zhuanlan.zhihu.com/p/20394260)
+* [高端！教你如何用知识图谱识别欺诈行为](https://mp.weixin.qq.com/s/qKcqq_UcY9QJb5ioRZmGPA)
 
 
 

@@ -138,6 +138,8 @@
 * [\[1807.04465\] Competitive Analysis System for Theatrical Movie Releases Based on Movie Trailer Deep Video Representation](https://arxiv.org/abs/1807.04465)
 * [阿里音樂流行趨勢預測-代碼分享](https://mp.weixin.qq.com/s/samEbUwgnpfYoOZvxIYWWg)
 * [AI幫助預測大豆產量，降低預測成本 \| ATYUN](http://www.atyun.com/25908.html)
+* [The Road to Successful CECL Compliance with Automated Machine Learning - DataRobot](https://www.datarobot.com/webinar/road-successful-cecl-compliance-automated-machine-learning/watch/?mkt_tok=eyJpIjoiTnpJMlpUSXpaakZsTVdVdyIsInQiOiJ0b2szVFVJZXZIRG1KSXVxd0hjY0JDZ1FsTWY3MElSNzc5Q2N6V2MzWEVmaDVYNXduZlhBallEUXNKQlNWNzJUQ0lpVlwvN0lxUzZwQldPMG1XSmlXZEkwNHN6NGdYdStpeU92aGtvYllpVEY5ZGJpQlBFYzBsS1FScWdUbW5RXC9vIn0)
+* [How Artificial Intelligence & Deep Learning can help in Supply Chain Decision Making. \| Locus](https://app.livestorm.co/locus/locus-supply-chain-decision-making/live?s=34ef5387-4f1d-4787-bbdc-4c95cbb5f322#/chat)
 
 ## Finance
 
