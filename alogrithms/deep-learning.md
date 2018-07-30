@@ -169,6 +169,7 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 * [Improving the Performance of a Neural Network – Towards Data Science](https://towardsdatascience.com/how-to-increase-the-accuracy-of-a-neural-network-9f5d1c6f407d)
 * [Intro to optimization in deep learning: Vanishing gradients and choosing the right activation function](https://blog.paperspace.com/vanishing-gradients-activation-function/)
 * [Intro to optimization in deep learning: Busting the myth about batch normalization](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
+* [你的模型真的陷入局部最優點了嗎？ \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-29-6)
 
 ## Gradient Descent
 

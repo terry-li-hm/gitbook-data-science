@@ -137,10 +137,12 @@
 * [【金融中心】孖上市公司申牌 錢方：搞落地虛擬銀行 \| 即時新聞 \| 財經 \| 20180722](https://hk.finance.appledaily.com/finance/realtime/article/20180722/58472238)
 * [\[1807.04465\] Competitive Analysis System for Theatrical Movie Releases Based on Movie Trailer Deep Video Representation](https://arxiv.org/abs/1807.04465)
 * [阿里音樂流行趨勢預測-代碼分享](https://mp.weixin.qq.com/s/samEbUwgnpfYoOZvxIYWWg)
+* [AI幫助預測大豆產量，降低預測成本 \| ATYUN](http://www.atyun.com/25908.html)
 
 ## Finance
 
 * [Machine learning in finance: The why, what and how](https://www.n-ix.com/machine-learning-in-finance-why-what-how/)
+* [Financial Risk Reporting: The Connected Nature of Financial Risk](https://neo4j.com/blog/financial-risk-reporting-connected-nature-of-financial-risk/)
 
 ## Analysis
 

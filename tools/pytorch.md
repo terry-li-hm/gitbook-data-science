@@ -11,6 +11,7 @@
 * [Tensorboard Callback for Fastai - Deep Learning - Deep Learning Course Forums](http://forums.fast.ai/t/tensorboard-callback-for-fastai/19048)
 * [Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
 * [ecs-vlc/torchbearer: torchbearer: A model training library for PyTorch](https://github.com/ecs-vlc/torchbearer)
+* [Kaixhin/grokking-pytorch: The Hitchiker's Guide to PyTorch](https://github.com/Kaixhin/grokking-pytorch)
 
 Since computation graph in PyTorch is defined at runtime you can use tour favorite Python debugging tools such as pdb, ipdb, PyCharm debugger or old trusty print statements.
 

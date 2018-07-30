@@ -133,6 +133,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [Sentiment Analysis through LSTMs – Towards Data Science](https://towardsdatascience.com/sentiment-analysis-through-lstms-3d6f9506805c)
 * [A Beginner’s Guide on Sentiment Analysis with RNN – Towards Data Science](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
 * [Twitter Sentiment Analysis using combined LSTM-CNN Models – B-sides](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
+* [Comprehensive Hands on Guide to Twitter Sentiment Analysis with dataset & code](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
 
 ### Text Classification
 
@@ -264,4 +265,5 @@ Some other tools:
 * [叶志豪：介绍强化学习及其在 NLP 上的应用 \| 分享总结 \| 雷锋网](https://www.leiphone.com/news/201807/sbyafpzV4BgvjLT1.html)
 * [2018 机器阅读理解技术竞赛颁奖仪式：竞赛冠军 Naturali 分享问答系统新思路 \| 雷锋网](https://www.leiphone.com/news/201807/tDSp5NiZl3nMnWub.html)
 * [salesforce/decaNLP: The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
+* [專訪騰訊鐘黎：知文團隊在智能問答系統方面的探索 \| 雷鋒網](https://www.leiphone.com/news/201807/o8UhPIOylGL0LezT.html)
 
