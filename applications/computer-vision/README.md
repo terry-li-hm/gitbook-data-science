@@ -71,4 +71,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Cutting-Edge Face Recognition is Complicated. These Spreadsheets Make it Easier.](https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a)
 * [mrecos/signboardr: Extract text from sign board and tag as metadata](https://github.com/mrecos/signboardr)
 * [mapbox/robosat: Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water](https://github.com/mapbox/robosat)
+* [Detecting image similarity using Spark, LSH and TensorFlow](https://medium.com/@Pinterest_Engineering/detecting-image-similarity-using-spark-lsh-and-tensorflow-618636afc939)
 
