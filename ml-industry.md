@@ -30,6 +30,8 @@
 * [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/)
 * [第四范式涂威威：AutoML技术现状与未来展望 \| 机器之心](https://www.jiqizhixin.com/articles/2018-07-12-17)
 * [Why artificial intelligence has no common sense - YouTube](https://www.youtube.com/watch?v=NPEPx6VUgrg)
+* [What is Human-in-the-Loop for Machine Learning? – Hacker Noon](https://hackernoon.com/what-is-human-in-the-loop-for-machine-learning-2c2152b6dfbb)
+* [New Research on Multi-Task Learning](http://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
 
 
 
@@ -44,6 +46,8 @@
 * [A year as a Data Scientist right after college: An honest review](https://towardsdatascience.com/a-year-as-a-data-scientist-right-after-college-an-honest-review-40509d07ca04)
 * [Data Scientist - Machine Learning job - Michael Page - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=d01ce1e935bafbb2&q=Machine+Learning&l=Hong+Kong&tk=1cil4cmar3cf6d5i&from=ja&alid=5b48959d9008569e14daa847&rgtk=1cil4cmar3cf6d5i)
 * [Manager, Data Scientist, Data & Analytics job - KPMG 毕马威 - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=d39c247ef1149272&q=Data+Scientist&l=Hong+Kong&tk=1cil4d4vn2tcrd8q&from=ja&alid=5b4895919008569e14daa836&rgtk=1cil4d4vn2tcrd8q)
+* [One Data Science Job Doesn’t Fit All \| LinkedIn](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
+* [Analyst/Associate – Data Science Specialist \(Active Equity\) - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?jk=772b70bfe5374b35&tk=1cjkljbt10tji6qj&from=vjnewtab)
 
 ## AGI
 

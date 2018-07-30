@@ -24,6 +24,9 @@
 * [Doing good data science - O'Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 * \*\*\*\*[**Inclusive ML \| Google Cloud**](https://cloud.google.com/inclusive-ml/)\*\*\*\*
 * [You and AI – Just An Engineer: The Politics of AI - YouTube](https://www.youtube.com/watch?v=HPopJb5aDyA)
+* [The five Cs - O'Reilly Media](https://www.oreilly.com/ideas/the-five-cs?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
+* [Of oaths and checklists - O'Reilly Media](https://www.oreilly.com/ideas/of-oaths-and-checklists?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
+* [Regulating AI in the era of big tech](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
 
 ## Interpretability
 

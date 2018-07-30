@@ -17,6 +17,7 @@
   *  **use `cleverhans` to test their models against standardized, state-of-the-art attacks**
 * Poisoning training sets
 * [The IIA’s Artificial Intelligence Auditing Framework](https://na.theiia.org/periodicals/Public%20Documents/GPI-Artificial-Intelligence-Part-III.pdf)
+* [How to lie with Data Science – Towards Data Science](https://towardsdatascience.com/how-to-lie-with-data-science-5090f3891d9c)
 
 
 

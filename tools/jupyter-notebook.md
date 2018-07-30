@@ -8,4 +8,5 @@
 * [Building Interactive Dashboards with Jupyter](https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/)
 * [Stop jupyter notebook wrapping cell contents in pandas html table output - Stack Overflow](https://stackoverflow.com/questions/37716442/stop-jupyter-notebook-wrapping-cell-contents-in-pandas-html-table-output/42101824#42101824)
 * [Binder \(beta\)](https://mybinder.org/)
+* [PixieDebugger - A Visual Python Debugger for Jupyter Notebooks Every Data Scientist Should Use](https://www.analyticsvidhya.com/blog/2018/07/pixie-debugger-python-debugging-tool-jupyter-notebooks-data-scientist-must-use/)
 

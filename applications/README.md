@@ -12,7 +12,8 @@
 
 ## Classification
 
-[Winning Solutions & Codes from AV's Signature Hackathon - Lord of the Machines](https://www.analyticsvidhya.com/blog/2018/04/winning-solutions-codes-from-avs-signature-hackathon-lord-of-the-machines/)
+* [Winning Solutions & Codes from AV's Signature Hackathon - Lord of the Machines](https://www.analyticsvidhya.com/blog/2018/04/winning-solutions-codes-from-avs-signature-hackathon-lord-of-the-machines/)
+* [Supercharging Classification - The Value of Multi-task Learning](http://blog.fastforwardlabs.com/2018/06/26/supercharging-classification-the-value-of-multitask-learning.html)
 
 
 

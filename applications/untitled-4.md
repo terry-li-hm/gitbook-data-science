@@ -258,4 +258,6 @@ Some other tools:
 * [dmlc/gluon-nlp: NLP made easy](https://github.com/dmlc/gluon-nlp)
 * [Introduction \| ML Universal Guides \| Google Developers](https://developers.google.com/machine-learning/guides/text-classification/?linkId=54683504)
 * \*\*\*\*[**AutoML Natural Language Beginner's guide \| AutoML Natural Language \| Google Cloud**](https://cloud.google.com/natural-language/automl/docs/beginners-guide)\*\*\*\*
+* [The 7 NLP Techniques That Will Change How You Communicate in the Future \(Part II\)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
+* [Has AI surpassed humans at translation? Not even close! – Skynet Today](https://www.skynettoday.com/editorials/state_of_nmt)
 

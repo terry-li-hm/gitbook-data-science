@@ -126,6 +126,13 @@
 * [Building A Data Science Product in 10 Days – tech-at-instacart](https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0)
 * [AI预测用户每天用水量以促进环保，节约水资源 \| ATYUN](http://www.atyun.com/25454.html)
 * [What AI have MIT been creating? - BBC Click - YouTube](https://www.youtube.com/watch?v=mZrmoi5D7g0)
+* [A visual story behind words on the web – Hacker Noon](https://hackernoon.com/a-visual-story-behind-words-on-the-web-6fe1271cd37e)
+* [CoffeeBot — Using Scikit-learn, Core ML for iOS, and Alexa to predict the right coffee to drink](https://heartbeat.fritz.ai/predicting-what-coffee-should-i-drink-with-machine-learning-coreml-and-alexa-f941c191c367)
+* [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
+* [Deep learning and Soil Science - Part 1 – Towards Data Science](https://towardsdatascience.com/deep-learning-and-soil-science-part-1-8c0669b18097)
+* [Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn](http://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html)
+* [Banned From Amazon: The Shoppers Who Make Too Many Returns - WSJ](https://www.wsj.com/articles/banned-from-amazon-the-shoppers-who-make-too-many-returns-1526981401?mod=djmc_pkt_email_092617)
+* [Interview: Leveraging satellite and AI technology to monitor construction projects \| Equipment and IT \| Construction Global](https://www.constructionglobal.com/equipment-and-it/interview-leveraging-satellite-and-ai-technology-monitor-construction-projects)
 
 
 

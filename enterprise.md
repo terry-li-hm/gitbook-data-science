@@ -14,6 +14,7 @@
 * [The Need For The Ml audit – Andrew Clark – Machine Learning Auditor and Data Scientist](https://aclarkdata.github.io/The-Need-for-the-ML-Audit/)
 * \*\*\*\*[**Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models**](https://www.immuta.com/wp-content/uploads/2018/06/Beyond_Explainability.pdf)\*\*\*\*
 * [One Data Science Job Doesn’t Fit All \| LinkedIn](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
+* [How to take machine learning from exploration to implementation - O'Reilly Media](https://www.oreilly.com/ideas/how-to-take-machine-learning-from-exploration-to-implementation?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 
 
 

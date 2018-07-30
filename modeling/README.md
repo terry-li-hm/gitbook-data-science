@@ -1,6 +1,7 @@
 # Modeling
 
 * [Manage your Machine Learning Lifecycle with MLflow — Part 1.](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [MLflow: A platform for managing the machine learning lifecycle - O'Reilly Media](https://www.oreilly.com/ideas/mlflow-a-platform-for-managing-the-machine-learning-lifecycle?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 
 When you are happy with your model, treat also the validation set as part of the training set as re-do the training process to use 100% of the training set to further improve the result. \(per Jeremy\)
 

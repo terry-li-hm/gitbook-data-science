@@ -12,4 +12,5 @@
 * [How I automated my job search by building a web crawler from scratch](https://medium.freecodecamp.org/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718)
 * [Scraping Reddit to find the most popular domains](https://www.interviewqs.com/blog/reddit_creators)
 * [Getting data from pdfs using the pdftools package - Econometrics and Free Software](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
+* [s0md3v/Photon: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.](https://github.com/s0md3v/Photon)
 

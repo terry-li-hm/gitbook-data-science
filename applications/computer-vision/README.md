@@ -68,4 +68,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
 * [image\_captioning\_with\_attention.ipynb - Colaboratory](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb?linkId=54343050)
 * [mrecos/signboardr: Extract text from sign board and tag as metadata](https://github.com/mrecos/signboardr)
+* [Cutting-Edge Face Recognition is Complicated. These Spreadsheets Make it Easier.](https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a)
 
