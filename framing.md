@@ -135,8 +135,12 @@
 * [Interview: Leveraging satellite and AI technology to monitor construction projects \| Equipment and IT \| Construction Global](https://www.constructionglobal.com/equipment-and-it/interview-leveraging-satellite-and-ai-technology-monitor-construction-projects)
 * [Building your own Duplex AI agent using Rasa and Twilio](https://medium.com/rasa-blog/building-your-own-duplex-ai-agent-using-rasa-and-twilio-bbd23c80ed30)
 * [【金融中心】孖上市公司申牌 錢方：搞落地虛擬銀行 \| 即時新聞 \| 財經 \| 20180722](https://hk.finance.appledaily.com/finance/realtime/article/20180722/58472238)
+* [\[1807.04465\] Competitive Analysis System for Theatrical Movie Releases Based on Movie Trailer Deep Video Representation](https://arxiv.org/abs/1807.04465)
+* [阿里音樂流行趨勢預測-代碼分享](https://mp.weixin.qq.com/s/samEbUwgnpfYoOZvxIYWWg)
 
+## Finance
 
+* [Machine learning in finance: The why, what and how](https://www.n-ix.com/machine-learning-in-finance-why-what-how/)
 
 ## Analysis
 

@@ -21,4 +21,5 @@
 * [Detecting People in Real-time Using Deep Learning – Schuman Zhang – Medium](https://medium.com/@schuman.zhang/detecting-people-in-real-time-using-deep-learning-84859c9682d2)
 * [facebookresearch/Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.](https://github.com/facebookresearch/Detectron)
 * [Mario vs. Wario: Image Classification in Python – Towards Data Science](https://towardsdatascience.com/mario-vs-wario-image-classification-in-python-ae8d10ac6d63)
+* [mahyarnajibi/SNIPER: SNIPER is an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER)
 

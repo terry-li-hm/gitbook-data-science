@@ -261,4 +261,7 @@ Some other tools:
 * [The 7 NLP Techniques That Will Change How You Communicate in the Future \(Part II\)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 * [Has AI surpassed humans at translation? Not even close! – Skynet Today](https://www.skynettoday.com/editorials/state_of_nmt)
 * [ACL 2018 Highlights: Understanding Representations and Evaluation in More Challenging Settings - AYLIEN](http://blog.aylien.com/acl-2018-highlights-understanding-representations-and-evaluation-in-more-challenging-settings/)
+* [叶志豪：介绍强化学习及其在 NLP 上的应用 \| 分享总结 \| 雷锋网](https://www.leiphone.com/news/201807/sbyafpzV4BgvjLT1.html)
+* [2018 机器阅读理解技术竞赛颁奖仪式：竞赛冠军 Naturali 分享问答系统新思路 \| 雷锋网](https://www.leiphone.com/news/201807/tDSp5NiZl3nMnWub.html)
+* [salesforce/decaNLP: The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
 

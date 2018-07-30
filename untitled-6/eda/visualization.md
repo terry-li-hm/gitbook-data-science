@@ -87,6 +87,10 @@
 * [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 * [PyViz: Easy Visualization and Exploration for all your Data \| SciPy 2018 Tutorial \| James A. Bednar - YouTube](https://www.youtube.com/watch?v=aZ1G_Q7ovmc)
 
+## Tools
+
+* [matplotlib/jupyter-matplotlib: Matplotlib Jupyter Extension](https://github.com/matplotlib/jupyter-matplotlib)
+
 
 
 

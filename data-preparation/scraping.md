@@ -13,4 +13,6 @@
 * [Scraping Reddit to find the most popular domains](https://www.interviewqs.com/blog/reddit_creators)
 * [Getting data from pdfs using the pdftools package - Econometrics and Free Software](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
 * [s0md3v/Photon: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.](https://github.com/s0md3v/Photon)
+* [meetmangukiya/instagram-scraper: Scrape the Instagram frontend. Inspired from twitter-scraper by @kennethreitz.](https://github.com/meetmangukiya/instagram-scraper)
+* [Using Scrapy to Build your Own Dataset – Towards Data Science](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673)
 

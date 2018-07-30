@@ -68,6 +68,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [收藏 \| 一張地圖帶你玩轉機器學習（附資源） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81140412)
 * [How to Configure the Number of Layers and Nodes in a Neural Network](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
 * [Neural Network 3D Simulation - YouTube](https://www.youtube.com/watch?v=3JQ3hYko51Y&app=desktop)
+* [sootlasten/disentangled-representation-papers: A curated list of research papers related to learning disentangled representations](https://github.com/sootlasten/disentangled-representation-papers)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 
@@ -114,6 +115,9 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Backpropagation demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 * \*\*\*\*[**How neural networks work**](https://brohrer.github.io/how_neural_networks_work.html)\*\*\*\*
 * [Batch normalization in Neural Networks – Towards Data Science](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)
+* [parasdahal/deepnet: Implementations of CNNs, RNNs and cool new techniques in deep learning from scratch](https://github.com/parasdahal/deepnet)
+* [專題：深度神經網絡基本問題的原理詳細分析和推導 - CSDN博客](https://blog.csdn.net/zpcxh95/article/details/69952020)
+* [History of Convolutional Blocks in simple Code – Towards Data Science](https://towardsdatascience.com/history-of-convolutional-blocks-in-simple-code-96a7ddceac0c)
 
 ## Blackbox
 

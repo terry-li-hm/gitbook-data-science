@@ -70,6 +70,7 @@
   * [Bash](tools/untitled-1.md)
   * [MXNet](tools/mxnet.md)
   * [Tensorflow or PyTorch](tools/tensorflow-or-pytorch.md)
+  * [Linux](tools/linux.md)
 * [Applications](applications/README.md)
   * [Time Series](applications/time-series.md)
   * [NLP](applications/untitled-4.md)

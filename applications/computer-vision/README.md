@@ -70,4 +70,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [mrecos/signboardr: Extract text from sign board and tag as metadata](https://github.com/mrecos/signboardr)
 * [Cutting-Edge Face Recognition is Complicated. These Spreadsheets Make it Easier.](https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a)
 * [mrecos/signboardr: Extract text from sign board and tag as metadata](https://github.com/mrecos/signboardr)
+* [mapbox/robosat: Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water](https://github.com/mapbox/robosat)
 
