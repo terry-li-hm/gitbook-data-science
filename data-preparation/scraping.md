@@ -15,4 +15,5 @@
 * [s0md3v/Photon: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.](https://github.com/s0md3v/Photon)
 * [meetmangukiya/instagram-scraper: Scrape the Instagram frontend. Inspired from twitter-scraper by @kennethreitz.](https://github.com/meetmangukiya/instagram-scraper)
 * [Using Scrapy to Build your Own Dataset – Towards Data Science](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673)
+* [The ultimate list of Web Scraping tools and software](https://www.kdnuggets.com/2018/07/ultimate-list-web-scraping-tools-software.html)
 
