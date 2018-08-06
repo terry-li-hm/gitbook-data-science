@@ -140,6 +140,11 @@
 * [AI幫助預測大豆產量，降低預測成本 \| ATYUN](http://www.atyun.com/25908.html)
 * [The Road to Successful CECL Compliance with Automated Machine Learning - DataRobot](https://www.datarobot.com/webinar/road-successful-cecl-compliance-automated-machine-learning/watch/?mkt_tok=eyJpIjoiTnpJMlpUSXpaakZsTVdVdyIsInQiOiJ0b2szVFVJZXZIRG1KSXVxd0hjY0JDZ1FsTWY3MElSNzc5Q2N6V2MzWEVmaDVYNXduZlhBallEUXNKQlNWNzJUQ0lpVlwvN0lxUzZwQldPMG1XSmlXZEkwNHN6NGdYdStpeU92aGtvYllpVEY5ZGJpQlBFYzBsS1FScWdUbW5RXC9vIn0)
 * [How Artificial Intelligence & Deep Learning can help in Supply Chain Decision Making. \| Locus](https://app.livestorm.co/locus/locus-supply-chain-decision-making/live?s=34ef5387-4f1d-4787-bbdc-4c95cbb5f322#/chat)
+* \*\*\*\*[**Stitch Fix Algorithms Tour**](https://algorithms-tour.stitchfix.com/)\*\*\*\*
+* [The Future of Map-Making is Open and Powered by Sensors and AI – OpenStreetMap @ Telenav](http://blog.improve-osm.org/en/2018/06/the-future-of-map-making-is-open-and-powered-by-sensors-and-ai/)
+* [Law firms climb aboard the AI wagon - Diligence disrupted](https://www.economist.com/business/2018/07/12/law-firms-climb-aboard-the-ai-wagon)
+* [AI is getting closer to replacing animal testing — Quartz](https://qz.com/1326841/ai-is-getting-closer-to-replacing-animal-testing/)
+* [Nasdaq CIO Puts AI to Work - CIO Journal. - WS](https://blogs.wsj.com/cio/2018/07/05/nasdaq-cio-puts-ai-to-work/)
 
 ## Finance
 

@@ -7,4 +7,5 @@
 * [12 Mistakes that Data Scientists Make and How to Avoid Them](https://hackernoon.com/12-mistakes-that-data-scientists-make-and-how-to-avoid-them-2ddb26665c2d)
 * [How to get the right data? Trying asking for it. – Towards Data Science](https://towardsdatascience.com/how-to-get-the-right-data-why-not-ask-for-it-d26ced1bbd46)
 * [Ways to think about machine learning — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
+* [How should we evaluate progress in AI? \| Meaningness](https://meaningness.com/metablog/artificial-intelligence-progress)
 

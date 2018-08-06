@@ -11,6 +11,8 @@
 * [Content Based Recommender using Text Mining \| Kaggle](https://www.kaggle.com/ashish95arora/content-based-recommender-using-text-mining)
 * [Analyzing Content Personalization Results](https://iotechnologies.com/blog/analyzing-personalization-results)
 * [SIGIR 2018最佳論文：基於流行度推薦系統有效性的概率分析 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-12-16)
+* [Developing Hyperpersonalized Recommendation Systems \(Interview with Jack Chua of Expedia\) - TOPBOTS](https://www.topbots.com/developing-hyperpersonalized-recommendation-systems-interview-jack-chua-expedia/)
+* [Takeaways from Netflix’s Personalization Workshop 2018](https://medium.com/rtl-tech/my-takeaways-from-netflixs-personalization-workshop-2018-f564a19437b6)
 
 
 

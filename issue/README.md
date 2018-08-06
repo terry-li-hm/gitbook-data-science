@@ -27,6 +27,7 @@
 * [The five Cs - O'Reilly Media](https://www.oreilly.com/ideas/the-five-cs?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 * [Of oaths and checklists - O'Reilly Media](https://www.oreilly.com/ideas/of-oaths-and-checklists?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 * [Regulating AI in the era of big tech](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
+* [Medical AI Safety: We have a problem. – Luke Oakden-Rayner](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)
 
 ## Interpretability
 
@@ -54,6 +55,7 @@
 * [yosinski/deep-visualization-toolbox: DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 * [Understanding Neural Networks by embedding hidden representations \| Rakesh Chada's Blog](https://rakeshchada.github.io/Neural-Embedding-Animation.html)
 * [Responsible AI Practices – Google AI](https://ai.google/education/responsible-ai-practices)
+* [Interpreting Latent Space and Bias \| Nadja Rhodes](https://iconix.github.io/dl/2018/07/21/bias-and-space)
 
 ##  Fairness
 
@@ -74,4 +76,5 @@
 ## Privacy
 
 * [Privacy and machine learning: two unexpected allies? \| cleverhans-blog](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
+* [GDPR after 2 months – What does it mean for Machine Learning?](https://www.kdnuggets.com/2018/07/gdpr-after-2-months-machine-learning.html)
 

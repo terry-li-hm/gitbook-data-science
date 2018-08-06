@@ -267,4 +267,8 @@ Some other tools:
 * [salesforce/decaNLP: The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
 * [專訪騰訊鐘黎：知文團隊在智能問答系統方面的探索 \| 雷鋒網](https://www.leiphone.com/news/201807/o8UhPIOylGL0LezT.html)
 * [清华-中国工程院知识智能联合实验室发布「2018自然语言处理研究报告」](https://static.aminer.cn/misc/article/nlp.pdf)
+* \*\*\*\*[**Natural Language Processing is Fun! – Adam Geitgey – Medium**](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)\*\*\*\*
+* [kororo/excelcy: Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.](https://github.com/kororo/excelcy)
+
+
 

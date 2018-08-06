@@ -46,4 +46,5 @@
 * [More Hedge Funds Using AI, Machine Learning \| Institutional Investor](https://www.institutionalinvestor.com/article/b194hm1kjbvd37/More-Hedge-Funds-Using-AI-Machine-Learning)
 * [J.P.Morgan's massive guide to machine learning and big data jobs in finance \| eFinancialCareers](https://news.efinancialcareers.com/dk-en/285249/machine-learning-and-big-data-j-p-morgan)
 * [Asia 2017 AUM League Table - Asian Private Banker](https://asianprivatebanker.com/asia-2017-aum-league-table/)
+* [The relationship between fintech startups and legacy banks is being rewritten — Quartz](https://qz.com/1319616/the-relationship-between-fintech-startups-and-legacy-banks-is-being-rewritten/)
 
