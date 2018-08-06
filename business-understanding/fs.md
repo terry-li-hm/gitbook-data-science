@@ -45,4 +45,5 @@
 * [EGG2017 - Finding the Needle in a Haystack by Mayur Thakur \(Goldman Sachs\) - YouTube](https://www.youtube.com/watch?v=gZHirJwA_Pc)
 * [More Hedge Funds Using AI, Machine Learning \| Institutional Investor](https://www.institutionalinvestor.com/article/b194hm1kjbvd37/More-Hedge-Funds-Using-AI-Machine-Learning)
 * [J.P.Morgan's massive guide to machine learning and big data jobs in finance \| eFinancialCareers](https://news.efinancialcareers.com/dk-en/285249/machine-learning-and-big-data-j-p-morgan)
+* [Asia 2017 AUM League Table - Asian Private Banker](https://asianprivatebanker.com/asia-2017-aum-league-table/)
 

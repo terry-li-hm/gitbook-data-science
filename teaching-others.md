@@ -27,7 +27,7 @@
 
 
 | **INPUT X** | **OUTPUT Y** | **APPLICATION** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | Voice recording | Transcript | Speech recognition |
 | Historical market data | Future market data | Trading bots |
 | Photograph | Caption | Image tagging |
