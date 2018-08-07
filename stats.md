@@ -51,4 +51,5 @@
 * [Explaining the 68-95-99.7 rule for a Normal Distribution](https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2) [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 * [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 * [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+* [信息熵是什么？ - 知乎](https://www.zhihu.com/question/22178202/answer/49929786)
 

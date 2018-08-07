@@ -280,6 +280,7 @@ Some other tools:
 * [dongjun-Lee/text-classification-models-tf: Tensorflow implementations of Text Classification Models.](https://github.com/dongjun-Lee/text-classification-models-tf)
 * [Named Entity Recognition Tagging](https://cs230-stanford.github.io/pytorch-nlp.html)
 * [讓計算機明白「天天」代表「每一天」之後，如何避免讓它認為「爸爸」代表「每個爸」 \| 雷鋒網](https://www.leiphone.com/news/201807/CZYV7yG1Zg8xJfT0.html)
+* [On word embeddings - Part 1](http://ruder.io/word-embeddings-1/)
 
 
 
