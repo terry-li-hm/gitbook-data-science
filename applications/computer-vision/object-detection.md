@@ -23,4 +23,5 @@
 * [Mario vs. Wario: Image Classification in Python – Towards Data Science](https://towardsdatascience.com/mario-vs-wario-image-classification-in-python-ae8d10ac6d63)
 * [mahyarnajibi/SNIPER: SNIPER is an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER)
 * [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
+* [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
 

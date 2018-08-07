@@ -19,6 +19,7 @@
 * [How artificial intelligence can deliver real value to companies \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/how-artificial-intelligence-can-deliver-real-value-to-companies?cid=other-eml-alt-mkq-mck-oth-1807&hlkid=030b8a2325e2445da06850a0a9530410&hctky=10157666&hdpid=8cdb0413-e1c4-4e22-89d0-8f57b1559de3)
 * [How to balance the load on a data team \| Statsbot Blog](https://statsbot.co/blog/data-team/)
 * [Model Management and the Era of the Model-Driven Business](https://blog.dominodatalab.com/model-management-era-model-driven-business/)
+* [Data Engineer vs Software Engineer: Challenges and Solutions \| Statsbot Blog](https://statsbot.co/blog/data-engineer-vs-software-engineer/)
 
 
 

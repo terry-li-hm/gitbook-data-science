@@ -275,6 +275,7 @@ Some other tools:
 * [ACL 2018 Highlights: Understanding Representations and Evaluation in More Challenging Settings - AYLIEN](http://blog.aylien.com/acl-2018-highlights-understanding-representations-and-evaluation-in-more-challenging-settings/)
 * [Quicksilver - A Natural Language Processing System that Writes Wikipedia Entries](https://www.analyticsvidhya.com/blog/2018/08/machine-learning-algorithm-fix-wikis/)
 * [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
+* [VerbiAge: Using NLP to help writers craft age-specific writing](https://blog.insightdatascience.com/verbiage-using-nlp-to-improve-k-12-content-marketing-8906d2810fda)
 
 
 

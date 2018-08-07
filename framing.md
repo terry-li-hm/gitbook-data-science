@@ -161,6 +161,7 @@
 * [Mortgage rates in the 21st century · Len Kiefer](http://lenkiefer.com/2018/07/07/mortgage-rates-in-the-21st-century/)
 * [AI to Help Power Grids Resist Disruptions - IEEE Spectrum](https://spectrum.ieee.org/energywise/energy/the-smarter-grid/ai-to-help-power-grids-resist-disruptions)
 * [Animating Doodles with Autoencoders and Synthetic Data – Rajat's Blog – A blog about machine learning and math.](https://rajatvd.github.io/Animating-Doodles-With-Autoencoders/)
+* [Everything Wrong About Email Analytics in 2018 \(And Our Plan to Fix It\)](https://www.gethighlights.co/blog/fix-email-analytics/)
 
 ## Finance
 
@@ -181,6 +182,7 @@
 * [Talkin’ ‘Bout Trucks, Beer, and Love in Country Songs — Analyzing Genius Lyrics \| Big-Ish Data](https://bigishdata.com/2016/10/25/talkin-bout-trucks-beer-and-love-in-country-songs-analyzing-genius-lyrics/)
 * [Global house price trends · Len Kiefer](http://lenkiefer.com/2018/08/02/global-house-price-trends/)
 * [The Largest Ever Analysis of Film Dialogue by Gender: 2,000 scripts, 25,000 actors, 4 million lines](https://pudding.cool/2017/03/film-dialogue/)
+* [A look at Street Safety in Cambridge, MA – A Look at Cambridge – Medium](https://medium.com/a-look-at-cambridge/a-look-at-street-safety-in-cambridge-ma-11d5281b6014)
 
 
 

@@ -16,6 +16,7 @@
 * [Arrow: better dates and times for Python — Arrow 0.11.0 documentation](http://arrow.readthedocs.io/en/latest/)
 * [Tidying the Australian Same Sex Marriage Postal Survey Data with R](https://medium.com/@miles.mcbain/tidying-the-australian-same-sex-marriage-postal-survey-data-with-r-5d35cea07962)
 * [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/index.html)
+* [Using Simple Arithmetic to Fill Gaps in Categorical Data](https://medium.com/related-works-inc/using-simple-arithmetic-to-fill-gaps-in-categorical-data-9418e5c0b91b)
 
 ### Imputation {#2)-A-Better-Option:-Imputation}
 
