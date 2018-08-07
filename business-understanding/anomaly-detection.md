@@ -84,6 +84,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Graphs & paths: PageRank. – Towards Data Science](https://towardsdatascience.com/graphs-and-paths-pagerank-54f180a1aa0a)
 * [Graph Databases for Beginners: Data Modeling Pitfalls to Avoid](https://neo4j.com/blog/data-modeling-pitfalls/?mkt_tok=eyJpIjoiTkRneE9XVmlNemt5TkRFMyIsInQiOiI3TGpVaDVhUU9MR2c5bXhZVHRIYnp6NWQ3dkdWWFlCb01HUENQaVwvZVY2R0ZXcm5qMmFyTXRTUTg1d0JBSTNlMzkyUnhjOERYc2xcL0lreFVTMHNUYjhjbkc1dHFnK3Nkd0FDaEV6U3Z4OGdiS01Vbmo0OStacUl3SVVKQ1wvUUFIQiJ9)
 * [知識圖譜的技術與應用 \| 機器之心](https://www.jiqizhixin.com/articles/2018-06-19)
+* [Airbnb Democratizes Data Discovery with the Neo4j Graph Platform](https://neo4j.com/blog/democratizing-data-discovery-airbnb/)
+* [An Introduction to Graph Theory and Network Analysis \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
 
 
 

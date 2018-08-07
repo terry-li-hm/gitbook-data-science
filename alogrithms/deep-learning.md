@@ -72,6 +72,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [3D Visualization of a Fully-Connected Neural Network](http://scs.ryerson.ca/~aharley/vis/fc/)
 * \*\*\*\*[**Ten Techniques Learned From fast.ai**](https://blog.floydhub.com/ten-techniques-from-fast-ai/)\*\*\*\*
 * [Neural network visualized](https://nnplayground.com/)
+* [A New Angle on L2 Regularization](https://thomas-tanay.github.io/post--L2-regularization/)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 

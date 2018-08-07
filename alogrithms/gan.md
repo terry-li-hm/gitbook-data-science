@@ -35,4 +35,5 @@
 * [Neural Networks gone wild! They can sample from discrete distributions now!](http://anotherdatum.com/gumbel-gan.html)
 * [dcgan.ipynb - Colaboratory](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb)
 * [TheHedgeify/DagstuhlGAN](https://github.com/TheHedgeify/DagstuhlGAN)
+* [115頁Slides帶你領略深度生成模型全貌（附PPT） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81323040)
 

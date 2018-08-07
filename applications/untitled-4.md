@@ -276,6 +276,10 @@ Some other tools:
 * [Quicksilver - A Natural Language Processing System that Writes Wikipedia Entries](https://www.analyticsvidhya.com/blog/2018/08/machine-learning-algorithm-fix-wikis/)
 * [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
 * [VerbiAge: Using NLP to help writers craft age-specific writing](https://blog.insightdatascience.com/verbiage-using-nlp-to-improve-k-12-content-marketing-8906d2810fda)
+* [faneshion/MatchZoo: MatchZoo is a toolkit for text matching. It was developed to facilitate the designing, comparing, and sharing of deep text matching models.](https://github.com/faneshion/MatchZoo)
+* [dongjun-Lee/text-classification-models-tf: Tensorflow implementations of Text Classification Models.](https://github.com/dongjun-Lee/text-classification-models-tf)
+* [Named Entity Recognition Tagging](https://cs230-stanford.github.io/pytorch-nlp.html)
+* [讓計算機明白「天天」代表「每一天」之後，如何避免讓它認為「爸爸」代表「每個爸」 \| 雷鋒網](https://www.leiphone.com/news/201807/CZYV7yG1Zg8xJfT0.html)
 
 
 

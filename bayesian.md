@@ -26,4 +26,5 @@
 * [Ayo Philip on Twitter: "Bayes’ Theorem Definitions: The vertical bar \| stands for "given that". P = Probability. A & B are events. P\(A\) & P\(B\) are the probabilities of events A and B. Each event is separate from the other. P\(A\|B\) is the probability of A being true given that event B is true. \#SoDS18 \#ML https://t.co/yPqIzantIl"](https://mobile.twitter.com/Frawzey/status/1017806603985346562)
 * [乾貨 \| 基於貝葉斯推斷的分類模型& 機器學習你會遇到的“坑” - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81267560)
 * [Dan Roy: Bayesian Learning I - YouTube](https://www.youtube.com/watch?v=KJ5pf1rEqyg)
+* [科普 \| 貝葉斯概率模型一覽 \| 雷鋒網](https://www.leiphone.com/news/201807/yf7uaQos1zVqCdu7.html)
 

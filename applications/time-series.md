@@ -22,4 +22,5 @@
 * [S&P 500 \|\| Simple Forecasting with Prophet \| Kaggle](https://www.kaggle.com/janiobachmann/s-p-500-simple-forecasting-with-prophet)
 * [RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux)
 * [Everything you can do with a time series \| Kaggle](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
+* [11 Classical Time Series Forecasting Methods in Python \(Cheat Sheet\)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 

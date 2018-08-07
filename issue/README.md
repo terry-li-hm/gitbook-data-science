@@ -59,6 +59,7 @@
 * [Interpreting Latent Space and Bias \| Nadja Rhodes](https://iconix.github.io/dl/2018/07/21/bias-and-space)
 * [Using Uncertainty to Interpret your Model - Taboola Tech Blog](https://engineering.taboola.com/using-uncertainty-interpret-model/)
 * [DALEX and H2O: Machine Learning Model Interpretability And Feature Explanation](http://www.business-science.io/business/2018/07/23/dalex-feature-interpretation.html)
+* [Interpreting with Attention and More \| Nadja Rhodes](https://iconix.github.io/dl/2018/07/13/interpret-attn)
 
 ##  Fairness
 

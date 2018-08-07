@@ -86,6 +86,11 @@
 * [So you got a kid. Would you rather have more money or more time? \| Chartable](https://blog.datawrapper.de/weekly37/)
 * [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 * [PyViz: Easy Visualization and Exploration for all your Data \| SciPy 2018 Tutorial \| James A. Bednar - YouTube](https://www.youtube.com/watch?v=aZ1G_Q7ovmc)
+* [Your Friendly Guide to Colors in Data Visualisation \| Chartable](https://blog.datawrapper.de/colorguide/)
+* [U.S. housing starts are still super low · Len Kiefer](http://lenkiefer.com/2018/07/18/u-s-housing-starts-are-still-super-low/)
+* [House price gifski · Len Kiefer](http://lenkiefer.com/2018/07/22/house-price-gifski/)
+* [Getting animated about new home sales · Len Kiefer](http://lenkiefer.com/2018/07/26/getting-animated-about-new-home-sales/)
+* [House price gif that keeps on giffing · Len Kiefer](http://lenkiefer.com/2018/07/31/house-price-gif/)
 
 ## Tools
 

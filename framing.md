@@ -162,6 +162,9 @@
 * [AI to Help Power Grids Resist Disruptions - IEEE Spectrum](https://spectrum.ieee.org/energywise/energy/the-smarter-grid/ai-to-help-power-grids-resist-disruptions)
 * [Animating Doodles with Autoencoders and Synthetic Data – Rajat's Blog – A blog about machine learning and math.](https://rajatvd.github.io/Animating-Doodles-With-Autoencoders/)
 * [Everything Wrong About Email Analytics in 2018 \(And Our Plan to Fix It\)](https://www.gethighlights.co/blog/fix-email-analytics/)
+* [AI幫助預測大豆產量，降低預測成本 \| ATYUN](http://www.atyun.com/25908.html)
+* [20世紀福克斯開發AI模型，通過電影預告片預測觀眾偏好 \| ATYUN](http://www.atyun.com/25856.html)
+* [AI分析文本信息以改善人際關係 \| ATYUN](http://www.atyun.com/26148.html)
 
 ## Finance
 

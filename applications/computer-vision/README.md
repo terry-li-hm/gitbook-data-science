@@ -72,4 +72,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [mrecos/signboardr: Extract text from sign board and tag as metadata](https://github.com/mrecos/signboardr)
 * [mapbox/robosat: Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water](https://github.com/mapbox/robosat)
 * [Detecting image similarity using Spark, LSH and TensorFlow](https://medium.com/@Pinterest_Engineering/detecting-image-similarity-using-spark-lsh-and-tensorflow-618636afc939)
+* [Tutorial: Alphabet Recognition In Real Time — A Deep Learning and OpenCV Application](https://towardsdatascience.com/tutorial-alphabet-recognition-deeplearning-opencv-97e697b8fb86)
+* [Building an image search service from scratch – Insight Data](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
+* [Kaggle \#1 Winning Approach for Image Classification Challenge](https://medium.com/neuralspace/kaggle-1-winning-approach-for-image-classification-challenge-9c1188157a86)
 

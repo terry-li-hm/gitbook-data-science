@@ -20,6 +20,7 @@
 * \*\*\*\*[**AutoML Natural Language Beginner's guide \| AutoML Natural Language \| Google Cloud**](https://cloud.google.com/natural-language/automl/docs/beginners-guide)\*\*\*\*
 * [Machine Learning and Human Bias - YouTube](https://www.youtube.com/watch?v=59bMh59JQDo)
 * [Quick guide to understand the hype around ‘deep learning’ Quick guide to deep learning](https://thenextweb.com/contributors/2018/07/14/quick-guide-to-deep-learning/)
+* [Supervised, Unsupervised, and Reinforcement Learning, Explained \| NVIDIA Blog](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/)
 
 ![](.gitbook/assets/image%20%2847%29.png)
 
