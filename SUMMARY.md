@@ -39,6 +39,7 @@
   * [Ensemble](modeling/ensemble.md)
   * [Model Selection](modeling/model-selection.md)
   * [Bayesian optimization](modeling/bayesian-optimization.md)
+  * [AutoML](modeling/automl.md)
 * [Evaluation](untitled-1-1/README.md)
   * [Metrics](untitled-1-1/evaluating-models/README.md)
     * [AUC](untitled-1-1/evaluating-models/auc.md)
@@ -119,4 +120,5 @@
 * [Audit](audit.md)
 * [For Good](for-good.md)
 * [Workshop](workshop.md)
+* [DVC](dvc.md)
 

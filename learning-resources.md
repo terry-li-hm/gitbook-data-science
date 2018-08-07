@@ -25,6 +25,11 @@
 * [Newbie’s guide to Deep Learning – Towards Data Science](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)
 * [Best \(and Free!!\) Resources to understand Nuts and Bolts of Deep learning - ParallelDots](https://blog.paralleldots.com/data-science/deep-learning/best-and-free-resources-to-understand-of-deep-learning/)
 * [Education – Google AI](https://ai.google/education/)
+* [Avik-Jain/100-Days-Of-ML-Code: 100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)x
+* [Advanced Statistical Computing](https://leanpub.com/s/owxFA7i6juhTm9U36GYyKQ.pdf)
+* [Putting It All Together: Essays on Data Analysis](https://leanpub.com/dataanalysisessays)
+* [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+* [Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
 
 
 

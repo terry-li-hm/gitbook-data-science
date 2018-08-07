@@ -145,11 +145,29 @@
 * [Law firms climb aboard the AI wagon - Diligence disrupted](https://www.economist.com/business/2018/07/12/law-firms-climb-aboard-the-ai-wagon)
 * [AI is getting closer to replacing animal testing — Quartz](https://qz.com/1326841/ai-is-getting-closer-to-replacing-animal-testing/)
 * [Nasdaq CIO Puts AI to Work - CIO Journal. - WS](https://blogs.wsj.com/cio/2018/07/05/nasdaq-cio-puts-ai-to-work/)
+* [Researchers review the rapid progress in machine learning for the chemical sciences](https://phys.org/news/2018-07-rapid-machine-chemical-sciences.html)
+* [From Code to Cure \| Spring 2018 \| Columbia Magazine](http://magazine.columbia.edu/features/spring-2018/code-cure)
+* [Anthem Taps Artificial Intelligence Space With Allergy Research Trial](https://www.forbes.com/sites/brucejapsen/2018/08/01/anthem-taps-artificial-intelligence-space-with-allergy-research-trial/#394d3eb96ccc)
+* [Text Mining Fedspeak · Len Kiefer](http://lenkiefer.com/2018/07/28/text-mining-fedspeak/)
+* [年輕人，AI不想給你加薪升職-PingWest 品玩](https://www.pingwest.com/a/174932)
+* [Newsroom » Carlsberg Research Laboratory behind beer research project based on artificial intelligence « Carlsberg Group](https://carlsberggroup.com/newsroom/carlsberg-research-laboratory-behind-beer-research-project-based-on-artificial-intelligence/?mkt_tok=eyJpIjoiTldNMFlXUmhaV0l4T0RkayIsInQiOiJHRGU3clM5ZGNTRTNDUlJCaThRQ01vWXFBYnVQc2ZqN0tacFBMUHdQcGI3YVVCOEpOXC9tVW14XC91QnJVTFhUY3FNWk9SZjZMMUw2a0FVWmE3emt5UkFDcW12NG9ORVZSWE1hRVJkSXdkM0dDUXRkWG1vandQNVJoRmVPUkhBUlNKIn0)
+* [Understanding multimodality: An analysis of early JUMP users](https://medium.com/uber-under-the-hood/understanding-multimodality-an-analysis-of-early-jump-users-4a35d647b7e6)
+* [AI removes real estate intermediaries, creating positive user experience - Livemint](https://www.livemint.com/AI/fkH38cx6AZyPHR13xE6cOO/AI-removes-real-estate-intermediaries-creating-positive-use.html)
+* [Generative Adversarial Networks \(GANs\): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
+* [Earth to exoplanet: Hunting for planets with machine learning](https://www.blog.google/technology/ai/hunting-planets-machine-learning/)
+* [Hong Kong customs using AI to track down counterfeit goods – and seizures are up 30 per cent in six months \| South China Morning Post](https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2158400/new-supercomputer-helps-hong-kong-customs)
+* [Youtube videos analysis with Neo4j and GraphAware NLP](https://medium.com/neo4j/youtube-videos-analysis-with-neo4j-and-graphaware-nlp-91ee388584fa?mkt_tok=eyJpIjoiTkRneE9XVmlNemt5TkRFMyIsInQiOiI3TGpVaDVhUU9MR2c5bXhZVHRIYnp6NWQ3dkdWWFlCb01HUENQaVwvZVY2R0ZXcm5qMmFyTXRTUTg1d0JBSTNlMzkyUnhjOERYc2xcL0lreFVTMHNUYjhjbkc1dHFnK3Nkd0FDaEV6U3Z4OGdiS01Vbmo0OStacUl3SVVKQ1wvUUFIQiJ9)
+* [An Artist Sees Data So Powerful It Can Help Us Pick Better Friends : All Tech Considered : NPR](https://www.npr.org/sections/alltechconsidered/2018/02/25/583682718/an-artist-sees-data-so-powerful-it-can-help-us-pick-better-friends)
+* [Mortgage rates in the 21st century · Len Kiefer](http://lenkiefer.com/2018/07/07/mortgage-rates-in-the-21st-century/)
+* [AI to Help Power Grids Resist Disruptions - IEEE Spectrum](https://spectrum.ieee.org/energywise/energy/the-smarter-grid/ai-to-help-power-grids-resist-disruptions)
+* [Animating Doodles with Autoencoders and Synthetic Data – Rajat's Blog – A blog about machine learning and math.](https://rajatvd.github.io/Animating-Doodles-With-Autoencoders/)
 
 ## Finance
 
 * [Machine learning in finance: The why, what and how](https://www.n-ix.com/machine-learning-in-finance-why-what-how/)
 * [Financial Risk Reporting: The Connected Nature of Financial Risk](https://neo4j.com/blog/financial-risk-reporting-connected-nature-of-financial-risk/)
+* [Neural Networks And EPS Prediction \| Seeking Alpha](https://seekingalpha.com/article/4187062-neural-networks-eps-prediction?mkt_tok=eyJpIjoiTldNMFlXUmhaV0l4T0RkayIsInQiOiJHRGU3clM5ZGNTRTNDUlJCaThRQ01vWXFBYnVQc2ZqN0tacFBMUHdQcGI3YVVCOEpOXC9tVW14XC91QnJVTFhUY3FNWk9SZjZMMUw2a0FVWmE3emt5UkFDcW12NG9ORVZSWE1hRVJkSXdkM0dDUXRkWG1vandQNVJoRmVPUkhBUlNKIn0)
+* [Artificial Intelligence at Investment Banks - 5 Current Applications](https://www.techemergence.com/artificial-intelligence-at-investment-banks-5-current-applications/)
 
 ## Analysis
 
@@ -159,6 +177,10 @@
 * [Tools For Improving Structured Thinking For Analysts](https://www.analyticsvidhya.com/blog/2014/02/tools-structured-thinking/)
 * [The Art Of Structured Thinking And Analyzing](https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/)
 * [Python用5000+條數據為你分析《我不是藥神》登頂原因！（附代碼） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/80993991)
+* [Trucks and beer](https://www.johnwmillr.com/trucks-and-beer/)
+* [Talkin’ ‘Bout Trucks, Beer, and Love in Country Songs — Analyzing Genius Lyrics \| Big-Ish Data](https://bigishdata.com/2016/10/25/talkin-bout-trucks-beer-and-love-in-country-songs-analyzing-genius-lyrics/)
+* [Global house price trends · Len Kiefer](http://lenkiefer.com/2018/08/02/global-house-price-trends/)
+* [The Largest Ever Analysis of Film Dialogue by Gender: 2,000 scripts, 25,000 actors, 4 million lines](https://pudding.cool/2017/03/film-dialogue/)
 
 
 

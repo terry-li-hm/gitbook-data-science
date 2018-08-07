@@ -11,6 +11,7 @@
 * [Comparing anomaly detection algorithms for outlier detection on toy datasets — scikit-learn 0.20.dev0 documentation](http://scikit-learn.org/dev/auto_examples/plot_anomaly_comparison.html)
 * [Ratnakar Pandey\(RP\)'s answer to Which machine learning techniques have you used for fraud detection, and why? Do you prefer statistical techniques versus artificial intelligence? - Quora](https://www.quora.com/Which-machine-learning-techniques-have-you-used-for-fraud-detection-and-why-Do-you-prefer-statistical-techniques-versus-artificial-intelligence/answer/Ratnakar-Pandey-RP)
 * [Fingerprinting fraudulent behavior – Lyft Engineering](https://eng.lyft.com/fingerprinting-fraudulent-behavior-6663d0264fad)
+* [How to Build a Fraud Detection Solution with Neo4j - YouTube](https://www.youtube.com/watch?mkt_tok=eyJpIjoiWkdJNU5EWmxNV013TnpFMCIsInQiOiJYN1NWWHpFYVBjbUVMWWZSRDlIbVRFNWxvdlpxYTRqQkI1dGp2ck1UOGFlYlE0RUFqMjByQTE1dUZPVXRcL3VHQWtkbWxVdWRPQlBcL2JzdUY3VG1sSk4rVkQ1NVIwVFwvOHdXRVwvQ3hkcUp4UW5FU2tSNkd0ZHlraHNMMWxkZnNnQ1oifQ&v=CR4z0mWbM-Y&app=desktop)
 
 ### 微調
 
@@ -79,6 +80,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [知識圖譜的技術與應用 \| 機器之心](https://www.jiqizhixin.com/articles/2018-06-19)
 * [知识图谱的应用](https://zhuanlan.zhihu.com/p/20394260)
 * [高端！教你如何用知识图谱识别欺诈行为](https://mp.weixin.qq.com/s/qKcqq_UcY9QJb5ioRZmGPA)
+* [Graphs and ML: Multiple Linear Regression – Towards Data Science](https://towardsdatascience.com/graphs-and-ml-multiple-linear-regression-c6920a1f2e70)
+* [Graphs & paths: PageRank. – Towards Data Science](https://towardsdatascience.com/graphs-and-paths-pagerank-54f180a1aa0a)
+* [Graph Databases for Beginners: Data Modeling Pitfalls to Avoid](https://neo4j.com/blog/data-modeling-pitfalls/?mkt_tok=eyJpIjoiTkRneE9XVmlNemt5TkRFMyIsInQiOiI3TGpVaDVhUU9MR2c5bXhZVHRIYnp6NWQ3dkdWWFlCb01HUENQaVwvZVY2R0ZXcm5qMmFyTXRTUTg1d0JBSTNlMzkyUnhjOERYc2xcL0lreFVTMHNUYjhjbkc1dHFnK3Nkd0FDaEV6U3Z4OGdiS01Vbmo0OStacUl3SVVKQ1wvUUFIQiJ9)
+* [知識圖譜的技術與應用 \| 機器之心](https://www.jiqizhixin.com/articles/2018-06-19)
 
 
 

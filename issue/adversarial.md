@@ -21,6 +21,7 @@
 * [Breaking things is easy \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html)
 * [Is attacking machine learning easier than defending it? \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 * [The challenge of verification and testing of machine learning \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2017/06/14/verification.html)
+* [Getting to know a black-box model: – Towards Data Science](https://towardsdatascience.com/getting-to-know-a-black-box-model-374e180589ce)
 
 
 

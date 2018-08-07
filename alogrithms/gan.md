@@ -33,4 +33,6 @@
 * [Nuts and Bolts of WGANs, Kantorovich-Rubistein Duality, Earth Movers Distance - YouTube](https://www.youtube.com/watch?v=31mqB4yGgQY&app=desktop)
 * [白話生成對抗網絡 GAN，50 行代碼玩轉 GAN 模型！【附源碼】 - 掘金](https://juejin.im/post/5b5694c5e51d4534b8582b56)
 * [Neural Networks gone wild! They can sample from discrete distributions now!](http://anotherdatum.com/gumbel-gan.html)
+* [dcgan.ipynb - Colaboratory](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb)
+* [TheHedgeify/DagstuhlGAN](https://github.com/TheHedgeify/DagstuhlGAN)
 

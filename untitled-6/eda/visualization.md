@@ -90,6 +90,7 @@
 ## Tools
 
 * [matplotlib/jupyter-matplotlib: Matplotlib Jupyter Extension](https://github.com/matplotlib/jupyter-matplotlib)
+* [Python for Finance: Dash by Plotly – Towards Data Science](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 
 
 

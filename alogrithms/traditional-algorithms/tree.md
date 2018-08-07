@@ -13,6 +13,7 @@
 * [shubh on Twitter: "In my experiments in almost all cases Light GBM seems to perform better than Xgboost.And some how catboost seems to be slowest and least optimized .Looking for other view points .\#MachineLearning \#Boosting"](https://twitter.com/shub777/status/1014620611761467392)
 * [lancifollia/tinygbt: A Tiny, Pure Python implementation of Gradient Boosted Trees.](https://github.com/lancifollia/tinygbt)
 * [How decision trees work](https://brohrer.github.io/how_decision_trees_work.html)
+* [Decision trees and random forests](https://www.johnwmillr.com/decision-trees-and-random-forests/)
 
 A random forest is a bunch of independent decision trees each contributing a “vote” to an prediction. E.g. if there are 50 trees, and 32 say “rainy” and 18 say “sunny”, then the score for “rainy” is 32/50, or 64,% and the score for a “sunny” is 18/50, or 36%. Since 64% &gt; 36%, the forest has voted that they think it will rain.  
   

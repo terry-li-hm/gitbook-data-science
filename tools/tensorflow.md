@@ -23,4 +23,5 @@
 * [Smart way to serialize/deserialize classes to/from Tensorflow graph](https://towardsdatascience.com/smart-way-to-srialize-deserialise-class-to-from-tensorflow-graph-1b131db50c7d)
 * [TensorFlow：使用Cloud TPU在30分鐘內訓練出實時移動對象檢測器 \| ATYUN](http://www.atyun.com/23848.html)
 * [TensorFlow Hub \| TensorFlow](https://www.tensorflow.org/hub/)
+* [My adventures in the land of the flowing tensor - Part 2 & Alumni - Deep Learning Course Forums](http://forums.fast.ai/t/my-adventures-in-the-land-of-the-flowing-tensor/19686)
 

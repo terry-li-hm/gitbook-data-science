@@ -35,6 +35,9 @@
 * [What AI can and can’t do \(yet\) for your business \| McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business?cid=other-eml-alt-mkq-mck-oth-1807&hlkid=b1eb159d61ed43ada60757f15901916a&hctky=10157666&hdpid=8cdb0413-e1c4-4e22-89d0-8f57b1559de3)
 * [jason718/awesome-self-supervised-learning: A curated list of awesome Self-Supervised methods](https://github.com/jason718/awesome-self-supervised-learning)
 * [IBM Community Day: Data Science](https://ibmcommunityday.bemyapp.com/#/conferences)
+* [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape – Matt Turck](http://mattturck.com/bigdata2018/)
+* [Forbes Insights AI: Issue 1](https://www.forbes.com/insights-intelai/ai-issue-1/)
+* [What Machine Learning Can and Cannot Do - CIO Journal. - WSJ](https://blogs.wsj.com/cio/2018/07/27/what-machine-learning-can-and-cannot-do/)
 
 
 
@@ -51,6 +54,8 @@
 * [Manager, Data Scientist, Data & Analytics job - KPMG 毕马威 - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=d39c247ef1149272&q=Data+Scientist&l=Hong+Kong&tk=1cil4d4vn2tcrd8q&from=ja&alid=5b4895919008569e14daa836&rgtk=1cil4d4vn2tcrd8q)
 * [One Data Science Job Doesn’t Fit All \| LinkedIn](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
 * [Analyst/Associate – Data Science Specialist \(Active Equity\) - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?jk=772b70bfe5374b35&tk=1cjkljbt10tji6qj&from=vjnewtab)
+* [Senior Data Manager \(Data Scientist\) \| Bank of China \(Hong Kong\) \| LinkedIn](https://www.linkedin.com/jobs/view/770927449/?alertAction=markasviewed&savedSearchAuthToken=1&AQHhidk_5Ddn9gAAAWS2xUItk4ZIlyi1ZncNPzTAjlqN5u603wZyLrlwJqSOGV9OXXlw10z1poGFUpVBLhl4YLcncQ20n5q6S81Jm2DT-eiAlAuC3Yk5srtOn7gsmZ4qSqwZ0hBS4zAOIr9v7hMTIS7qJ2ef44BQLUtqTwirfVuAHeLZtsPU6_xtlzMNX29Re0gNNUr-fGYuM5Bo9_E_mYu9R6A7WzHP2lFuT-Tpg8W-m8PTyyNPY4rvhS2LHdkvqWK8I_GrVJDbQs8apLTGSx8Q4_fNMf3Z8ovygUOckD7knAr-68NlaQ=undefined&AV6tY9qQZnZQgeW247U1WwJcL_7H=undefined&savedSearchId=136232385&refId=7282f13c-ad0e-4b29-930b-7245c311)
+* [Risk Algo Analytics Developer - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?jk=53b1584767652f00&from=ja&alid=5b48959d9008569e14daa847&rgtk=1cjp639p70d7d3pm)
 
 ## AGI
 

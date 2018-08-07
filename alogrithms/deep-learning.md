@@ -69,6 +69,9 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [How to Configure the Number of Layers and Nodes in a Neural Network](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
 * [Neural Network 3D Simulation - YouTube](https://www.youtube.com/watch?v=3JQ3hYko51Y&app=desktop)
 * [sootlasten/disentangled-representation-papers: A curated list of research papers related to learning disentangled representations](https://github.com/sootlasten/disentangled-representation-papers)
+* [3D Visualization of a Fully-Connected Neural Network](http://scs.ryerson.ca/~aharley/vis/fc/)
+* \*\*\*\*[**Ten Techniques Learned From fast.ai**](https://blog.floydhub.com/ten-techniques-from-fast-ai/)\*\*\*\*
+* [Neural network visualized](https://nnplayground.com/)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 

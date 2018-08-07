@@ -47,4 +47,5 @@
 * [J.P.Morgan's massive guide to machine learning and big data jobs in finance \| eFinancialCareers](https://news.efinancialcareers.com/dk-en/285249/machine-learning-and-big-data-j-p-morgan)
 * [Asia 2017 AUM League Table - Asian Private Banker](https://asianprivatebanker.com/asia-2017-aum-league-table/)
 * [The relationship between fintech startups and legacy banks is being rewritten — Quartz](https://qz.com/1319616/the-relationship-between-fintech-startups-and-legacy-banks-is-being-rewritten/)
+* [認知鴻溝：金融科技之於銀行轉型](https://mp.weixin.qq.com/s/RCz6NFI-T9xqzWQo0dUU0g)
 

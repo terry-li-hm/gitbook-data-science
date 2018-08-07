@@ -22,4 +22,5 @@
 * [facebookresearch/Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.](https://github.com/facebookresearch/Detectron)
 * [Mario vs. Wario: Image Classification in Python – Towards Data Science](https://towardsdatascience.com/mario-vs-wario-image-classification-in-python-ae8d10ac6d63)
 * [mahyarnajibi/SNIPER: SNIPER is an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER)
+* [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
 

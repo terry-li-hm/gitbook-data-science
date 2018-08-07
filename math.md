@@ -15,6 +15,7 @@
 * [Convex Optimization – Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
 * [The matrix calculus you need for deep learning](http://explained.ai/matrix-calculus/index.html)
 * [Matrix Multiplication](http://matrixmultiplication.xyz/)
+* [Essence of linear algebra - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
 

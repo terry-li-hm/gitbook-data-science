@@ -269,6 +269,12 @@ Some other tools:
 * [清华-中国工程院知识智能联合实验室发布「2018自然语言处理研究报告」](https://static.aminer.cn/misc/article/nlp.pdf)
 * \*\*\*\*[**Natural Language Processing is Fun! – Adam Geitgey – Medium**](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)\*\*\*\*
 * [kororo/excelcy: Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.](https://github.com/kororo/excelcy)
+* [brightmart/ai\_law: all kinds of baseline models for long text classificaiton\( text categorization\)](https://github.com/brightmart/ai_law)
+* [哈工大秦兵：机器智能中的文本情感计算 \| CCF-GAIR 2018 \| 雷锋网](https://www.leiphone.com/news/201807/gRobnPgH89RQX09f.html)
+* [The Real Problems with Neural Machine Translation \| Delip Rao](http://deliprao.com/archives/301)
+* [ACL 2018 Highlights: Understanding Representations and Evaluation in More Challenging Settings - AYLIEN](http://blog.aylien.com/acl-2018-highlights-understanding-representations-and-evaluation-in-more-challenging-settings/)
+* [Quicksilver - A Natural Language Processing System that Writes Wikipedia Entries](https://www.analyticsvidhya.com/blog/2018/08/machine-learning-algorithm-fix-wikis/)
+* [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
 
 
 

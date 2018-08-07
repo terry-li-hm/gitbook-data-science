@@ -28,6 +28,7 @@
 * [Of oaths and checklists - O'Reilly Media](https://www.oreilly.com/ideas/of-oaths-and-checklists?mkt_tok=eyJpIjoiWXpsaE1HWmhPV1U0WkdGayIsInQiOiJxYWlXblZQdVZFWFMzR3VKUFNmT1wvQ3pmWGZibHU2ZHVLRllRdTVQWjdIU1M4TTN0UmF4VjZsNGtRUmVqcElQYlo1TVRGdHNUXC96RGdxN2luUlc2UUFlRDNOM2dJXC9VUTJjSFJpQWR0WGJtTytMWkd4OHNSMUplSjlScHYycUZ2ZyJ9)
 * [Regulating AI in the era of big tech](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
 * [Medical AI Safety: We have a problem. – Luke Oakden-Rayner](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)
+* [Data's day of reckoning - O'Reilly Media](https://www.oreilly.com/ideas/datas-day-of-reckoning)
 
 ## Interpretability
 
@@ -56,6 +57,8 @@
 * [Understanding Neural Networks by embedding hidden representations \| Rakesh Chada's Blog](https://rakeshchada.github.io/Neural-Embedding-Animation.html)
 * [Responsible AI Practices – Google AI](https://ai.google/education/responsible-ai-practices)
 * [Interpreting Latent Space and Bias \| Nadja Rhodes](https://iconix.github.io/dl/2018/07/21/bias-and-space)
+* [Using Uncertainty to Interpret your Model - Taboola Tech Blog](https://engineering.taboola.com/using-uncertainty-interpret-model/)
+* [DALEX and H2O: Machine Learning Model Interpretability And Feature Explanation](http://www.business-science.io/business/2018/07/23/dalex-feature-interpretation.html)
 
 ##  Fairness
 
@@ -72,6 +75,7 @@
 * [Cultural Bias in Machine Intelligence \| machinebias.github.io](http://machinebias.org/)
 * [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning)
 * [Machine Learning and Human Bias - YouTube](https://www.youtube.com/watch?v=59bMh59JQDo)
+* [Want Less-Biased Decisions? Use Algorithms.](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)
 
 ## Privacy
 

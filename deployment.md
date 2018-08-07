@@ -10,4 +10,7 @@
 * [A guide to deploying Machine/Deep Learning model\(s\) in Production](https://medium.com/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
 * [How to build a deep learning model in 15 minutes – tech-at-instacart](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
 * [instacart/lore: Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers](https://github.com/instacart/lore)
+* [Deploying Keras Deep Learning Models with Flask – Towards Data Science](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
+
+
 

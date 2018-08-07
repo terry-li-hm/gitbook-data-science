@@ -8,4 +8,5 @@
 * [How to get the right data? Trying asking for it. – Towards Data Science](https://towardsdatascience.com/how-to-get-the-right-data-why-not-ask-for-it-d26ced1bbd46)
 * [Ways to think about machine learning — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
 * [How should we evaluate progress in AI? \| Meaningness](https://meaningness.com/metablog/artificial-intelligence-progress)
+* [The 4 Levels of Data Usage in Data Science](https://www.kdnuggets.com/2018/07/4-levels-data-usage-data-science.html)
 
