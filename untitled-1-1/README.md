@@ -11,6 +11,7 @@
 * [Evaluating Machine Learning Models](https://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf)
 * [Use of swap set to measure impact of model changes](http://www.experian.com/blogs/insights/2018/01/swap-set-measure-impact-model-changes/)
 * [How to Calculate McNemar's Test to Compare Two Machine Learning Classifiers](https://machinelearningmastery.com/mcnemars-test-for-machine-learning/)
+* [How to Evaluate your Machine Learning Model – Coinmonks – Medium](https://medium.com/coinmonks/debugging-a-learning-algorithm-ef7c16936864)
 
 
 

@@ -69,4 +69,8 @@ class Ensemble(object):
 * [Introduction to Ensembling/Stacking in Python \| Kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python/notebook)
 * [A Kaggler’s Guide to Model Stacking in Practice \| No Free Hunch](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 * [A Comprehensive Guide to Ensemble Learning \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+* [Intuitive Ensemble Learning Guide with Gradient Boosting as a Study Case \| LinkedIn](https://www.linkedin.com/pulse/intuitive-ensemble-learning-guide-gradient-boosting-study-ahmed-gad/)
+* [Stacking/Ensembling 相關文章推薦 – Rick Liu – Medium](https://medium.com/@drumrick/stacking-ensembling-相關文章推薦-bc35df0cb2b2)
+* [Kaggle Ensembling Guide \| MLWave](https://mlwave.com/kaggle-ensembling-guide/)
+* [A Kaggler’s Guide to Model Stacking in Practice \| No Free Hunch](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 

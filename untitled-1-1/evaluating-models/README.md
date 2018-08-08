@@ -4,6 +4,8 @@
 * [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 * [Receiver Operating Characteristic Curves Demystified \(in Python\)](https://towardsdatascience.com/receiver-operating-characteristic-curves-demystified-in-python-bd531a4364d0)
 * [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+* [Evaluation Metrics for Classification – machinelearning-blog.com](https://machinelearning-blog.com/2018/04/03/evaluation-metrics-for-classification/)
+* [Gini Coefficient - An Intuitive Explanation \| Kaggle](https://www.kaggle.com/batzner/gini-coefficient-an-intuitive-explanation)
 
 
 

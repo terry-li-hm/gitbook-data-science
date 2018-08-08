@@ -24,4 +24,5 @@
 * [mahyarnajibi/SNIPER: SNIPER is an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER)
 * [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
 * [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
+* [Building a Mask R-CNN Model for Detecting Car Damage \(Python codes\)](https://www.analyticsvidhya.com/blog/2018/07/building-mask-r-cnn-model-detecting-damage-cars-python/)
 

@@ -52,4 +52,5 @@
 * [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 * [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 * [信息熵是什么？ - 知乎](https://www.zhihu.com/question/22178202/answer/49929786)
+* [6 Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
 

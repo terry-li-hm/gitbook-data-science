@@ -36,4 +36,9 @@
 * [dcgan.ipynb - Colaboratory](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb)
 * [TheHedgeify/DagstuhlGAN](https://github.com/TheHedgeify/DagstuhlGAN)
 * [115頁Slides帶你領略深度生成模型全貌（附PPT） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81323040)
+* [Generative Models](https://blog.openai.com/generative-models/)
+* [carpedm20/DCGAN-tensorflow: A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow)
+* [How do GANs intuitively work? – Hacker Noon](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1)
+* [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
+* [Generative Adversarial Networks for beginners - O'Reilly Media](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
 

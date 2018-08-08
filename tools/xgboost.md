@@ -2,6 +2,7 @@
 
 * [**Complete Guide to Parameter Tuning in XGBoost \(with codes in Python\)**](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 * [**A Gentle Introduction to XGBoost for Applied Machine Learning**](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+* [Interpretable Machine Learning with XGBoost – Towards Data Science](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
 
 

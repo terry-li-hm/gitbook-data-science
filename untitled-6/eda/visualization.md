@@ -91,6 +91,11 @@
 * [House price gifski · Len Kiefer](http://lenkiefer.com/2018/07/22/house-price-gifski/)
 * [Getting animated about new home sales · Len Kiefer](http://lenkiefer.com/2018/07/26/getting-animated-about-new-home-sales/)
 * [House price gif that keeps on giffing · Len Kiefer](http://lenkiefer.com/2018/07/31/house-price-gif/)
+* [What Do We Talk About When We Talk About Dashboards?](https://alper.datav.is/publications/dashboards/)
+* [The Death Toll Comparison Breakdown - Wait But Why](https://waitbutwhy.com/2013/08/the-death-toll-comparison-breakdown.html)
+* [From data to Viz \| Find the graphic you need](https://www.data-to-viz.com/)
+* [Exploring the census income dataset using bubble plot](https://towardsdatascience.com/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b)
+* [Interactive Data Visualization in Python \| Sadanand's Notes](https://sadanand-singh.github.io/posts/interactivedatavis/)
 
 ## Tools
 

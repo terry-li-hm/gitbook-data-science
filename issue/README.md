@@ -29,6 +29,7 @@
 * [Regulating AI in the era of big tech](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
 * [Medical AI Safety: We have a problem. – Luke Oakden-Rayner](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)
 * [Data's day of reckoning - O'Reilly Media](https://www.oreilly.com/ideas/datas-day-of-reckoning)
+* [Why Is Google Translate Spitting Out Sinister Religious Prophecies? - Motherboard](https://motherboard.vice.com/en_us/article/j5npeg/why-is-google-translate-spitting-out-sinister-religious-prophecies)
 
 ## Interpretability
 
@@ -60,6 +61,8 @@
 * [Using Uncertainty to Interpret your Model - Taboola Tech Blog](https://engineering.taboola.com/using-uncertainty-interpret-model/)
 * [DALEX and H2O: Machine Learning Model Interpretability And Feature Explanation](http://www.business-science.io/business/2018/07/23/dalex-feature-interpretation.html)
 * [Interpreting with Attention and More \| Nadja Rhodes](https://iconix.github.io/dl/2018/07/13/interpret-attn)
+* [The Blacker the Box](https://www.locallyoptimistic.com/post/the-blacker-the-box/)
+* [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
 
 ##  Fairness
 
@@ -77,6 +80,7 @@
 * [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning)
 * [Machine Learning and Human Bias - YouTube](https://www.youtube.com/watch?v=59bMh59JQDo)
 * [Want Less-Biased Decisions? Use Algorithms.](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)
+* [What HBR Gets Wrong About Algorithms and Bias · fast.ai](http://www.fast.ai/2018/08/07/hbr-bias-algorithms/)
 
 ## Privacy
 

@@ -58,6 +58,7 @@
   * [VAE](alogrithms/vae.md)
   * [Graph](alogrithms/graph.md)
   * [Genetic Algorithms](alogrithms/genetic-algorithms.md)
+  * [Autoencoders](alogrithms/autoencoders.md)
 * [Tools](tools/README.md)
   * [Python](tools/python.md)
   * [Tensorflow](tools/tensorflow.md)
@@ -121,4 +122,5 @@
 * [For Good](for-good.md)
 * [Workshop](workshop.md)
 * [DVC](dvc.md)
+* [DevOps](devops.md)
 

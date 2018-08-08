@@ -24,4 +24,5 @@
 * [TensorFlow：使用Cloud TPU在30分鐘內訓練出實時移動對象檢測器 \| ATYUN](http://www.atyun.com/23848.html)
 * [TensorFlow Hub \| TensorFlow](https://www.tensorflow.org/hub/)
 * [My adventures in the land of the flowing tensor - Part 2 & Alumni - Deep Learning Course Forums](http://forums.fast.ai/t/my-adventures-in-the-land-of-the-flowing-tensor/19686)
+* [AutoGraph converts Python into TensorFlow graphs – TensorFlow – Medium](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 

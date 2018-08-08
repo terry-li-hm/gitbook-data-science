@@ -165,6 +165,15 @@
 * [AI幫助預測大豆產量，降低預測成本 \| ATYUN](http://www.atyun.com/25908.html)
 * [20世紀福克斯開發AI模型，通過電影預告片預測觀眾偏好 \| ATYUN](http://www.atyun.com/25856.html)
 * [AI分析文本信息以改善人際關係 \| ATYUN](http://www.atyun.com/26148.html)
+* [Multi-Modal Methods: Visual Speech Recognition \(Lip Reading\)](https://medium.com/mlreview/multi-modal-methods-part-one-49361832bc7e?mlreview.com=undefined)
+* [Good First Impressions According to Data Science – Data Driven Investor – Medium](https://medium.com/datadriveninvestor/good-first-impressions-according-to-data-science-499d4225044d)
+* [Program Synthesis in 2017-18 – Alex Polozov](https://alexpolozov.com/blog/program-synthesis-2018/)
+* [How AI Is Changing Sales](https://hbr.org/2018/07/how-ai-is-changing-sales)
+* [Data-mining medieval text reveals medically bioactive ingredients - MIT Technology Review](https://www.technologyreview.com/s/611751/data-mining-medieval-text-reveals-medically-bioactive-ingredients/)
+* [Facebook’s Attention Machine, Explained – Hacker Noon](https://hackernoon.com/facebooks-attention-machine-explained-7547b10cb710)
+* [Top 10 Data Science Use Cases in Retail – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-retail-6483accc6042)
+* [How five businesses are using AI and big data today](https://towardsdatascience.com/how-five-businesses-are-using-ai-and-big-data-today-784abeb6f9ef)
+* [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
 
@@ -172,6 +181,7 @@
 * [Financial Risk Reporting: The Connected Nature of Financial Risk](https://neo4j.com/blog/financial-risk-reporting-connected-nature-of-financial-risk/)
 * [Neural Networks And EPS Prediction \| Seeking Alpha](https://seekingalpha.com/article/4187062-neural-networks-eps-prediction?mkt_tok=eyJpIjoiTldNMFlXUmhaV0l4T0RkayIsInQiOiJHRGU3clM5ZGNTRTNDUlJCaThRQ01vWXFBYnVQc2ZqN0tacFBMUHdQcGI3YVVCOEpOXC9tVW14XC91QnJVTFhUY3FNWk9SZjZMMUw2a0FVWmE3emt5UkFDcW12NG9ORVZSWE1hRVJkSXdkM0dDUXRkWG1vandQNVJoRmVPUkhBUlNKIn0)
 * [Artificial Intelligence at Investment Banks - 5 Current Applications](https://www.techemergence.com/artificial-intelligence-at-investment-banks-5-current-applications/)
+* [Kaggle Competition In 30 Minutes: Predict Home Credit Default Risk With R](http://www.business-science.io/business/2018/08/07/kaggle-competition-home-credit-default-risk.html)
 
 ## Analysis
 

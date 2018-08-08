@@ -26,6 +26,7 @@
 * [MarkPKCollier/NeuralTuringMachine: Tensorflow implementation of a Neural Turing Machine](https://github.com/MarkPKCollier/NeuralTuringMachine)
 * [基礎篇\|一文搞懂RNN（循環神經網絡）](https://mp.weixin.qq.com/s?__biz=MzU3NjE4NjQ4MA==&mid=2247483827&idx=1&sn=b8d6e26bf437d38704e69f0482d75b69&chksm=fd16f0acca6179ba8f01ef244e44a0ba0131d5457521e731f675511bf31bf14707882647426a&scene=21#wechat_redirect)
 * [When Recurrent Models Don't Need to be Recurrent – Off the convex path](http://www.offconvex.org/2018/07/27/approximating-recurrent/)
+* [locuslab/TCN: Sequence modeling benchmarks and temporal convolutional networks](https://github.com/locuslab/TCN)
 
 In practice regular RNNs are rarely used anymore, while GRUs and LSTMs dominate the field.
 

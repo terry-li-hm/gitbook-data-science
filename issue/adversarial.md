@@ -22,6 +22,8 @@
 * [Is attacking machine learning easier than defending it? \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 * [The challenge of verification and testing of machine learning \| cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2017/06/14/verification.html)
 * [Getting to know a black-box model: – Towards Data Science](https://towardsdatascience.com/getting-to-know-a-black-box-model-374e180589ce)
+* [Robust Adversarial Examples](https://blog.openai.com/robust-adversarial-inputs/)
+* [A Step-by-Step Guide to Synthesizing Adversarial Examples · cat /var/log/life](https://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 
 
 

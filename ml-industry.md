@@ -38,6 +38,7 @@
 * [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape – Matt Turck](http://mattturck.com/bigdata2018/)
 * [Forbes Insights AI: Issue 1](https://www.forbes.com/insights-intelai/ai-issue-1/)
 * [What Machine Learning Can and Cannot Do - CIO Journal. - WSJ](https://blogs.wsj.com/cio/2018/07/27/what-machine-learning-can-and-cannot-do/)
+* [How companies can get started with AI - O'Reilly Media](https://www.oreilly.com/ideas/how-companies-can-get-started-with-ai?mkt_tok=eyJpIjoiWlRnM1l6aG1ZVEEyT1dGayIsInQiOiIwOEZtSGFJeGdcLzJLRUliNEgrZlk3bERcL21GZGVoelU5SVA0ZUY5eGpyekxHc0xTendRQjBadEtsUUJ3eU1iRDlQV0hJa0ROYmxcL212NW56ckFmd00xMlBLU055TER4UmJhMzZcL0VLVkJCMlA1TUY0YWxOczZ4R3k1bFpcL2s4blNnIn0)
 
 
 
@@ -56,6 +57,9 @@
 * [Analyst/Associate – Data Science Specialist \(Active Equity\) - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?jk=772b70bfe5374b35&tk=1cjkljbt10tji6qj&from=vjnewtab)
 * [Senior Data Manager \(Data Scientist\) \| Bank of China \(Hong Kong\) \| LinkedIn](https://www.linkedin.com/jobs/view/770927449/?alertAction=markasviewed&savedSearchAuthToken=1&AQHhidk_5Ddn9gAAAWS2xUItk4ZIlyi1ZncNPzTAjlqN5u603wZyLrlwJqSOGV9OXXlw10z1poGFUpVBLhl4YLcncQ20n5q6S81Jm2DT-eiAlAuC3Yk5srtOn7gsmZ4qSqwZ0hBS4zAOIr9v7hMTIS7qJ2ef44BQLUtqTwirfVuAHeLZtsPU6_xtlzMNX29Re0gNNUr-fGYuM5Bo9_E_mYu9R6A7WzHP2lFuT-Tpg8W-m8PTyyNPY4rvhS2LHdkvqWK8I_GrVJDbQs8apLTGSx8Q4_fNMf3Z8ovygUOckD7knAr-68NlaQ=undefined&AV6tY9qQZnZQgeW247U1WwJcL_7H=undefined&savedSearchId=136232385&refId=7282f13c-ad0e-4b29-930b-7245c311)
 * [Risk Algo Analytics Developer - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?jk=53b1584767652f00&from=ja&alid=5b48959d9008569e14daa847&rgtk=1cjp639p70d7d3pm)
+* [Associate / AVP / VP, Center of Innovation \(Data / Machine Learning / NLP / Fintech - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b48959d9008569e14daa847&from=ja&jk=08cd6cf7a06338b4&rgtk=1ckb6omih390kakm)
+* [Data Scientist - M/F VIE Hong Kong - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b4895919008569e14daa836&from=ja&jk=0e2036d172ac5242&rgtk=1ckb6or0b36uiai4)
+* [Data Scientist - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b4895919008569e14daa836&from=ja&jk=65b3be9b13fea89b&rgtk=1ckb6or0b36uiai4)
 
 ## AGI
 

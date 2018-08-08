@@ -29,6 +29,7 @@
 * [The Hitchhiker’s Guide to Hyperparameter Tuning - Taboola Tech Blog](https://engineering.taboola.com/hitchhikers-guide-hyperparameter-tuning/)
 * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 * [The Hitchhiker’s Guide to Hyperparameter Tuning - Taboola Tech Blog](https://engineering.taboola.com/hitchhikers-guide-hyperparameter-tuning/)
+* [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
 ## Automated
 

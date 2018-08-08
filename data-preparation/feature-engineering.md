@@ -25,4 +25,6 @@
 * [數據科學中的陷阱：定性變量的處理 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-09-19)
 * [plasticityai/magnitude: A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)
 * [featuretools-workshop/featuretools-workshop.ipynb at master · fred-navruzov/featuretools-workshop](https://github.com/fred-navruzov/featuretools-workshop/blob/master/featuretools-workshop.ipynb)
+* [Featuretools for Good \| Kaggle](https://www.kaggle.com/willkoehrsen/featuretools-for-good)
+* [Feature Engineering 相關文章推薦 – Rick Liu – Medium](https://medium.com/@drumrick/feature-engineering-相關文章推薦-b4c2aaffe93d)
 

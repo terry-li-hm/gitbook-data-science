@@ -134,6 +134,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [A Beginner’s Guide on Sentiment Analysis with RNN – Towards Data Science](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
 * [Twitter Sentiment Analysis using combined LSTM-CNN Models – B-sides](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 * [Comprehensive Hands on Guide to Twitter Sentiment Analysis with dataset & code](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
+* [Comprehensive Hands on Guide to Twitter Sentiment Analysis with dataset & code](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
 
 ### Text Classification
 
@@ -281,6 +282,14 @@ Some other tools:
 * [Named Entity Recognition Tagging](https://cs230-stanford.github.io/pytorch-nlp.html)
 * [讓計算機明白「天天」代表「每一天」之後，如何避免讓它認為「爸爸」代表「每個爸」 \| 雷鋒網](https://www.leiphone.com/news/201807/CZYV7yG1Zg8xJfT0.html)
 * [On word embeddings - Part 1](http://ruder.io/word-embeddings-1/)
+* [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html?mlreview.com=undefined)
+* [Text Analytics - Azure Machine Learning Studio \| Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/text-analytics)
+* [Embrace the noise: A case study of text annotation for medical imaging \| LightTag - The easy way to annotate text](https://lighttag.io/blog/embrace-the-noise/)
+* [Generating Natural-Language Text with Neural Networks](https://blog.usejournal.com/generating-natural-language-text-with-neural-networks-e983bb48caad)
+* [Using Artificial Intelligence to Fix Wikipedia's Gender Problem \| WIRED](https://www.wired.com/story/using-artificial-intelligence-to-fix-wikipedias-gender-problem/?mbid=social_twitter_onsiteshare)
+* [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
+* [Introduction to NLP – machinelearning-blog.com](https://machinelearning-blog.com/2018/07/25/natural-language-processing/)
+* [A Word is Worth a Thousand Vectors \| Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
 
 

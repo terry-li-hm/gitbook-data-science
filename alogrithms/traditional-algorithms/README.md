@@ -8,6 +8,7 @@
 
 * [The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
 * [Logistic Regression from scratch \(and how to make it nonlinear\)](http://crawles.com/lr-scratch/)
+* [The Logistic Regression Algorithm – machinelearning-blog.com](https://machinelearning-blog.com/2018/04/23/logistic-regression-101/)
 
 ## Tree
 

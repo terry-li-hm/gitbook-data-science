@@ -7,6 +7,7 @@
 * [Google Landmark Retrieval Challenge \| Kaggle](https://www.kaggle.com/c/landmark-retrieval-challenge/discussion/57855)
 * [ML Practicum: Image Classification  \|  Machine Learning Practica  \|  Google Developers](https://developers.google.com/machine-learning/practica/image-classification/)
 * [Reinventing the Wheel of Semantic Segmentation: – 100 Shades of Machine Learning – Medium](https://medium.com/100-shades-of-machine-learning/https-medium-com-100-shades-of-machine-learning-rediscovering-semantic-segmentation-part1-83e1462e0805)
+* [albu/albumentations: fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations?mlreview.com=undefined)
 
 ### Object Detection
 
@@ -75,4 +76,13 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Tutorial: Alphabet Recognition In Real Time — A Deep Learning and OpenCV Application](https://towardsdatascience.com/tutorial-alphabet-recognition-deeplearning-opencv-97e697b8fb86)
 * [Building an image search service from scratch – Insight Data](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
 * [Kaggle \#1 Winning Approach for Image Classification Challenge](https://medium.com/neuralspace/kaggle-1-winning-approach-for-image-classification-challenge-9c1188157a86)
+* [Using Deep Learning to improve FIFA 18 graphics – Towards Data Science](https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e)
+* [Top 10 Pretrained Models to get you Started with Deep Learning \(Part 1 - Computer Vision\)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/)
+* [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
+* [10 Advanced Deep Learning Architectures Data Scientists Should Know!](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)
+
+## Use Cases
+
+* [A Brilliant Example of How Automated Deep Learning is Reshaping the Healthcare Analytics Industry](https://www.analyticsvidhya.com/blog/2018/08/automated-deep-learning-healthcare/)
+* [AI camera to help spot the best grapes for making pesticide-free wine \| New Scientist](https://www.newscientist.com/article/2175660-ai-camera-to-help-spot-the-best-grapes-for-making-pesticide-free-wine/)
 
