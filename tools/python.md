@@ -29,6 +29,7 @@ lastdate = train.iloc[train.shape[0]-1].date
 * [Regex Crossword](https://regexcrossword.com/)
 * [Python特性之迭代器與生成器 \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-18)
 * [Python數據分析之numpy \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-18-2)
+* [Python Exception Handling Basics — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/python-exception-handling-basics)
 
 
 

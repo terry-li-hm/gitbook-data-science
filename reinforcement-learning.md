@@ -53,6 +53,9 @@
 * [DOTA 5v5 AI 的亮点不是如何「学」的，而是如何「教」的 \| 雷锋网](https://www.leiphone.com/news/201808/4vLWPWlmh382StPY.html)
 * [\[1701.07274\] Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [Guest Post \(Part I\): Demystifying Deep Reinforcement Learning - Intel AI](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
+* [A simple guide to Reinforcement Learning by thoughtram](https://blog.thoughtram.io/machine-learning/2018/02/28/a-simple-guide-to-reinforcement-learning.html)
+* [AlphaGo, in context – Andrej Karpathy – Medium](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
+* [Reinforcement learning explained - O'Reilly Media](https://www.oreilly.com/ideas/reinforcement-learning-explained)
 * [Microsoft/malmo: Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to _Getting Started_ below, or visit the project page for more information:](https://github.com/Microsoft/malmo)
 
 **RL and teamwork** OpenAI has announced that they are [starting to beat human players in 5v5 Dota 2 matches](http://click.revue.email/wf/click?upn=uoSvyDIrlYZBTfKX9q-2FuqCrSX7tlXWXWxm65OpVW7LC-2FTI08BlQBfqlZ2XbPhEW2_cjJwF5rVq6bcAJDW2bYhckKcDVGtuI9UhBbWA-2B2uuED-2F9IWETQaRREn2Tf47sHTGZXO9ja9OTZm9PlSqBgFXzrz4-2B7mi5GxSleqUk2Np89Q6DluxDFEZd8AozLMBBcrKilelEDTcPDXgbMmuxJfSOG6Nel2oeYrWBj7mHpT-2BblzrSTRMZac3OLz4Z1n7pVKk6lj7KBJjyeXZUXaD9mi-2BbEB12vQusPFQllSl-2B-2BIMQSqIqaTvtLATa94anofHWWmfbMh8QpxOH1vhbcwHV-2BYjoOoOTD5pws2-2BMRPvZqRUiEBKG53Cgqo6zOO6W-2FY7s-2B2M). Their approach uses a massively scaled-up version of PPO and a large LSTM to represent each model, two approaches that were thought to struggle with modelling long-term dependencies. Models are trained via self-play.

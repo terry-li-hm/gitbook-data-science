@@ -6,6 +6,7 @@
 * [Comparative Audio Analysis With Wavenet, MFCCs, UMAP, t-SNE and PCA](https://medium.com/@LeonFedden/comparative-audio-analysis-with-wavenet-mfccs-umap-t-sne-and-pca-cb8237bfce2f)
 * [lmcinnes/umap: Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap)
 * [Dimensionality Reduction — Does PCA really improve classification outcome?](https://towardsdatascience.com/dimensionality-reduction-does-pca-really-improve-classification-outcome-6e9ba21f0a32)
+* [Reducing Dimensionality from Dimensionality Reduction Techniques](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
 * 
  [Jonker-Volgenant Algorithm + t-SNE = Super Powers · source{d} blog](https://blog.sourced.tech/post/lapjv/):
 

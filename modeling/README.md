@@ -15,6 +15,7 @@ When you are happy with your model, treat also the validation set as part of the
 * [A Deep Dive Into Sklearn Pipelines \| Kaggle](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines/code)
 * [Polyaxon – Medium](https://medium.com/polyaxon)
 * [stared/livelossplot: Live training loss plot in Jupyter Notebook for Keras, PyTorch and others](https://github.com/stared/livelossplot/)
+* [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4)
 
 ## Basic Error Analysis \(From Machine Learning Yearning\)
 

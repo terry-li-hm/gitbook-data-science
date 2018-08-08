@@ -173,6 +173,18 @@
 * [Facebook’s Attention Machine, Explained – Hacker Noon](https://hackernoon.com/facebooks-attention-machine-explained-7547b10cb710)
 * [Top 10 Data Science Use Cases in Retail – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-retail-6483accc6042)
 * [How five businesses are using AI and big data today](https://towardsdatascience.com/how-five-businesses-are-using-ai-and-big-data-today-784abeb6f9ef)
+* [Boosting Sales With Machine Learning – Xeneta – Medium](https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3)
+* [Visualizing Matrix Factorization Using Self-Organizing Maps - Zillow Artificial Intelligence](https://www.zillow.com/data-science/visualizing-matrix-factorization/)
+* [Discover the Predictive Analytics Solutions of Dataiku \| Dataiku](https://www.dataiku.com/solutions/#use-cases)
+* [Data Science, Machine Learning and AI Use Cases in Travel](https://www.altexsoft.com/blog/datascience/data-science-and-ai-in-the-travel-industry-9-real-life-use-cases/)
+* [7 Ways Data Science Is Reshaping Health Care](https://www.altexsoft.com/blog/datascience/7-ways-data-science-is-reshaping-healthcare/)
+* [8 Ways Machine Learning Is Improving Companies’ Work Processes](https://hbr.org/2017/05/8-ways-machine-learning-is-improving-companies-work-processes)
+* [10 Big Data Use Cases Everyone Must Read - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/spark-or-hadoop-which-is-the-best-framework)
+* [The misapprehension of the data science use-case. \| LinkedIn](https://www.linkedin.com/pulse/misapprehension-data-science-use-case-dr-olav-laudy/)
+* [Practical Application of Data Science and Machine Learning — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/practical-application-of-data-science-and-machine-learning)
+* [Catching Lottery Cheats with Data Science » Creme Global](http://www.cremeglobal.com/catching-lottery-cheats-with-data-science/)
+* [Deep Learning with Emojis \(not Math\) – tech-at-instacart](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
+* [Serial Killers Should Fear This Algorithm - Bloomberg](https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm)
 * [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
@@ -196,6 +208,10 @@
 * [Global house price trends · Len Kiefer](http://lenkiefer.com/2018/08/02/global-house-price-trends/)
 * [The Largest Ever Analysis of Film Dialogue by Gender: 2,000 scripts, 25,000 actors, 4 million lines](https://pudding.cool/2017/03/film-dialogue/)
 * [A look at Street Safety in Cambridge, MA – A Look at Cambridge – Medium](https://medium.com/a-look-at-cambridge/a-look-at-street-safety-in-cambridge-ma-11d5281b6014)
+
+## Methodology
+
+*  [Applying deep learning to real-world problems – merantix – Medium](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 
 
 

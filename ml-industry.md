@@ -39,6 +39,7 @@
 * [Forbes Insights AI: Issue 1](https://www.forbes.com/insights-intelai/ai-issue-1/)
 * [What Machine Learning Can and Cannot Do - CIO Journal. - WSJ](https://blogs.wsj.com/cio/2018/07/27/what-machine-learning-can-and-cannot-do/)
 * [How companies can get started with AI - O'Reilly Media](https://www.oreilly.com/ideas/how-companies-can-get-started-with-ai?mkt_tok=eyJpIjoiWlRnM1l6aG1ZVEEyT1dGayIsInQiOiIwOEZtSGFJeGdcLzJLRUliNEgrZlk3bERcL21GZGVoelU5SVA0ZUY5eGpyekxHc0xTendRQjBadEtsUUJ3eU1iRDlQV0hJa0ROYmxcL212NW56ckFmd00xMlBLU055TER4UmJhMzZcL0VLVkJCMlA1TUY0YWxOczZ4R3k1bFpcL2s4blNnIn0)
+* [The Promise of AI on Vimeo](https://vimeo.com/215926017)
 
 
 

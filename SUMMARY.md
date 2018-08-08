@@ -123,4 +123,5 @@
 * [Workshop](workshop.md)
 * [DVC](dvc.md)
 * [DevOps](devops.md)
+* [Projects](projects.md)
 

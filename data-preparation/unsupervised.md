@@ -15,7 +15,9 @@
 * [Rhondene Wint on Twitter: "If you are unsure about the k number of clusters to choose during KMeans clustering, using the elbow method and silhouette analysis can be helpful. Choose k that minimizes distortion and maximizes mean silhouette score. @rasbt 's Python Machine Learning has excellent code. https://t.co/bLekWUA3w3"](https://mobile.twitter.com/R_Winty/status/1020091726285791232)
 * [TDA To Rule Them All: ToMATo Clustering – Towards Data Science](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1)
 * [Clustering using K-means algorithm – Towards Data Science](https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6)
-* 
+* [Beginner's Guide to Customer Segmentation - Alteryx Community](https://community.alteryx.com/t5/Data-Science-Blog/Beginner-s-Guide-to-Customer-Segmentation/ba-p/138442)
+* [Finding Optimal Number of Clusters \| DataScience+](https://datascienceplus.com/finding-optimal-number-of-clusters/)
+
 
 
 

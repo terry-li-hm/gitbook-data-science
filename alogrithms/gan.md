@@ -41,4 +41,5 @@
 * [How do GANs intuitively work? – Hacker Noon](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1)
 * [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
 * [Generative Adversarial Networks for beginners - O'Reilly Media](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
+* [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
 

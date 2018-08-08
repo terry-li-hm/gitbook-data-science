@@ -290,6 +290,11 @@ Some other tools:
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 * [Introduction to NLP – machinelearning-blog.com](https://machinelearning-blog.com/2018/07/25/natural-language-processing/)
 * [A Word is Worth a Thousand Vectors \| Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
+* [dedupeio/dedupe: A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution.](https://github.com/dedupeio/dedupe)
+* [Basics of Entity Resolution — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/basics-of-entity-resolution)
+* [Text Analytics with Yellowbrick — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/text-analytics-with-yellowbrick)
+* [ml-meetup-feb2017](http://dongnguyen.nl/publications/nlp-meetup-dong-mar2017.pdf)
+* [Convolutional Methods for Text – Tal Perry – Medium](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
 
 
 

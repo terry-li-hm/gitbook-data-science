@@ -24,4 +24,6 @@
 * [Everything you can do with a time series \| Kaggle](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
 * [11 Classical Time Series Forecasting Methods in Python \(Cheat Sheet\)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 * [Taxonomy of Time Series Forecasting Problems](https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/)
+* [Data Science for Business - Time Series Forecasting Part 2: Forecasting with timekit](https://shiring.github.io/forecasting/2017/06/09/retail_forcasting_part2)
+* [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
 

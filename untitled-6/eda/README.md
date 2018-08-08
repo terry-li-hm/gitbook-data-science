@@ -66,4 +66,8 @@ When handling image classification problems, try to answer the following questio
 * [Manning \| Exploring Data with Python](https://www.manning.com/books/exploring-data-with-python)
 * [DIVE - MIT's Open Source Tool for Data Exploration and Visualization for Data Scientists](https://www.analyticsvidhya.com/blog/2018/06/perform-data-exploration-with-a-single-click-dive/)
 * [Stock Data Analysis with Python \(Second Edition\) \| Curtis Miller's Personal Website](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
+* [Google AI Blog: Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+* [Data Exploration with Python, Part 1 — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/data-exploration-with-python-1)
+* [Data Exploration with Python, Part 2 — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/data-exploration-with-python-2)
+* [Data Exploration with Python, Part 3 — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/data-exploration-with-python-3)
 

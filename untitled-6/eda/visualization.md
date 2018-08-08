@@ -96,6 +96,8 @@
 * [From data to Viz \| Find the graphic you need](https://www.data-to-viz.com/)
 * [Exploring the census income dataset using bubble plot](https://towardsdatascience.com/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b)
 * [Interactive Data Visualization in Python \| Sadanand's Notes](https://sadanand-singh.github.io/posts/interactivedatavis/)
+* [The most misleading charts of 2015, fixed — Quartz](https://qz.com/580859/the-most-misleading-charts-of-2015-fixed/)
+* [A new visualization to beautifully explore correlations - O'Reilly Media](https://www.oreilly.com/learning/a-new-visualization-to-beautifully-explore-correlations)
 
 ## Tools
 

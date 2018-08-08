@@ -63,6 +63,7 @@
 * [Interpreting with Attention and More \| Nadja Rhodes](https://iconix.github.io/dl/2018/07/13/interpret-attn)
 * [The Blacker the Box](https://www.locallyoptimistic.com/post/the-blacker-the-box/)
 * [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
+* [Ideas on interpreting machine learning - O'Reilly Media](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 
 ##  Fairness
 
@@ -81,6 +82,7 @@
 * [Machine Learning and Human Bias - YouTube](https://www.youtube.com/watch?v=59bMh59JQDo)
 * [Want Less-Biased Decisions? Use Algorithms.](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)
 * [What HBR Gets Wrong About Algorithms and Bias · fast.ai](http://www.fast.ai/2018/08/07/hbr-bias-algorithms/)
+* [Fairness and Bias in Algorithms — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/fairness-and-bias-in-algorithms)
 
 ## Privacy
 

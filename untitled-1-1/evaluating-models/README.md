@@ -6,6 +6,7 @@
 * [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 * [Evaluation Metrics for Classification – machinelearning-blog.com](https://machinelearning-blog.com/2018/04/03/evaluation-metrics-for-classification/)
 * [Gini Coefficient - An Intuitive Explanation \| Kaggle](https://www.kaggle.com/batzner/gini-coefficient-an-intuitive-explanation)
+* [Putting Accuracy in Context - Zillow Artificial Intelligence](https://www.zillow.com/data-science/putting-accuracy-context/)
 
 
 

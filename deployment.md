@@ -12,6 +12,7 @@
 * [instacart/lore: Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers](https://github.com/instacart/lore)
 * [Deploying Keras Deep Learning Models with Flask – Towards Data Science](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
 * [Write less terrible code with Jupyter Notebook](https://blog.godatadriven.com/write-less-terrible-notebook-code)
+* [Machine Learning in Production – ContentSquare Engineering – Medium](https://medium.com/contentsquare-engineering-blog/machine-learning-in-production-c53b43283ab1)
 
 
 

@@ -53,4 +53,7 @@
 * [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 * [信息熵是什么？ - 知乎](https://www.zhihu.com/question/22178202/answer/49929786)
 * [6 Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
+* [Paradoxes of Probability and Other Statistical Strangeness - Quillette](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
+* [A Litany of Problems With p-values \| Statistical Thinking](http://www.fharrell.com/post/pval-litany/)
+* [Unlearning descriptive statistics](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics/)
 

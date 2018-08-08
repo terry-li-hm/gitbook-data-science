@@ -125,6 +125,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * \*\*\*\*[**From shallow to deep learning in fraud – Lyft Engineering**](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)\*\*\*\*
 * [Interactions in fraud experiments: A case study in multivariable testing](https://eng.lyft.com/interactions-in-fraud-experiments-a-case-study-in-multivariable-testing-e0525b11751)
 * [\[P\] Credit Card Fraud / Anomaly Detection with Keras : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/93ufpb/p_credit_card_fraud_anomaly_detection_with_keras/)
+* [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
 
 ### Isolation Forests
 

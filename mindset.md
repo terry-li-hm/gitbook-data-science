@@ -9,4 +9,5 @@
 * [Ways to think about machine learning — Benedict Evans](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
 * [How should we evaluate progress in AI? \| Meaningness](https://meaningness.com/metablog/artificial-intelligence-progress)
 * [The 4 Levels of Data Usage in Data Science](https://www.kdnuggets.com/2018/07/4-levels-data-usage-data-science.html)
+* [The AI Hierarchy of Needs – Hacker Noon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 

@@ -24,6 +24,7 @@ From Machine Learning Yearning:
 * [Machine Learning Algorithms: Which One to Choose for Your Problem](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
 * [When to Use MLP, CNN, and RNN Neural Networks](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [When not to use deep learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
+* [Anthony Goldbloom gives you the secret to winning Kaggle competitions \| Import.io](https://www.import.io/post/how-to-win-a-kaggle-competition/)
 
 Advantage of Naive Bayes
 

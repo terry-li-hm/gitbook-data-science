@@ -76,6 +76,8 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 * [\[1807.10875\] TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/abs/1807.10875)
 * [Pros and Cons of Neural Networks – machinelearning-blog.com](https://machinelearning-blog.com/2018/04/09/neural-networks-vs-traditional-algorithms/)
+* [Deep Learning Cheat Sheet – Hacker Noon](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
+* [https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
@@ -127,6 +129,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [專題：深度神經網絡基本問題的原理詳細分析和推導 - CSDN博客](https://blog.csdn.net/zpcxh95/article/details/69952020)
 * [History of Convolutional Blocks in simple Code – Towards Data Science](https://towardsdatascience.com/history-of-convolutional-blocks-in-simple-code-96a7ddceac0c)
 * [A “weird” introduction to Deep Learning – Towards Data Science](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
+* [Yes you should understand backprop – Andrej Karpathy – Medium](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
 ## Blackbox
 
