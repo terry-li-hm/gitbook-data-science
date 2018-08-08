@@ -85,4 +85,5 @@ If a smaller batch size is used, the gradient is calculated using less number of
 
 * [A Brilliant Example of How Automated Deep Learning is Reshaping the Healthcare Analytics Industry](https://www.analyticsvidhya.com/blog/2018/08/automated-deep-learning-healthcare/)
 * [AI camera to help spot the best grapes for making pesticide-free wine \| New Scientist](https://www.newscientist.com/article/2175660-ai-camera-to-help-spot-the-best-grapes-for-making-pesticide-free-wine/)
+* [kevinhughes27/TensorKart: self-driving MarioKart with TensorFlow](https://github.com/kevinhughes27/TensorKart)
 

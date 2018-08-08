@@ -213,5 +213,10 @@
 
 *  [Applying deep learning to real-world problems – merantix – Medium](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 
+## Creative Use Case
+
+* [altosaar/food2vec](https://github.com/altosaar/food2vec)
+* [kevinhughes27/TensorKart: self-driving MarioKart with TensorFlow](https://github.com/kevinhughes27/TensorKart)
+
 
 

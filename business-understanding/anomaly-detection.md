@@ -127,6 +127,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [\[P\] Credit Card Fraud / Anomaly Detection with Keras : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/93ufpb/p_credit_card_fraud_anomaly_detection_with_keras/)
 * [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
 
+{% file src="../.gitbook/assets/fraud-detection-how-machine-learning-systems-help-reveal-scams-in-fintech-healthcare-and-ecommerce.pdf" %}
+
 ### Isolation Forests
 
 * [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)

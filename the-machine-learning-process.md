@@ -6,6 +6,7 @@
 * [What is Minimum Viable \(Data\) Product? – idealo Tech Blog – Medium](https://medium.com/idealo-tech-blog/what-is-minimum-viable-data-product-49269e338d85)
 * [Running Agile Machine Learning Experiments – The Lever – Medium](https://medium.com/the-lever/running-agile-machine-learning-experiments-4d500314ab11)
 * [Guidelines For Ab Testing - Hooked on Data](http://hookedondata.org/Guidelines-for-AB-Testing/)
+* [如何在 Kaggle 首战中进入前 10% \| Wille](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
 
 ![](.gitbook/assets/image%20%2823%29.png)
 
