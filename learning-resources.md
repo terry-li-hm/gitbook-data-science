@@ -30,6 +30,8 @@
 * [Putting It All Together: Essays on Data Analysis](https://leanpub.com/dataanalysisessays)
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
+* [floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 
 

@@ -21,6 +21,7 @@
 * [Practical Apache Spark in 10 minutes. Part 4 — MLlib](https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-4-mllib-fca02fecf5b8)
 * [Practical Apache Spark in 10 minutes. Part 5 — Streaming](https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-5-streaming-b3b42dbeae63)
 * [PySpark Dataframe Basics – Chang Hsin Lee – Commiting my thoughts to words.](https://changhsinlee.com/pyspark-dataframe-basics/)
+* [Learn How to Code and Deploy Machine Learning Models on Spark Structured Streaming](https://towardsdatascience.com/learn-how-to-code-and-deploy-machine-learning-models-on-structured-streaming-868b4081d242)
 
 
 

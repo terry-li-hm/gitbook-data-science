@@ -58,4 +58,5 @@
 * [Unlearning descriptive statistics](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics/)
 * [What is Normal?](https://www.kdnuggets.com/2018/07/what-is-normal.html)
 * [Partitioning the Variation in Data · Simply Statistics](https://simplystatistics.org/2018/07/23/partitioning-the-variation-in-data/?mkt_tok=eyJpIjoiWmpBeU9ETXhNMlJoWVdVeiIsInQiOiJ2am1zTmFqT09cL1Y3cldYWVVKZEpEeUplcnpqXC9mU01wRFE3THZzOEI4UFNRWFBuSzJlY1gydzIyS0Vta3d2SEU0MEd0WVwvUCtRVmFjMTB2OHFNeEI0SytaN1RXUlwvS2tPWCt1bUxXUFlsR25qMXVVWFV2UGtIXC9iaUFZK1JFdHlSIn0)
+* [It’s time for science to abandon the term ‘statistically significant’ \| Aeon Essays](https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant)
 

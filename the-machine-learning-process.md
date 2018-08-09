@@ -7,6 +7,8 @@
 * [Running Agile Machine Learning Experiments – The Lever – Medium](https://medium.com/the-lever/running-agile-machine-learning-experiments-4d500314ab11)
 * [Guidelines For Ab Testing - Hooked on Data](http://hookedondata.org/Guidelines-for-AB-Testing/)
 * [如何在 Kaggle 首战中进入前 10% \| Wille](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+* \*\*\*\*[**Introducing the Facebook Field Guide to Machine Learning video series – Facebook Research**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)\*\*\*\*
+* [Replication in Data Science - A Dance Between Data Science & Machine …](https://www.slideshare.net/JuneAndrews/replication-in-data-science-a-dance-between-data-science-machine-learning-strata-2016)
 
 ![](.gitbook/assets/image%20%2823%29.png)
 

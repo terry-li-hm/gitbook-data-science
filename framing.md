@@ -185,6 +185,9 @@
 * [Catching Lottery Cheats with Data Science » Creme Global](http://www.cremeglobal.com/catching-lottery-cheats-with-data-science/)
 * [Deep Learning with Emojis \(not Math\) – tech-at-instacart](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
 * [Serial Killers Should Fear This Algorithm - Bloomberg](https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm)
+* [The Next Wave of Deep Learning Applications](https://www.nextplatform.com/2016/09/14/next-wave-deep-learning-applications/)
+* [Advancing Procurement Analytics - O'Reilly Media](https://www.oreilly.com/learning/advancing-procurement-analytics)
+* [Predicting poverty — Sustainability and artificial intelligence lab](http://sustain.stanford.edu/predicting-poverty/)
 * [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
@@ -194,6 +197,8 @@
 * [Neural Networks And EPS Prediction \| Seeking Alpha](https://seekingalpha.com/article/4187062-neural-networks-eps-prediction?mkt_tok=eyJpIjoiTldNMFlXUmhaV0l4T0RkayIsInQiOiJHRGU3clM5ZGNTRTNDUlJCaThRQ01vWXFBYnVQc2ZqN0tacFBMUHdQcGI3YVVCOEpOXC9tVW14XC91QnJVTFhUY3FNWk9SZjZMMUw2a0FVWmE3emt5UkFDcW12NG9ORVZSWE1hRVJkSXdkM0dDUXRkWG1vandQNVJoRmVPUkhBUlNKIn0)
 * [Artificial Intelligence at Investment Banks - 5 Current Applications](https://www.techemergence.com/artificial-intelligence-at-investment-banks-5-current-applications/)
 * [Kaggle Competition In 30 Minutes: Predict Home Credit Default Risk With R](http://www.business-science.io/business/2018/08/07/kaggle-competition-home-credit-default-risk.html)
+* [RE•WORK \| Blog - AI & The Future of Banking: What have you missed?](https://www.re-work.co/blog/ai-the-future-of-banking-what-have-you-missed)
+* [RE•WORK \| Blog - Blockchain, AI & Finance: What you need to know](https://www.re-work.co/blog/blockchain-ai-finance-what-you-need-to-know)
 
 ## Analysis
 
@@ -208,6 +213,7 @@
 * [Global house price trends · Len Kiefer](http://lenkiefer.com/2018/08/02/global-house-price-trends/)
 * [The Largest Ever Analysis of Film Dialogue by Gender: 2,000 scripts, 25,000 actors, 4 million lines](https://pudding.cool/2017/03/film-dialogue/)
 * [A look at Street Safety in Cambridge, MA – A Look at Cambridge – Medium](https://medium.com/a-look-at-cambridge/a-look-at-street-safety-in-cambridge-ma-11d5281b6014)
+* [Learning Seattle's Work Habits from Bicycle Counts \| Pythonic Perambulations](http://jakevdp.github.io/blog/2015/07/23/learning-seattles-work-habits-from-bicycle-counts/)
 
 ## Methodology
 
@@ -218,12 +224,18 @@
 * [altosaar/food2vec](https://github.com/altosaar/food2vec)
 * [kevinhughes27/TensorKart: self-driving MarioKart with TensorFlow](https://github.com/kevinhughes27/TensorKart)
 * [Using Siamese Networks and Pre-Trained Convolutional Neural Networks \(CNNs\) for Fashion Similarity Matching \| Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/07/10/how-to-use-siamese-network-and-pre-trained-cnns-for-fashion-similarity-matching/)
+* \*\*\*\*[**Optimizing ads CTR by reinforcement learning\(Thompson sampling\)**](https://towardsdatascience.com/optimising-ads-ctr-by-solving-multi-arm-bandit-problem-in-reinforcement-learning-using-thompson-2bb9645e8ef5)\*\*\*\*
+* [A peek at x.ai’s data science architecture – x.ai](https://x.ai/blog/a-peek-at-x-ais-data-science-architecture/)
 
 ## Business Use Case
 
 * [CTR預估專欄 \| Facebook經典模型LR+GBDT理論與實踐](https://mp.weixin.qq.com/s/KyvjI_2CLss_fzVFxPrE7A)
 * [Top 10 Data Science Use Cases in Retail – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-retail-6483accc6042)
 * [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
+
+## Case Study
+
+*  [Estimating Delivery Times: A Case Study In Practical Machine Learning](https://blog.postmates.com/estimating-delivery-times-a-case-study-in-practical-machine-learning-e70f677e736c)
 
 
 

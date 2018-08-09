@@ -27,4 +27,5 @@
 * [乾貨 \| 基於貝葉斯推斷的分類模型& 機器學習你會遇到的“坑” - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81267560)
 * [Dan Roy: Bayesian Learning I - YouTube](https://www.youtube.com/watch?v=KJ5pf1rEqyg)
 * [科普 \| 貝葉斯概率模型一覽 \| 雷鋒網](https://www.leiphone.com/news/201807/yf7uaQos1zVqCdu7.html)
+* [Introduction to Bayesian Data Analysis and Stan with Andrew Gelman - YouTube](https://www.youtube.com/watch?v=T1gYvX5c2sM)
 

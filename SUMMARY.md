@@ -32,6 +32,7 @@
   * [Unsupervised](data-preparation/unsupervised.md)
   * [Unbalance](data-preparation/unbalance.md)
   * [Feature Selection](data-preparation/feature-selection.md)
+  * [Train-test split](data-preparation/train-test-split.md)
 * [Modeling](modeling/README.md)
   * [Which Algorithm to Try](modeling/comparing-algorithms.md)
   * [Semi-Supervised](modeling/untitled-4-1.md)
