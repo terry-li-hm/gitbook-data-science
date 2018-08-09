@@ -217,6 +217,13 @@
 
 * [altosaar/food2vec](https://github.com/altosaar/food2vec)
 * [kevinhughes27/TensorKart: self-driving MarioKart with TensorFlow](https://github.com/kevinhughes27/TensorKart)
+* [Using Siamese Networks and Pre-Trained Convolutional Neural Networks \(CNNs\) for Fashion Similarity Matching \| Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/07/10/how-to-use-siamese-network-and-pre-trained-cnns-for-fashion-similarity-matching/)
+
+## Business Use Case
+
+* [CTR預估專欄 \| Facebook經典模型LR+GBDT理論與實踐](https://mp.weixin.qq.com/s/KyvjI_2CLss_fzVFxPrE7A)
+* [Top 10 Data Science Use Cases in Retail – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-retail-6483accc6042)
+* [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 
 
 

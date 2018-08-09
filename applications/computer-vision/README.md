@@ -80,6 +80,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Top 10 Pretrained Models to get you Started with Deep Learning \(Part 1 - Computer Vision\)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/)
 * [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
 * [10 Advanced Deep Learning Architectures Data Scientists Should Know!](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)
+* [Understanding Feature Pyramid Networks for object detection \(FPN\)](https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c)
 
 ## Use Cases
 
