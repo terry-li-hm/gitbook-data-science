@@ -295,6 +295,7 @@ Some other tools:
 * [Text Analytics with Yellowbrick — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/text-analytics-with-yellowbrick)
 * [ml-meetup-feb2017](http://dongnguyen.nl/publications/nlp-meetup-dong-mar2017.pdf)
 * [Convolutional Methods for Text – Tal Perry – Medium](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
+* [Machine-Generated Knowledge Bases](https://blog.primer.ai/technology/2018/08/03/Quicksilver.html)
 
 
 

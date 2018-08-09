@@ -30,6 +30,7 @@
 * [Medical AI Safety: We have a problem. – Luke Oakden-Rayner](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)
 * [Data's day of reckoning - O'Reilly Media](https://www.oreilly.com/ideas/datas-day-of-reckoning)
 * [Why Is Google Translate Spitting Out Sinister Religious Prophecies? - Motherboard](https://motherboard.vice.com/en_us/article/j5npeg/why-is-google-translate-spitting-out-sinister-religious-prophecies)
+* [Weapons of Math Destruction, Ethical Matrix, Nate Silver and more Highlights from the Data Science Leaders Summit](https://www.kdnuggets.com/2018/07/domino-data-science-leaders-summit-highlights.html)
 
 ## Interpretability
 
