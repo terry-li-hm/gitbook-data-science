@@ -124,4 +124,5 @@
 * [DVC](dvc.md)
 * [DevOps](devops.md)
 * [Projects](projects.md)
+* [Tips](tips.md)
 
