@@ -296,6 +296,9 @@ Some other tools:
 * [ml-meetup-feb2017](http://dongnguyen.nl/publications/nlp-meetup-dong-mar2017.pdf)
 * [Convolutional Methods for Text – Tal Perry – Medium](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
 * [Machine-Generated Knowledge Bases](https://blog.primer.ai/technology/2018/08/03/Quicksilver.html)
+* [2018机器阅读理解技术竞赛](http://mrc2018.cipsc.org.cn/)
+* \*\*\*\*[**NLP, 知識圖譜參考資源 - CSDN博客**](https://blog.csdn.net/antkillerfarm/article/details/78082564)\*\*\*\*
+* [📚The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
 
 
 

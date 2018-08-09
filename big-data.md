@@ -6,6 +6,7 @@
 * [Big Data Analysis with Apache Spark Python PySpark \| Udemy](https://www.udemy.com/machine-learning-and-bigdata-analysis-with-apache-spark-python-pyspark/)
 * [Practical Apache Spark in 10 minutes. Part 2 — RDD – Data Science School – Medium](https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-2-rdd-8e34c7663d6d)
 * [Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml)
+* [Ultimate guide to handle Big Datasets for Machine Learning using Dask \(in Python\)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
 
 
 

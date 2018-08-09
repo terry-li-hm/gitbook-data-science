@@ -188,6 +188,7 @@
 * [The Next Wave of Deep Learning Applications](https://www.nextplatform.com/2016/09/14/next-wave-deep-learning-applications/)
 * [Advancing Procurement Analytics - O'Reilly Media](https://www.oreilly.com/learning/advancing-procurement-analytics)
 * [Predicting poverty — Sustainability and artificial intelligence lab](http://sustain.stanford.edu/predicting-poverty/)
+* [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
 * [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
@@ -226,12 +227,15 @@
 * [Using Siamese Networks and Pre-Trained Convolutional Neural Networks \(CNNs\) for Fashion Similarity Matching \| Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/2018/07/10/how-to-use-siamese-network-and-pre-trained-cnns-for-fashion-similarity-matching/)
 * \*\*\*\*[**Optimizing ads CTR by reinforcement learning\(Thompson sampling\)**](https://towardsdatascience.com/optimising-ads-ctr-by-solving-multi-arm-bandit-problem-in-reinforcement-learning-using-thompson-2bb9645e8ef5)\*\*\*\*
 * [A peek at x.ai’s data science architecture – x.ai](https://x.ai/blog/a-peek-at-x-ais-data-science-architecture/)
+* [無人機可用於預防鳥類撞擊飛機的事故 \| ATYUN](http://www.atyun.com/26236.html)
+* [GAN用於材料設計：哈佛大學新研究登上Science \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-08)
 
 ## Business Use Case
 
 * [CTR預估專欄 \| Facebook經典模型LR+GBDT理論與實踐](https://mp.weixin.qq.com/s/KyvjI_2CLss_fzVFxPrE7A)
 * [Top 10 Data Science Use Cases in Retail – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-retail-6483accc6042)
 * [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
+* [機器學習項目：使用Python進行零售價格推薦 \| ATYUN](http://www.atyun.com/26203.html)
 
 ## Case Study
 
