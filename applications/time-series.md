@@ -26,4 +26,6 @@
 * [Taxonomy of Time Series Forecasting Problems](https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/)
 * [Data Science for Business - Time Series Forecasting Part 2: Forecasting with timekit](https://shiring.github.io/forecasting/2017/06/09/retail_forcasting_part2)
 * [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
+* [Using LSTMs to forecast time-series – Towards Data Science](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
+* [Autoregressive Models in TensorFlow](https://www.kdnuggets.com/2018/08/autoregressive-models-tensorflow.html)
 

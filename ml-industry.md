@@ -40,6 +40,7 @@
 * [What Machine Learning Can and Cannot Do - CIO Journal. - WSJ](https://blogs.wsj.com/cio/2018/07/27/what-machine-learning-can-and-cannot-do/)
 * [How companies can get started with AI - O'Reilly Media](https://www.oreilly.com/ideas/how-companies-can-get-started-with-ai?mkt_tok=eyJpIjoiWlRnM1l6aG1ZVEEyT1dGayIsInQiOiIwOEZtSGFJeGdcLzJLRUliNEgrZlk3bERcL21GZGVoelU5SVA0ZUY5eGpyekxHc0xTendRQjBadEtsUUJ3eU1iRDlQV0hJa0ROYmxcL212NW56ckFmd00xMlBLU055TER4UmJhMzZcL0VLVkJCMlA1TUY0YWxOczZ4R3k1bFpcL2s4blNnIn0)
 * [The Promise of AI on Vimeo](https://vimeo.com/215926017)
+* [Deep Learning in the Enterprise - Current Traction and Challenges](https://www.techemergence.com/deep-learning-in-the-enterprise-current-traction-and-challenges/)
 
 
 

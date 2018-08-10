@@ -299,6 +299,7 @@ Some other tools:
 * [2018机器阅读理解技术竞赛](http://mrc2018.cipsc.org.cn/)
 * \*\*\*\*[**NLP, 知識圖譜參考資源 - CSDN博客**](https://blog.csdn.net/antkillerfarm/article/details/78082564)\*\*\*\*
 * [📚The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
+* [WTF is TF-IDF?](https://www.kdnuggets.com/2018/08/wtf-tf-idf.html)
 
 
 

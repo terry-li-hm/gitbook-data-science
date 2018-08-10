@@ -18,6 +18,7 @@
 * [Beginner's Guide to Customer Segmentation - Alteryx Community](https://community.alteryx.com/t5/Data-Science-Blog/Beginner-s-Guide-to-Customer-Segmentation/ba-p/138442)
 * [An Introduction to Clustering & different methods of clustering](https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/)
 * [Finding Optimal Number of Clusters \| DataScience+](https://datascienceplus.com/finding-optimal-number-of-clusters/)
+* [K-Means in Real Life: Clustering Workout Sessions – Towards Data Science](https://towardsdatascience.com/k-means-in-real-life-clustering-workout-sessions-119946f9e8dd)
 
 
 

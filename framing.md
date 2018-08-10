@@ -200,6 +200,7 @@
 * [Kaggle Competition In 30 Minutes: Predict Home Credit Default Risk With R](http://www.business-science.io/business/2018/08/07/kaggle-competition-home-credit-default-risk.html)
 * [RE•WORK \| Blog - AI & The Future of Banking: What have you missed?](https://www.re-work.co/blog/ai-the-future-of-banking-what-have-you-missed)
 * [RE•WORK \| Blog - Blockchain, AI & Finance: What you need to know](https://www.re-work.co/blog/blockchain-ai-finance-what-you-need-to-know)
+* \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
 ## Analysis
 
@@ -215,6 +216,7 @@
 * [The Largest Ever Analysis of Film Dialogue by Gender: 2,000 scripts, 25,000 actors, 4 million lines](https://pudding.cool/2017/03/film-dialogue/)
 * [A look at Street Safety in Cambridge, MA – A Look at Cambridge – Medium](https://medium.com/a-look-at-cambridge/a-look-at-street-safety-in-cambridge-ma-11d5281b6014)
 * [Learning Seattle's Work Habits from Bicycle Counts \| Pythonic Perambulations](http://jakevdp.github.io/blog/2015/07/23/learning-seattles-work-habits-from-bicycle-counts/)
+* [Life After Death on Wikipedia](https://pudding.cool/2018/08/wiki-death/)
 
 ## Methodology
 
@@ -233,6 +235,10 @@
 * [Skills Benchmarking – Coursera Engineering – Medium](https://medium.com/coursera-engineering/how-our-skills-benchmarking-technology-is-creating-value-for-companies-70a7e06e667f)
 * [Using technology to increase equality of opportunity](https://medium.com/coursera-engineering/using-technology-to-increase-equality-of-opportunity-d782089122d4)
 * [Automated coaching – Coursera Engineering – Medium](https://medium.com/coursera-engineering/in-course-help-2a475bf3bc2c)
+* [Loc2Vec: Learning location embeddings with triplet-loss networks \| Sentiance](http://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
+* [Fashion AC-GAN with Keras \| Kaggle](https://www.kaggle.com/sgamez/fashion-ac-gan-with-keras)
+* [How our Skills Graph is helping learners find the right content to reach their goals](https://medium.com/coursera-engineering/courseras-skills-graph-helps-learners-find-the-right-content-to-reach-their-goals-b10418a05214)
+* [AI can now tell your boss what skills you lack—and how you can get them - MIT Technology Review](https://www.technologyreview.com/s/611790/coursera-ai-skills/)
 
 ## Business Use Case
 
@@ -240,6 +246,7 @@
 * [Top 10 Data Science Use Cases in Retail – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-retail-6483accc6042)
 * [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 * [機器學習項目：使用Python進行零售價格推薦 \| ATYUN](http://www.atyun.com/26203.html)
+* [From Hate Speech to Russian Bot Tweets \| Kaggle](https://www.kaggle.com/kmader/from-hate-speech-to-russian-bot-tweets)
 
 ## Case Study
 

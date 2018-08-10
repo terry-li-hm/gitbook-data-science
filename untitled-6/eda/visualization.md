@@ -99,6 +99,7 @@
 * [The most misleading charts of 2015, fixed — Quartz](https://qz.com/580859/the-most-misleading-charts-of-2015-fixed/)
 * [A new visualization to beautifully explore correlations - O'Reilly Media](https://www.oreilly.com/learning/a-new-visualization-to-beautifully-explore-correlations)
 * [t-makaro/animatplot: A python package for animating plots build on matplotlib.](https://github.com/t-makaro/animatplot)
+* [The challenges of visualizing climate change \| Chartable](https://blog.datawrapper.de/weekly39/)
 
 ## Tools
 
