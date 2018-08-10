@@ -189,6 +189,7 @@
 * [Advancing Procurement Analytics - O'Reilly Media](https://www.oreilly.com/learning/advancing-procurement-analytics)
 * [Predicting poverty — Sustainability and artificial intelligence lab](http://sustain.stanford.edu/predicting-poverty/)
 * [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
+* [Google AI Blog: The Machine Learning Behind Android Smart Linkify](https://ai.googleblog.com/2018/08/the-machine-learning-behind-android.html)
 * [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
@@ -239,6 +240,9 @@
 * [Fashion AC-GAN with Keras \| Kaggle](https://www.kaggle.com/sgamez/fashion-ac-gan-with-keras)
 * [How our Skills Graph is helping learners find the right content to reach their goals](https://medium.com/coursera-engineering/courseras-skills-graph-helps-learners-find-the-right-content-to-reach-their-goals-b10418a05214)
 * [AI can now tell your boss what skills you lack—and how you can get them - MIT Technology Review](https://www.technologyreview.com/s/611790/coursera-ai-skills/)
+* [IBM开发AI病毒，以更好地了解并应对新型网络威胁 \| ATYUN](http://www.atyun.com/26313.html)
+* [机器学习预测分子结构和电子特性，准确性高且成本低 \| ATYUN](http://www.atyun.com/26320.html)
+* [AI根据照片个性化创建音乐视频 \| ATYUN](http://www.atyun.com/26304.html)
 
 ## Business Use Case
 

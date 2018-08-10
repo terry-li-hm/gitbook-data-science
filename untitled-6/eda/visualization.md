@@ -100,6 +100,7 @@
 * [A new visualization to beautifully explore correlations - O'Reilly Media](https://www.oreilly.com/learning/a-new-visualization-to-beautifully-explore-correlations)
 * [t-makaro/animatplot: A python package for animating plots build on matplotlib.](https://github.com/t-makaro/animatplot)
 * [The challenges of visualizing climate change \| Chartable](https://blog.datawrapper.de/weekly39/)
+* [10 significant visualisation developments: January to June 2018 - Visualising Data](http://www.visualisingdata.com/2018/08/10-significant-visualisation-developments-january-june-2018/)
 
 ## Tools
 

@@ -125,6 +125,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [在自然語言處理領域，哪些企業的發展遙遙領先？（附報告） - CSDN博客](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81229829)
 * [ACL 2018：Attention 機制佔主流，中文語法檢錯測評引關注 \| ACL 2018 \| 雷鋒網](https://www.leiphone.com/news/201807/CSiDyhfKmCUMsTHy.html)
 * [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn)
+* [苏州大学张民教授两小时讲座精华摘录：自然语言处理方法与应用 \| 雷锋网](https://www.leiphone.com/news/201808/58xvkwmbZoIc1J9c.html)
 
 ### Sentiment Analysis
 
@@ -134,7 +135,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [A Beginner’s Guide on Sentiment Analysis with RNN – Towards Data Science](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
 * [Twitter Sentiment Analysis using combined LSTM-CNN Models – B-sides](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 * [Comprehensive Hands on Guide to Twitter Sentiment Analysis with dataset & code](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
-* [Comprehensive Hands on Guide to Twitter Sentiment Analysis with dataset & code](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
+* [文本挖掘和情感分析的基础示例 \| ATYUN](http://www.atyun.com/26241.html)
 
 ### Text Classification
 
@@ -300,6 +301,7 @@ Some other tools:
 * \*\*\*\*[**NLP, 知識圖譜參考資源 - CSDN博客**](https://blog.csdn.net/antkillerfarm/article/details/78082564)\*\*\*\*
 * [📚The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
 * [WTF is TF-IDF?](https://www.kdnuggets.com/2018/08/wtf-tf-idf.html)
+* [Breakfast with AI – Fireflies.ai Blog](https://blog.fireflies.ai/breakfast-with-ai-9f48427bc171)
 
 
 
