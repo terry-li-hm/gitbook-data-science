@@ -24,6 +24,7 @@
 * [Getting to know a black-box model: – Towards Data Science](https://towardsdatascience.com/getting-to-know-a-black-box-model-374e180589ce)
 * [Robust Adversarial Examples](https://blog.openai.com/robust-adversarial-inputs/)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples · cat /var/log/life](https://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
+* [sarathknv/adversarial-pytorch: Implementation of adversarial attacks and defences.](https://github.com/sarathknv/adversarial-pytorch)
 * [https://ml.berkeley.edu/blog/2018/01/10/adversarial-examples/](https://ml.berkeley.edu/blog/2018/01/10/adversarial-examples/)
 
 

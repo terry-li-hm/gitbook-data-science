@@ -25,6 +25,7 @@
 ## SVM
 
 * [Support Vector Machine \(SVM\) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+* [plotly/dash-svm: Interactive SVM Explorer, using Dash and scikit-learn](https://github.com/plotly/dash-svm)
 
 ## kNN
 
