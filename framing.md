@@ -229,6 +229,10 @@
 * [A peek at x.ai’s data science architecture – x.ai](https://x.ai/blog/a-peek-at-x-ais-data-science-architecture/)
 * [無人機可用於預防鳥類撞擊飛機的事故 \| ATYUN](http://www.atyun.com/26236.html)
 * [GAN用於材料設計：哈佛大學新研究登上Science \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-08)
+* [Measuring outcomes of high schoolers taking Computer Science courses](https://medium.com/coursera-engineering/measuring-outcomes-of-high-schoolers-taking-cs-courses-987e9adb7fee)
+* [Skills Benchmarking – Coursera Engineering – Medium](https://medium.com/coursera-engineering/how-our-skills-benchmarking-technology-is-creating-value-for-companies-70a7e06e667f)
+* [Using technology to increase equality of opportunity](https://medium.com/coursera-engineering/using-technology-to-increase-equality-of-opportunity-d782089122d4)
+* [Automated coaching – Coursera Engineering – Medium](https://medium.com/coursera-engineering/in-course-help-2a475bf3bc2c)
 
 ## Business Use Case
 
@@ -239,7 +243,8 @@
 
 ## Case Study
 
-*  [Estimating Delivery Times: A Case Study In Practical Machine Learning](https://blog.postmates.com/estimating-delivery-times-a-case-study-in-practical-machine-learning-e70f677e736c)
+* [Estimating Delivery Times: A Case Study In Practical Machine Learning](https://blog.postmates.com/estimating-delivery-times-a-case-study-in-practical-machine-learning-e70f677e736c)
+* [Building data services to bring education to millions, Part III](https://medium.com/coursera-engineering/building-data-services-to-bring-education-to-millions-part-iii-d34e5f37303)
 
 
 
