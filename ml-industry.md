@@ -42,6 +42,7 @@
 * [The Promise of AI on Vimeo](https://vimeo.com/215926017)
 * [Deep Learning in the Enterprise - Current Traction and Challenges](https://www.techemergence.com/deep-learning-in-the-enterprise-current-traction-and-challenges/)
 * [这是一篇献给新手的深度学习综述 \| 机器之心](https://www.jiqizhixin.com/articles/Recent-Advances-in-Deep-Learning-An-Overview)
+* [The Last 5 Years In Deep Learning – Adit Deshpande – CS Undergrad at UCLA \('19\)](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
 
 
 
@@ -63,7 +64,7 @@
 * [Associate / AVP / VP, Center of Innovation \(Data / Machine Learning / NLP / Fintech - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b48959d9008569e14daa847&from=ja&jk=08cd6cf7a06338b4&rgtk=1ckb6omih390kakm)
 * [Data Scientist - M/F VIE Hong Kong - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b4895919008569e14daa836&from=ja&jk=0e2036d172ac5242&rgtk=1ckb6or0b36uiai4)
 * [Data Scientist - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b4895919008569e14daa836&from=ja&jk=65b3be9b13fea89b&rgtk=1ckb6or0b36uiai4)
-
+* 
 ## AGI
 
 * [Measuring abstract reasoning in neural networks \| DeepMind](https://deepmind.com/blog/measuring-abstract-reasoning/)

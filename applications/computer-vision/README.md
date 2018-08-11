@@ -82,6 +82,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [10 Advanced Deep Learning Architectures Data Scientists Should Know!](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)
 * [Understanding Feature Pyramid Networks for object detection \(FPN\)](https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c)
 * [Multi-label classification with Keras - PyImageSearch](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
+* [基于内容的图像检索技术综述 传统经典方法](https://zhuanlan.zhihu.com/p/40714398)
 
 ## Use Cases
 

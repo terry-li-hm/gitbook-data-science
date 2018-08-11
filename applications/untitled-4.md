@@ -302,6 +302,8 @@ Some other tools:
 * [📚The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
 * [WTF is TF-IDF?](https://www.kdnuggets.com/2018/08/wtf-tf-idf.html)
 * [Breakfast with AI – Fireflies.ai Blog](https://blog.fireflies.ai/breakfast-with-ai-9f48427bc171)
+* [基于深度神经网络的自动问答系统概述](https://zhuanlan.zhihu.com/p/41217854)
+* [Introduction to NLP – Towards Data Science](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
 
 
 

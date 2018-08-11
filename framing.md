@@ -218,6 +218,8 @@
 * [A look at Street Safety in Cambridge, MA – A Look at Cambridge – Medium](https://medium.com/a-look-at-cambridge/a-look-at-street-safety-in-cambridge-ma-11d5281b6014)
 * [Learning Seattle's Work Habits from Bicycle Counts \| Pythonic Perambulations](http://jakevdp.github.io/blog/2015/07/23/learning-seattles-work-habits-from-bicycle-counts/)
 * [Life After Death on Wikipedia](https://pudding.cool/2018/08/wiki-death/)
+* [Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods \| Curtis Miller's Personal Website](https://ntguardian.wordpress.com/2016/10/25/hillary-clinton-progressive-statistics/)
+* [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
 
 ## Methodology
 
@@ -256,6 +258,7 @@
 
 * [Estimating Delivery Times: A Case Study In Practical Machine Learning](https://blog.postmates.com/estimating-delivery-times-a-case-study-in-practical-machine-learning-e70f677e736c)
 * [Building data services to bring education to millions, Part III](https://medium.com/coursera-engineering/building-data-services-to-bring-education-to-millions-part-iii-d34e5f37303)
+* [Web Scraping TripAdvisor, Text Mining and Sentiment Analysis for Hotel Reviews](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)
 
 
 

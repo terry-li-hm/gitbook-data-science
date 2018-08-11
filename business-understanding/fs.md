@@ -49,4 +49,5 @@
 * [The relationship between fintech startups and legacy banks is being rewritten — Quartz](https://qz.com/1319616/the-relationship-between-fintech-startups-and-legacy-banks-is-being-rewritten/)
 * [認知鴻溝：金融科技之於銀行轉型](https://mp.weixin.qq.com/s/RCz6NFI-T9xqzWQo0dUU0g)
 * [\[風險管理\] 深度拆解銀行貸款全流程 - StealJobs.com 優越工作情報網](https://stealjobs.com/風險管理-深度拆解銀行貸款全流程/)
+* [在银行从事风险管理是什么样的体验？ - 知乎](https://www.zhihu.com/question/20385516)
 
