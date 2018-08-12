@@ -11,6 +11,8 @@
 * [Video series: Easier data analysis in Python using the pandas library](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 * [WZBSocialScienceCenter/pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on \(OCR-processed\) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract)
 * [Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba](https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138)
+* [Data Manipulation and Visualization with Pandas and Seaborn — A Practical Introduction](https://gist.github.com/5agado/ee95008f25730d04bfd0eedd5c36f0ee)
+* [How to use datetime](https://brohrer.github.io/datetime_tricks.html)
 
 
 

@@ -304,6 +304,7 @@ Some other tools:
 * [Breakfast with AI – Fireflies.ai Blog](https://blog.fireflies.ai/breakfast-with-ai-9f48427bc171)
 * [基于深度神经网络的自动问答系统概述](https://zhuanlan.zhihu.com/p/41217854)
 * [Introduction to NLP – Towards Data Science](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
+* [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
 
 
 

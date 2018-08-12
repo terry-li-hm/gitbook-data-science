@@ -220,6 +220,7 @@
 * [Life After Death on Wikipedia](https://pudding.cool/2018/08/wiki-death/)
 * [Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods \| Curtis Miller's Personal Website](https://ntguardian.wordpress.com/2016/10/25/hillary-clinton-progressive-statistics/)
 * [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
+* [Were there more notable deaths than expected in 2016? · Maëlle's R blog](https://masalmon.eu/2017/02/12/wikideaths1_ts/)
 
 ## Methodology
 
@@ -245,6 +246,7 @@
 * [IBM开发AI病毒，以更好地了解并应对新型网络威胁 \| ATYUN](http://www.atyun.com/26313.html)
 * [机器学习预测分子结构和电子特性，准确性高且成本低 \| ATYUN](http://www.atyun.com/26320.html)
 * [AI根据照片个性化创建音乐视频 \| ATYUN](http://www.atyun.com/26304.html)
+* [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 
 ## Business Use Case
 

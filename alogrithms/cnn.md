@@ -29,6 +29,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [A simple 2D CNN for MNIST digit recognition – Towards Data Science](https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a)
 * [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks – Adit Deshpande – CS Undergrad at UCLA \('19\)](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/?cmp=em-data-na-na-newsltr_20161019&imm_mid=0e9900)
+* [An Intuitive Explanation of Convolutional Neural Networks – the data science blog](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
 
 
