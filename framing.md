@@ -221,6 +221,7 @@
 * [Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods \| Curtis Miller's Personal Website](https://ntguardian.wordpress.com/2016/10/25/hillary-clinton-progressive-statistics/)
 * [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
 * [Were there more notable deaths than expected in 2016? · Maëlle's R blog](https://masalmon.eu/2017/02/12/wikideaths1_ts/)
+* [How to Find Underrated People on Twitter with TURI \(Twitter Underrated Index\)](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index/)
 
 ## Methodology
 
