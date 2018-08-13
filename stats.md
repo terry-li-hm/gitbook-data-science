@@ -60,4 +60,7 @@
 * [Partitioning the Variation in Data · Simply Statistics](https://simplystatistics.org/2018/07/23/partitioning-the-variation-in-data/?mkt_tok=eyJpIjoiWmpBeU9ETXhNMlJoWVdVeiIsInQiOiJ2am1zTmFqT09cL1Y3cldYWVVKZEpEeUplcnpqXC9mU01wRFE3THZzOEI4UFNRWFBuSzJlY1gydzIyS0Vta3d2SEU0MEd0WVwvUCtRVmFjMTB2OHFNeEI0SytaN1RXUlwvS2tPWCt1bUxXUFlsR25qMXVVWFV2UGtIXC9iaUFZK1JFdHlSIn0)
 * [It’s time for science to abandon the term ‘statistically significant’ \| Aeon Essays](https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant)
 * [3 Reasons Counting is the Hardest Thing in Data Science](http://daynebatten.com/2016/06/counting-hard-data-science/)
+* [避坑指南 \| 你应具备这3大统计学常识&大数据思维](https://mp.weixin.qq.com/s/_AHqFqf1zFNtBifayiTfXQ)
+* [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
+* [Leonid Boytsov's answer to Is machine learning a pseudo science? - Quora](https://www.quora.com/Is-machine-learning-a-pseudo-science/answer/Leonid-Boytsov)
 

@@ -32,6 +32,8 @@
 * [Data Science for Startups: Introduction – Towards Data Science](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
 * [floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/)
+* [Model-Based Machine Learning \(Early Access\): an online book](http://www.mbmlbook.com/index.html)
 
 
 

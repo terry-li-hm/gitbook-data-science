@@ -66,6 +66,7 @@
 * [The Blacker the Box](https://www.locallyoptimistic.com/post/the-blacker-the-box/)
 * [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
 * [Ideas on interpreting machine learning - O'Reilly Media](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ##  Fairness
 

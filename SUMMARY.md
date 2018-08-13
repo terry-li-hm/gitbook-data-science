@@ -74,6 +74,7 @@
   * [MXNet](tools/mxnet.md)
   * [Tensorflow or PyTorch](tools/tensorflow-or-pytorch.md)
   * [Linux](tools/linux.md)
+  * [Colab](tools/colab.md)
 * [Applications](applications/README.md)
   * [Time Series](applications/time-series.md)
   * [NLP](applications/untitled-4.md)

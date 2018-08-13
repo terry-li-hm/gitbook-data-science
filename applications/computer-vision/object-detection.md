@@ -27,4 +27,5 @@
 * [Building a Mask R-CNN Model for Detecting Car Damage \(Python codes\)](https://www.analyticsvidhya.com/blog/2018/07/building-mask-r-cnn-model-detecting-damage-cars-python/)
 * [Real time face and eyes detection with OpenCV – Good Audience](https://blog.goodaudience.com/real-time-face-and-eyes-detection-with-opencv-54d9ccfee6a8)
 * [OpenCV Object Tracking - PyImageSearch](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)
-* 
+* [YOLO目标检测，训练自己的数据集（识别海参）](https://mp.weixin.qq.com/s/d2AaIb_m7HO5Y1CJ7wHV5g)
+

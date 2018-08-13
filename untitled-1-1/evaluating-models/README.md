@@ -7,6 +7,7 @@
 * [Evaluation Metrics for Classification – machinelearning-blog.com](https://machinelearning-blog.com/2018/04/03/evaluation-metrics-for-classification/)
 * [Gini Coefficient - An Intuitive Explanation \| Kaggle](https://www.kaggle.com/batzner/gini-coefficient-an-intuitive-explanation)
 * [Putting Accuracy in Context - Zillow Artificial Intelligence](https://www.zillow.com/data-science/putting-accuracy-context/)
+* [Unified Cross-Platform Performance Metrics – Several People Are Coding](https://slack.engineering/unified-cross-platform-performance-metrics-adeb371a8814)
 
 
 

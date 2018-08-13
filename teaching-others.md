@@ -22,6 +22,7 @@
 * [Quick guide to understand the hype around ‘deep learning’ Quick guide to deep learning](https://thenextweb.com/contributors/2018/07/14/quick-guide-to-deep-learning/)
 * [Supervised, Unsupervised, and Reinforcement Learning, Explained \| NVIDIA Blog](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/)
 * [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
+* [Machine Learning: A Primer – Lizzie Turner – Medium](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1)
 * [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 

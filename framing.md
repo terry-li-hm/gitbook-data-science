@@ -252,6 +252,7 @@
 * [Stock Market Predictions with Natural Language Deep Learning - Developer Blog](https://www.microsoft.com/developerblog/2017/12/04/predicting-stock-performance-deep-learning/)
 * [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f)
 * [A New Kind of Clinical Trial – doc.ai – Medium](https://medium.com/@_doc_ai/a-new-kind-of-clinical-trial-4b7f928f12e1)
+* [Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)
 
 ## Business Use Case
 

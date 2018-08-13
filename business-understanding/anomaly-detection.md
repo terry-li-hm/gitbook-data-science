@@ -89,6 +89,8 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [An Introduction to Graph Theory and Network Analysis \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
 * [NLP, 知识图谱参考资源 - CSDN博客](https://blog.csdn.net/antkillerfarm/article/details/78082564)
 * [Getting started with graph analysis in Python with pandas and networkx](https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e)
+* [一文揭秘！自底向上构建知识图谱全过程](https://102.alibaba.com/detail/?id=134)
+* [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 
 
 
@@ -104,6 +106,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Outlier detection on a real data set — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/auto_examples/applications/plot_outlier_detection_housing.html)
 * [Outlier Detection :D \| Kaggle](https://www.kaggle.com/springrid/outlier-detection-d)
 * [Anomaly-Detection/Anomaly Detection.ipynb at master · aqibsaeed/Anomaly-Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb)
+* [机器学习实验（九）：基于高斯分布和OneClassSVM的异常点检测 - CSDN博客](https://blog.csdn.net/u013719780/article/details/53219997)
 
 ## Library
 

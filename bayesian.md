@@ -28,4 +28,6 @@
 * [Dan Roy: Bayesian Learning I - YouTube](https://www.youtube.com/watch?v=KJ5pf1rEqyg)
 * [科普 \| 貝葉斯概率模型一覽 \| 雷鋒網](https://www.leiphone.com/news/201807/yf7uaQos1zVqCdu7.html)
 * [Introduction to Bayesian Data Analysis and Stan with Andrew Gelman - YouTube](https://www.youtube.com/watch?v=T1gYvX5c2sM)
+* [理解朴素贝叶斯分类的拉普拉斯平滑](https://zhuanlan.zhihu.com/p/26329951)
+* [Fundamentals of Bayesian Data Analysis \| DataCamp](https://www.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r)
 

@@ -102,6 +102,7 @@
 * [The challenges of visualizing climate change \| Chartable](https://blog.datawrapper.de/weekly39/)
 * [10 significant visualisation developments: January to June 2018 - Visualising Data](http://www.visualisingdata.com/2018/08/10-significant-visualisation-developments-january-june-2018/)
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+* [USA Temperature: can I sucker you? \| Open Mind](https://tamino.wordpress.com/2018/08/08/usa-temperature-can-i-sucker-you/)
 * [bstrain on Twitter: "\#SoDS18 because I know all of you are using plots as a part of your EDA process, don't forget about \#R's "breaks" argument in the hist\(...\) command. Creating more bins can show _very_ different information! 👉hist\(base.df$INCOME\) vs 👉hist\(base.df$INCOME, breaks = 300\)… https://t.co/TgAWln2cfA"](https://twitter.com/bstrain1/status/1023945235339067392/photo/1)
 
 ## Tools
