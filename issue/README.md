@@ -86,6 +86,7 @@
 * [Want Less-Biased Decisions? Use Algorithms.](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)
 * [What HBR Gets Wrong About Algorithms and Bias · fast.ai](http://www.fast.ai/2018/08/07/hbr-bias-algorithms/)
 * [Fairness and Bias in Algorithms — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/fairness-and-bias-in-algorithms)
+* [Machine Bias — ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 ## Privacy
 

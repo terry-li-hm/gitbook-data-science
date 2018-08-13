@@ -19,6 +19,7 @@
 * [Complete Guide to Parameter Tuning in Gradient Boosting \(GBM\) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 * [A Practical Guide to Tree Based Learning Algorithms \| Sadanand's Notes](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [隨機森林概述](https://mp.weixin.qq.com/s/mrQRNFovcHFL5NRVwbL2Lw)
+* [Adaboost入门教程——最通俗易懂的原理介绍](https://mp.weixin.qq.com/s/wKMqCeGa6SfO4JQ435CSkw)
 * [Machine Learning Crash Course: Part 5 - Decision Trees and Ensemble Models](https://ml.berkeley.edu/blog/2017/12/26/tutorial-5/)
 
 A random forest is a bunch of independent decision trees each contributing a “vote” to an prediction. E.g. if there are 50 trees, and 32 say “rainy” and 18 say “sunny”, then the score for “rainy” is 32/50, or 64,% and the score for a “sunny” is 18/50, or 36%. Since 64% &gt; 36%, the forest has voted that they think it will rain.  

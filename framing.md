@@ -223,6 +223,7 @@
 * [Drake — Using Natural Language Processing to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
 * [Were there more notable deaths than expected in 2016? · Maëlle's R blog](https://masalmon.eu/2017/02/12/wikideaths1_ts/)
 * [How to Find Underrated People on Twitter with TURI \(Twitter Underrated Index\)](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index/)
+* [Quantifying the impact of the Twitter fake accounts purge - a technical analysis](https://elie.net/blog/web/quantifying-the-impact-of-the-twitter-fake-accounts-purge-a-technical-analysis)
 
 ## Methodology
 
@@ -253,6 +254,8 @@
 * [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f)
 * [A New Kind of Clinical Trial – doc.ai – Medium](https://medium.com/@_doc_ai/a-new-kind-of-clinical-trial-4b7f928f12e1)
 * [Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)
+* [Building Brundage Bot – Hacker Noon](https://hackernoon.com/building-brundage-bot-10252facf3d1)
+* [The AI boss that deploys Hong Kong's subway engineers \| New Scientist](https://www.newscientist.com//article/mg22329764.000-the-ai-boss-that-deploys-hong-kongs-subway-engineers)
 
 ## Business Use Case
 
@@ -261,6 +264,7 @@
 * [Top 10 Data Science Use Cases in Insurance – ActiveWizards: machine learning company – Medium](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 * [機器學習項目：使用Python進行零售價格推薦 \| ATYUN](http://www.atyun.com/26203.html)
 * [From Hate Speech to Russian Bot Tweets \| Kaggle](https://www.kaggle.com/kmader/from-hate-speech-to-russian-bot-tweets)
+* [11 Powerful AI Tools You Can Use To Upgrade Your Customer Experience](https://www.topbots.com/best-customer-service-automation-enterprise-technology-software/)
 
 ## Case Study
 
