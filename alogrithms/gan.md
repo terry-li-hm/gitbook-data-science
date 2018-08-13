@@ -42,4 +42,5 @@
 * [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
 * [Generative Adversarial Networks for beginners - O'Reilly Media](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
 * [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
+* [jsn5/dancenet: DanceNet -💃💃Dance generator using Autoencoder, LSTM and Mixture Density Network. \(Keras\)](https://github.com/jsn5/dancenet)
 

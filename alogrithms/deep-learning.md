@@ -79,6 +79,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [Deep Learning Cheat Sheet – Hacker Noon](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
 * [https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
+* [6 种激活函数核心知识点，请务必掌握！](https://mp.weixin.qq.com/s/Cvf3ReuCKSugp9lrZqlaqg)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 
 
@@ -130,6 +131,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [History of Convolutional Blocks in simple Code – Towards Data Science](https://towardsdatascience.com/history-of-convolutional-blocks-in-simple-code-96a7ddceac0c)
 * [A “weird” introduction to Deep Learning – Towards Data Science](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
 * [Yes you should understand backprop – Andrej Karpathy – Medium](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+* [【PPT下载】深度学习入门指南！六步构建深度神经网络](https://mp.weixin.qq.com/s/PFbU7_9gOV8sSmee8fo1zA)
 
 ## Blackbox
 

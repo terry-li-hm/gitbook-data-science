@@ -190,6 +190,7 @@
 * [Predicting poverty — Sustainability and artificial intelligence lab](http://sustain.stanford.edu/predicting-poverty/)
 * [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
 * [Google AI Blog: The Machine Learning Behind Android Smart Linkify](https://ai.googleblog.com/2018/08/the-machine-learning-behind-android.html)
+* [十张图看懂未来大数据世界](https://mp.weixin.qq.com/s/nWjn6M5NySapoKx7Jx-J5g)
 * [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
@@ -248,6 +249,9 @@
 * [机器学习预测分子结构和电子特性，准确性高且成本低 \| ATYUN](http://www.atyun.com/26320.html)
 * [AI根据照片个性化创建音乐视频 \| ATYUN](http://www.atyun.com/26304.html)
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
+* [Stock Market Predictions with Natural Language Deep Learning - Developer Blog](https://www.microsoft.com/developerblog/2017/12/04/predicting-stock-performance-deep-learning/)
+* [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f)
+* [A New Kind of Clinical Trial – doc.ai – Medium](https://medium.com/@_doc_ai/a-new-kind-of-clinical-trial-4b7f928f12e1)
 
 ## Business Use Case
 

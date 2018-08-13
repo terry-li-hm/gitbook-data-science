@@ -87,6 +87,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Airbnb Democratizes Data Discovery with the Neo4j Graph Platform](https://neo4j.com/blog/democratizing-data-discovery-airbnb/)
 * [Google AI Blog: Graph-powered Machine Learning at Google](https://ai.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
 * [An Introduction to Graph Theory and Network Analysis \(with Python codes\)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
+* [NLP, 知识图谱参考资源 - CSDN博客](https://blog.csdn.net/antkillerfarm/article/details/78082564)
 * [Getting started with graph analysis in Python with pandas and networkx](https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e)
 
 

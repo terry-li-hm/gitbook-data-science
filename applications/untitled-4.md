@@ -305,6 +305,8 @@ Some other tools:
 * [基于深度神经网络的自动问答系统概述](https://zhuanlan.zhihu.com/p/41217854)
 * [Introduction to NLP – Towards Data Science](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
 * [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
+* [NLP, 知识图谱参考资源 - CSDN博客](https://blog.csdn.net/antkillerfarm/article/details/78082564)
+* [Fully-parallel text generation for neural machine translation](https://einstein.ai/research/non-autoregressive-neural-machine-translation)
 
 
 

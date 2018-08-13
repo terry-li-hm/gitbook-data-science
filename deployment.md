@@ -13,6 +13,7 @@
 * [Deploying Keras Deep Learning Models with Flask – Towards Data Science](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
 * [Write less terrible code with Jupyter Notebook](https://blog.godatadriven.com/write-less-terrible-notebook-code)
 * [Machine Learning in Production – ContentSquare Engineering – Medium](https://medium.com/contentsquare-engineering-blog/machine-learning-in-production-c53b43283ab1)
+* [How to build a deep learning model in 15 minutes – tech-at-instacart](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
 
 
 
