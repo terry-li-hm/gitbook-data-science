@@ -161,7 +161,7 @@ But in fact still need labels as you need to use only the negative samples to tr
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 [How to Successfully Harness AI to Combat Fraud and Abuse - RSA 2018 - YouTube](https://www.youtube.com/watch?v=5gxI-6QmPdE)
 

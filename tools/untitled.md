@@ -9,5 +9,5 @@
 * [Prodicode/ann-visualizer: A python library for visualizing Artificial Neural Networks \(ANN\)](https://github.com/Prodicode/ann-visualizer)
 * [Keras \| TensorFlow](https://www.tensorflow.org/guide/keras)
 * [Keras Layers Intro — Brendan Herger](https://www.hergertarian.com/keras-layers-intro)
-* [A Comprehensive guide to Fine-tuning Deep Learning Models in Keras \(Part II\) \| Felix Yu](https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html)
+* [Keras: Multiple outputs and multiple losses - PyImageSearch](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
 

@@ -204,6 +204,8 @@
 * [RE•WORK \| Blog - Blockchain, AI & Finance: What you need to know](https://www.re-work.co/blog/blockchain-ai-finance-what-you-need-to-know)
 * \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
+![](.gitbook/assets/image%20%2838%29.png)
+
 ## Analysis
 
 * [From Topological Data Analysis to Deep Learning: No Pain No Gain](https://towardsdatascience.com/from-tda-to-dl-d06f234f51d)
