@@ -4,7 +4,11 @@
 * [An Introductory Guide to Maximum Likelihood Estimation \(with a case study in R\)](https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/)
 * [Regularization of Linear Models with SKLearn – Coinmonks – Medium](https://medium.com/coinmonks/regularization-of-linear-models-with-sklearn-f88633a93a2)
 
-## Logistic Regression
+## Regression
+
+* [你应该掌握的 7 种回归模型！ - CSDN博客](https://blog.csdn.net/red_stone1/article/details/81122926)
+
+### Logistic Regression
 
 * [The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
 * [Logistic Regression from scratch \(and how to make it nonlinear\)](http://crawles.com/lr-scratch/)

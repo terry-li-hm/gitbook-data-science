@@ -43,4 +43,6 @@
 * [Generative Adversarial Networks for beginners - O'Reilly Media](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
 * [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
 * [jsn5/dancenet: DanceNet -💃💃Dance generator using Autoencoder, LSTM and Mixture Density Network. \(Keras\)](https://github.com/jsn5/dancenet)
+* [白话生成对抗网络 GAN，50 行代码玩转 GAN 模型！【附源码】 - CSDN博客](https://blog.csdn.net/red_stone1/article/details/81180331)
+* [细水长flow之NICE：流模型的基本概念与实现 - 科学空间\|Scientific Spaces](https://spaces.ac.cn/archives/5776)
 

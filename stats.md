@@ -63,4 +63,6 @@
 * [避坑指南 \| 你应具备这3大统计学常识&大数据思维](https://mp.weixin.qq.com/s/_AHqFqf1zFNtBifayiTfXQ)
 * [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 * [Leonid Boytsov's answer to Is machine learning a pseudo science? - Quora](https://www.quora.com/Is-machine-learning-a-pseudo-science/answer/Leonid-Boytsov)
+* [7 Common Mistakes in Interpreting Analytics Data \| OPTASY](https://www.optasy.com/blog/7-common-mistakes-interpreting-analytics-data-statistical-pitfalls-your-ux-team-avoid)
+* [What is a p-value \| Codementor](https://www.codementor.io/rebeccaebarnes/what-is-a-p-value-m941dbj9p)
 

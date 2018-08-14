@@ -91,6 +91,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Getting started with graph analysis in Python with pandas and networkx](https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e)
 * [一文揭秘！自底向上构建知识图谱全过程](https://102.alibaba.com/detail/?id=134)
 * [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
+* [\[1808.02590\] A Tutorial on Network Embeddings](https://arxiv.org/abs/1808.02590)
 
 
 

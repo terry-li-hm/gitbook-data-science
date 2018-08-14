@@ -309,6 +309,7 @@ Some other tools:
 * [NLP, 知识图谱参考资源 - CSDN博客](https://blog.csdn.net/antkillerfarm/article/details/78082564)
 * [Fully-parallel text generation for neural machine translation](https://einstein.ai/research/non-autoregressive-neural-machine-translation)
 * [⛵ Learning Meaning in Natural Language Processing - The Semantics Mega-Thread](https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e)
+* [A NLP Guide to Text Classification using Conditional Random Fields](https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/)
 
 
 

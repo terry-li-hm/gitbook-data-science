@@ -19,6 +19,8 @@
 * [An Introduction to Clustering & different methods of clustering](https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/)
 * [Finding Optimal Number of Clusters \| DataScience+](https://datascienceplus.com/finding-optimal-number-of-clusters/)
 * [K-Means in Real Life: Clustering Workout Sessions – Towards Data Science](https://towardsdatascience.com/k-means-in-real-life-clustering-workout-sessions-119946f9e8dd)
+* [How to Overcome the Curse of Dimensionality \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](https://byteacademy.co/blog/overcome-dimensionailty-machinelearning)
+* [K-Means Clustering: All You Need to Know \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](https://byteacademy.co/blog/k-means-clustering/)
 
 
 

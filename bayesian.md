@@ -30,4 +30,5 @@
 * [Introduction to Bayesian Data Analysis and Stan with Andrew Gelman - YouTube](https://www.youtube.com/watch?v=T1gYvX5c2sM)
 * [理解朴素贝叶斯分类的拉普拉斯平滑](https://zhuanlan.zhihu.com/p/26329951)
 * [Fundamentals of Bayesian Data Analysis \| DataCamp](https://www.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r)
+* [通俗易懂！白话朴素贝叶斯 - CSDN博客](https://blog.csdn.net/red_stone1/article/details/80935942)
 
