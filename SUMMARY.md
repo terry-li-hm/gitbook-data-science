@@ -127,4 +127,5 @@
 * [DevOps](devops.md)
 * [Projects](projects.md)
 * [Tips](tips.md)
+* [Causal Inference](causal-inference.md)
 

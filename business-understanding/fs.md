@@ -52,4 +52,5 @@
 * [在银行从事风险管理是什么样的体验？ - 知乎](https://www.zhihu.com/question/20385516)
 * [The Roles of Big Data and Machine Learning in Bank Supervision \| The Clearing House](https://www.theclearinghouse.org/banking-perspectives/2018/2018-q1-banking-perspectives/articles/big-data-ml-bank-supervision)
 * [估值超过3个小米！独角巨兽蚂蚁金服养成记【附下载】\| 智东西内参](https://mp.weixin.qq.com/s/BsrBtrcUvTG75X2XEWARrw)
+* [如何进入投资银行？ Part 1](https://zhuanlan.zhihu.com/p/19719409)
 

@@ -108,6 +108,9 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Outlier Detection :D \| Kaggle](https://www.kaggle.com/springrid/outlier-detection-d)
 * [Anomaly-Detection/Anomaly Detection.ipynb at master · aqibsaeed/Anomaly-Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb)
 * [机器学习实验（九）：基于高斯分布和OneClassSVM的异常点检测 - CSDN博客](https://blog.csdn.net/u013719780/article/details/53219997)
+* [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers \(Part VII\)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd)
+* [Autoencoders and anomaly detection with machine learning in fraud analytics](https://shiring.github.io/machine_learning/2017/05/01/fraud)
+* [H2O - Autoencoders and anomaly detection \(Python\) \| Kaggle](https://www.kaggle.com/imrandude/h2o-autoencoders-and-anomaly-detection-python)
 
 ## Library
 

@@ -258,6 +258,7 @@
 * [Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)
 * [Building Brundage Bot – Hacker Noon](https://hackernoon.com/building-brundage-bot-10252facf3d1)
 * [The AI boss that deploys Hong Kong's subway engineers \| New Scientist](https://www.newscientist.com//article/mg22329764.000-the-ai-boss-that-deploys-hong-kongs-subway-engineers)
+* [Detonating a bad rabbit: Windows Defender Antivirus and layered machine learning defenses – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2017/12/11/detonating-a-bad-rabbit-windows-defender-antivirus-and-layered-machine-learning-defenses/)
 
 ## Business Use Case
 
@@ -273,6 +274,7 @@
 * [Estimating Delivery Times: A Case Study In Practical Machine Learning](https://blog.postmates.com/estimating-delivery-times-a-case-study-in-practical-machine-learning-e70f677e736c)
 * [Building data services to bring education to millions, Part III](https://medium.com/coursera-engineering/building-data-services-to-bring-education-to-millions-part-iii-d34e5f37303)
 * [Web Scraping TripAdvisor, Text Mining and Sentiment Analysis for Hotel Reviews](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)
+* [Protecting the protector: Hardening machine learning defenses against adversarial attacks – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2018/08/09/protecting-the-protector-hardening-machine-learning-defenses-against-adversarial-attacks/)
 
 
 

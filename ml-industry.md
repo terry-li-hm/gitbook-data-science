@@ -64,7 +64,42 @@
 * [Associate / AVP / VP, Center of Innovation \(Data / Machine Learning / NLP / Fintech - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b48959d9008569e14daa847&from=ja&jk=08cd6cf7a06338b4&rgtk=1ckb6omih390kakm)
 * [Data Scientist - M/F VIE Hong Kong - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b4895919008569e14daa836&from=ja&jk=0e2036d172ac5242&rgtk=1ckb6or0b36uiai4)
 * [Data Scientist - Hong Kong - Indeed.hk](https://www.indeed.hk/viewjob?alid=5b4895919008569e14daa836&from=ja&jk=65b3be9b13fea89b&rgtk=1ckb6or0b36uiai4)
-* 
+* [Data Scientist and Engineer - Machine Learning and Artificial Intelligence Project - Spark, Hadoop, Java, Python - Hong Kong job - BAH Partners - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=5f4a44a0ac6c8cf1&q=Machine+Learning&l=Hong+Kong&tk=1cktl8l7b3cqeegt&from=ja&alid=5b48959d9008569e14daa847&rgtk=1cktl8l7b3cqeegt)
+  * My client is a global private bank. They are seeking a Data Scientist / Engineer for a brand new high-profile project in their Digital Banking \(DB\) group:
+
+    * In short, they are building a brand new trade advisory platform for the DB. The core concept is based on a data lake, Machine Learning and Artificial Intelligence and a brand new Full Stack tech platform to support it and tie it all together.
+    * The idea is that they want to use technology to simplify the way trade suggestions and advice is collated and presented to clients. This new system will create documents \(emails, web sites, smartphone apps, etc\) that will bundle together all of the necessary data, risk, research and information to present to clients. It will do this in record breaking time, removing the arduous and time costly process of gathering this information and analyzing it in person, meaning they can be fastest to market. It will work within the client’s risk parameters and be able to access and include all relevant research and analysis at the click of a button.
+    * A little further down the line, this system will begin to start making investment proposals by itself, by using Machine Learning and AI. Any trade or decision ever made by that client, or any similar client, before will have been stored in the data lake. The system will work with that data and real-time incoming data to predict and suggest the most suitable and interesting trade ideas to clients in real-time.
+
+    Requirements:
+
+    * You have Apache Spark/Hadoop ecosystem knowledge.
+    * You have good programming skills in at least one of Python/Scala/R/Java/Javascript.
+    * You have willingness to learn new technologies, strategies and tools.
+    * You have automated testing and related frameworks.
+    * Experience of Machine Learning techniques
+    * You have some experience of NoSQL databases such as MongoDB.
+    * You are familiar with Agile development practices.
+
+    If you would like to apply for this opening or discuss any other positions within banking and finance technology in Asia, please send an email to Craig.Barnish@bahpartners.com / +852 2544 4479.
+* [Data Scientist for High Frequency Trading at Hedge Fund](https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Data_Scientist_for_High_Frequency_Trading_at_Hedge_Fund.id03417101?query=cGFnZT0xJnBhZ2VTaXplPTI0JnNlYXJjaE1vZGU9REVGQVVMVF9TRUFSQ0gmZmlsdGVyR3JvdXBGb3JtLmluY2x1ZGVSZWZyZXNoZWQ9dHJ1ZQ%3D%3D&event=JOB_SAVE_UNSAVE&jobSavedId=3417101)
+  * Our client is a leading Hedge Fund looking to hire a Data Scientist to join their Quant Research team. They are looking for someone with a background in machine learning and statistics.
+
+    Our client is looking for: 
+
+    -Someone with a working history as a data scientist, not necessarily from a finance background
+
+    -An exceptional understanding of machine/deep learning methodologies and how to apply them
+
+    -Strong education and a good knowledge of statistics and statistical methods
+
+    -A good team player, willing to learn on the job
+
+    -Sound programming knowledge
+
+    This is a great opportunity for the right candidate to begin or further their career in quantitative finance. Our clients are very highly regarded in this space. 
+* [Data Scientist - Hedge Fund \(Alpha Seeking Experience Required\) job - Michael Page - Hong Kong \| Indeed.hk](https://www.indeed.hk/viewjob?jk=416029054f71e7dc&q=Machine+Learning&l=Hong+Kong&tk=1cktl8l7b3cqeegt&from=ja&alid=5b48959d9008569e14daa847&rgtk=1cktl8l7b3cqeegt)
+
 ## AGI
 
 * [Measuring abstract reasoning in neural networks \| DeepMind](https://deepmind.com/blog/measuring-abstract-reasoning/)

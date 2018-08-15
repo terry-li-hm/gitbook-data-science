@@ -29,4 +29,5 @@
 * [Using LSTMs to forecast time-series – Towards Data Science](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
 * [Autoregressive Models in TensorFlow](https://www.kdnuggets.com/2018/08/autoregressive-models-tensorflow.html)
 * [How to Develop a Skillful Machine Learning Time Series Forecasting Model](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
+* [tensorflow/tensorflow/contrib/timeseries at master · tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries)
 

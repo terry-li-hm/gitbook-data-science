@@ -8,6 +8,7 @@
 * [h2oai/mli-resources: Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 * [Adioma - Infographic Maker With Timelines, Grids and Icons](https://adioma.com/)
+* [Better Presentations Cheatsheet - Policy Viz](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/)
 
 ![](.gitbook/assets/image%20%2832%29.png)
 
