@@ -57,7 +57,6 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Neo4j](https://github.com/neo4j/neo4j)
 * [Stanford Network Analysis Project](http://snap.stanford.edu/projects.html)
 * [Graphlab Create™. Fast, Scalable Machine Learning Modeling in Python. \| Turi](https://turi.com/)
-* [tkipf/pygcn: Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
 * [Graph Convolutions For Tox21](https://deepchem.io/docs/notebooks/graph_convolutional_networks_for_tox21.html)
 * [kegra: Deep Learning on Knowledge Graphs with Keras](https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93)
 * [**Google AI Blog: Graph-powered Machine Learning at Google**](https://ai.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
@@ -99,6 +98,16 @@ Fraud Detection is an application of anomaly detection per Wiki.
 ![https://www.slideshare.net/stanleywanguni/graph-analytic-and-machine-learning/19](../.gitbook/assets/graph-1.png)
 
 ![](../.gitbook/assets/23-1.png)
+
+### Graph Convolutional Networks
+
+* [Graph Convolutional Networks \| Thomas Kipf \| PhD Student @ University of Amsterdam](http://tkipf.github.io/graph-convolutional-networks/)
+  * [tkipf/pygcn: Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
+  * [tkipf/gcn: Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
+
+###  Graph Attention Network
+
+* [PetarV-/GAT: Graph Attention Networks \(https://arxiv.org/abs/1710.10903\)](https://github.com/PetarV-/GAT)
 
 ## Codes
 
