@@ -65,4 +65,5 @@
 * [Leonid Boytsov's answer to Is machine learning a pseudo science? - Quora](https://www.quora.com/Is-machine-learning-a-pseudo-science/answer/Leonid-Boytsov)
 * [7 Common Mistakes in Interpreting Analytics Data \| OPTASY](https://www.optasy.com/blog/7-common-mistakes-interpreting-analytics-data-statistical-pitfalls-your-ux-team-avoid)
 * [What is a p-value \| Codementor](https://www.codementor.io/rebeccaebarnes/what-is-a-p-value-m941dbj9p)
+* [15 Statistical Hypothesis Tests in Python \(Cheat Sheet\)](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 

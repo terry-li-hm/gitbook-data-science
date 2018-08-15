@@ -226,6 +226,7 @@
 * [Were there more notable deaths than expected in 2016? · Maëlle's R blog](https://masalmon.eu/2017/02/12/wikideaths1_ts/)
 * [How to Find Underrated People on Twitter with TURI \(Twitter Underrated Index\)](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index/)
 * [Quantifying the impact of the Twitter fake accounts purge - a technical analysis](https://elie.net/blog/web/quantifying-the-impact-of-the-twitter-fake-accounts-purge-a-technical-analysis)
+* [Data Science Portfolio Project: Is Fandango Inflating Ratings?](https://www.dataquest.io/blog/data-science-project-fandango/)
 
 ## Methodology
 
