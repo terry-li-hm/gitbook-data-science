@@ -36,6 +36,8 @@
 * [8th solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47564)
 * [Source Code \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47622)
 * [12th place solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47667)
+* [5th Place Solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47556)
+* [My approach - public 0.507, private 0.517 \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47534)
 
 ##  WaveNet
 
@@ -50,4 +52,6 @@
 ##  **RNN**
 
 * [5th Place Solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47556)
+* [1st place solution \| Kaggle](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795#245823)
+* [4th-Place Solution Overview \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47529)
 

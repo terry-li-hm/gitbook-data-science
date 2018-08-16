@@ -87,6 +87,7 @@
   * [Text-to-Speech](applications/text-to-speech.md)
   * [Self-driving Car](applications/self-driving-car.md)
   * [Forecasting](applications/forecasting.md)
+  * [Classification](applications/classification.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)

@@ -154,6 +154,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 ### Time Series
 
 * [Time Series Anomaly Detection Algorithms – Stats and Bots](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
+* [Time Series Anomaly Detection - Azure Machine Learning Studio \| Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/time-series-anomaly-detection)
 
 ### Probabilistic Programming
 
