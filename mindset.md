@@ -11,4 +11,5 @@
 * [The 4 Levels of Data Usage in Data Science](https://www.kdnuggets.com/2018/07/4-levels-data-usage-data-science.html)
 * [The AI Hierarchy of Needs – Hacker Noon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 * [A more realistic route to autonomous driving - Gently does it](https://www.economist.com/business/2018/08/02/a-more-realistic-route-to-autonomous-driving)
+* [陸奇：大規模技術驅動創新的願景](https://m.igetget.com/share/course/article/article_id/81612)
 

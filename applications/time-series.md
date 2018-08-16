@@ -30,4 +30,11 @@
 * [Autoregressive Models in TensorFlow](https://www.kdnuggets.com/2018/08/autoregressive-models-tensorflow.html)
 * [How to Develop a Skillful Machine Learning Time Series Forecasting Model](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
 * [tensorflow/tensorflow/contrib/timeseries at master · tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries)
+* [1st place solution \| Corporación Favorita Grocery Sales Forecasting \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47582)
+
+##  WaveNet
+
+* [sjvasquez/web-traffic-forecasting: Kaggle \| Web Traffic Forecasting 📈](https://github.com/sjvasquez/web-traffic-forecasting)
+* [2nd place solution overview \| Corporación Favorita Grocery Sales Forecasting \| ​Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47568)
+  * Corresponding paper: [\[1803.04037\] Sales forecasting using WaveNet within the framework of the Kaggle competition](https://arxiv.org/abs/1803.04037)
 

@@ -109,3 +109,9 @@ Compared to the similar Mean Absolute Error, RMSE amplifies and severely punishe
 >
 > My identifier doesn't have great **recall**, but it does have good **precision**. That means that whenever a POI gets flagged in my test set, I know with a lot of confidence that it's very likely to be a real POI and not a false alarm. On the other hand, the price I pay for this is that I sometimes miss real POIs, since I'm effectively reluctant to pull the trigger on edge cases.
 
+## Regression
+
+### [Normalized Weighted Root Mean Squared Logarithmic Error \(NWRMSLE\)](https://www.kaggle.com/c/favorita-grocery-sales-forecasting#evaluation)
+
+This metric is suitable when predicting values across a large range of orders of magnitudes. It avoids penalizing large differences in prediction when both the predicted and the true number are large: predicting 5 when the true value is 50 is penalized more than predicting 500 when the true value is 545.
+
