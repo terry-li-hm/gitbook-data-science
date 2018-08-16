@@ -28,6 +28,7 @@
 * [When Recurrent Models Don't Need to be Recurrent – Off the convex path](http://www.offconvex.org/2018/07/27/approximating-recurrent/)
 * [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks \| Uber Engineering Blog](https://eng.uber.com/neural-networks/)
 * [locuslab/TCN: Sequence modeling benchmarks and temporal convolutional networks](https://github.com/locuslab/TCN)
+* \*\*\*\*[**完全图解RNN、RNN变体、Seq2Seq、Attention机制 \| 雷锋网**](https://www.leiphone.com/news/201709/8tDpwklrKubaecTa.html)\*\*\*\*
 
 In practice regular RNNs are rarely used anymore, while GRUs and LSTMs dominate the field.
 

@@ -31,10 +31,23 @@
 * [How to Develop a Skillful Machine Learning Time Series Forecasting Model](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
 * [tensorflow/tensorflow/contrib/timeseries at master · tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries)
 * [1st place solution \| Corporación Favorita Grocery Sales Forecasting \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47582)
+* [3rd place solution overview \| Corporación Favorita Grocery Sales Forecasting \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47560)
+* [my 10 day journey for this competition and solution sharing \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47603)
+* [8th solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47564)
+* [Source Code \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47622)
+* [12th place solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47667)
 
 ##  WaveNet
 
 * [sjvasquez/web-traffic-forecasting: Kaggle \| Web Traffic Forecasting 📈](https://github.com/sjvasquez/web-traffic-forecasting)
 * [2nd place solution overview \| Corporación Favorita Grocery Sales Forecasting \| ​Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47568)
   * Corresponding paper: [\[1803.04037\] Sales forecasting using WaveNet within the framework of the Kaggle competition](https://arxiv.org/abs/1803.04037)
+
+##  **CNN+DNN**
+
+* [5th Place Solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47556)
+
+##  **RNN**
+
+* [5th Place Solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47556)
 

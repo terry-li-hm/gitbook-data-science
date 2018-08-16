@@ -151,6 +151,10 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)
 * [Unsupervised Fraud Detection: Isolation Forest \| Kaggle](https://www.kaggle.com/rgaddati/unsupervised-fraud-detection-isolation-forest)
 
+### Time Series
+
+* [Time Series Anomaly Detection Algorithms – Stats and Bots](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
+
 ### Probabilistic Programming
 
 * [anomaly\_detection/Anomaly Detection Post.ipynb at master · fastforwardlabs/anomaly\_detection](https://github.com/fastforwardlabs/anomaly_detection/blob/master/Anomaly%20Detection%20Post.ipynb)
