@@ -84,3 +84,5 @@
 >
 > XGBoost has a multitude of other parameters, but these will go a very long way in helping you fine-tune your XGBoost model for optimal performance.
 
+* [Unveiling Mathematics behind XGBoost – Ajit Samudrala – Medium](https://medium.com/@samudralaajit/unveiling-mathematics-behind-xgboost-c7f1b8201e2a)
+
