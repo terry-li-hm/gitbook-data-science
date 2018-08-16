@@ -90,10 +90,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [一文揭秘！自底向上构建知识图谱全过程](https://102.alibaba.com/detail/?id=134)
 * [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 * [\[1808.02590\] A Tutorial on Network Embeddings](https://arxiv.org/abs/1808.02590)
-
-
-
-
+* [How Do You Know If a Graph Database Solves the Problem?](https://medium.com/neo4j/how-do-you-know-if-a-graph-database-solves-the-problem-a7da10393f5)
 
 ![https://www.slideshare.net/stanleywanguni/graph-analytic-and-machine-learning/19](../.gitbook/assets/graph-1.png)
 

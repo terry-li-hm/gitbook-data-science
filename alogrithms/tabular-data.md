@@ -22,6 +22,7 @@
 
 * [On learning embeddings for categorical data using Keras](https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9)
 * [How to Use Word Embedding Layers for Deep Learning with Keras](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
+* [深度学习中Keras中的Embedding层的理解与使用 \| 不正经数据科学家](http://frankchen.xyz/2017/12/18/How-to-Use-Word-Embedding-Layers-for-Deep-Learning-with-Keras/)
 
 
 
