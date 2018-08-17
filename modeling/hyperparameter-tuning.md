@@ -38,6 +38,7 @@
 * [ClimbsRocks/auto\_ml: Automated machine learning for analytics & production](https://github.com/ClimbsRocks/auto_ml)
 * [Automatic model tuning with Sacred and Hyperopt.ipynb](https://github.com/gereleth/kaggle-telstra/blob/master/Automatic%20model%20tuning%20with%20Sacred%20and%20Hyperopt.ipynb)
 * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
+* [automl/HpBandSter: a distributed Hyperband implementation on Steroids](https://github.com/automl/HpBandSter)
 
 
 

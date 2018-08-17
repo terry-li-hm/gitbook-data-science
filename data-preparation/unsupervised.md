@@ -21,6 +21,7 @@
 * [K-Means in Real Life: Clustering Workout Sessions – Towards Data Science](https://towardsdatascience.com/k-means-in-real-life-clustering-workout-sessions-119946f9e8dd)
 * [How to Overcome the Curse of Dimensionality \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](https://byteacademy.co/blog/overcome-dimensionailty-machinelearning)
 * [K-Means Clustering: All You Need to Know \| Byte Academy \| Top Coding School for Python, Blockchain & Fintech](https://byteacademy.co/blog/k-means-clustering/)
+* [漫談概率 PCA 和變分自編碼器 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-16-7)
 
 
 

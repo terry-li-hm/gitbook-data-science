@@ -14,6 +14,7 @@
 * [Write less terrible code with Jupyter Notebook](https://blog.godatadriven.com/write-less-terrible-notebook-code)
 * [Machine Learning in Production – ContentSquare Engineering – Medium](https://medium.com/contentsquare-engineering-blog/machine-learning-in-production-c53b43283ab1)
 * [How to build a deep learning model in 15 minutes – tech-at-instacart](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e)
+* [oracle/graphpipe: Dead Simple ML Model Serving via a Standard Protocol](https://github.com/oracle/graphpipe)
 
 
 

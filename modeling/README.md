@@ -42,4 +42,5 @@ When you are happy with your model, treat also the validation set as part of the
 * [rasbt/mlxtend: A library of extension and helper modules for Python's data analysis and machine learning libraries.](https://github.com/rasbt/mlxtend)
 * [onnx/models: The ONNX Model Zoo is a collection of pre-trained, state-of-the-art models in the ONNX format](https://github.com/onnx/models)
 * [How to Reduce Variance in a Final Machine Learning Model](https://machinelearningmastery.com/how-to-reduce-model-variance/)
+* [Model Scheduling \| Objective Funk](http://nsaphra.github.io/post/model-scheduling/)
 

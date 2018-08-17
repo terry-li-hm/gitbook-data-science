@@ -202,6 +202,7 @@
 * [Kaggle Competition In 30 Minutes: Predict Home Credit Default Risk With R](http://www.business-science.io/business/2018/08/07/kaggle-competition-home-credit-default-risk.html)
 * [RE•WORK \| Blog - AI & The Future of Banking: What have you missed?](https://www.re-work.co/blog/ai-the-future-of-banking-what-have-you-missed)
 * [RE•WORK \| Blog - Blockchain, AI & Finance: What you need to know](https://www.re-work.co/blog/blockchain-ai-finance-what-you-need-to-know)
+* [Extracting Value from Financial Documents](https://learn.sparkcognition.com/financial-services/extracting-value-from-financial-documents)
 * \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
 ![](.gitbook/assets/image%20%2838%29.png)
@@ -260,6 +261,7 @@
 * [Building Brundage Bot – Hacker Noon](https://hackernoon.com/building-brundage-bot-10252facf3d1)
 * [The AI boss that deploys Hong Kong's subway engineers \| New Scientist](https://www.newscientist.com//article/mg22329764.000-the-ai-boss-that-deploys-hong-kongs-subway-engineers)
 * [Detonating a bad rabbit: Windows Defender Antivirus and layered machine learning defenses – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2017/12/11/detonating-a-bad-rabbit-windows-defender-antivirus-and-layered-machine-learning-defenses/)
+* [專訪達觀數據CEO陳運文：文檔審閱2.0時代到來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-16-9)
 
 ## Business Use Case
 
