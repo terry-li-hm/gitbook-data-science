@@ -10,9 +10,9 @@
 * [Adioma - Infographic Maker With Timelines, Grids and Icons](https://adioma.com/)
 * [Better Presentations Cheatsheet - Policy Viz](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/)
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 ![](.gitbook/assets/image%20%2810%29.png)
 

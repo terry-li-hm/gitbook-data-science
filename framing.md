@@ -205,7 +205,7 @@
 * [Extracting Value from Financial Documents](https://learn.sparkcognition.com/financial-services/extracting-value-from-financial-documents)
 * \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 ## Analysis
 
@@ -262,6 +262,32 @@
 * [The AI boss that deploys Hong Kong's subway engineers \| New Scientist](https://www.newscientist.com//article/mg22329764.000-the-ai-boss-that-deploys-hong-kongs-subway-engineers)
 * [Detonating a bad rabbit: Windows Defender Antivirus and layered machine learning defenses – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2017/12/11/detonating-a-bad-rabbit-windows-defender-antivirus-and-layered-machine-learning-defenses/)
 * [專訪達觀數據CEO陳運文：文檔審閱2.0時代到來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-16-9)
+
+[Splunk and Tensorflow for Security: Catching the Fraudster with Behavior Biometrics](https://www.splunk.com/blog/2017/04/18/deep-learning-with-splunk-and-tensorflow-for-security-catching-the-fraudster-in-neural-networks-with-behavioral-biometrics.html)
+
+> Humans are using computer systems in a ways that are unique and consistent with their own biology and physiology. The way humans click and type, the way humans use mouse and other input devices are pretty consistent with that person’s own behavior, habits, education level, and familiarity with a service or system.
+>
+> Habits and behaviors are very difficult to change and if we can identify legitimate users by their typical behavior patterns - we can detect anomalies on a totally new level. Same goes with fraudsters - ability to identify and quantify behavior patterns of cyber criminal will allow us to uncover and neutralize threats that may be undetectable by other means.
+>
+> The question is: can we recognize the user - or a class of users by some unique ways they use their input devices, such as mouse or keyboard? Enter Behavioral Biometrics: the field of study related to measure of uniquely identifying and measurable patterns in human activities.
+
+Convert data into images and leverage CNN:
+
+> To tackle this challenge we’ve decided to aggregate and convert mouse activity data points to color images. After all, a mouse always moves along a flat, 2D surface and it’s natural to convert these set of events into single image without losing much details. A single image can represent thousands of mouse activity data points.
+>
+> We’ve devised a specialized high contrast color encoding algorithm to represent direction, speed, and acceleration of mouse movements in a consistent way.
+>
+> This, for example, has helped us represent the difference in patterns between left and right-handed people. Mouse click actions were represented in larger color circles and mouse click+drag movements were drawn in thicker lines.
+>
+> This approach enabled us to encode not only trajectory lines but also to visually represent multidimensional dynamics of human behavior in all possible details ready to be analyzed and classified.
+
+![](.gitbook/assets/image%20%2817%29.png)
+
+
+
+[Fast.ai](http://www.fast.ai/2018/08/16/diversity-fellowships/):
+
+> Deep learning has great potential for good. It is being used by fast.ai students and teachers to [diagnose cancer](https://drive.google.com/open?id=0BwXibGZYcIEYTWhfOTBzdm5MYUU), [stop deforestation of endangered rain-forests](https://www.youtube.com/watch?v=VlQyudLKJno), provide better [crop insurance to farmers in India](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/#6f250de41197) \(who otherwise have to take predatory loans from thugs, which have led to high suicide rates\), help [Urdu speakers in Pakistan](https://drive.google.com/file/d/0B_OtHJvsKdjeTFRyNm5Ta1lkU0k/view), develop wearable devices for [patients with Parkinson’s disease](https://medium.com/impactai/impact-driven-ai-applications-session-2-at-usf-586d7624abb1), and much more. Deep learning could address [the global shortage of doctors](http://www.fast.ai/2016/10/07/fastai-launch/), provide [more accurate medical diagnoses](https://www.nytimes.com/2016/02/29/technology/the-promise-of-artificial-intelligence-unfolds-in-small-steps.html), improve [energy efficiency](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/), [increase farm yields, and reduce pesticide use](https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/).
 
 ## Business Use Case
 
