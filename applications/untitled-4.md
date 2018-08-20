@@ -311,6 +311,7 @@ Some other tools:
 * [⛵ Learning Meaning in Natural Language Processing - The Semantics Mega-Thread](https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e)
 * [A NLP Guide to Text Classification using Conditional Random Fields](https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/)
 * [Neural Tagger Implementations](http://jkk.name/neural-tagger-tutorial/)
+* [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 
 
 

@@ -10,4 +10,5 @@
 * [datas-frame – Modern Pandas \(Part 1\)](https://tomaugspurger.github.io/modern-1-intro.html)
 * [數據礦工學習-Python數據分析之pandas \| 機器之心](https://www.jiqizhixin.com/articles/2018-07-18-3)
 * [Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects – Real Python](https://realpython.com/fast-flexible-pandas/)
+* [Be a more efficient data scientist, master pandas with this guide](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
 

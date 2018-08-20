@@ -228,6 +228,7 @@
 * [How to Find Underrated People on Twitter with TURI \(Twitter Underrated Index\)](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index/)
 * [Quantifying the impact of the Twitter fake accounts purge - a technical analysis](https://elie.net/blog/web/quantifying-the-impact-of-the-twitter-fake-accounts-purge-a-technical-analysis)
 * [Data Science Portfolio Project: Is Fandango Inflating Ratings?](https://www.dataquest.io/blog/data-science-project-fandango/)
+* [2018 House Forecast \| FiveThirtyEight](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/)
 
 ## Methodology
 
@@ -261,6 +262,7 @@
 * [Building Brundage Bot – Hacker Noon](https://hackernoon.com/building-brundage-bot-10252facf3d1)
 * [The AI boss that deploys Hong Kong's subway engineers \| New Scientist](https://www.newscientist.com//article/mg22329764.000-the-ai-boss-that-deploys-hong-kongs-subway-engineers)
 * [Detonating a bad rabbit: Windows Defender Antivirus and layered machine learning defenses – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2017/12/11/detonating-a-bad-rabbit-windows-defender-antivirus-and-layered-machine-learning-defenses/)
+* [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
 * [專訪達觀數據CEO陳運文：文檔審閱2.0時代到來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-16-9)
 
 [Splunk and Tensorflow for Security: Catching the Fraudster with Behavior Biometrics](https://www.splunk.com/blog/2017/04/18/deep-learning-with-splunk-and-tensorflow-for-security-catching-the-fraudster-in-neural-networks-with-behavioral-biometrics.html)

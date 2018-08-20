@@ -8,11 +8,12 @@
 
 * [你应该掌握的 7 种回归模型！ - CSDN博客](https://blog.csdn.net/red_stone1/article/details/81122926)
 
-### Logistic Regression
+## Logistic Regression
 
 * [The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
 * [Logistic Regression from scratch \(and how to make it nonlinear\)](http://crawles.com/lr-scratch/)
 * [The Logistic Regression Algorithm – machinelearning-blog.com](https://machinelearning-blog.com/2018/04/23/logistic-regression-101/)
+* [Machine Learning Model: Logistic Regression – Data Driven Investor – Medium](https://medium.com/datadriveninvestor/machine-learning-model-logistic-regression-5fa4ffde5773)
 
 ## Tree
 
