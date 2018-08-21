@@ -263,7 +263,9 @@
 * [The AI boss that deploys Hong Kong's subway engineers \| New Scientist](https://www.newscientist.com//article/mg22329764.000-the-ai-boss-that-deploys-hong-kongs-subway-engineers)
 * [Detonating a bad rabbit: Windows Defender Antivirus and layered machine learning defenses – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2017/12/11/detonating-a-bad-rabbit-windows-defender-antivirus-and-layered-machine-learning-defenses/)
 * [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
+* [VerbiAge: Using NLP to help writers craft age-specific writing](https://blog.insightdatascience.com/verbiage-using-nlp-to-improve-k-12-content-marketing-8906d2810fda?mkt_tok=eyJpIjoiWkRBNE5HVTFOV1UzTm1ZeiIsInQiOiJLOGhwWWRDdWRzT2c3TXFYTkIxaVl0bmo3VVlXVEQ3dmZ1OWpNSGVSXC9BUHU4MHJMOUs3RitDbHBQbFNGTjRBMmpQTHZRQ1JId011V2RZMXduYkRlUUZWckNId0o4MUxjNCtQNFV6TGZ2Kzd3WFZHc2dUODQ0QU1LS3Q3Yks1M3oifQ)
 * [專訪達觀數據CEO陳運文：文檔審閱2.0時代到來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-16-9)
+* [微软AI将图片内容转换为中国现代诗歌 \| ATYUN](http://www.atyun.com/27061.html)
 
 [Splunk and Tensorflow for Security: Catching the Fraudster with Behavior Biometrics](https://www.splunk.com/blog/2017/04/18/deep-learning-with-splunk-and-tensorflow-for-security-catching-the-fraudster-in-neural-networks-with-behavioral-biometrics.html)
 

@@ -39,6 +39,7 @@
 * [5th Place Solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47556)
 * [My approach - public 0.507, private 0.517 \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47534)
 * [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+* [A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/)
 
 ##  WaveNet
 
