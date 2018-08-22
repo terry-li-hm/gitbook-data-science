@@ -313,6 +313,7 @@ Some other tools:
 * [A NLP Guide to Text Classification using Conditional Random Fields](https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/)
 * [Neural Tagger Implementations](http://jkk.name/neural-tagger-tutorial/)
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
+* [Transfer Learning in Natural Language Processing \| Intel® Software](https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing)
 
 
 

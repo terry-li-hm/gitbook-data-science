@@ -229,6 +229,7 @@
 * [Quantifying the impact of the Twitter fake accounts purge - a technical analysis](https://elie.net/blog/web/quantifying-the-impact-of-the-twitter-fake-accounts-purge-a-technical-analysis)
 * [Data Science Portfolio Project: Is Fandango Inflating Ratings?](https://www.dataquest.io/blog/data-science-project-fandango/)
 * [2018 House Forecast \| FiveThirtyEight](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/)
+* [Model Predictive Control for Closed-Loop Insulin Delivery](https://nbviewer.jupyter.org/gist/mariusae/18a62db9cc32d09dc691fd4f78dcdbfa)
 
 ## Methodology
 

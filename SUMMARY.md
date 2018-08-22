@@ -77,6 +77,7 @@
   * [Colab](tools/colab.md)
   * [Git](tools/git.md)
   * [Stack](tools/stack.md)
+  * [Linux](tools/linux-1.md)
 * [Applications](applications/README.md)
   * [Time Series](applications/time-series.md)
   * [NLP](applications/untitled-4.md)

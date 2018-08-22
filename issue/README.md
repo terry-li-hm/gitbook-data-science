@@ -67,6 +67,7 @@
 * [slundberg/shap: A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
 * [Ideas on interpreting machine learning - O'Reilly Media](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.](https://github.com/tensorflow/lucid#differentiable-image-parameterizations-notebooks)
 * [A major milestone for the treatment of eye disease \| DeepMind](https://deepmind.com/blog/moorfields-major-milestone/)
   * [Nature Medicine论文展示DeepMind眼疾诊断里程碑：临床专家级、「解决」黑箱问题 \| 机器之心](https://www.jiqizhixin.com/articles/2018-08-14-4)
   * [Google DeepMind AI system diagnoses eye diseases and shows its work - STAT](https://www.statnews.com/2018/08/13/google-deepmind-ai-diagnoses-eye-diseases/)

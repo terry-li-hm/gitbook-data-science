@@ -16,6 +16,7 @@
 * [The Web’s Recommendation Engines Are Broken. Can We Fix Them? \| WIRED](https://www.wired.com/story/creating-ethical-recommendation-engines/)
 * [Visualizing Matrix Factorization Using Self-Organizing Maps - Zillow Artificial Intelligence](https://www.zillow.com/data-science/visualizing-matrix-factorization/)
 * [Two Decades of Recommender Systems at Amazon.com](https://www.computer.org/csdl/mags/ic/2017/03/mic2017030012.html)
+* [Powering Recommendations with a Graph Database: Connect Buyer and Product Data -](https://neo4j.com/blog/powering-recommendations-graph-database-connect-buyer-product-data/)
 * [PinSage: A New Graph Convolutional Neural Network for Web-Scale Recommender Systems](https://medium.com/@Pinterest_Engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
 
 
