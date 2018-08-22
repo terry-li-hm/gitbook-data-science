@@ -7,7 +7,8 @@ jupyter notebook --no-browser --port=8888
 
 sshfs terry@42.3.182.131: server
 
-ssh terry@219.78.107.239
+# latest IP:
+ssh terry@112.118.195.110
 
 rsync -av ~ terry@ 192.168.1.80::NetBackup/linux/
 
