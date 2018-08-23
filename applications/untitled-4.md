@@ -167,7 +167,6 @@ Tf-idf stands for _term frequency-inverse document frequency_
 
 *  [Chinese Word Vectors：目前最全的中文預訓練詞向量集合 \| 機器之心](https://www.jiqizhixin.com/articles/2018-05-15-10)
 *  [Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors 上百種預訓練中文詞向量](https://github.com/Embedding/Chinese-Word-Vectors)
-* [pwxcoo/chinese-xinhua: 中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。](https://github.com/pwxcoo/chinese-xinhua)
 
 ## Text Analysis using Machine Learning
 
@@ -313,7 +312,8 @@ Some other tools:
 * [A NLP Guide to Text Classification using Conditional Random Fields](https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/)
 * [Neural Tagger Implementations](http://jkk.name/neural-tagger-tutorial/)
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
-* [Transfer Learning in Natural Language Processing \| Intel® Software](https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing)
+* [Holy NLP! Understanding Part of Speech Tags, Dependency Parsing, and Named Entity Recognition • Peter Baumgartner](https://pmbaumgartner.github.io/blog/holy-nlp/)
+* [Google AI Blog: Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 
 
 
