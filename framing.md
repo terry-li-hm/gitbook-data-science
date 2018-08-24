@@ -300,6 +300,8 @@ Convert data into images and leverage CNN:
 * [機器學習項目：使用Python進行零售價格推薦 \| ATYUN](http://www.atyun.com/26203.html)
 * [From Hate Speech to Russian Bot Tweets \| Kaggle](https://www.kaggle.com/kmader/from-hate-speech-to-russian-bot-tweets)
 * [11 Powerful AI Tools You Can Use To Upgrade Your Customer Experience](https://www.topbots.com/best-customer-service-automation-enterprise-technology-software/)
+* [從全球千餘支隊伍中脫穎而出，BDC 冠軍團隊是如何做用戶預測的 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-23-8)
+  * [2018中国高校计算机大赛——大数据挑战赛 - Kesci.com](https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/works)
 
 ## Case Study
 

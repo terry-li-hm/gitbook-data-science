@@ -18,6 +18,7 @@
 * [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/index.html)
 * [Using Simple Arithmetic to Fill Gaps in Categorical Data](https://medium.com/related-works-inc/using-simple-arithmetic-to-fill-gaps-in-categorical-data-9418e5c0b91b)
 * [ben519/DataWrangling: The ultimate reference guide to data wrangling with Python and R](https://github.com/ben519/DataWrangling)
+* [The Worst Kind of Data: Missing Data - Byte Academy Blog](https://byteacademy.co/worst-kind-data-missing-data/)
 
 ### Imputation {#2)-A-Better-Option:-Imputation}
 

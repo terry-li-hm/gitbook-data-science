@@ -81,6 +81,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 * [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
 * [6 种激活函数核心知识点，请务必掌握！](https://mp.weixin.qq.com/s/Cvf3ReuCKSugp9lrZqlaqg)
 * [《超智能体》文章阅读顺序](https://zhuanlan.zhihu.com/p/27857399)
+* [mbadry1/DeepLearning.ai-Summary: This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.](https://github.com/mbadry1/DeepLearning.ai-Summary)
 * [lutzroeder/Netron: Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 * Learn and Improve your Machine Learning Skills with TensorFlow's Free Seedbank ​
 

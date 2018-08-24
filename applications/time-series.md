@@ -40,6 +40,7 @@
 * [My approach - public 0.507, private 0.517 \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47534)
 * [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 * [A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/)
+* [How to Model Volatility with ARCH and GARCH for Time Series Forecasting in Python](https://machinelearningmastery.com/develop-arch-and-garch-models-for-time-series-forecasting-in-python/)
 
 ##  WaveNet
 
@@ -56,4 +57,9 @@
 * [5th Place Solution \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47556)
 * [1st place solution \| Kaggle](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795#245823)
 * [4th-Place Solution Overview \| Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47529)
+
+## ARIMA
+
+* [Time Series For beginners with ARIMA \| Kaggle](https://www.kaggle.com/freespirit08/time-series-for-beginners-with-arima/notebook)
+* [Understand ARIMA and tune P, D, Q \| Kaggle](https://www.kaggle.com/sumi25/understand-arima-and-tune-p-d-q/notebook)
 

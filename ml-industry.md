@@ -43,6 +43,7 @@
 * [Deep Learning in the Enterprise - Current Traction and Challenges](https://www.techemergence.com/deep-learning-in-the-enterprise-current-traction-and-challenges/)
 * [这是一篇献给新手的深度学习综述 \| 机器之心](https://www.jiqizhixin.com/articles/Recent-Advances-in-Deep-Learning-An-Overview)
 * [The Last 5 Years In Deep Learning – Adit Deshpande – CS Undergrad at UCLA \('19\)](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+* [\[1807.08169\] Recent Advances in Deep Learning: An Overview](https://arxiv.org/abs/1807.08169)
 
 
 
