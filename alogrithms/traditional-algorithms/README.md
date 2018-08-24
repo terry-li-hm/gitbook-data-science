@@ -34,6 +34,8 @@
 
 ## kNN
 
+* [A Practical Introduction to K-Nearest Neighbor for Regression](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/)
+
 ### Disadvantage
 
 Linear regression can extrapolate the ends but kNN can't:
