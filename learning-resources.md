@@ -34,6 +34,7 @@
 * [ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/)
 * [Model-Based Machine Learning \(Early Access\): an online book](http://www.mbmlbook.com/index.html)
+* [Machine Learning Cheatsheet — ML Cheatsheet documentation](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
 
 

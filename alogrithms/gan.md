@@ -47,4 +47,5 @@
 * [细水长flow之NICE：流模型的基本概念与实现 - 科学空间\|Scientific Spaces](https://spaces.ac.cn/archives/5776)
 * [github-pengge/PyTorch-progressive\_growing\_of\_gans: PyTorch implementation of Progressive Growing of GANs for Improved Quality, Stability, and Variation.](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
 * [Ian Goodfellow：你的GAN水平我來打分 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-17-6)
+* [Incredible Pose Detection and Translation Technique from UC Berkeley](https://www.analyticsvidhya.com/blog/2018/08/pose-detection-translation-technique-uc-berkeley/)
 
