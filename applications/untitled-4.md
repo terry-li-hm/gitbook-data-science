@@ -315,5 +315,10 @@ Some other tools:
 * [Holy NLP! Understanding Part of Speech Tags, Dependency Parsing, and Named Entity Recognition • Peter Baumgartner](https://pmbaumgartner.github.io/blog/holy-nlp/)
 * [Google AI Blog: Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 
+## Transfer Learning
+
+* [Transfer Learning in NLP \| Universal Language Models - YouTube](https://www.youtube.com/watch?v=zxJJ0T54HX8)
+* [Transfer Learning in NLP – Feedly Blog](https://blog.feedly.com/transfer-learning-in-nlp/)
+
 
 

@@ -25,6 +25,7 @@
 * [Robust Adversarial Examples](https://blog.openai.com/robust-adversarial-inputs/)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples · cat /var/log/life](https://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 * [sarathknv/adversarial-pytorch: Implementation of adversarial attacks and defences.](https://github.com/sarathknv/adversarial-pytorch)
+* [Tricking a Machine into Thinking You’re Milla Jovovich](https://medium.com/element-ai-research-lab/tricking-a-machine-into-thinking-youre-milla-jovovich-b19bf322d55c)
 * [https://ml.berkeley.edu/blog/2018/01/10/adversarial-examples/](https://ml.berkeley.edu/blog/2018/01/10/adversarial-examples/)
 
 
