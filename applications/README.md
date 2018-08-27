@@ -9,6 +9,7 @@
 * [Predict Employee Turnover With Python](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
 * [Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn](http://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html)
 * [IJCAI 2018广告算法大赛落下帷幕，Top 3 方案出炉 \| 雷锋网](https://www.leiphone.com/news/201806/tRKeaOWLgh5Yahn2.html)
+* [Image Caption任务综述 \| 机器之心](https://www.jiqizhixin.com/articles/2018-08-17-10)
 
 ## Classification
 
