@@ -91,6 +91,7 @@
   * [Self-driving Car](applications/self-driving-car.md)
   * [Forecasting](applications/forecasting.md)
   * [Classification](applications/classification.md)
+  * [Text Clustering](applications/text-clustering.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)
