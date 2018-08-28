@@ -314,6 +314,8 @@ Some other tools:
 * [A Practitioner's Guide to Natural Language Processing \(Part I\) — Processing & Understanding Text](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 * [Holy NLP! Understanding Part of Speech Tags, Dependency Parsing, and Named Entity Recognition • Peter Baumgartner](https://pmbaumgartner.github.io/blog/holy-nlp/)
 * [Google AI Blog: Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
+* [Named Entity Recognition with NLTK and SpaCy – Towards Data Science](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
+* [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
 
 ## Transfer Learning
 

@@ -106,6 +106,7 @@
 * [DataViz Cheatsheet - Policy Viz](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
 * [plots with dots! — storytelling with data](http://www.storytellingwithdata.com/blog/2018/8/21/august-swdchallenge-recap-the-dot-plot)
 * [What to Consider When Choosing Colors for Data Visualization](https://www.dataquest.io/blog/what-to-consider-when-choosing-colors-for-data-visualization/)
+* [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 * [bstrain on Twitter: "\#SoDS18 because I know all of you are using plots as a part of your EDA process, don't forget about \#R's "breaks" argument in the hist\(...\) command. Creating more bins can show _very_ different information! 👉hist\(base.df$INCOME\) vs 👉hist\(base.df$INCOME, breaks = 300\)… https://t.co/TgAWln2cfA"](https://twitter.com/bstrain1/status/1023945235339067392/photo/1)
 
 ## Tools

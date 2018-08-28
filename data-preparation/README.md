@@ -4,6 +4,7 @@
 * [Google AI Blog: Preprocessing for Machine Learning with tf.Transform](https://ai.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html)
 * [Using Python to Figure out Sample Sizes for your Study – Mark Nagelberg](http://www.marknagelberg.com/using-python-to-figure-out-sample-sizes-for-your-study/)
 * [Splitting into train, dev and test sets](https://cs230-stanford.github.io/train-dev-test-split.html)
+* [Comprehensive Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
 ## Setting up development and test sets \(From Machine Learning Yearning\)
 
