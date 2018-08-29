@@ -36,5 +36,7 @@
 
 * [Address Normalization with Python and NLTK – Ivan Marin – Data Scientist \| Big Data Engineer \| Physicist](https://ispmarin.github.io/python-nltk/)
 
+## Phone Number
 
+* [daviddrysdale/python-phonenumbers: Python port of Google's libphonenumber](https://github.com/daviddrysdale/python-phonenumbers)
 
