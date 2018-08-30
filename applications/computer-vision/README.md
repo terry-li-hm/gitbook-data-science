@@ -8,6 +8,7 @@
 * [ML Practicum: Image Classification  \|  Machine Learning Practica  \|  Google Developers](https://developers.google.com/machine-learning/practica/image-classification/)
 * [Reinventing the Wheel of Semantic Segmentation: – 100 Shades of Machine Learning – Medium](https://medium.com/100-shades-of-machine-learning/https-medium-com-100-shades-of-machine-learning-rediscovering-semantic-segmentation-part1-83e1462e0805)
 * [albu/albumentations: fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations?mlreview.com=undefined)
+* [Classification datasets results](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 
 ### Object Detection
 

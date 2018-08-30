@@ -35,6 +35,7 @@
 * [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/)
 * [Model-Based Machine Learning \(Early Access\): an online book](http://www.mbmlbook.com/index.html)
 * [Machine Learning Cheatsheet — ML Cheatsheet documentation](https://ml-cheatsheet.readthedocs.io/en/latest/)
+* [astorfi/Deep-Learning-World: Organized Resources for Deep Learning Researchers and Developers](https://github.com/astorfi/Deep-Learning-World)
 
 
 
