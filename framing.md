@@ -191,7 +191,7 @@
 * [Using the Power of Deep Learning for Cyber Security](https://www.analyticsvidhya.com/blog/2018/07/using-power-deep-learning-cyber-security/)
 * [Google AI Blog: The Machine Learning Behind Android Smart Linkify](https://ai.googleblog.com/2018/08/the-machine-learning-behind-android.html)
 * [十张图看懂未来大数据世界](https://mp.weixin.qq.com/s/nWjn6M5NySapoKx7Jx-J5g)
-* [https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
+* [No Machine Learning in your product? Start here – The Lever – Medium](https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c)=[https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/](https://dssg.uchicago.edu/2018/08/07/tackling-tenant-harassment-in-new-york-city-%e2%80%a8a-data-driven-approach/)
 
 ## Finance
 
