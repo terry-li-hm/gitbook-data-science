@@ -1,4 +1,4 @@
-# IBG Ad-hoc Analytics
+# Ad-hoc Analytics
 
 ## Text Clustering
 

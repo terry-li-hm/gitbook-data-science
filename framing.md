@@ -264,6 +264,7 @@
 * [Detonating a bad rabbit: Windows Defender Antivirus and layered machine learning defenses – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2017/12/11/detonating-a-bad-rabbit-windows-defender-antivirus-and-layered-machine-learning-defenses/)
 * [Safety-first AI for autonomous data centre cooling and industrial control \| DeepMind](https://deepmind.com/blog/safety-first-ai-autonomous-data-centre-cooling-and-industrial-control/)
 * [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
+* [SpiderLabs/social\_mapper: A Social Media Enumeration & Correlation Tool by Jacob Wilkin\(Greenwolf\)](https://github.com/SpiderLabs/social_mapper)
 * [專訪達觀數據CEO陳運文：文檔審閱2.0時代到來 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-16-9)
 
 [Splunk and Tensorflow for Security: Catching the Fraudster with Behavior Biometrics](https://www.splunk.com/blog/2017/04/18/deep-learning-with-splunk-and-tensorflow-for-security-catching-the-fraudster-in-neural-networks-with-behavioral-biometrics.html)

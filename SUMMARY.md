@@ -92,7 +92,7 @@
   * [Self-driving Car](applications/self-driving-car.md)
   * [Forecasting](applications/forecasting.md)
   * [Classification](applications/classification.md)
-  * [IBG Ad-hoc Analytics](applications/text-clustering.md)
+  * [Ad-hoc Analytics](applications/text-clustering.md)
 * [Statistics](stats.md)
 * [Bayesian](bayesian.md)
 * [Mathematics](math.md)
