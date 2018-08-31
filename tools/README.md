@@ -6,6 +6,7 @@
 * [Reproducible machine learning with PyTorch and Quilt](https://blog.paperspace.com/reproducible-data-with-pytorch-and-quilt/)
 * [Data Version Control Tutorial – dataversioncontrol](https://blog.dataversioncontrol.com/data-version-control-tutorial-9146715eda46)
 * [igorbarinov/awesome-data-engineering: A curated list of data engineering tools for software developers](https://github.com/igorbarinov/awesome-data-engineering)
+* [zalandoresearch/flair: A very simple framework for state-of-the-art NLP](https://github.com/zalandoresearch/flair)
 
 
 

@@ -30,6 +30,7 @@
 * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 * [The Hitchhiker’s Guide to Hyperparameter Tuning - Taboola Tech Blog](https://engineering.taboola.com/hitchhikers-guide-hyperparameter-tuning/)
 * [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+* [HunterMcGushion/hyperparameter\_hunter: Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries](https://github.com/HunterMcGushion/hyperparameter_hunter)
 * [bbli/ml\_board: a machine learning dashboard that displays hyperparameter settings alongside visualizations, and logs the scientist's thoughts throughout the training process](https://github.com/bbli/ml_board)
 
 ## Automated

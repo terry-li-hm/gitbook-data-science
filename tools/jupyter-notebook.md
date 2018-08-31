@@ -13,4 +13,5 @@
 * [jupyter/nbdime: Tools for diffing and merging of Jupyter notebooks.](https://github.com/jupyter/nbdime)
 * [The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
 * [Jupyter Notebook最实用的5个魔术命令 \| ATYUN](http://www.atyun.com/27603.html)
+* [nteract/papermill: 📚 Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
 

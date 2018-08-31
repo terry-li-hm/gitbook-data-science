@@ -316,6 +316,8 @@ Some other tools:
 * [Google AI Blog: Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 * [Named Entity Recognition with NLTK and SpaCy – Towards Data Science](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
 * [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
+* [zalandoresearch/flair: A very simple framework for state-of-the-art NLP](https://github.com/zalandoresearch/flair)
+* [chakki-works/doccano: Open source text annotation tool for machine learning practitioner.](https://github.com/chakki-works/doccano)
 
 ## Transfer Learning
 
