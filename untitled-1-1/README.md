@@ -13,6 +13,7 @@
 * [How to Calculate McNemar's Test to Compare Two Machine Learning Classifiers](https://machinelearningmastery.com/mcnemars-test-for-machine-learning/)
 * [How to Evaluate your Machine Learning Model – Coinmonks – Medium](https://medium.com/coinmonks/debugging-a-learning-algorithm-ef7c16936864)
 * [Testing machine learning models with testthat · Gordon Shotwell](https://blog.shotwell.ca/2018/05/01/testing-machine-learning-models-with-testthat/)
+* [sepandhaghighi/pycm: Multi-class confusion matrix library in Python.](https://github.com/sepandhaghighi/pycm)
 
 
 

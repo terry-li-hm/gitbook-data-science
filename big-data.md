@@ -7,6 +7,7 @@
 * [Practical Apache Spark in 10 minutes. Part 2 — RDD – Data Science School – Medium](https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-2-rdd-8e34c7663d6d)
 * [Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml)
 * [Ultimate guide to handle Big Datasets for Machine Learning using Dask \(in Python\)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
+* [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)
 
 
 

@@ -127,6 +127,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [ACL 2018：Attention 機制佔主流，中文語法檢錯測評引關注 \| ACL 2018 \| 雷鋒網](https://www.leiphone.com/news/201807/CSiDyhfKmCUMsTHy.html)
 * [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn)
 * [苏州大学张民教授两小时讲座精华摘录：自然语言处理方法与应用 \| 雷锋网](https://www.leiphone.com/news/201808/58xvkwmbZoIc1J9c.html)
+* [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
 
 ### Sentiment Analysis
 

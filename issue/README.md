@@ -32,6 +32,7 @@
 * [Why Is Google Translate Spitting Out Sinister Religious Prophecies? - Motherboard](https://motherboard.vice.com/en_us/article/j5npeg/why-is-google-translate-spitting-out-sinister-religious-prophecies)
 * [AI at Google: our principles](https://blog.google/technology/ai/ai-principles/)
 * [Weapons of Math Destruction, Ethical Matrix, Nate Silver and more Highlights from the Data Science Leaders Summit](https://www.kdnuggets.com/2018/07/domino-data-science-leaders-summit-highlights.html)
+* [Privacy & Security in AI](https://register.gotowebinar.com/recording/viewRecording/6999561782741728001/4127756159774041096/terry.li.hm@gmail.com?registrantKey=8218259372777423884&type=ABSENTEEEMAILRECORDINGLINK)
 
 ## Interpretability
 

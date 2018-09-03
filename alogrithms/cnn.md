@@ -33,6 +33,7 @@ A tricked found by Jeremy to avoid overfitting is to train a network with small 
 * [一文读懂VGG网络](https://mp.weixin.qq.com/s/vWuGW4iMD1MjVDZVCqH_FA)
 * [\[1710.05381\] A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
 * [Troubleshooting Convolutional Neural Nets](https://gist.github.com/zeyademam/0f60821a0d36ea44eef496633b4430fc)
+* [Convolutional Neural Networks: The Biologically-Inspired Model](https://towardsdatascience.com/convolutional-neural-networks-the-biologically-inspired-model-f2d23a301f71)
 
 
 
