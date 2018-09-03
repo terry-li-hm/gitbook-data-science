@@ -91,6 +91,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 * [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 * [\[1808.02590\] A Tutorial on Network Embeddings](https://arxiv.org/abs/1808.02590)
 * [How Do You Know If a Graph Database Solves the Problem?](https://medium.com/neo4j/how-do-you-know-if-a-graph-database-solves-the-problem-a7da10393f5)
+* [Community detection in social networks with Neo4j and NetSCAN](https://medium.com/neo4j/community-detection-in-social-networks-with-neo4j-and-netscan-d2f90074dcbb)
 
 ![https://www.slideshare.net/stanleywanguni/graph-analytic-and-machine-learning/19](../.gitbook/assets/graph-1.png)
 

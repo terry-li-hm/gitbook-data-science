@@ -313,6 +313,7 @@ Convert data into images and leverage CNN:
 * [Building data services to bring education to millions, Part III](https://medium.com/coursera-engineering/building-data-services-to-bring-education-to-millions-part-iii-d34e5f37303)
 * [Web Scraping TripAdvisor, Text Mining and Sentiment Analysis for Hotel Reviews](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)
 * [Protecting the protector: Hardening machine learning defenses against adversarial attacks – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2018/08/09/protecting-the-protector-hardening-machine-learning-defenses-against-adversarial-attacks/)
+* [KDD Cup 2018 冠军「 first floor to eat latiao」：为什么取这个队名？因为大家都爱辣条 \| 雷锋网](https://www.leiphone.com/news/201808/srcNcc3AWQTTJl4z.html)
 
 
 

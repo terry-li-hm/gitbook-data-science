@@ -19,6 +19,7 @@
 * [Powering Recommendations with a Graph Database: Connect Buyer and Product Data](https://neo4j.com/blog/powering-recommendations-graph-database-connect-buyer-product-data/)
 * [Leavingseason/xDeepFM](https://github.com/Leavingseason/xDeepFM)
 * [PinSage: A New Graph Convolutional Neural Network for Web-Scale Recommender Systems](https://medium.com/@Pinterest_Engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
+* [Powering Recommendations with a Graph Database: A Rapid Retail Example -](https://neo4j.com/blog/powering-recommendations-graph-database-rapid-retail-example/)
 
 
 

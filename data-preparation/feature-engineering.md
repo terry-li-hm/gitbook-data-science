@@ -33,4 +33,6 @@
 ## Automated
 
 * [A Hands on Guide to Automated Feature Engineering using Featuretools](https://www.analyticsvidhya.com/blog/2018/08/guide-automated-feature-engineering-featuretools-python/)
+* [automated-feature-engineering/Automated\_Feature\_Engineering.ipynb at master · WillKoehrsen/automated-feature-engineering](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb)
+* [如何用Python做自动化特征工程 \| 机器之心](https://www.jiqizhixin.com/articles/2018-09-03-4)
 

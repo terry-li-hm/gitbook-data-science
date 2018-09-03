@@ -319,6 +319,7 @@ Some other tools:
 * [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
 * [zalandoresearch/flair: A very simple framework for state-of-the-art NLP](https://github.com/zalandoresearch/flair)
 * [chakki-works/doccano: Open source text annotation tool for machine learning practitioner.](https://github.com/chakki-works/doccano)
+* [一文详解深度学习在命名实体识别\(NER\)中的应用 \| 机器之心](https://www.jiqizhixin.com/articles/2018-08-31-2)
 
 ## Transfer Learning
 
