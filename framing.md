@@ -315,6 +315,8 @@ Convert data into images and leverage CNN:
 * [Web Scraping TripAdvisor, Text Mining and Sentiment Analysis for Hotel Reviews](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)
 * [Protecting the protector: Hardening machine learning defenses against adversarial attacks – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2018/08/09/protecting-the-protector-hardening-machine-learning-defenses-against-adversarial-attacks/)
 * [KDD Cup 2018 冠军「 first floor to eat latiao」：为什么取这个队名？因为大家都爱辣条 \| 雷锋网](https://www.leiphone.com/news/201808/srcNcc3AWQTTJl4z.html)
+* [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
+  * Starting from "Building the COTA backend with NLP and ML" to the end
 
 
 
