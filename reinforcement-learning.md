@@ -60,7 +60,8 @@
 * [Keras plays catch - a single file Reinforcement Learning example](https://gist.github.com/EderSantana/c7222daa328f0e885093)
 * [强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
 * [Introduction to Various Reinforcement Learning Algorithms. Part II \(TRPO, PPO\)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
-* [kitao/pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
+* [kitao/pyxel: A retro game engine for Python](https://github.com/kitao/pyxel) 
+* [andri27-ts/60\_Days\_RL\_Challenge: Learn Deep Reinforcement Learning in depth in 60 days](https://github.com/andri27-ts/60_Days_RL_Challenge)
 * [tristandeleu/pytorch-maml-rl: Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch](https://github.com/tristandeleu/pytorch-maml-rl)
 * [Microsoft/malmo: Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to _Getting Started_ below, or visit the project page for more information:](https://github.com/Microsoft/malmo)
 

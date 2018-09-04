@@ -135,4 +135,5 @@
 * [Projects](projects.md)
 * [Tips](tips.md)
 * [Causal Inference](causal-inference.md)
+* [GPU](gpu.md)
 
