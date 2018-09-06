@@ -26,9 +26,9 @@
 * [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 
 
@@ -46,15 +46,15 @@
 
 
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
 [Source](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 
 

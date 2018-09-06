@@ -205,7 +205,7 @@
 * [Extracting Value from Financial Documents](https://learn.sparkcognition.com/financial-services/extracting-value-from-financial-documents)
 * \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 ## Analysis
 
@@ -295,6 +295,8 @@ Convert data into images and leverage CNN:
 [Fast.ai](http://www.fast.ai/2018/08/16/diversity-fellowships/):
 
 > Deep learning has great potential for good. It is being used by fast.ai students and teachers to [diagnose cancer](https://drive.google.com/open?id=0BwXibGZYcIEYTWhfOTBzdm5MYUU), [stop deforestation of endangered rain-forests](https://www.youtube.com/watch?v=VlQyudLKJno), provide better [crop insurance to farmers in India](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/#6f250de41197) \(who otherwise have to take predatory loans from thugs, which have led to high suicide rates\), help [Urdu speakers in Pakistan](https://drive.google.com/file/d/0B_OtHJvsKdjeTFRyNm5Ta1lkU0k/view), develop wearable devices for [patients with Parkinson’s disease](https://medium.com/impactai/impact-driven-ai-applications-session-2-at-usf-586d7624abb1), and much more. Deep learning could address [the global shortage of doctors](http://www.fast.ai/2016/10/07/fastai-launch/), provide [more accurate medical diagnoses](https://www.nytimes.com/2016/02/29/technology/the-promise-of-artificial-intelligence-unfolds-in-small-steps.html), improve [energy efficiency](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/), [increase farm yields, and reduce pesticide use](https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/).
+
+![](.gitbook/assets/image%20%2824%29.png)
 
 ## Business Use Case
 
