@@ -18,14 +18,10 @@ There are two main training algorithms that can be used to learn the embedding f
 
 We will not get into the algorithms other than to say that they generally look at a window of words for each target word to provide context and in turn meaning for words. The approach was developed by Tomas Mikolov, formerly at Google and currently at Facebook.
 
-
-
-* [Google AI Blog: Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html?m=1)
 * [**fast.ai NLP · Practical NLP**](http://nlp.fast.ai/)
 * [Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [Intuitive Understanding of Word Embeddings: Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 * [How to get started in NLP – Towards Data Science](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
-* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [Data Analysis & XGBoost Starter \(0.35460 LB\) \| Kaggle](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb)
 * [Bag of Words Meets Bags of Popcorn \| Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial#description)
 * [Working With Text Data — scikit-learn 0.19.1 documentation](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
@@ -37,7 +33,6 @@ We will not get into the algorithms other than to say that they generally look a
 * [Kyubyong/nlp\_tasks: Natural Language Processing Tasks and References](https://github.com/Kyubyong/nlp_tasks)
 * [xiamx/awesome-sentiment-analysis: 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤](https://github.com/xiamx/awesome-sentiment-analysis)
 * [The Essential NLP Guide for data scientists \(codes for top 10 NLP tasks\)](https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
-* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
 * [NLP: Any libraries/dictionaries out there for fixing common spelling errors? - Part 2 & Alumni - Deep Learning Course Forums](http://forums.fast.ai/t/nlp-any-libraries-dictionaries-out-there-for-fixing-common-spelling-errors/16411/43)
 * [How To Create a ChatBot With tf-seq2seq For Free! – Deep Learning as I See It](https://blog.kovalevskyi.com/how-to-create-a-chatbot-with-tf-seq2seq-for-free-e876ea99063c)
