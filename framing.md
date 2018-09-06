@@ -205,7 +205,7 @@
 * [Extracting Value from Financial Documents](https://learn.sparkcognition.com/financial-services/extracting-value-from-financial-documents)
 * \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 ## Analysis
 

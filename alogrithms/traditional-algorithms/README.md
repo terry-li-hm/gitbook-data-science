@@ -40,7 +40,7 @@
 
 Linear regression can extrapolate the ends but kNN can't:
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 
 

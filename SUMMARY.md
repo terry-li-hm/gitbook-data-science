@@ -82,6 +82,7 @@
   * [Time Series](applications/time-series.md)
   * [NLP](applications/untitled-4/README.md)
     * [Text Classification](applications/untitled-4/text-classification.md)
+    * [Extracting Facts](applications/untitled-4/extracting-facts.md)
   * [Computer Vision](applications/computer-vision/README.md)
     * [Object Detection](applications/computer-vision/object-detection.md)
   * [Sequence Modelling](applications/sequence-modelling.md)
