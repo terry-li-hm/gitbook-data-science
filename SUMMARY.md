@@ -86,6 +86,7 @@
     * [Language modeling](applications/untitled-4/language-modeling.md)
     * [Text summarisation](applications/untitled-4/text-summarisation.md)
     * [Generate keyword topic tags](applications/untitled-4/generate-keyword-topic-tags.md)
+    * [Text matching](applications/untitled-4/text-matching.md)
   * [Computer Vision](applications/computer-vision/README.md)
     * [Object Detection](applications/computer-vision/object-detection.md)
   * [Sequence Modelling](applications/sequence-modelling.md)
