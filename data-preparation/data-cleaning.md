@@ -20,7 +20,7 @@
 * [ben519/DataWrangling: The ultimate reference guide to data wrangling with Python and R](https://github.com/ben519/DataWrangling)
 * [The Worst Kind of Data: Missing Data - Byte Academy Blog](https://byteacademy.co/worst-kind-data-missing-data/)
 
-### Imputation {#2)-A-Better-Option:-Imputation}
+### Imputation <a id="2)-A-Better-Option:-Imputation"></a>
 
 > Imputation fills in the missing value with some number. The imputed value won't be exactly right in most cases, but it usually gives more accurate models than dropping the column entirely.
 >

@@ -54,7 +54,7 @@
 
 > XGBoost has a few parameters that can dramatically affect your model's accuracy and training speed. The first parameters you should understand are:
 >
-> #### n\_estimators and early\_stopping\_rounds {#n_estimators-and-early_stopping_rounds}
+> #### n\_estimators and early\_stopping\_rounds <a id="n_estimators-and-early_stopping_rounds"></a>
 >
 > **n\_estimators** specifies how many times to go through the modeling cycle described above.
 >
@@ -66,7 +66,7 @@
 >
 > When using **early\_stopping\_rounds**, you need to set aside some of your data for checking the number of rounds to use. If you later want to fit a model with all of your data, set **n\_estimators** to whatever value you found to be optimal when run with early stopping.
 >
-> #### learning\_rate {#learning_rate}
+> #### learning\_rate <a id="learning_rate"></a>
 >
 > Here's a subtle but important trick for better XGBoost models:
 >
@@ -76,7 +76,7 @@
 >
 > In general, a small learning rate \(and large number of estimators\) will yield more accurate XGBoost models, though it will also take the model longer to train since it does more iterations through the cycle.
 >
-> #### n\_jobs {#n_jobs}
+> #### n\_jobs <a id="n_jobs"></a>
 >
 > On larger datasets where runtime is a consideration, you can use parallelism to build your models faster. It's common to set the parameter **n\_jobs** equal to the number of cores on your machine. On smaller datasets, this won't help.
 >

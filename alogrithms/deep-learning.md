@@ -89,7 +89,7 @@ If a smaller batch size is used, the gradient is calculated using less number of
 
 ## Best Practices
 
-{% embed data="{\"url\":\"https://mobile.twitter.com/math\_rachel/status/1013249330583498752\",\"type\":\"rich\",\"title\":\"Rachel Thomas on Twitter\",\"description\":\"These are important points! The fastai library handles 2, 3, & 4 for you, and we teach 1 as a key technique in the course: https://t.co/y1OKto7666— Rachel Thomas \(@math\_rachel\) July 1, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">These are important points! The fastai library handles 2, 3, &amp; 4 for you, and we teach 1 as a key technique in the course: <a href=\\\"https://t.co/y1OKto7666\\\">https://t.co/y1OKto7666</a></p>&mdash; Rachel Thomas \(@math\_rachel\) <a href=\\\"https://twitter.com/math\_rachel/status/1013249330583498752?ref\_src=twsrc%5Etfw\\\">July 1, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
+{% embed url="https://mobile.twitter.com/math\_rachel/status/1013249330583498752" %}
 
 
 
@@ -191,9 +191,9 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 
 ## Gradient Descent
 
-{% embed data="{\"url\":\"https://www.dropbox.com/s/ekee45cl4tel2x2/sgd\_bad.gif?dl=0\",\"type\":\"link\",\"title\":\"sgd\_bad.gif\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.dropbox.com/temp\_thumb\_from\_token/s/ekee45cl4tel2x2?preserve\_transparency=False&size=1024x1024&size\_mode=2\",\"width\":1024,\"height\":1024,\"aspectRatio\":1}}" %}
+{% embed url="https://www.dropbox.com/s/ekee45cl4tel2x2/sgd\_bad.gif?dl=0" %}
 
-{% embed data="{\"url\":\"https://www.dropbox.com/s/5ptildzwybdtjp3/sgd.gif?dl=0\",\"type\":\"link\",\"title\":\"sgd.gif\",\"description\":\"Shared with Dropbox\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cfl.dropboxstatic.com/static/images/logo\_catalog/dropbox\_webclip\_152\_m1-vflU0bwfQ.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.dropbox.com/temp\_thumb\_from\_token/s/5ptildzwybdtjp3?preserve\_transparency=False&size=1024x1024&size\_mode=2\",\"width\":1024,\"height\":1024,\"aspectRatio\":1}}" %}
+{% embed url="https://www.dropbox.com/s/5ptildzwybdtjp3/sgd.gif?dl=0" %}
 
 * If the learning rate is too large \(0.01\), the cost may oscillate up and down. It may even diverge \(refer to the graph above\).
 * A lower cost doesn't mean a better model. You have to check if there is possibly overfitting. It happens when the training accuracy is a lot higher than the test accuracy.

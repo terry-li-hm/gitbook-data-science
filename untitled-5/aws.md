@@ -14,7 +14,7 @@ scp -i ~/.ssh/aws-key.pem ~/porto/* ubuntu@ec2-13-124-252-134.ap-northeast-2.com
 
 
 
-{% embed data="{\"url\":\"https://blog.keras.io/running-jupyter-notebooks-on-gpu-on-aws-a-starter-guide.html\",\"type\":\"link\",\"title\":\"Running Jupyter notebooks on GPU on AWS: a starter guide\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blog.keras.io/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://blog.keras.io/running-jupyter-notebooks-on-gpu-on-aws-a-starter-guide.html" %}
 
 
 
