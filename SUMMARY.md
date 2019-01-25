@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science](README.md)
+* [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
   * [1st Engagement](dbs/1st-engagement.md)
