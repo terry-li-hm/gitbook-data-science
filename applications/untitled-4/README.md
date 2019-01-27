@@ -323,3 +323,11 @@ Some other tools:
 
 
 
+
+
+## To be categorized
+
+* [Using NLP to Automate Customer Support, Part Two](https://blog.floydhub.com/automate-customer-support-part-two/)
+
+
+
