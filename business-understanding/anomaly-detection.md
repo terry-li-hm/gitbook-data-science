@@ -120,6 +120,7 @@ Fraud Detection is an application of anomaly detection per Wiki.
 ## Library
 
 * [「异常检测」开源工具库推荐](https://zhuanlan.zhihu.com/p/37132428)
+* [yzhao062/pyod: A Python Toolkit for Scalable Outlier Detection \(Anomaly Detection\)](https://github.com/yzhao062/pyod)
 
 ## Approach
 
