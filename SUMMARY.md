@@ -138,8 +138,9 @@
 * [Workshop](workshop.md)
 * [DVC](dvc.md)
 * [DevOps](devops.md)
-* [Projects](projects.md)
+* [Case Studies](projects.md)
 * [Tips](tips.md)
 * [Causal Inference](causal-inference.md)
 * [GPU](gpu.md)
+* [Dashboard](dashboard.md)
 

@@ -7,6 +7,7 @@
 * data leakage?
 * train-test-split reasonable?
 * Interpretability
+  * [Natural Language Processing Is Fun Part 3: Explaining Model Predictions](https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c)
 * fairness
 * security
   * reverse engineering
