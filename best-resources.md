@@ -26,4 +26,5 @@
 * [pablo14/data-science-live-book: An open source book to learn data science, data analysis and machine learning, suitable for all ages!](https://github.com/pablo14/data-science-live-book)
 * \*\*\*\*[**liveBook - Deep Learning with Python**](https://livebook.manning.com/#!/book/deep-learning-with-python/about-this-book/1)\*\*\*\*
 * \*\*\*\*[**ML Universal Guides \| Google Developers**](https://developers.google.com/machine-learning/guides/)\*\*\*\*
+* [机器之心年度盘点：2018年重大研究与开源项目](https://www.jiqizhixin.com/articles/2018-12-30)
 
