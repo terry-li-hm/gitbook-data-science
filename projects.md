@@ -5,4 +5,6 @@
 * [Food Discovery with Uber Eats: Building a Query Understanding Engine](https://eng.uber.com/uber-eats-query-understanding/)
 * [AI技术在智能海报设计中的应用](https://www.jiqizhixin.com/articles/2018-12-28-25)
 * [爱奇艺短视频打标签技术解析](https://www.jiqizhixin.com/articles/2018-12-29-22)
+* [机器如何「猜你喜欢」？深度学习模型在1688的应用实践](https://www.jiqizhixin.com/articles/2019-01-02-2)
+* [短视频如何做到千人千面？FM+GBM排序模型深度解析](https://www.jiqizhixin.com/articles/2019-01-02)
 
