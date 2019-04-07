@@ -44,7 +44,7 @@ Naive Bayes: extremely fast relative to other classification algorithms
 
 ![](../.gitbook/assets/microsoft-machine-learning-algorithm-cheat-sheet-v6-1.png)
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 ![](../.gitbook/assets/image%20%2841%29.png)
 

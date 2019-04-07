@@ -26,7 +26,7 @@
 * [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
@@ -69,4 +69,6 @@
 ![](../.gitbook/assets/image%20%2813%29.png)
 
 [Neural Network 3D Simulation - YouTube](https://www.youtube.com/watch?v=3JQ3hYko51Y&app=desktop)
+
+![](../.gitbook/assets/image%20%2847%29.png)
 

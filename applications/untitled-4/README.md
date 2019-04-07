@@ -123,6 +123,7 @@ Further readings:[https://www.quora.com/What-does-the-word-embedding-mean-in-the
 * [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn)
 * [苏州大学张民教授两小时讲座精华摘录：自然语言处理方法与应用 \| 雷锋网](https://www.leiphone.com/news/201808/58xvkwmbZoIc1J9c.html)
 * [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
+* [Python自然语言处理工具NLTK学习导引及相关资料](http://www.52nlp.cn/python自然语言处理工具nltk学习导引及相关资料)
 
 ### Sentiment Analysis
 

@@ -19,6 +19,8 @@
 * [Using Simple Arithmetic to Fill Gaps in Categorical Data](https://medium.com/related-works-inc/using-simple-arithmetic-to-fill-gaps-in-categorical-data-9418e5c0b91b)
 * [ben519/DataWrangling: The ultimate reference guide to data wrangling with Python and R](https://github.com/ben519/DataWrangling)
 * [The Worst Kind of Data: Missing Data - Byte Academy Blog](https://byteacademy.co/worst-kind-data-missing-data/)
+* \*\*\*\*[The Simple Yet Practical Data Cleaning Codes](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
+* \*\*\*\*[Using Pandas To Create an Excel Diff](https://pbpython.com/excel-diff-pandas-update.html)
 
 ### Imputation <a id="2)-A-Better-Option:-Imputation"></a>
 
@@ -62,5 +64,5 @@
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 

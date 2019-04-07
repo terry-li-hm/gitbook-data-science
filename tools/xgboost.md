@@ -86,4 +86,5 @@
 
 * [Unveiling Mathematics behind XGBoost – Ajit Samudrala – Medium](https://medium.com/@samudralaajit/unveiling-mathematics-behind-xgboost-c7f1b8201e2a)
 * [Fine-tuning XGBoost in Python like a boss – Towards Data Science](https://towardsdatascience.com/fine-tuning-xgboost-in-python-like-a-boss-b4543ed8b1e)
+* \*\*\*\*[XGBoost 入门系列第一讲](https://bigquant.com/community/t/topic/36)
 
