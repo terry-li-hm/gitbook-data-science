@@ -36,3 +36,11 @@
 * [automated-feature-engineering/Automated\_Feature\_Engineering.ipynb at master · WillKoehrsen/automated-feature-engineering](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb)
 * [如何用Python做自动化特征工程 \| 机器之心](https://www.jiqizhixin.com/articles/2018-09-03-4)
 
+
+
+## Scaling
+
+[scikit-learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#sphx-glr-auto-examples-preprocessing-plot-all-scaling-py):
+
+> Indeed many estimators are designed with the assumption that each feature takes values close to zero or more importantly that all features vary on comparable scales. In particular, metric-based and gradient-based estimators often assume approximately standardized data \(centered features with unit variances\). A notable exception are decision tree-based estimators that are robust to arbitrary scaling of the data.
+
