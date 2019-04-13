@@ -44,3 +44,25 @@
 
 > Indeed many estimators are designed with the assumption that each feature takes values close to zero or more importantly that all features vary on comparable scales. In particular, metric-based and gradient-based estimators often assume approximately standardized data \(centered features with unit variances\). A notable exception are decision tree-based estimators that are robust to arbitrary scaling of the data.
 
+
+
+
+
+
+
+
+
+[machinelearningmastery.com](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/):
+
+#### Decompose Categorical Attributes
+
+Imagine you have a categorical attribute, like “_Item\_Color_” that can be _Red_, _Blue_ or _Unknown_.
+
+_Unknown_ may be special, but to a model, it looks like just another colour choice. It might be beneficial to better expose this information.
+
+You could create a new binary feature called “_Has\_Color_” and assign it a value of “_1_” when an item has a color and “_0_” when the color is unknown.
+
+Going a step further, you could create a binary feature for each value that _Item\_Color_ has. This would be three binary attributes: _Is\_Red_, _Is\_Blue_ and _Is\_Unknown_.
+
+These additional features could be used instead of the _Item\_Color_ feature \(if you wanted to try a simpler linear model\) or in addition to it \(if you wanted to get more out of something like a decision tree\).
+
