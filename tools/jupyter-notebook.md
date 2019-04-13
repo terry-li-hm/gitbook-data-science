@@ -14,4 +14,5 @@
 * [The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
 * [Jupyter Notebook最实用的5个魔术命令 \| ATYUN](http://www.atyun.com/27603.html)
 * [nteract/papermill: 📚 Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
+* [A Jupyter Notebook extension by Will Koehrsen to help you create more effective notebooks](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
 
