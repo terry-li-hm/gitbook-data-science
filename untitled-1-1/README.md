@@ -28,7 +28,7 @@
 
 ## Baseline
 
-To judge whether our model is any good, it'd be helpful to have a baseline. A commonly used baseline is to predict the target variable as the mean of training set.
+To judge whether our model is any good, it'd be helpful to have a baseline and see if the model performs better than the baseline. A commonly used baseline is to predict the target variable as the mean of training set.
 
 
 

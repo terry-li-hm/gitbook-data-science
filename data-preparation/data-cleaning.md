@@ -21,6 +21,13 @@
 * \*\*\*\*[The Simple Yet Practical Data Cleaning Codes](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
 * \*\*\*\*[Using Pandas To Create an Excel Diff](https://pbpython.com/excel-diff-pandas-update.html)
 
+
+
+
+
+A good way to handle anomalies:  
+[https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction\#Anomalies](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction#Anomalies)
+
 ### Imputation <a id="2)-A-Better-Option:-Imputation"></a>
 
 > Imputation fills in the missing value with some number. The imputed value won't be exactly right in most cases, but it usually gives more accurate models than dropping the column entirely.

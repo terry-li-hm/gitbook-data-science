@@ -1,3 +1,10 @@
+---
+description: >-
+  Coming up with features is difficult, time-consuming, requires expert
+  knowledge. "Applied machine learning" is basically feature engineering.
+  — Andrew Ng
+---
+
 # Feature Engineering
 
 * [Featuretools/featuretools: automated feature engineering](https://github.com/Featuretools/featuretools)
@@ -29,6 +36,17 @@
 * [Feature Engineering 相關文章推薦 – Rick Liu – Medium](https://medium.com/@drumrick/feature-engineering-相關文章推薦-b4c2aaffe93d)
 * [Why Automated Feature Engineering Will Change the Way You Do Machine Learning](https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96)
 * [Deep Feature Synthesis: How Automated Feature Engineering Works \| Feature Labs](https://www.featurelabs.com/blog/deep-feature-synthesis/)
+
+
+
+## Useful Approaches
+
+* [Aggregating Numeric Columns](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering#Aggregating-Numeric-Columns)
+* [Aggregating Categorical Columns](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering#Categorical-Variables)
+
+
+
+ 
 
 ## Automated
 

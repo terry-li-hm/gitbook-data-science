@@ -11,6 +11,8 @@
 
 
 
+
+
 ## Problem of accuracy
 
 [Jason Brownlee](https://machinelearningmastery.com/assessing-comparing-classifier-performance-roc-curves-2/):
@@ -23,7 +25,9 @@
 
 > \[Log Loss\] looks at the probabilities themselves and not just the order of the predictions like AUC.
 
+Accuracy should not be used for classification problem with imbalance classes:
 
+> For example, if I wanted to build a model that could detect terrorists with 99.9999% accuracy, I would simply make a model that predicted every single person was not a terrorist. Clearly, this would not be effective \(the recall would be zero\) and we use more advanced metrics such as ROC AUC or the [F1 score](https://en.wikipedia.org/wiki/F1_score) to more accurately reflect the performance of a classifier. A model with a high ROC AUC will also have a high accuracy, but the [ROC AUC is a better representation of model performance.](https://datascience.stackexchange.com/questions/806/advantages-of-auc-vs-standard-accuracy)
 
 ## Precision-Recall Trade-off
 
