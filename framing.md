@@ -320,5 +320,9 @@ Convert data into images and leverage CNN:
 * [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
   * Starting from "Building the COTA backend with NLP and ML" to the end
 
+## Other
+
+* [An introduction to an elegant, embedding-based model for solving recommendation-like problems](https://www.kaggle.com/colinmorris/matrix-factorization)
+
 
 
