@@ -17,10 +17,18 @@
 
 
 
+
+
 ### Cross-validation
 
 * [Example of CV](https://www.kaggle.com/rspadim/off-example-of-cv/)
 * [Cross- Validation Code Visualization: Kind of Fun](https://medium.com/towards-data-science/cross-validation-code-visualization-kind-of-fun-b9741baea1f8)
+
+
+
+## Baseline
+
+To judge whether our model is any good, it'd be helpful to have a baseline. A commonly used baseline is to predict the target variable as the mean of training set.
 
 
 
