@@ -26,9 +26,9 @@
 * [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 
 
@@ -46,15 +46,15 @@
 
 
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 [Source](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif)
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 
 
@@ -66,9 +66,9 @@
 
 {% embed url="https://mobile.twitter.com/FredrikHeintz/status/1018763444743495680" %}
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 [Neural Network 3D Simulation - YouTube](https://www.youtube.com/watch?v=3JQ3hYko51Y&app=desktop)
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 

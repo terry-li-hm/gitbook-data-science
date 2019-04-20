@@ -36,6 +36,7 @@ description: >-
 * [Feature Engineering 相關文章推薦 – Rick Liu – Medium](https://medium.com/@drumrick/feature-engineering-相關文章推薦-b4c2aaffe93d)
 * [Why Automated Feature Engineering Will Change the Way You Do Machine Learning](https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96)
 * [Deep Feature Synthesis: How Automated Feature Engineering Works \| Feature Labs](https://www.featurelabs.com/blog/deep-feature-synthesis/)
+* [https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost](https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost)
 
 
 
@@ -83,4 +84,18 @@ You could create a new binary feature called “_Has\_Color_” and assign it a 
 Going a step further, you could create a binary feature for each value that _Item\_Color_ has. This would be three binary attributes: _Is\_Red_, _Is\_Blue_ and _Is\_Unknown_.
 
 These additional features could be used instead of the _Item\_Color_ feature \(if you wanted to try a simpler linear model\) or in addition to it \(if you wanted to get more out of something like a decision tree\).
+
+
+
+
+
+[2nd place ](http://blog.kaggle.com/2016/03/17/airbnb-new-user-bookings-winners-interview-2nd-place-keiichi-kuroyanagi-keiku/)of a Kaggle competition:
+
+> I calculated the lag of "date\_first\_booking" and "date\_account\_created" and divided this lag feature into four categories \(0, \[1, 365\], \[-349,0\), NA\).
+
+
+
+
+
+>
 

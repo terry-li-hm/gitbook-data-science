@@ -8,3 +8,11 @@
 
 The correlations between variables can show if we have collinear varibles, that is, variables that are highly correlated with one another. Often, we want to remove one in a pair of collinear variables because having both variables would be redundant. [Here is the codes](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering#Collinear-Variables).
 
+
+
+
+
+[https://fr.slideshare.net/MichaelBENESTY/feature-importance-analysis-with-xgboost-in-tax-audit](https://fr.slideshare.net/MichaelBENESTY/feature-importance-analysis-with-xgboost-in-tax-audit):
+
+![](../.gitbook/assets/image%20%282%29.png)
+

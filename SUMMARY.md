@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science](README.md)
+* [Questions](questions.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
@@ -49,6 +50,7 @@
   * [Bayesian optimization](modeling/bayesian-optimization.md)
   * [Sample Codes](modeling/sample-codes.md)
   * [AutoML](modeling/automl.md)
+  * [Possible Ways to improve the performance](modeling/possible-ways-to-improve-the-performance.md)
 * [Evaluation](untitled-1-1/README.md)
   * [Metrics](untitled-1-1/evaluating-models/README.md)
     * [AUC](untitled-1-1/evaluating-models/auc.md)

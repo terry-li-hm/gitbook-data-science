@@ -6,6 +6,12 @@
 
 
 
+According to the [official website](https://xgboost.readthedocs.io/en/latest/faq.html):
+
+> XGBoost supports missing value by default. In tree algorithms, branch directions for missing values are learned during training. Note that the gblinear booster treats missing values as zeros.
+
+
+
 > 1. Reserve a portion of training set as the validation set.
 > 2. Set `eta` to a relatively high value \(e.g. 0.05 ~ 0.1\), `num_round` to 300 ~ 500.
 > 3. Use grid search to find the best combination of other parameters.

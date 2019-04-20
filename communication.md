@@ -10,9 +10,17 @@
 * [Adioma - Infographic Maker With Timelines, Grids and Icons](https://adioma.com/)
 * [Better Presentations Cheatsheet - Policy Viz](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/)
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
+
+
+
+{% embed url="https://www.logistics.dhl/content/dam/dhl/global/core/documents/pdf/glo-artificial-intelligence-in-logistics-trend-report.pdf:" %}
+
+![](.gitbook/assets/image%20%2859%29.png)
+
+![](.gitbook/assets/image%20%2812%29.png)
 

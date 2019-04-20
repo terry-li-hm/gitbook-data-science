@@ -109,6 +109,31 @@ def remove_missing_columns(train, test, threshold = 90):
     train = train.drop(columns = missing_columns)
     test = test.drop(columns = missing_columns)
     
-    return train, test
+    return train, test    
 ```
+
+
+
+## One-hot Encoding
+
+> 一、要不要one-hot？
+>
+> 这在机器学习界也有争论。理论上，树模型如果够深，也能将关键的类别型特型切出来。
+>
+> 关于这个，xgboost的作者tqchen在某个[issues](https://github.com/dmlc/xgboost/issues/95)有提到过：
+>
+> I do not know what you mean by vector. xgboost treat every input feature as numerical, with support for missing values and sparsity. The decision is at the user
+>
+> So if you want ordered variables, you can transform the variables into numerical levels\(say age\). Or if you prefer treat it as categorical variable, do one hot encoding.
+>
+> 在另一个[issues](https://github.com/szilard/benchm-ml/issues/1)上也提到过（tqchen commented on 8 May 2015）：
+>
+> One-hot encoding could be helpful when the number of categories are small\( in level of 10 to 100\). In such case one-hot encoding can discover interesting interactions like \(gender=male\) AND \(job = teacher\).
+>
+> While ordering them makes it harder to be discovered\(need two split on job\). However, indeed there is not a unified way handling categorical features in trees, and usually what tree was really good at was ordered continuous features anyway..
+>
+> 总结起来的结论，大至两条：
+>
+> * 1.对于类别有序的类别型变量，比如age等，当成数值型变量处理可以的。对于非类别有序的类别型变量，推荐one-hot。但是one-hot会增加内存开销以及训练时间开销。
+> * 2.类别型变量在范围较小时（tqchen给出的是\[10,100\]范围内）推荐使用
 

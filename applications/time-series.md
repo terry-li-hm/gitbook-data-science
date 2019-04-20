@@ -42,6 +42,7 @@
 * [A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/)
 * [How to Model Volatility with ARCH and GARCH for Time Series Forecasting in Python](https://machinelearningmastery.com/develop-arch-and-garch-models-for-time-series-forecasting-in-python/)
 * [EDA+Prophet+ MLP Neural Network Forecasting \| Kaggle](https://www.kaggle.com/arindamgot/eda-prophet-mlp-neural-network-forecasting/)
+* [Using Machine Learning to Ensure the Capacity Safety of Individual Microservices](https://eng.uber.com/machine-learning-capacity-safety/)
 
 ##  WaveNet
 

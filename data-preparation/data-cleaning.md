@@ -28,6 +28,16 @@
 A good way to handle anomalies:  
 [https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction\#Anomalies](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction#Anomalies)
 
+
+
+## Missing values
+
+> Once you know a bit more about the missing data you have to decide whether or not you want to keep entries with missing data. According to Chris Albon \(_Machine Learning with Python Cookbook_\), this decision should partially depend on **how random missing values are**.
+>
+> If they are completely at random, they don’t give any extra information and can be omitted. On the other hand, if they’re not at random, the fact that a value is missing is itself information and can be expressed as an extra binary feature.
+>
+> Also keep in mind that deleting a whole observation because it has one missing value, might be a poor decision and lead to information loss. Just like keeping a whole row of missing values because it has a meaningful missing value might not be your best move.
+
 ### Imputation <a id="2)-A-Better-Option:-Imputation"></a>
 
 > Imputation fills in the missing value with some number. The imputed value won't be exactly right in most cases, but it usually gives more accurate models than dropping the column entirely.
@@ -66,9 +76,22 @@ A good way to handle anomalies:
 >
 > In some cases this approach will meaningfully improve results. In other cases, it doesn't help at all.
 
+### Drop all the columns where at least 90% of the data is empty
+
+```python
+drop_thresh = df_raw.shape[0]*.9
+df = df_raw.dropna(thresh=drop_thresh, how='all', axis='columns').copy()
+```
+
+
+
+
+
+
+
 ![](../.gitbook/assets/image%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
