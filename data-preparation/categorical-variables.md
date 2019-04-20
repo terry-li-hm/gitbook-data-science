@@ -4,6 +4,13 @@
 
 
 
+Per [a MOOC](https://www.coursera.org/lecture/competitive-data-science/categorical-and-ordinal-features-qu1TF):
+
+* Label and frequency encodings are often used for tree-based models
+* One-hot encoding is often used for non-tree-based models \(e.g. kNN, nerual networks\)
+
+
+
 
 
 ## Change the data type from Object to Category
@@ -20,6 +27,13 @@ for f_ in categorical_feats:
     data[f_] = data[f_].astype('category')
 ```
 
+```python
+cols_to_exclude = ['Program_Year', 'Date_of_Payment', 'Payment_Publication_Date']
+for col in df.columns:
+    if df[col].nunique() < 600 and col not in cols_to_exclude:
+        df[col] = df[col].astype('category')
+```
+
 Olivier Grellier, Senior Data Scientist at H2O.ai, [does so](https://www.kaggle.com/ogrellier/feature-selection-with-null-importances).
 
 ### Benefit
@@ -27,4 +41,6 @@ Olivier Grellier, Senior Data Scientist at H2O.ai, [does so](https://www.kaggle.
 > * We can define a custom sort order which can improve summarizing and reporting the data. In the example above, “X-Small” &lt; “Small” &lt; “Medium” &lt; “Large” &lt; “X-Large”. Alphabetical sorting would not be able to reproduce that order.
 > * Some of the python visualization libraries can interpret the categorical data type to apply approrpiate statistical models or plot types.
 > * Categorical data uses less memory which can lead to performance improvements.
+
+But make sure you define all the possible categories, otherwise any value you didn't define will become `NaN`. Search for "Let’s build" in this [article ](https://pbpython.com/pandas_dtypes_cat.html)for details.
 

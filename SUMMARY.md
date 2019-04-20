@@ -71,6 +71,7 @@
   * [Genetic Algorithms](alogrithms/genetic-algorithms.md)
   * [Autoencoders](alogrithms/autoencoders.md)
 * [Tools](tools/README.md)
+  * [XGBoost, LightGBM, CatBoost](tools/xgboost-lightgbm-catboost.md)
   * [Python](tools/python.md)
   * [Tensorflow](tools/tensorflow.md)
   * [PyTorch](tools/pytorch.md)
