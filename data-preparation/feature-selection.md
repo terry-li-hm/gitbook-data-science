@@ -16,3 +16,9 @@ The correlations between variables can show if we have collinear varibles, that 
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
+
+
+## Curse of dimensionality
+
+[Jeremy said ](https://youtu.be/CzdWqFTmn0Y?t=38m16s)it is not the case. He said it is no harm to add as many columns as you can nearly all the time.
+

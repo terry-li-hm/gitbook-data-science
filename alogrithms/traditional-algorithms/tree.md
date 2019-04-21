@@ -32,6 +32,25 @@ Unlike a Random Forest, when you add a new tree to a GBM, it gets to see what it
 
 
 
+## Random Forest
+
+According to [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=36m37s), random forest is a universal machine learning technique.
+
+* It can predict something that can be of any kind — it could be a category \(classification\), a continuous variable \(regression\).
+* It can predict with columns of any kind — pixels, zip codes, revenues, etc \(i.e. both structured and unstructured data\).
+* It does not generally overfit too badly, and it is very easy to stop it from overfitting.
+* You do not need a separate validation set in general. It can tell you how well it generalizes even if you only have one dataset.
+* It has few, if any, statistical assumptions. It does not assume that your data is normally distributed, the relationship is linear, or you have specified interactions.
+* It requires very few pieces of feature engineering. For many different types of situation, you do not have to take the log of the data or multiply interactions together.
+
+According to [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=4310), random forest works fine with IDs \(i.e. no need to drop them\).
+
+[Jeremy said ](https://youtu.be/blyXCk4sgEg?t=4114)in practice he trains model with 20-30 trees and 1000 trees end of the project or overnight. There is no harm to have more tree except it takes more time to compute.
+
+Jeremy found that 1, 3, 5, 10, 25 are good possible values of `min_samples_leaf`. Hundreds or thousands for really big data set.
+
+The good possible values of `max_features` [Jeremy found ](https://youtu.be/blyXCk4sgEg?t=5173)are 1, .5, log2 or square root.
+
 ## Gradient boosting
 
 Gradient boosting is a type of boosting. It relies on the intuition that the best possible next model, when combined with previous models, minimizes the overall prediction error. The key idea is to set the target outcomes for this next model in order to minimize the error. How are the targets calculated? The target outcome for each case in the data depends on how much changing that case’s prediction impacts the overall prediction error:  

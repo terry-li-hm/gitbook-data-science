@@ -123,3 +123,7 @@ Compared to the similar Mean Absolute Error, RMSE amplifies and severely punishe
 
 This metric is suitable when predicting values across a large range of orders of magnitudes. It avoids penalizing large differences in prediction when both the predicted and the true number are large: predicting 5 when the true value is 50 is penalized more than predicting 500 when the true value is 545.
 
+### RMSLE
+
+According to [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=34m6s), for regression problem where you care more about the percentage \(ratio\) than the amount \(e.g. you care more about whether you missing 10% than $10\), RMSLE is the better metric to instead \(compared to RMSE or MAE\)
+

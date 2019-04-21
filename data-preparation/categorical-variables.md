@@ -44,3 +44,12 @@ Olivier Grellier, Senior Data Scientist at H2O.ai, [does so](https://www.kaggle.
 
 But make sure you define all the possible categories, otherwise any value you didn't define will become `NaN`. Search for "Let’s build" in this [article ](https://pbpython.com/pandas_dtypes_cat.html)for details.
 
+### Set the order
+
+Per [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=55m40s), it is not very important to do so but good to do so.
+
+```python
+df_raw.UsageBand.cat.set_categories(['High', 'Medium', 'Low'],
+    ordered=True, inplace=True)
+```
+

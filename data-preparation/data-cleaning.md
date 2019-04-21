@@ -32,6 +32,11 @@ A good way to handle anomalies:
 
 ## Missing values
 
+```python
+# Percentage of missing value of each column
+display_all(df_raw.isnull().sum().sort_index()/len(df_raw))
+```
+
 > Once you know a bit more about the missing data you have to decide whether or not you want to keep entries with missing data. According to Chris Albon \(_Machine Learning with Python Cookbook_\), this decision should partially depend on **how random missing values are**.
 >
 > If they are completely at random, they don’t give any extra information and can be omitted. On the other hand, if they’re not at random, the fact that a value is missing is itself information and can be expressed as an extra binary feature.
@@ -82,8 +87,6 @@ A good way to handle anomalies:
 drop_thresh = df_raw.shape[0]*.9
 df = df_raw.dropna(thresh=drop_thresh, how='all', axis='columns').copy()
 ```
-
-
 
 
 
