@@ -131,5 +131,5 @@ According to [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=34m6s), for regression prob
 df_all.unit_sales = np.log1p(df_all.unit_sales)
 ```
 
-In this way the R2 will also be in log sense. And when training random forest model, the notes would be split based on RMSLE, as the algorithm split by minimizing MSE of the target variables and the target variables are in log.
+In this way the R2 will also be in log sense. And when training random forest model, the nodes would be split based on RMSLE, as the algorithm split by minimizing MSE of the target variables and the target variables are in log.
 

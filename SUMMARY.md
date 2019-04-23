@@ -37,6 +37,7 @@
   * [Data Pre-Processing](data-preparation/data-pre-processing.md)
   * [Validation Set](data-preparation/validation-set.md)
   * [Feature Engineering](data-preparation/feature-engineering.md)
+  * [Continuous Numeric Variables](data-preparation/continuous-numeric-variables.md)
   * [Categorical Variables](data-preparation/categorical-variables.md)
   * [Embedding Layers](data-preparation/embedding-layers.md)
   * [Feature Scaling](data-preparation/feature-scaling.md)

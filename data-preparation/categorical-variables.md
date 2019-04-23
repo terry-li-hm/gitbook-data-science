@@ -9,7 +9,7 @@ Per [a MOOC](https://www.coursera.org/lecture/competitive-data-science/categoric
 * Label and frequency encodings are often used for tree-based models
 * One-hot encoding is often used for non-tree-based models \(e.g. kNN, nerual networks\)
 
-
+This is a [good summary ](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)of the common strategies. But not sure if they are really helpful as Jeremy didn't talk about them.
 
 
 
