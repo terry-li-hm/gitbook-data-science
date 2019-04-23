@@ -1,5 +1,9 @@
 # Framing
 
+* \*\*\*\*[**Designing great data products**](https://www.oreilly.com/ideas/drivetrain-approach-data-products) by Jeremy While it was written in 2012, Jeremy still thinks it is relevant and talked about it [in his ML class](https://youtu.be/BFIYUvBRTpE?t=3m48s).
+
+
+
 * [How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
 * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 * [Loc2Vec: Learning location embeddings with triplet-loss networks \| Sentiance](http://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
@@ -205,7 +209,7 @@
 * [Extracting Value from Financial Documents](https://learn.sparkcognition.com/financial-services/extracting-value-from-financial-documents)
 * \*\*\*\*[**AI in Banking - An Analysis of America's 7 Top Banks**](https://www.techemergence.com/ai-in-banking-analysis/)\*\*\*\*
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2849%29.png)
 
 ## Analysis
 
@@ -288,7 +292,7 @@ Convert data into images and leverage CNN:
 >
 > This approach enabled us to encode not only trajectory lines but also to visually represent multidimensional dynamics of human behavior in all possible details ready to be analyzed and classified.
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 
 
@@ -296,7 +300,7 @@ Convert data into images and leverage CNN:
 
 > Deep learning has great potential for good. It is being used by fast.ai students and teachers to [diagnose cancer](https://drive.google.com/open?id=0BwXibGZYcIEYTWhfOTBzdm5MYUU), [stop deforestation of endangered rain-forests](https://www.youtube.com/watch?v=VlQyudLKJno), provide better [crop insurance to farmers in India](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/#6f250de41197) \(who otherwise have to take predatory loans from thugs, which have led to high suicide rates\), help [Urdu speakers in Pakistan](https://drive.google.com/file/d/0B_OtHJvsKdjeTFRyNm5Ta1lkU0k/view), develop wearable devices for [patients with Parkinson’s disease](https://medium.com/impactai/impact-driven-ai-applications-session-2-at-usf-586d7624abb1), and much more. Deep learning could address [the global shortage of doctors](http://www.fast.ai/2016/10/07/fastai-launch/), provide [more accurate medical diagnoses](https://www.nytimes.com/2016/02/29/technology/the-promise-of-artificial-intelligence-unfolds-in-small-steps.html), improve [energy efficiency](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/), [increase farm yields, and reduce pesticide use](https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/).
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 ## Business Use Case
 
@@ -309,6 +313,10 @@ Convert data into images and leverage CNN:
 * [從全球千餘支隊伍中脫穎而出，BDC 冠軍團隊是如何做用戶預測的 \| 機器之心](https://www.jiqizhixin.com/articles/2018-08-23-8)
   * [2018中国高校计算机大赛——大数据挑战赛 - Kesci.com](https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/works)
 * [https://challenger.ai/competitions](https://challenger.ai/competitions)
+* \*\*\*\*[Learning Market Dynamics for Optimal Pricing by Airbnb](https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3) Seems to be a very informative case study
+* [How we used sequence models and LSTM networks to suggest responses for our customer service agents by Airbnb](https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02)
+
+> Within Societe Generale, **we prefer to talk about machine learning rather than AI**. The bank employs many data scientists to train algorithms that deal with various business cases. Our SG Markets platform is an example where machine learning techniques have been used to create a recommendation engine. Based on the history of trades with Societe Generale, clients are advised of the most relevant research papers to read. We have also used machine learning to analyse thousands of contracts to detect missing clauses or recommend new clauses in legal documentation for our clients. A ChatParser application for fixed interest and equities trading desks captures information from various chat systems as well as email, translating them into requests for quotes. This saves precious seconds for traders and improves our response time to clients.
 
 ## Case Study
 
@@ -319,6 +327,7 @@ Convert data into images and leverage CNN:
 * [KDD Cup 2018 冠军「 first floor to eat latiao」：为什么取这个队名？因为大家都爱辣条 \| 雷锋网](https://www.leiphone.com/news/201808/srcNcc3AWQTTJl4z.html)
 * [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
   * Starting from "Building the COTA backend with NLP and ML" to the end
+* [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e) by Airbnb
 
 ## Other
 

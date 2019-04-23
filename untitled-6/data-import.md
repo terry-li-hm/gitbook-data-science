@@ -18,6 +18,8 @@ types = {'id': 'int64',
          'onpromotion': 'object'}
 ```
 
+ If we used `int8` for `item_nbr` , the maximum `item_nbr` is bigger than 255 and it will not fit. On the other hand, if we used `int64` for the `store_nbr` , it is using more bits than necessary.
+
 ## Data type for Boolean
 
 For a Boolean field with missing value, you can only set it with data type `object` \(which is slow and memory heavy\). So what you can do is read it as `object` first, do some analysis to see how to impute it, and convert it into data type `Boolean` after the imputation. Here's an example code by Jeremy:

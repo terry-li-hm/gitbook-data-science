@@ -10,9 +10,9 @@
 * \*\*\*\*[**Introducing the Facebook Field Guide to Machine Learning video series – Facebook Research**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)\*\*\*\*
 * [Replication in Data Science - A Dance Between Data Science & Machine …](https://www.slideshare.net/JuneAndrews/replication-in-data-science-a-dance-between-data-science-machine-learning-strata-2016)
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2860%29.png)
 

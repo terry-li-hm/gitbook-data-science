@@ -125,5 +125,11 @@ This metric is suitable when predicting values across a large range of orders of
 
 ### RMSLE
 
-According to [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=34m6s), for regression problem where you care more about the percentage \(ratio\) than the amount \(e.g. you care more about whether you missing 10% than $10\), RMSLE is the better metric to instead \(compared to RMSE or MAE\)
+According to [Jeremy](https://youtu.be/CzdWqFTmn0Y?t=34m6s), for regression problem where you care more about the percentage \(ratio\) than the amount \(e.g. you care more about whether you missing 10% than $10\), RMSLE is the better metric to instead \(compared to RMSE or MAE\). A simply way to do this is just log the target variable and then you can still use RMSE as the metric:
+
+```python
+df_all.unit_sales = np.log1p(df_all.unit_sales)
+```
+
+In this way the R2 will also be in log sense. And when training random forest model, the notes would be split based on RMSLE, as the algorithm split by minimizing MSE of the target variables and the target variables are in log.
 

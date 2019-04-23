@@ -51,6 +51,55 @@ Jeremy found that 1, 3, 5, 10, 25 are good possible values of `min_samples_leaf`
 
 The good possible values of `max_features` [Jeremy found ](https://youtu.be/blyXCk4sgEg?t=5173)are 1, .5, log2 or square root.
 
+[Jeremy recommends](https://youtu.be/YSFG_W8JxBo?t=28m48s) that for large data set, use `set_rf_samples(1_000_000)` \(a function in the fast.ai library\) so that each tree is only build using samples of training set. Otherwise it would be too slow.
+
+If you are going to build a number random forest models \(e.g. to tune the hyper-parameters\), run `%time x = np.array(trn, dtype=np.float32)` first as the random forest algorithm in sk-learn will do so anyway \(so sk-learn doesn't need to do so repeatedly\). [Jeremy found this ](https://youtu.be/YSFG_W8JxBo?t=1886)by using `%prun m.fit(x, y)`.
+
+ [Jeremy said](https://youtu.be/0v93qHDqq_g?t=381):
+
+> By decreasing the `set_rf_samples` number, we are actually decreasing the power of the estimator and increasing the correlation...
+
+Why correlation increases? Because high chance that 2 estimators are trained using the same sample?
+
+[Jeremy said ](https://youtu.be/0v93qHDqq_g?t=1m51s)the keys hyper-parameters to play with are `set_rf_samples` \(from the fast.ai library\), `min_samples_leaf` and `max_features`.
+
+### TreeInterpreter
+
+A tool to see, for a given tree-based model, how each feature affect the prediction. [Jeremy said ](https://youtu.be/3jl2h9hSRvc?t=38m2s)it is not useful for Kaggle competition but good in the business world to explain the model.
+
+### OOB Score vs Validation Score
+
+[Jeremy said](https://youtu.be/3jl2h9hSRvc?t=49m23s):
+
+> Actually, in this case, the difference between the OOB \(0.89420\) and the validation \(0.89319\) is actually pretty close. So if there was a big difference, I’d be very worried about whether we’ve dealt with the temporal side of things correctly.
+
+Not quite sure what it means, but I guess he is talking about the case where the validation score is much lower than the OOB score.
+
+### Extrapolation
+
+From description of the [YouTube video](https://www.youtube.com/watch?v=3jl2h9hSRvc):
+
+> Next up, we look into the subtle but important issue of extrapolation. This is the weak point of random forests - they can't predict values outside the range of the input data. We study ways to identify when this problem happens, and how to deal with it.
+
+A good explanation from the comment of the video:
+
+> TLDR: we split data into training set and validation set, where all records in validation set are in future relative to records in training set, so the only way we can predict if something is in validation set is if we have some features which are time dependent, like SaleDate, ModelId etc.
+>
+> Here is my understanding: First we split data into training set and validation set, where all records in validation set are in future relative to records in training set. Then we added field 'is\_valid' and set it to 1 \(true\) for records that belong to validation set, and to 0 \(false\) for records that are in training set. Then we create a model that tries to predict whether particular record belongs to training set or validation set \(just like previously we tried to predict SalePrice, so 'is\_valid' is our new dependent variable\). As we spit data into two sets based solely on record dates \(see \#1\), then the only way we can predict if record belongs to training or validations set is if we have any other fields which are time dependent. For example, if all records in validation set have SaleDate &gt;= 1 Jan 2018, and records in training set have SaleDate &lt; 1 Jan 2018, and SaleDate is one of the features we can look at, then random forest can use 'SaleDate &gt;= 1 Jan 2018' to predict 'is\_valid" value. Another less obvious example might be something like ModelId, which can be an autoincrement field in DB and all values in training set will have ModelId &lt; 420000, and values in validation set have ModelId &gt;= 42000 simply because as somebody added new Models into DB they got higher ModelId due to autoincrement. Such features will have high feature importance for predicting 'is\_valid'.
+
+[Jeremy suggests ](https://youtu.be/3jl2h9hSRvc?t=49m23s)to try to drop the temporal variables. It is done by first to change the target variable to `is_valid` whether the sample is in validation set and train the model to see if any of the features is strong at predicting this. Then try to drop them one by one and train the original model to see if the score gets better.
+
+### Final Model
+
+Here's how Jeremy train the final model \(after feature engineering, feature selection and hyper-parameter tuning\)
+
+* Run `reset_rf_samples()` so that each estimator use the full training set.
+* Use large number of estimator, e.g. `reset_rf_samples()n_estimators=160`.
+
+### Random Forest vs GBM
+
+[Jeremy said ](https://youtu.be/O5F9vR2CNYI?t=328)random forests have a nice benefit over GBMs that they are harder to screw up and easier to scale.
+
 ## Gradient boosting
 
 Gradient boosting is a type of boosting. It relies on the intuition that the best possible next model, when combined with previous models, minimizes the overall prediction error. The key idea is to set the target outcomes for this next model in order to minimize the error. How are the targets calculated? The target outcome for each case in the data depends on how much changing that case’s prediction impacts the overall prediction error:  

@@ -26,15 +26,15 @@ As an example, we build a classifier which automatically classifies stackexchang
 
 ##  use of text classification to route support tickets
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 
 
 
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
