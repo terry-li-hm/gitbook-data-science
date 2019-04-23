@@ -9,3 +9,7 @@ Even [Jeremy ](https://youtu.be/0v93qHDqq_g?t=26m26s)doesn't care about the unit
 
 The reason why we can't only rely on the feature importance from the 1st model is that correlated features would shared the importance so the its importance is lower than its actual importance.
 
+A tutorial of [SHAP](https://www.kaggle.com/wrosinski/shap-feature-importance-with-feature-engineering).
+
+A tutorial of [Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance).
+
