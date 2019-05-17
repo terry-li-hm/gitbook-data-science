@@ -6,6 +6,12 @@
 
 
 
+[The Mechanics of Machine Learning](https://mlbook.explained.ai/):
+
+> Don't try out too many models because it's a form of overfitting. Eventually, you'll find a model that spuriously finds a relationship.
+
+
+
 From Machine Learning Yearning:
 
 > This diagram shows NNs doing better in the regime of small datasets. This effect is less consistent than the effect of NNs doing well in the regime of huge datasets. In the small data regime, depending on how the features are hand-engineered, traditional algorithms may or may not do better. For example, if you have 20 training examples, it might not matter much whether you use logistic regression or a neural network; the hand-engineering of features will have a bigger effect than the choice of algorithm. But if you have 1 million examples, I would favor the neural network.

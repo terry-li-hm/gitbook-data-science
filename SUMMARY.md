@@ -6,6 +6,7 @@
 * [What you should try to improve the performance of a model](what-you-should-try-to-improve-the-performance-of-a-model.md)
 * [Questions](questions.md)
 * [Imbalanced Class](unbalance.md)
+* [Data Cleansing](data-cleansing.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
