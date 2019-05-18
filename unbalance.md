@@ -15,3 +15,16 @@ According to another [Medium post](https://towardsdatascience.com/what-metrics-s
 
 > **Use precision and recall to focus on small positive class —** When the positive class is smaller and the ability to detect correctly positive samples is our main focus \(correct detection of negatives examples is less important to the problem\) we should use precision and recall.
 
+
+
+From [XGBoost Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/index.html):
+
+> For common cases such as ads clickthrough log, the dataset is extremely imbalanced. This can affect the training of XGBoost model, and there are two ways to improve it.
+>
+> * If you care only about the overall performance metric \(AUC\) of your prediction
+>   * Balance the positive and negative weights via `scale_pos_weight`
+>   * Use AUC for evaluation
+> * If you care about predicting the right probability
+>   * In such a case, you cannot re-balance the dataset
+>   * Set parameter `max_delta_step` to a finite number \(say 1\) to help convergence
+

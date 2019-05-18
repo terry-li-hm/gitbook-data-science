@@ -20,13 +20,13 @@ Jeremy [strongly recommends ](https://youtu.be/blyXCk4sgEg?t=4858)you a sample o
 > fi = rf_feat_importance(m, df_trn); fi[:10]
 > ```
 
-![](.gitbook/assets/image%20%2853%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
 > ```text
 > fi.plot('cols', 'imp', figsize=(10,6), legend=False);
 > ```
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 Since `fi` is a `DataFrame`, we can use `DataFrame` plotting commands \[[1:09:00](https://youtu.be/YSFG_W8JxBo?t=1h9m)\]. The important thing is to see that some columns are really important and most columns do not really matter at all. In nearly every dataset you use in real life, this is what your feature importance is going to look like. There is only a handful of columns that you care about, and this is why Jeremy always starts here. At this point, in terms of looking into learning about this domain of heavy industrial equipment auctions, we only have to care about learning about the columns which matter. Are we going to bother learning about `Enclosure`? Depends whether `Enclosure` is important. It turns out that it appears in top 10, so we are going to have to learn about `Enclosure`.
 

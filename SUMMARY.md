@@ -10,6 +10,8 @@
 * [Categorical Features](categorical-features.md)
 * [EDA](eda.md)
 * [Interpret](interpret.md)
+* [Random Forests](random-forests.md)
+* [XGBoost](xgboost.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
