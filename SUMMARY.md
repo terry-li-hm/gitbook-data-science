@@ -7,6 +7,7 @@
 * [Questions](questions.md)
 * [Imbalanced Class](unbalance.md)
 * [Data Cleansing](data-cleansing.md)
+* [Categorical Features](categorical-features.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
