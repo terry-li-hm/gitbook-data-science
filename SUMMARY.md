@@ -8,6 +8,8 @@
 * [Imbalanced Class](unbalance.md)
 * [Data Cleansing](data-cleansing.md)
 * [Categorical Features](categorical-features.md)
+* [EDA](eda.md)
+* [Interpret](interpret.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
