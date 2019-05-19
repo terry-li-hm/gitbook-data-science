@@ -12,6 +12,7 @@
 * [Interpret](interpret.md)
 * [Random Forests](random-forests.md)
 * [XGBoost](xgboost.md)
+* [Bayesian Optimization](bayesian-optimization.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
