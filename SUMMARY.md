@@ -13,6 +13,7 @@
 * [Random Forests](random-forests.md)
 * [XGBoost](xgboost.md)
 * [Bayesian Optimization](bayesian-optimization.md)
+* [Anomaly Detection](anomaly-detection.md)
 * [AICOE](aicoe.md)
 * [Inbox](inbox.md)
 * [DBS](dbs/README.md)
