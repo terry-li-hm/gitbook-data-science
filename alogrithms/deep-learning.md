@@ -272,4 +272,5 @@ Batch Normalization helps your network learn faster by “smoothing” the value
 
 * [How to build a three-layer neural network from scratch](https://medium.freecodecamp.org/building-a-3-layer-neural-network-from-scratch-99239c4af5d3)
 * [How to Make a Prediction - Intro to Deep Learning \#1 - YouTube](https://www.youtube.com/watch?v=vOppzHpvTiQ&t=274s)
+* [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 

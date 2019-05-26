@@ -7,4 +7,5 @@
 ## Tools
 
 *  [Alibi](https://docs.seldon.io/projects/alibi) \([also works for tabular data](https://docs.seldon.io/projects/alibi/en/stable/examples/anchor_tabular_adult.html)\)
+* [What-If Tool](https://pair-code.github.io/what-if-tool/)
 

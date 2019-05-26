@@ -43,6 +43,7 @@
 * [How to Model Volatility with ARCH and GARCH for Time Series Forecasting in Python](https://machinelearningmastery.com/develop-arch-and-garch-models-for-time-series-forecasting-in-python/)
 * [EDA+Prophet+ MLP Neural Network Forecasting \| Kaggle](https://www.kaggle.com/arindamgot/eda-prophet-mlp-neural-network-forecasting/)
 * [Using Machine Learning to Ensure the Capacity Safety of Individual Microservices](https://eng.uber.com/machine-learning-capacity-safety/)
+* [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
 
 ##  WaveNet
 

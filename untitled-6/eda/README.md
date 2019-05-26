@@ -1,5 +1,11 @@
 # EDA
 
+## Tools
+
+* [**facets**](https://github.com/PAIR-code/facets)\*\*\*\*
+
+
+
 Python libraries represent missing numbers as nan which is short for "not a number". You can detect which cells have missing values, and then count how many there are in each column with the command:
 
 ```python
