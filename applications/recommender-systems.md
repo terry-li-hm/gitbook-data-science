@@ -1,5 +1,6 @@
 # Recommender Systems
 
+* [An overview of the Recommendation systems and how they provide an effective form of targeted marketing.](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7?mkt_tok=eyJpIjoiT0dNMU5HVTVOemczT0dGaSIsInQiOiJ2T0huQWo1dE9Sa2hwV1h6QkV0VzNPRUtlZmh2N3Fmalk2QnJqNkZnOXBVYVVsQ21yY2l0SE04a1A2TjlqaTdlSXhsaGdrY3FpZEg2N0NobzA4QlFaZE1xKzg0UHpSNUQ0b2xEMEoxM0lJTUl6dk5pU0RRQjRhSkpmS2NYR2xmKyJ9)
 * [Introduction to Recommender Systems in 2018 \| Tryolabs Blog](https://tryolabs.com/blog/introduction-to-recommender-systems/)
 * [Deep Autoencoders For Collaborative Filtering – Towards Data Science](https://towardsdatascience.com/deep-autoencoders-for-collaborative-filtering-6cf8d25bbf1d)
 * [Various Implementations of Collaborative Filtering – Towards Data Science](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
