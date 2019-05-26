@@ -19,3 +19,26 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 
 > In an existing pipeline, BERT can replace text embedding layers like ELMO and GloVE. Alternatively, [finetuning](http://wiki.fast.ai/index.php/Fine_tuning) BERT can provide both an accuracy boost and faster training time in many cases.
 
+## Can be used by audit potentially
+
+* text classification
+* sentiment analysis \(in fact is a form of text classification\)
+* named entity recognition
+* question answering
+* summarisation
+* relation extraction
+* semantic parsing
+* relation prediction
+* sematic textual similarity
+* sematic role labelling
+* taxonomy learning
+
+## Benchmark
+
+* DecaNLP
+* GLUE
+
+## Full list of task
+
+* [https://nlpprogress.com/](https://nlpprogress.com/)
+

@@ -16,6 +16,7 @@
 * [Bayesian Optimization](bayesian-optimization.md)
 * [Anomaly Detection](anomaly-detection.md)
 * [NLP](nlp.md)
+* [Reality](reality.md)
 * [Probabilistic Programming](probabilistic-programming.md)
 * [AutoML](automl.md)
 * [AICOE](aicoe.md)
