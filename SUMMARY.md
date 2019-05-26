@@ -9,6 +9,7 @@
 * [Data Cleansing](data-cleansing.md)
 * [Categorical Features](categorical-features.md)
 * [EDA](eda.md)
+* [Tabular Data NN](tabular-data-nn.md)
 * [Interpret](interpret.md)
 * [Random Forests](random-forests.md)
 * [XGBoost](xgboost.md)
