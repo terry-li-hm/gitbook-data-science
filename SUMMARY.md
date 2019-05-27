@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science](README.md)
+* [ROBIN](robin.md)
 * [How to be stronger](how-to-be-stronger.md)
 * [Key](key.md)
 * [What you should try to improve the performance of a model](what-you-should-try-to-improve-the-performance-of-a-model.md)

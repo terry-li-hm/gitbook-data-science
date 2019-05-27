@@ -42,3 +42,15 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 
 * [https://nlpprogress.com/](https://nlpprogress.com/)
 
+
+
+## Analyzing Text Data
+
+[Script for basic text analysis \(top nouns, verbs, entities and text similarity\) using spaCy](https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1)
+
+## Tutorial
+
+[Building NLP Classifiers Cheaply With Transfer Learning and Weak Supervision](https://towardsdatascience.com/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8)
+
+
+
