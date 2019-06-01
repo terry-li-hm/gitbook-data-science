@@ -52,5 +52,9 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 
 [Building NLP Classifiers Cheaply With Transfer Learning and Weak Supervision](https://towardsdatascience.com/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8)
 
+## Text Classification
+
+[Text Classification Guide by Google](https://developers.google.com/machine-learning/guides/text-classification/)
+
 
 
