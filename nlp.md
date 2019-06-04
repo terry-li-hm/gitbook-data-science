@@ -22,6 +22,7 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 ## Can be used by audit potentially
 
 * text classification
+  * can do multi-label using BERT \([Hugging Face](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)\), [fastText](https://fasttext.cc/docs/en/supervised-tutorial.html#multi-label-classification)
 * sentiment analysis \(in fact is a form of text classification\)
 * named entity recognition
 * question answering
@@ -55,6 +56,12 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 ## Text Classification
 
 [Text Classification Guide by Google](https://developers.google.com/machine-learning/guides/text-classification/)
+
+
+
+## Library
+
+* [https://fasttext.cc/docs/en/supervised-tutorial.html\#multi-label-classification](https://fasttext.cc/docs/en/supervised-tutorial.html#multi-label-classification)
 
 
 
