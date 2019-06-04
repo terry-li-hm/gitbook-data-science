@@ -1,5 +1,11 @@
 # Visualization
 
+## Maybe useful
+
+* [3 Awesome Visualization Techniques for every dataset](https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8?mkt_tok=eyJpIjoiT0RZNE9UUTFZalkxWTJZMyIsInQiOiJLWE80eTY1RHNwdnpOV1JQcVhFTXNINFNyeTc3U1VpRlQzK1pSbis1djZYcGdKWEVBVlUwM2tWbkNzQ1NWM1NcLzNaMld1TldFUSs3SWVTRHhhSUo2TE1DcDNiMXNWM0p5WDQ4bGd5dVhcL3dWejFTTzVibEVUdlN6ODdYN2VHSVRXIn0%3D)
+
+
+
 * [**Strength of visualization-python visuals tutorial \| Kaggle**](https://www.kaggle.com/maheshdadhich/strength-of-visualization-python-visuals-tutorial)
 * [10 Useful Python Data Visualization Libraries for Any Discipline](https://blog.modeanalytics.com/python-data-visualization-libraries/)
 * [**pyecharts/pyecharts: 🎨 Python Echarts Plotting Library**](https://github.com/pyecharts/pyecharts)

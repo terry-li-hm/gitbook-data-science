@@ -62,6 +62,13 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 ## Library
 
 * [https://fasttext.cc/docs/en/supervised-tutorial.html\#multi-label-classification](https://fasttext.cc/docs/en/supervised-tutorial.html#multi-label-classification)
+* what [fast.ai library](https://docs.fast.ai/text.html) can do:
+  * language model
+  * RNN classifier
+
+## Good Resources
+
+* [The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
 
 
