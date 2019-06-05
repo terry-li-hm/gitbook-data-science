@@ -5,6 +5,16 @@
 * [https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/](https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/)
 * [https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384](https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384)
 
+## Topic Modeling
+
+* [LDA2vec: Word Embeddings in Topic Models](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
+* [Combing LDA and Word Embeddings for topic modeling](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4)
+* [https://github.com/bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis)
+* [https://github.com/bigartm/bigartm](https://github.com/bigartm/bigartm) \(422 stars only\)
+* [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
+* [Complete Guide to Topic Modeling - NLP-FOR-HACKERS](https://nlpforhackers.io/topic-modeling/amp/)
+* [gensim](https://github.com/RaRe-Technologies/gensim): 9000 stars
+
 
 
 According to [bert-as-service](https://bert-as-service.readthedocs.io/en/latest/section/what-is-it.html):
