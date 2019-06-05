@@ -6,3 +6,7 @@
 
 [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
 
+[Beware Default Random Forest Importances \(explained.ai\)](https://explained.ai/rf-importance/)
+
+[How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
+
