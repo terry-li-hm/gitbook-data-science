@@ -20,6 +20,10 @@ According to [bert-as-service](https://bert-as-service.readthedocs.io/en/latest/
 * [Discovering and Classifying In-app Message Intent at Airbnb](https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c)
 * [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
 
+### LDA
+
+* [Refining an LDA model or results \(Azure\)](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/latent-dirichlet-allocation?fireglass_rsn=true#refining-an-lda-model-or-results)
+
 
 
 > **BERT** is a NLP model [developed by Google](https://github.com/google-research/bert) for pre-training language representations. It leverages an enormous amount of plain text data publicly available on the web and is trained in an unsupervised manner. Pre-training a BERT model is a fairly expensive yet one-time procedure for each language. Fortunately, Google released several pre-trained models where [you can download from here](https://github.com/google-research/bert#pre-trained-models).
@@ -68,7 +72,8 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 
 ## Text Classification
 
-[Text Classification Guide by Google](https://developers.google.com/machine-learning/guides/text-classification/)
+* [Text Classification Guide by Google](https://developers.google.com/machine-learning/guides/text-classification/)
+* [fast-bert](https://github.com/kaushaltrivedi/fast-bert)
 
 
 
