@@ -18,6 +18,7 @@ According to [bert-as-service](https://bert-as-service.readthedocs.io/en/latest/
 * [gensim](https://github.com/RaRe-Technologies/gensim): 9000 stars
 * [直觀理解 LDA \(Latent Dirichlet Allocation\) 與文件主題模型](https://medium.com/@tengyuanchang/%E7%9B%B4%E8%A7%80%E7%90%86%E8%A7%A3-lda-latent-dirichlet-allocation-%E8%88%87%E6%96%87%E4%BB%B6%E4%B8%BB%E9%A1%8C%E6%A8%A1%E5%9E%8B-ab4f26c27184)
 * [Discovering and Classifying In-app Message Intent at Airbnb](https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c)
+* [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
 
 
 
