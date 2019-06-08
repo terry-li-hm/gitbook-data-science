@@ -35,10 +35,10 @@ A good plot from a [Medium post](https://towardsdatascience.com/fine-tuning-xgbo
 
 
 
-* [FYI - For those of you using the xgboostExplainer package](https://www.reddit.com/r/learnmachinelearning/comments/9n2kq2/fyi_for_those_of_you_using_the_xgboostexplainer/)
-
-## Explanation
+## **Explanation**
 
 * [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
 * [pred\_contribs = True](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
+* [Why the xgboostExplainer package is not good](https://www.reddit.com/r/learnmachinelearning/comments/9n2kq2/fyi_for_those_of_you_using_the_xgboostexplainer/)
+* [Explain individual prediction using eli5](https://eli5.readthedocs.io/en/latest/tutorials/xgboost-titanic.html#)
 
