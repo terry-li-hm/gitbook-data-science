@@ -31,3 +31,14 @@ A good plot from a [Medium post](https://towardsdatascience.com/fine-tuning-xgbo
 
 ![](.gitbook/assets/image%20%288%29.png)
 
+
+
+
+
+* [FYI - For those of you using the xgboostExplainer package](https://www.reddit.com/r/learnmachinelearning/comments/9n2kq2/fyi_for_those_of_you_using_the_xgboostexplainer/)
+
+## Explanation
+
+* [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
+* [pred\_contribs = True](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
+
