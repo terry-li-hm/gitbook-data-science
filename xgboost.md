@@ -37,7 +37,7 @@ A good plot from a [Medium post](https://towardsdatascience.com/fine-tuning-xgbo
 
 ## **Explanation**
 
-* [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
+* [https://github.com/slundberg/shap](https://github.com/slundberg/shap) \(can explain individual prediction; details by the author [here](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)\)
 * [pred\_contribs = True](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
 * [Why the xgboostExplainer package is not good](https://www.reddit.com/r/learnmachinelearning/comments/9n2kq2/fyi_for_those_of_you_using_the_xgboostexplainer/)
 * [Explain individual prediction using eli5](https://eli5.readthedocs.io/en/latest/tutorials/xgboost-titanic.html#)
