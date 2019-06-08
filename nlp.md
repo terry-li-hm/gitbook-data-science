@@ -14,6 +14,7 @@
   * can do using [Gensim](https://radimrehurek.com/gensim/tut3.html)
   * using [Doc2Vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
   * using [Document Embeddings](https://github.com/zalandoresearch/flair/blob/master/resources/docs/TUTORIAL_5_DOCUMENT_EMBEDDINGS.md)?
+  * using [Gensim](https://nlpforhackers.io/topic-modeling/) \(`similarities` module\)
 * [**Train a new entity type "topic"**](https://spacy.io/usage/training#example-new-entity-type) **and use NER to find all topics**
   * NER SOTA is [around .9 F1 by flair](https://github.com/zalandoresearch/flair)
 * MVP
@@ -23,6 +24,12 @@
 * Keyword extraction 
   * using [gensim](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
   * [Automated Keyword Extraction – TF-IDF, RAKE, and TextRank](http://www.tiernok.com/posts/automated-keyword-extraction-tf-idf-rake-and-textrank.html)
+  * [textacy.keyterms](https://chartbeat-labs.github.io/textacy/getting_started/quickstart.html#)
+  * [TextRank](https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0)
+  * \*\*\*\*[rake-nltk](https://github.com/csurfer/rake-nltk)
+  * [How to extract keywords from text with TF-IDF and Python’s Scikit-Learn](https://www.freecodecamp.org/news/how-to-extract-keywords-from-text-with-tf-idf-and-pythons-scikit-learn-b2a0f3d7e667/)
+  * [PyTextRank](https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5)
+* [Anomaly detection in Tweets: Clustering & Proximity based approach](https://medium.com/swlh/anomaly-detection-in-tweets-clustering-proximity-based-approach-58f8c22eed1e) \(just 7 claps\)
 
 ## Topic Modeling
 
@@ -39,6 +46,8 @@
 * [Topic Modeling with Scikit Learn \(LDA and NMF\)](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
 * [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
 * [Improving the Interpretation of Topic Models](https://towardsdatascience.com/improving-the-interpretation-of-topic-models-87fd2ee3847d)
+* [Example codes for implementing LDA and NMF using sk-learn](https://towardsdatascience.com/topic-modeling-for-everybody-with-google-colab-2f5cdc99a647)
+* [Complete Guide to Topic Modeling](https://nlpforhackers.io/topic-modeling/)
 
 ### LDA
 
