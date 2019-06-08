@@ -18,6 +18,7 @@
 * [Anomaly Detection](anomaly-detection.md)
 * [Fraud Detection](fraud-detection.md)
 * [NLP](nlp.md)
+* [Thought Process](thought-process.md)
 * [Reality](reality.md)
 * [Probabilistic Programming](probabilistic-programming.md)
 * [AutoML](automl.md)
