@@ -16,4 +16,5 @@
 * [meetmangukiya/instagram-scraper: Scrape the Instagram frontend. Inspired from twitter-scraper by @kennethreitz.](https://github.com/meetmangukiya/instagram-scraper)
 * [Using Scrapy to Build your Own Dataset – Towards Data Science](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673)
 * [The ultimate list of Web Scraping tools and software](https://www.kdnuggets.com/2018/07/ultimate-list-web-scraping-tools-software.html)
-* 
+* [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58) \(5k claps\)
+
