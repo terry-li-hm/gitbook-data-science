@@ -7,8 +7,20 @@
 
 ## For the project
 
-* Shall we just use TF-idf or TextRank \([如何用Python提取中文关键词？](https://zhuanlan.zhihu.com/p/31870596)\)
 * Seems the no. of documents are not large enough to justify the replacement of manual method?
+* Possible solutions
+  * Topic modeling
+  * Identify topics and count occurrence
+  * * Keyword search \(cannot find new topics automatically\)
+    * TF-IDF
+    * RAKE
+    * TextRank
+    * Train a NER model to identify topics
+    * Text classification \(cannot find new topics automatically\) + document similarity to find new topics\)
+  * Detecting new topics by comparing the similarity of new circulars to all old circulars
+
+
+
 * Compare any new circular with all the old ones as a way of "new top detection"?
   * seems spaCy can do
   * can do using [Gensim](https://radimrehurek.com/gensim/tut3.html)
@@ -18,10 +30,6 @@
   * [using R package text2vec](http://text2vec.org/similarity.html)
 * [**Train a new entity type "topic"**](https://spacy.io/usage/training#example-new-entity-type) **and use NER to find all topics**
   * NER SOTA is [around .9 F1 by flair](https://github.com/zalandoresearch/flair)
-* MVP
-  * just keyword search
-  * td-idf for new topic
-  * NER for new topic
 * Keyword extraction 
   * using [gensim](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
   * [Automated Keyword Extraction – TF-IDF, RAKE, and TextRank](http://www.tiernok.com/posts/automated-keyword-extraction-tf-idf-rake-and-textrank.html)
@@ -30,13 +38,11 @@
   * \*\*\*\*[rake-nltk](https://github.com/csurfer/rake-nltk)
   * [How to extract keywords from text with TF-IDF and Python’s Scikit-Learn](https://www.freecodecamp.org/news/how-to-extract-keywords-from-text-with-tf-idf-and-pythons-scikit-learn-b2a0f3d7e667/)
   * [PyTextRank](https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5)
+  * [如何用Python提取中文关键词？](https://zhuanlan.zhihu.com/p/31870596)
 * [Anomaly detection in Tweets: Clustering & Proximity based approach](https://medium.com/swlh/anomaly-detection-in-tweets-clustering-proximity-based-approach-58f8c22eed1e) \(just 7 claps\)
 
 ## Topic Modeling
 
-* [LDA2vec: Word Embeddings in Topic Models](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
-* [Combing LDA and Word Embeddings for topic modeling](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4)
-* [https://github.com/bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis)
 * [https://github.com/bigartm/bigartm](https://github.com/bigartm/bigartm) \(422 stars only\)
 * [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
 * [Complete Guide to Topic Modeling - NLP-FOR-HACKERS](https://nlpforhackers.io/topic-modeling/amp/)
@@ -63,6 +69,7 @@
 * [Introduction to Topic Modeling in Python](http://chdoig.github.io/pygotham-topic-modeling/#/)
 * [Why Latent Dirichlet Allocation Sucks](https://eigenfoo.xyz/lda-sucks/)
 * [Building an Article Recommender using LDA](https://towardsdatascience.com/lets-build-an-article-recommender-using-lda-f22d71b7143e)
+* [https://github.com/bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) \(The size of the circle is determined by the prevalence of the topic.\)
 
 #### No. of topics
 
@@ -73,6 +80,28 @@
 * [怎么确定LDA的topic个数？](https://www.zhihu.com/question/32286630)
 * [Select number of topics for LDA model](https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html)
 * Section "Finding out the optimal number of topics" in [this tutorial by gensim](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim_news_classification.ipynb)
+
+According to Airbnb:
+
+> We determined the number of topics \(hyperparameter _K_\) in LDA to be the one generating the highest [coherence score](http://svn.aksw.org/papers/2015/WSDM_Topic_Evaluation/public.pdf) on the validation set.
+
+Why need to carve out validation set for LDA?
+
+#### Application by [Airbnb](https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c)
+
+> To address this challenge, we set up our solutions in two phases: In **Phase 1**, we used a classic unsupervised approach — [Latent Dirichlet Allocation \(LDA\)](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) — to discover potential topics \(intents\) in the large message corpus. In **Phase 2**, we moved to supervised learning techniques, but used the topics derived from Phase 1 as intent labels for each message. Specifically, we built a multi-class classification model using a canonical Convolutional Neural Network \(CNN\) architecture. The two phases create a powerful framework for us to accurately understand the text data on our messaging platform.
+
+### lda2vec
+
+By the [author](https://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec/):
+
+> ### Should I use lda2vec? <a id="should-i-use-lda2vec"></a>
+>
+> **Probably not!** At a practical level, if you want human-readable topics just use LDA \(checkout libraries in [scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) and [gensim](https://radimrehurek.com/gensim/models/ldamodel.html)\). If you want machine-useable word-level features, use word2vec. But if you want to rework your own topic models that, say, jointly correlate an article’s topics with votes or predict topics over users then you might be interested in [lda2vec](https://github.com/cemoody/lda2vec).
+>
+> There are also a number of reasons not to use lda2vec: while the code has decent unit testing and reasonable documentation, it’s built to drive experimentation. It requires a huge amount of computation, and so I wouldn’t really try it without GPUs. Furthermore, I haven’t measured lda2vec’s performance against LDA and word2vec baselines – it might be worse or it might be better, and your mileage may vary.
+
+* [LDA2vec: Word Embeddings in Topic Models](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
 
 ## TD-IDF
 
