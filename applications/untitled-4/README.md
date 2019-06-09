@@ -329,6 +329,7 @@ Some other tools:
 ## To be categorized
 
 * [Using NLP to Automate Customer Support, Part Two](https://blog.floydhub.com/automate-customer-support-part-two/)
+* [Extracting events from news articles \(clustering using DBSCAN\)](https://towardsdatascience.com/natural-language-processing-event-extraction-f20d634661d3)
 
 
 
