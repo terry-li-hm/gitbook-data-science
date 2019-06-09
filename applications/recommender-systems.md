@@ -23,6 +23,7 @@
 * [Powering Recommendations with a Graph Database: A Rapid Retail Example -](https://neo4j.com/blog/powering-recommendations-graph-database-rapid-retail-example/)
 * [Recommender Systems: Exploring the Unknown Using Uncertainty - Taboola Tech Blog](https://engineering.taboola.com/recommender-systems-exploring-the-unknown-using-uncertainty/)
 * [A Recommendation Model with PyTorch](http://matatat.org/probability-matrix-factorization.html) \(haven't read\)
+* \*\*\*\*[**Recommendation Systems \(Google Developers\)**](https://developers.google.com/machine-learning/recommendation/)
 
 
 

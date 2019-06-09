@@ -6,6 +6,7 @@
 * [Splitting into train, dev and test sets](https://cs230-stanford.github.io/train-dev-test-split.html)
 * [Comprehensive Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 * [great-expectations/great\_expectations: Always know what to expect from your data.](https://github.com/great-expectations/great_expectations)
+* [https://developers.google.com/machine-learning/data-prep/](https://developers.google.com/machine-learning/data-prep/)
 
 ## Setting up development and test sets \(From Machine Learning Yearning\)
 

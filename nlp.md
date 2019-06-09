@@ -15,6 +15,7 @@
   * using [Doc2Vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
   * using [Document Embeddings](https://github.com/zalandoresearch/flair/blob/master/resources/docs/TUTORIAL_5_DOCUMENT_EMBEDDINGS.md)?
   * using [Gensim](https://nlpforhackers.io/topic-modeling/) \(`similarities` module\)
+  * [using R package text2vec](http://text2vec.org/similarity.html)
 * [**Train a new entity type "topic"**](https://spacy.io/usage/training#example-new-entity-type) **and use NER to find all topics**
   * NER SOTA is [around .9 F1 by flair](https://github.com/zalandoresearch/flair)
 * MVP
@@ -60,6 +61,8 @@
 * [Topic modeling visualization – How to present the results of LDA models?](https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/)
 * [LDA in Python – How to grid search best topic models?](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
 * [Introduction to Topic Modeling in Python](http://chdoig.github.io/pygotham-topic-modeling/#/)
+* [Why Latent Dirichlet Allocation Sucks](https://eigenfoo.xyz/lda-sucks/)
+* [Building an Article Recommender using LDA](https://towardsdatascience.com/lets-build-an-article-recommender-using-lda-f22d71b7143e)
 
 #### No. of topics
 
