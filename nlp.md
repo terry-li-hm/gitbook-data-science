@@ -123,6 +123,10 @@ According to [Google Research](https://colab.research.google.com/github/google-r
 
 > In an existing pipeline, BERT can replace text embedding layers like ELMO and GloVE. Alternatively, [finetuning](http://wiki.fast.ai/index.php/Fine_tuning) BERT can provide both an accuracy boost and faster training time in many cases.
 
+## BERT
+
+As little as 1000 training samples are needed to train a good text classifier \(according to a [Github repo](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial)\)
+
 ## Can be used by audit potentially
 
 * text classification

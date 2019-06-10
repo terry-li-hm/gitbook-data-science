@@ -32,4 +32,5 @@
 * [Fundamentals of Bayesian Data Analysis \| DataCamp](https://www.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r)
 * [通俗易懂！白话朴素贝叶斯 - CSDN博客](https://blog.csdn.net/red_stone1/article/details/80935942)
 * [Hierarchical Bayesian Neural Networks with Informative Priors](http://twiecki.github.io/blog/2018/08/13/hierarchical_bayesian_neural_network/)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 

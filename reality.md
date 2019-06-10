@@ -12,3 +12,8 @@ According to [Cassie Kozyrkov](https://hbr.org/2018/12/what-great-data-analysts-
 
 > machine learning specialists know that they won’t find the perfect solution in a textbook. Instead, they’ll be engaged in a marathon of trial-and-error. Having great intuition for how long it’ll take them to try each new option is a huge plus and is more valuable than an intimate knowledge of how the algorithms work \(though it’s nice to have both\).
 
+
+
+* [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
+* [Your AI skills are worth less than you think – Inside Inovo – Medium](https://medium.com/inside-inovo/your-ai-skills-are-worth-less-than-you-think-e4b5640adb4f)
+
