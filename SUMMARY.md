@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Data Science](README.md)
-* [ROBIN](robin.md)
-* [Categorical Features](categorical-features.md)
 * [Tabular Data NN](tabular-data-nn.md)
 * [Random Forests](random-forests.md)
 * [Faster Computation](faster-computation.md)
@@ -81,7 +79,6 @@
   * [Genetic Algorithms](alogrithms/genetic-algorithms.md)
   * [Autoencoders](alogrithms/autoencoders.md)
 * [Tools](tools/README.md)
-  * [XGBoost, LightGBM, CatBoost](tools/xgboost-lightgbm-catboost.md)
   * [Python](tools/python.md)
   * [Tensorflow](tools/tensorflow.md)
   * [PyTorch](tools/pytorch.md)
@@ -124,7 +121,6 @@
 * [Mathematics](math.md)
 * [Big Data](big-data.md)
 * [Career](career.md)
-* [Opinions](opinions.md)
 * [Reinforcement Learning](reinforcement-learning.md)
 * [Projects](untitled-5/README.md)
   * [Rossmann](untitled-5/rossmann.md)
