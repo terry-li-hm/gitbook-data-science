@@ -3,7 +3,6 @@
 * [Data Science](README.md)
 * [ROBIN](robin.md)
 * [How to be stronger](how-to-be-stronger.md)
-* [What you should try to improve the performance of a model](what-you-should-try-to-improve-the-performance-of-a-model.md)
 * [Questions](questions.md)
 * [Imbalanced Class](unbalance.md)
 * [Data Cleansing](data-cleansing.md)
