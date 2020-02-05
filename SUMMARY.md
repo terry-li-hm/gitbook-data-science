@@ -6,8 +6,6 @@
 * [EDA](eda.md)
 * [Tabular Data NN](tabular-data-nn.md)
 * [Random Forests](random-forests.md)
-* [XGBoost](xgboost.md)
-* [Bayesian Optimization](bayesian-optimization.md)
 * [Anomaly Detection](anomaly-detection.md)
 * [Faster Computation](faster-computation.md)
 * [Thought Process](thought-process.md)
