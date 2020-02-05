@@ -3,7 +3,6 @@
 * [Data Science](README.md)
 * [ROBIN](robin.md)
 * [How to be stronger](how-to-be-stronger.md)
-* [Questions](questions.md)
 * [Imbalanced Class](unbalance.md)
 * [Data Cleansing](data-cleansing.md)
 * [Categorical Features](categorical-features.md)
