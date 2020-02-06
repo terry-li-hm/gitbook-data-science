@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Data Science](README.md)
-* [Process](the-machine-learning-process.md)
 * [Business Understanding](business-understanding/README.md)
   * [Problem definition](business-understanding/analysing-problem.md)
   * [Banking Industry](business-understanding/fs.md)
