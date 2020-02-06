@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Data Science](README.md)
-* [DBS](dbs/README.md)
-  * [JD](dbs/jd.md)
-  * [Suitability](dbs/suitability.md)
 * [Process](the-machine-learning-process.md)
 * [Business Understanding](business-understanding/README.md)
   * [Problem definition](business-understanding/analysing-problem.md)
