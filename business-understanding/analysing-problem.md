@@ -1,17 +1,5 @@
 # Problem definition
 
-[Road Map for Choosing Between Statistical Modeling and Machine Learning](https://cur.at/1xPEEUd?m=email&sid=iF1WNhF)  
-Great summary of the key differences between machine learning and statistical modeling. It's worth understanding the nuances here. Even if you _can_ use AI, that doesn't mean you _should._
-
-[How to Spot a Machine Learning Opportunity, Even If You Aren’t a Data Scientist](https://hbr.org/2017/10/how-to-spot-a-machine-learning-opportunity-even-if-you-arent-a-data-scientist)
-
-[https://developers.google.com/machine-learning/data-prep/](https://developers.google.com/machine-learning/data-prep/)
-
-* [Andrew Ng: What AI Can and Can’t Do](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
-* [Andrew Ng - The State of Artificial Intelligence - YouTube](https://www.youtube.com/watch?v=NKpuX_yzdYs)
-
-[Facebook’s Field Guide to Machine Learning video series – Facebook Research](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
-
 [Qualitative before Quantitative: How Qualitative Methods Support Better Data Science](https://medium.com/indeed-data-science/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)
 
 > 機器學習是解決問題的方法一種，但首先必須要理解你的問題本身  
