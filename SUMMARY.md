@@ -1,16 +1,7 @@
 # Table of contents
 
 * [Data Science](README.md)
-* [Tabular Data NN](tabular-data-nn.md)
-* [Random Forests](random-forests.md)
-* [Faster Computation](faster-computation.md)
-* [Thought Process](thought-process.md)
-* [Reality](reality.md)
-* [Probabilistic Programming](probabilistic-programming.md)
-* [AICOE](aicoe.md)
 * [DBS](dbs/README.md)
-  * [1st Engagement](dbs/1st-engagement.md)
-  * [For new position](dbs/for-new-position.md)
   * [JD](dbs/jd.md)
   * [Suitability](dbs/suitability.md)
 * [Process](the-machine-learning-process.md)
