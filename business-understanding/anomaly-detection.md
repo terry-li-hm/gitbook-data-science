@@ -1,36 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-
-
-{% file src="../.gitbook/assets/fraud-detection-how-machine-learning-systems-help-reveal-scams-in-fintech-healthcare-and-ecommerce.pdf" %}
-
-### Isolation Forests
-
-* [Detecting Network Attacks with Isolation Forests - Depends on the definition](https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/)
-* [Unsupervised Fraud Detection: Isolation Forest \| Kaggle](https://www.kaggle.com/rgaddati/unsupervised-fraud-detection-isolation-forest)
-
-### Time Series
-
-* [Time Series Anomaly Detection Algorithms – Stats and Bots](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
-* [Time Series Anomaly Detection - Azure Machine Learning Studio \| Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/time-series-anomaly-detection)
-
-### Probabilistic Programming
-
-* [anomaly\_detection/Anomaly Detection Post.ipynb at master · fastforwardlabs/anomaly\_detection](https://github.com/fastforwardlabs/anomaly_detection/blob/master/Anomaly%20Detection%20Post.ipynb)
-
-### Autoencoders
-
-[Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers \(Part VII\)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) \([PyTorch implementation](https://github.com/Jonaddo/MachineLearning_sandbox/tree/master/CreditCard_fraud_detection/Autoencoder)\)
-
-> The reconstruction error is computed and data points with the higher reconstruction error are supposed to be outliers. AEs are also used for speech and image recognition.
-
-But in fact still need labels as you need to use only the negative samples to train the model.
-
-### Social Network Analysis
-
-![](../.gitbook/assets/image%20%287%29.png)
-
-## Opinions
+Opinions
 
 > 無監督學習現階段還是沒有監督學習準確，模型還是靠監督學習算法的，無監督學習可能很多用在風險特徵的發現
 
