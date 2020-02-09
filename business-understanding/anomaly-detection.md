@@ -1,11 +1,6 @@
 # Anomaly Detection \(Outlier Detection\)
 
-## Metric
-
-* [What metrics should be used for evaluating a model on an imbalanced data set?](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
-* [What are the best performance measures for an anomaly detection model? - Quora](https://www.quora.com/What-are-the-best-performance-measures-for-an-anomaly-detection-model)
-
-> 对于非平衡样本问题，用PR曲线能有效的看出模型性能。
+## 
 
 ## Feature Engineering
 
