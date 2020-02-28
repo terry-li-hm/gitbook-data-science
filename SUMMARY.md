@@ -109,8 +109,6 @@
 * [Best Resources](best-resources.md)
 * [Teaching Others](teaching-others/README.md)
   * [Fun](teaching-others/fun.md)
-* [State-of-the-art](state-of-the-art.md)
-* [Automation](automation.md)
 * [Data](data.md)
 * [Transfer Learning](transfer-learning.md)
 * [Issue](issue/README.md)
