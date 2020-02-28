@@ -115,7 +115,6 @@
   * [My Projects](untitled-5/my-projects.md)
 * [At Home](my-server.md)
 * [Best Practices](best-practices.md)
-* [Learning Resources](learning-resources.md)
 * [Best Resources](best-resources.md)
 * [Working Enviornment](working-enviornment.md)
 * [Teaching Others](teaching-others/README.md)
@@ -140,6 +139,5 @@
 * [DVC](dvc.md)
 * [DevOps](devops.md)
 * [Case Studies](projects.md)
-* [GPU](gpu.md)
 * [Dashboard](dashboard.md)
 
