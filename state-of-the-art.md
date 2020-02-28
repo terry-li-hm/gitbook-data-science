@@ -1,7 +1,5 @@
 # State-of-the-art
 
-* [Successes and Frontiers of Deep Learning](https://www.slideshare.net/SebastianRuder/successes-and-frontiers-of-deep-learning)
-* [Model Zoo - Deep learning code and pretrained models for transfer learning, educational purposes, and more](https://modelzoo.co/)
 * [**Winning solutions of kaggle competitions**](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)\*\*\*\*
 * [A small team of student AI coders beats Google’s machine-learning code - MIT Technology Review](https://www.technologyreview.com/s/611858/small-team-of-ai-coders-beats-googles-code/)
 * [Top 10 Pretrained Models to get you Started with Deep Learning \(Part 1 - Computer Vision\)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/)
