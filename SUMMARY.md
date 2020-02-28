@@ -115,8 +115,6 @@
   * [Adversarial](issue/adversarial.md)
 * [Enterprise](enterprise.md)
 * [Master](master.md)
-* [CS](cs.md)
 * [Mindset](mindset.md)
 * [Audit](audit.md)
-* [DevOps](devops.md)
 
