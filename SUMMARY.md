@@ -114,7 +114,6 @@
 * [Issue](issue/README.md)
   * [Adversarial](issue/adversarial.md)
 * [Enterprise](enterprise.md)
-* [Non-ML Approaches](non-ml-approaches.md)
 * [Master](master.md)
 * [CS](cs.md)
 * [Mindset](mindset.md)
