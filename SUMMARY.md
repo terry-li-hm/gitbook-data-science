@@ -106,7 +106,6 @@
 * [Teaching Others](teaching-others/README.md)
   * [Fun](teaching-others/fun.md)
 * [Data](data.md)
-* [Transfer Learning](transfer-learning.md)
 * [Issue](issue/README.md)
   * [Adversarial](issue/adversarial.md)
 * [Enterprise](enterprise.md)

@@ -96,8 +96,5 @@
 * [Fairness and Bias in Algorithms — District Data Labs: Data Science Consulting and Training](https://www.districtdatalabs.com/fairness-and-bias-in-algorithms)
 * [Machine Bias — ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-## Privacy
 
-* [Privacy and machine learning: two unexpected allies? \| cleverhans-blog](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
-* [GDPR after 2 months – What does it mean for Machine Learning?](https://www.kdnuggets.com/2018/07/gdpr-after-2-months-machine-learning.html)
 
