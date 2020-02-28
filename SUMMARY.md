@@ -105,8 +105,6 @@
 * [Best Practices](best-practices.md)
 * [Teaching Others](teaching-others/README.md)
   * [Fun](teaching-others/fun.md)
-* [Data](data.md)
-* [Enterprise](enterprise.md)
 * [Master](master.md)
 * [Mindset](mindset.md)
 * [Audit](audit.md)
