@@ -119,7 +119,6 @@
 * [CS](cs.md)
 * [Mindset](mindset.md)
 * [Audit](audit.md)
-* [For Good](for-good.md)
 * [DevOps](devops.md)
 * [Case Studies](projects.md)
 * [Dashboard](dashboard.md)
