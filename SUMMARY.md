@@ -120,6 +120,4 @@
 * [Mindset](mindset.md)
 * [Audit](audit.md)
 * [DevOps](devops.md)
-* [Case Studies](projects.md)
-* [Dashboard](dashboard.md)
 
