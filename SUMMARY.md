@@ -47,7 +47,6 @@
   * [Cross-validation](untitled-1-1/cross-validation.md)
   * [Metrics](untitled-1-1/evaluating-models/README.md)
     * [AUC](untitled-1-1/evaluating-models/auc.md)
-* [Deployment](deployment.md)
 * [Communication](communication.md)
 * [Alogrithms](alogrithms/README.md)
   * [Tree](alogrithms/tree.md)
