@@ -2,7 +2,6 @@
 
 * [Data Science](README.md)
 * [Data Preparation](data-preparation/README.md)
-  * [Data Cleaning](data-preparation/data-cleaning.md)
   * [Data Pre-Processing](data-preparation/data-pre-processing.md)
   * [Validation Set](data-preparation/validation-set.md)
   * [Feature Engineering](data-preparation/feature-engineering.md)
